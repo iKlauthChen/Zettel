@@ -16,3 +16,12 @@
 [2026-06-19T11:49:24+08:00] ===== inspect start =====
 [2026-06-19T11:49:24+08:00] inspect summary: {'total_cards': 81, 'permanent_cards': 81, 'ready_clusters': 12, 'new_ready_clusters': 0, 'near_ready_clusters': 21}
 [2026-06-19T11:49:24+08:00] ===== inspect done =====
+[2026-06-19T11:53:16+08:00] ===== build_index start =====
+[2026-06-19T11:53:16+08:00] index built: cards=81 tags=279 entities=90 terms=16195
+[2026-06-19T11:53:16+08:00] ===== build_index done =====
+[2026-06-19T11:53:16+08:00] ===== inspect start =====
+[2026-06-19T11:53:16+08:00] inspect summary: {'total_cards': 81, 'permanent_cards': 81, 'ready_clusters': 12, 'new_ready_clusters': 0, 'near_ready_clusters': 21}
+[2026-06-19T11:53:16+08:00] ===== inspect done =====
+[2026-06-19T11:53:20+08:00] ===== inspect start =====
+[2026-06-19T11:53:20+08:00] inspect summary: {'total_cards': 81, 'permanent_cards': 81, 'ready_clusters': 12, 'new_ready_clusters': 0, 'near_ready_clusters': 21}
+[2026-06-19T11:53:20+08:00] ===== inspect done =====
