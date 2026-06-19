@@ -1,54 +1,12 @@
 [
   {
-    "cluster_id": "a139d0fc7498",
-    "view": "tag",
-    "tag": "齐泽克",
-    "entity": null,
-    "merged_views": [
-      "entity",
-      "entity:齐泽克"
-    ],
-    "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
-    "members": [
-      "20260619-1330",
-      "20260619-2100",
-      "20260620-0645",
-      "20260620-0800"
-    ],
-    "core_tags": [
-      "拉康",
-      "欲望",
-      "齐泽克"
-    ],
-    "density": 1.0,
-    "voice_ratio": 1.0,
-    "size": 4,
-    "kind": "tag",
-    "suggested_title": "<待 agent 命题:拉康, 欲望, 齐泽克>",
-    "gaps": [
-      "counter_gap",
-      "case_gap",
-      "evidence_gap"
-    ],
-    "relations_present": [
-      "parent"
-    ],
-    "status": "pending_user_decision",
-    "already_seen": false,
-    "readiness": "near",
-    "missing": [
-      "size<5"
-    ]
-  },
-  {
     "cluster_id": "d85a9a1c6c1b",
     "view": "tag",
     "tag": "时间",
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1200",
       "20260619-1500",
@@ -87,7 +45,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1230",
       "20260619-1430",
@@ -129,7 +87,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1300",
       "20260619-2200",
@@ -170,7 +128,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260620-0230",
       "20260620-0330",
@@ -207,7 +165,7 @@
     "entity": "柏格森",
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1900",
       "20260620-0000",
@@ -244,7 +202,7 @@
     "entity": "康德",
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1915",
       "20260620-0000",
@@ -273,50 +231,13 @@
     ]
   },
   {
-    "cluster_id": "10c7302c90d8",
-    "view": "entity",
-    "tag": null,
-    "entity": "弗洛伊德",
-    "merged_views": [],
-    "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
-    "members": [
-      "20260619-2000",
-      "20260619-2130",
-      "20260619-2345",
-      "20260620-0615"
-    ],
-    "core_tags": [
-      "拉康"
-    ],
-    "density": 1.0,
-    "voice_ratio": 1.0,
-    "size": 4,
-    "kind": "entity",
-    "suggested_title": "<待 agent 命题:拉康>",
-    "gaps": [
-      "counter_gap",
-      "case_gap",
-      "evidence_gap"
-    ],
-    "relations_present": [
-      "parent"
-    ],
-    "status": "pending_user_decision",
-    "already_seen": false,
-    "readiness": "near",
-    "missing": [
-      "size<5"
-    ]
-  },
-  {
     "cluster_id": "756a6fbeafcf",
     "view": "tag",
     "tag": "哲学",
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1101",
       "20260619-1115",
@@ -355,7 +276,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1130",
       "20260619-1245",
@@ -385,13 +306,51 @@
     ]
   },
   {
+    "cluster_id": "613069cef0b4",
+    "view": "tag",
+    "tag": "精神分析",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:46:11+08:00",
+    "members": [
+      "20260619-1145",
+      "20260619-1530",
+      "20260620-0915"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "Guattari",
+      "精神分析"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 3,
+    "kind": "tag",
+    "suggested_title": "<待 agent 命题:Deleuze, Guattari, 精神分析>",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "near",
+    "missing": [
+      "size<5"
+    ]
+  },
+  {
     "cluster_id": "63bd2f78117c",
     "view": "tag",
     "tag": "事件",
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1200",
       "20260619-1215",
@@ -429,7 +388,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1230",
       "20260619-1430",
@@ -470,7 +429,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1245",
       "20260619-1645",
@@ -500,13 +459,52 @@
     ]
   },
   {
+    "cluster_id": "f3139df4a518",
+    "view": "tag",
+    "tag": "实在界",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:46:11+08:00",
+    "members": [
+      "20260619-1330",
+      "20260620-0900",
+      "20260620-0915"
+    ],
+    "core_tags": [
+      "实在界",
+      "拉康",
+      "案例",
+      "齐泽克"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 3,
+    "kind": "tag",
+    "suggested_title": "<待 agent 命题:实在界, 拉康, 案例>",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "case"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "near",
+    "missing": [
+      "size<5"
+    ]
+  },
+  {
     "cluster_id": "6308ef362ccb",
     "view": "tag",
     "tag": "根茎",
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1400",
       "20260619-1645",
@@ -544,7 +542,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1415",
       "20260620-0345",
@@ -582,7 +580,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1700",
       "20260620-0400",
@@ -618,7 +616,7 @@
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1715",
       "20260619-1845",
@@ -654,7 +652,7 @@
     "entity": "Nietzsche",
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1101",
       "20260619-1315",
@@ -688,7 +686,7 @@
     "entity": "Braidotti",
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1245",
       "20260619-1445",
@@ -725,7 +723,7 @@
     "entity": "尼采",
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1730",
       "20260619-2200",
@@ -762,7 +760,7 @@
       "tag:德勒兹"
     ],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:43:11+08:00",
+    "detected_at": "2026-06-19T11:46:11+08:00",
     "members": [
       "20260619-1315",
       "20260619-1730",

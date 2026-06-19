@@ -50,5 +50,67 @@
       "suggested_title": "德勒兹哲学的核心是从内在性平面到逃逸线的肯定性本体论",
       "reason": "25张卡覆盖德勒兹全部核心概念的完整网络——概念创造→时间→事件→褶子→单义性→电影→柏格森→康德→海德格尔"
     }
+  ],
+  "clusters_seen": [
+    {
+      "cluster_id": "fadf4ed788a8",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 14
+    },
+    {
+      "cluster_id": "29a4333d6750",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 14
+    },
+    {
+      "cluster_id": "ac290ad38980",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 14
+    },
+    {
+      "cluster_id": "6db1205a6dba",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 13
+    },
+    {
+      "cluster_id": "1a0dbede54ca",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 5
+    },
+    {
+      "cluster_id": "ed1ee17d7e01",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 6
+    },
+    {
+      "cluster_id": "d7fcfc2ae742",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 6
+    },
+    {
+      "cluster_id": "35cb31fe5858",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 5
+    },
+    {
+      "cluster_id": "5904724a2c12",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 5
+    },
+    {
+      "cluster_id": "df1a4e8cffd8",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 5
+    },
+    {
+      "cluster_id": "de6ab6cb29e6",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 5
+    },
+    {
+      "cluster_id": "26f47308302b",
+      "first_seen": "2026-06-19T11:46:07+08:00",
+      "size": 25
+    }
   ]
 }
