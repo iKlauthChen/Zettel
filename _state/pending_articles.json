@@ -1,0 +1,430 @@
+[
+  {
+    "cluster_id": "fadf4ed788a8",
+    "view": "entity",
+    "tag": null,
+    "entity": "Guattari",
+    "merged_views": [
+      "tag",
+      "tag:Guattari"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1101",
+      "20260619-1115",
+      "20260619-1130",
+      "20260619-1145",
+      "20260619-1230",
+      "20260619-1245",
+      "20260619-1300",
+      "20260619-1400",
+      "20260619-1415",
+      "20260619-1430",
+      "20260619-1530",
+      "20260619-1630",
+      "20260619-1645",
+      "20260619-1700"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "Guattari"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 14,
+    "kind": "entity",
+    "suggested_title": "<待 agent 命题:Deleuze, Guattari>",
+    "gaps": [
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "counter",
+      "extend",
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "ac290ad38980",
+    "view": "entity",
+    "tag": null,
+    "entity": "加塔利",
+    "merged_views": [
+      "tag",
+      "tag:加塔利"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-2000",
+      "20260619-2200",
+      "20260619-2345",
+      "20260620-0115",
+      "20260620-0200",
+      "20260620-0215",
+      "20260620-0300",
+      "20260620-0330",
+      "20260620-0345",
+      "20260620-0400",
+      "20260620-0430",
+      "20260620-0445",
+      "20260620-0500",
+      "20260620-0515"
+    ],
+    "core_tags": [
+      "加塔利",
+      "德勒兹"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 14,
+    "kind": "entity",
+    "suggested_title": "<待 agent 命题:加塔利, 德勒兹>",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "extend"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "6db1205a6dba",
+    "view": "entity",
+    "tag": null,
+    "entity": "福柯",
+    "merged_views": [
+      "tag",
+      "tag:福柯"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1315",
+      "20260619-1700",
+      "20260619-1800",
+      "20260619-1930",
+      "20260619-2115",
+      "20260619-2330",
+      "20260620-0015",
+      "20260620-0030",
+      "20260620-0100",
+      "20260620-0315",
+      "20260620-0345",
+      "20260620-0630",
+      "20260620-0745"
+    ],
+    "core_tags": [
+      "福柯"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 13,
+    "kind": "entity",
+    "suggested_title": "<待 agent 命题:福柯>",
+    "gaps": [
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "counter",
+      "extend",
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "abe30bf0b87f",
+    "view": "entity",
+    "tag": null,
+    "entity": "拉康",
+    "merged_views": [
+      "tag",
+      "tag:拉康"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1330",
+      "20260619-1615",
+      "20260619-1745",
+      "20260619-2100",
+      "20260619-2130",
+      "20260619-2145",
+      "20260619-2345",
+      "20260620-0245",
+      "20260620-0600",
+      "20260620-0615",
+      "20260620-0645",
+      "20260620-0800"
+    ],
+    "core_tags": [
+      "拉康"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 12,
+    "kind": "entity",
+    "suggested_title": "<待 agent 命题:拉康>",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "extend",
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "ed1ee17d7e01",
+    "view": "tag",
+    "tag": "语言",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1215",
+      "20260619-1600",
+      "20260619-1700",
+      "20260619-2245",
+      "20260620-0030",
+      "20260620-0200"
+    ],
+    "core_tags": [
+      "语言"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 6,
+    "kind": "tag",
+    "suggested_title": "<待 agent 命题:语言>",
+    "gaps": [
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "counter",
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "d7fcfc2ae742",
+    "view": "tag",
+    "tag": "主体",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1515",
+      "20260619-1615",
+      "20260619-1745",
+      "20260619-1915",
+      "20260620-0445",
+      "20260620-0630"
+    ],
+    "core_tags": [
+      "主体",
+      "德勒兹"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 6,
+    "kind": "tag",
+    "suggested_title": "<待 agent 命题:主体, 德勒兹>",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "35cb31fe5858",
+    "view": "tag",
+    "tag": "欲望",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1145",
+      "20260619-1330",
+      "20260619-1730",
+      "20260620-0600",
+      "20260620-0800"
+    ],
+    "core_tags": [
+      "拉康",
+      "欲望"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "tag",
+    "suggested_title": "<待 agent 命题:拉康, 欲望>",
+    "gaps": [
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "counter",
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "5904724a2c12",
+    "view": "tag",
+    "tag": "解域",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1245",
+      "20260619-1300",
+      "20260619-1400",
+      "20260620-0200",
+      "20260620-0300"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "Guattari",
+      "解域"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "tag",
+    "suggested_title": "<待 agent 命题:Deleuze, Guattari, 解域>",
+    "gaps": [
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "counter",
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "df1a4e8cffd8",
+    "view": "tag",
+    "tag": "权力",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1315",
+      "20260619-1700",
+      "20260619-2015",
+      "20260620-0315",
+      "20260620-0630"
+    ],
+    "core_tags": [
+      "权力"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "tag",
+    "suggested_title": "<待 agent 命题:权力>",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "26f47308302b",
+    "view": "entity",
+    "tag": null,
+    "entity": "Deleuze",
+    "merged_views": [
+      "tag",
+      "tag:Deleuze"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-19T11:43:11+08:00",
+    "members": [
+      "20260619-1101",
+      "20260619-1115",
+      "20260619-1130",
+      "20260619-1145",
+      "20260619-1200",
+      "20260619-1215",
+      "20260619-1230",
+      "20260619-1245",
+      "20260619-1300",
+      "20260619-1330",
+      "20260619-1400",
+      "20260619-1415",
+      "20260619-1430",
+      "20260619-1445",
+      "20260619-1500",
+      "20260619-1515",
+      "20260619-1530",
+      "20260619-1545",
+      "20260619-1615",
+      "20260619-1630",
+      "20260619-1645",
+      "20260619-1700",
+      "20260619-1830",
+      "20260619-1915",
+      "20260619-1945"
+    ],
+    "core_tags": [
+      "Deleuze"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 25,
+    "kind": "entity",
+    "suggested_title": "<待 agent 命题:Deleuze>",
+    "gaps": [
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "counter",
+      "extend",
+      "parent"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": false,
+    "readiness": "ready"
+  }
+]

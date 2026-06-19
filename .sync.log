@@ -1,0 +1,6 @@
+[2026-06-19T11:30:53+08:00] ===== build_index start =====
+[2026-06-19T11:30:53+08:00] index built: cards=79 tags=274 entities=90 terms=15971
+[2026-06-19T11:30:53+08:00] ===== build_index done =====
+[2026-06-19T11:43:11+08:00] ===== inspect start =====
+[2026-06-19T11:43:11+08:00] inspect summary: {'total_cards': 79, 'permanent_cards': 79, 'ready_clusters': 10, 'new_ready_clusters': 10, 'near_ready_clusters': 21}
+[2026-06-19T11:43:11+08:00] ===== inspect done =====

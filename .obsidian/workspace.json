@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "98830c2175adb17c",
+    "type": "split",
+    "children": [
+      {
+        "id": "89bb1cce5ef50c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2ffe650e31b2508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cards/20260619-1200-柯罗诺斯与艾翁是异质的两种时间.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260619-1200-柯罗诺斯与艾翁是异质的两种时间"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dac148c48d491db3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2367923e1995678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b769524d3cbc066",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1b180b87ecadd231",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "758ffd51a480be1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a6e5db8a353aeef",
+    "type": "split",
+    "children": [
+      {
+        "id": "291935b768f221de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a858b3515178e327",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cards/20260619-1430-平滑与纹理是两种异质的空间化逻辑.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "20260619-1430-平滑与纹理是两种异质的空间化逻辑 的反向链接列表"
+            }
+          },
+          {
+            "id": "f25abefe0728a360",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cards/20260619-1430-平滑与纹理是两种异质的空间化逻辑.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "20260619-1430-平滑与纹理是两种异质的空间化逻辑 的出链列表"
+            }
+          },
+          {
+            "id": "bd7f397362af3084",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cedd0aef35488a70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b5d6863a679f1bbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cards/20260619-1430-平滑与纹理是两种异质的空间化逻辑.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "20260619-1430-平滑与纹理是两种异质的空间化逻辑 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c2ffe650e31b2508",
+  "lastOpenFiles": [
+    "_state/cluster_history.json",
+    "_state/near_ready.json",
+    "_state/pending_articles.json",
+    "cards/20260619-1215-事件即意义.md",
+    "cards/20260619-1130-无器官身体不是空虚而是强度的卵.md",
+    "cards/20260619-1101-哲学的本质是创造概念.md",
+    "20220260619-2330-自我书写是为了塑造自我而非表达自我.md",
+    "cards/20260619-1315-权力不是否定禁令而是生产装置.md",
+    "cards/20260619-1430-平滑与纹理是两种异质的空间化逻辑.md",
+    "cards/20260619-1230-战争机器的本质不是战争而是逃逸线.md",
+    "20260520-1430-原子化的目的是可重组.md",
+    "cards/20260619-1200-柯罗诺斯与艾翁是异质的两种时间.md",
+    "20260619-1101.md",
+    "cards/20260619-1115-内在性平面不是概念而是思的图景.md"
+  ]
+}
