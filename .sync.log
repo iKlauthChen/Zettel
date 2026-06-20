@@ -28,3 +28,6 @@
 [2026-06-20T08:58:54+08:00] ===== build_index start =====
 [2026-06-20T08:58:54+08:00] index built: cards=90 tags=301 entities=101 terms=18107
 [2026-06-20T08:58:54+08:00] ===== build_index done =====
+[2026-06-20T10:32:14+08:00] ===== build_index start =====
+[2026-06-20T10:32:14+08:00] index built: cards=0 tags=0 entities=0 terms=0
+[2026-06-20T10:32:14+08:00] ===== build_index done =====
