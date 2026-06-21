@@ -49,6 +49,13 @@
       "cluster_id": "26f47308302b",
       "suggested_title": "德勒兹哲学的核心是从内在性平面到逃逸线的肯定性本体论",
       "reason": "25张卡覆盖德勒兹全部核心概念的完整网络——概念创造→时间→事件→褶子→单义性→电影→柏格森→康德→海德格尔"
+    },
+    {
+      "cluster_id": "three_layer_ontology_20260621",
+      "suggested_title": "虚空、实在界与内在性平面不是三个竞争概念而是同一本体论工程中三个层次的回答",
+      "reason": "31张卡跨DG本体论(0440-0453)×概念创造(0460-0465)×剩余/齐泽克(0480-0485)×Zevnik(0486-0505)构成的三层统一模型",
+      "produced_article": "_drafts/三层本体论-虚空-实在界-内在性平面.md",
+      "produced_at": "2026-06-22"
     }
   ],
   "clusters_seen": [
@@ -111,6 +118,13 @@
       "cluster_id": "26f47308302b",
       "first_seen": "2026-06-19T11:46:07+08:00",
       "size": 25
+    },
+    {
+      "cluster_id": "three_layer_ontology_20260621",
+      "first_seen": "2026-06-21T22:40:00+08:00",
+      "size": 31,
+      "produced_article": "_drafts/三层本体论-虚空-实在界-内在性平面.md",
+      "produced_at": "2026-06-22"
     }
   ]
 }
