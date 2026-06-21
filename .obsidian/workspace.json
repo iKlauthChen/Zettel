@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cards/20260620-1816.md",
+                "file": "cards/20260621-0005.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260620-1816"
+              "title": "20260621-0005"
             }
           }
         ]
@@ -185,9 +185,17 @@
   },
   "active": "c2ffe650e31b2508",
   "lastOpenFiles": [
+    "cards/20260621-0004.md",
+    "cards/20260621-0003.md",
+    "cards/20260621-0002.md",
+    "cards/20260621-0001.md",
+    "cards/20260620-1819.md",
+    "cards/20260621-0014.md",
+    "cards/20260621-0015.md",
+    "cards/20260620-1500.md",
+    "cards/20260620-1816.md",
     "cards/20260620-1817.md",
     "cards/20260620-1818.md",
-    "cards/20260620-1819.md",
     "cards/20260620-1501.md",
     "cards/20260620-1620.md",
     "卡夫卡.md",
@@ -200,19 +208,11 @@
     "cards/20260620-1510.md",
     "cards/20260620-1504.md",
     "cards/20260620-1502.md",
-    "cards/20260620-1500.md",
     "drafts/从内在性平面到逃逸线-德勒兹的肯定性本体论.md",
     "cards/20260620-1450-临床医生通过重组症状创造疾病概念.md",
     "cards/20260620-1410-核武器消灭的不是敌人而是未来本身.md",
-    "cards/20260620-1300-哲学的本质是创造概念而非静观沉思或沟通.md",
     "_state/cluster_history.json",
     "_state/near_ready.json",
-    "_state/pending_articles.json",
-    "cards/20260619-1215-事件即意义.md",
-    "cards/20260619-1130-无器官身体不是空虚而是强度的卵.md",
-    "cards/20260619-1101-哲学的本质是创造概念.md",
-    "20220260619-2330-自我书写是为了塑造自我而非表达自我.md",
-    "cards/20260619-1315-权力不是否定禁令而是生产装置.md",
-    "cards/20260619-1430-平滑与纹理是两种异质的空间化逻辑.md"
+    "_state/pending_articles.json"
   ]
 }
