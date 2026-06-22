@@ -34,3 +34,6 @@
 [2026-06-21T01:01:49+08:00] ===== build_index start =====
 [2026-06-21T01:01:49+08:00] index built: cards=218 tags=466 entities=0 terms=29780
 [2026-06-21T01:01:49+08:00] ===== build_index done =====
+[2026-06-22T15:20:55+08:00] validate_cards: passed=3 demoted=342 skipped_non_true=0 fix=False
+[2026-06-22T15:21:04+08:00] validate_cards: passed=3 demoted=342 skipped_non_true=0 fix=False
+[2026-06-22T15:24:27+08:00] validate_cards: passed=11 demoted=334 skipped_non_true=0 fix=False
