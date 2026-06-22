@@ -41,3 +41,5 @@
 [2026-06-22T15:29:09+08:00] validate_cards: passed=18 demoted=334 skipped_non_true=0 fix=False
 [2026-06-22T15:32:15+08:00] validate_cards: passed=18 demoted=334 skipped_non_true=0 fix=False
 [2026-06-22T15:35:48+08:00] validate_cards: passed=18 demoted=334 skipped_non_true=0 fix=False
+[2026-06-22T15:38:22+08:00] validate_cards: passed=18 demoted=336 skipped_non_true=0 fix=False
+[2026-06-22T15:38:49+08:00] validate_cards: passed=20 demoted=334 skipped_non_true=0 fix=False
