@@ -4,7 +4,10 @@ status: permanent
 created: 2026-06-21T04:37:00Z
 source: {type: book, ref: "Bonta & Protevi (2004). Deleuze and Geophilosophy: A Guide and Glossary. Edinburgh University Press, Ch.1 Introduction"}
 tags: [deleuze, guattari, geophilosophy, complexity-theory, nietzsche]
-links: []
+links: [
+  {id: 20260621-0449, reason: "DG的地理哲学以复杂性理论重建哲学与地理学的基础——复杂性理论不是混沌理论"},
+  {id: 20260621-0444, reason: "分层与一致性——地球作为地质分层系统是地理哲学中分层的物质基础"}
+]
 voice_passed: true
 ---
 
