@@ -1,40 +1,346 @@
 [
   {
-    "cluster_id": "fadf4ed788a8",
+    "cluster_id": "d2eca12f74ef",
     "view": "entity",
     "tag": null,
-    "entity": "Guattari",
+    "entity": "Adorno",
     "merged_views": [
+      "embedding",
+      "entity",
+      "entity:吴静",
       "tag",
-      "tag:Guattari"
+      "tag:阿多诺"
     ],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
+    "detected_at": "2026-06-23T13:45:16+08:00",
     "members": [
-      "20260619-1101",
-      "20260619-1115",
-      "20260619-1130",
-      "20260619-1145",
-      "20260619-1230",
-      "20260619-1245",
-      "20260619-1300",
-      "20260619-1400",
-      "20260619-1415",
-      "20260619-1430",
-      "20260619-1530",
-      "20260619-1630",
-      "20260619-1645",
-      "20260619-1700"
+      "20260622-1517-块茎与星丛的共同点是反对同一性逻辑",
+      "20260622-1523-星丛的核心机制是共存与中介",
+      "20260622-1526-块茎追求绝对异质性星丛坚持非同一性",
+      "20260622-1529-块茎是本体论生产星丛是认知论批判",
+      "20260622-1532-德勒兹的建构主义超越了否定辩证法",
+      "20260622-1535-界外在块茎是拓扑边界在星丛是不可言说",
+      "20260622-1538-星丛作为乌托邦找不到现实例证"
     ],
     "core_tags": [
-      "Deleuze",
-      "Guattari"
+      "德勒兹",
+      "阿多诺"
     ],
     "density": 1.0,
     "voice_ratio": 1.0,
-    "size": 14,
+    "size": 7,
     "kind": "entity",
-    "suggested_title": "<待 agent 命题:Deleuze, Guattari>",
+    "suggested_title": "块茎与星丛：德勒兹建构主义越过阿多诺否定辩证法的路径",
+    "gaps": [
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "child",
+      "counter",
+      "extend",
+      "parent",
+      "support"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "e10f0326f209",
+    "view": "tag",
+    "tag": "qin-lizhi",
+    "entity": null,
+    "merged_views": [
+      "tag",
+      "tag:tan-haoyu"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260622-0037",
+      "20260622-0039",
+      "20260622-1616",
+      "20260622-1617",
+      "20260622-1618",
+      "20260622-1619",
+      "20260622-1620",
+      "20260622-1621"
+    ],
+    "core_tags": [
+      "qin-lizhi",
+      "tan-haoyu"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "地缘位势的因果逻辑：非线性风险承担与战略选择",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "b4ce189afacf",
+    "view": "tag",
+    "tag": "virtual",
+    "entity": null,
+    "merged_views": [
+      "tag",
+      "tag:actual"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1815",
+      "20260622-0018",
+      "20260622-0022",
+      "20260623-1614",
+      "20260623-2201",
+      "20260623-2304"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "actual",
+      "virtual"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 6,
+    "kind": "tag",
+    "suggested_title": "虚拟是本体的：从德勒兹的虚拟到Bonta-Protevi的吸引子",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "1192bd684406",
+    "view": "tag",
+    "tag": "being",
+    "entity": null,
+    "merged_views": [
+      "tag",
+      "tag:existence"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1552",
+      "20260620-1627",
+      "20260620-1723",
+      "20260621-0488",
+      "20260622-1750-存在与实存的内在性区别是政治实体的秩序逻辑产物"
+    ],
+    "core_tags": [
+      "being",
+      "existence"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "tag",
+    "suggested_title": "存在与实存：从德勒兹单一性到Zevnik非全的政治本体论",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "a7d41d7918e9",
+    "view": "tag",
+    "tag": "consciousness",
+    "entity": null,
+    "merged_views": [
+      "tag",
+      "tag:wang-huaping"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1556",
+      "20260622-0023",
+      "20260622-0024",
+      "20260622-0025",
+      "20260622-0050"
+    ],
+    "core_tags": [
+      "consciousness",
+      "wang-huaping"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "tag",
+    "suggested_title": "意识与流形：AI时代的心灵哲学的德勒兹式重构",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "67da586a0660",
+    "view": "tag",
+    "tag": "virtual-actual",
+    "entity": null,
+    "merged_views": [
+      "tag",
+      "tag:bergson"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1600",
+      "20260621-0440",
+      "20260622-0008",
+      "20260622-0017",
+      "20260622-0026"
+    ],
+    "core_tags": [
+      "bergson",
+      "deleuze",
+      "virtual-actual"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "tag",
+    "suggested_title": "虚拟-实际循环：柏格森-德勒兹创造性进化的复杂性版本",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "b9bff1c5cbbd",
+    "view": "tag",
+    "tag": "Kafka",
+    "entity": null,
+    "merged_views": [
+      "tag",
+      "tag:德勒兹-加塔利"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1620",
+      "20260620-1621",
+      "20260620-1622",
+      "20260620-1623",
+      "20260620-1626"
+    ],
+    "core_tags": [
+      "Kafka",
+      "德勒兹-加塔利"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "tag",
+    "suggested_title": "卡夫卡的少数文学：德勒兹-加塔利的文学机器与政治",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "8025ec82360a",
+    "view": "tag",
+    "tag": "sea-power",
+    "entity": null,
+    "merged_views": [
+      "embedding"
+    ],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1750",
+      "20260620-1751",
+      "20260620-1752",
+      "20260620-1817",
+      "20260623-0006"
+    ],
+    "core_tags": [
+      "sea-power"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "tag",
+    "suggested_title": "海权的本体论基础：航母/海洋/安全的空间政治",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "a81890103192",
+    "view": "tag",
+    "tag": "Lacan",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260622-1600-本体论的虚无不是空无而是肯定性的潜能",
+      "20260622-1620-男人名即父亲名的法律作为秩序原则而非仅仅是规范体系",
+      "20260622-1630-俄狄浦斯法与图腾禁忌奠定了现代主体性的基础",
+      "20260622-1640-症状法基于博罗米结提供了一种后俄狄浦斯的替代秩序",
+      "20260622-1650-非全逻辑拒绝总体化和例外",
+      "20260622-1740-实在界的爱作为打破主体秩序的力量而非情感",
+      "20260622-1810-泽夫尼克对拉康和德勒兹的整合是非对称的策略而非体系性综合",
+      "20260623-0014",
+      "20260623-2100",
+      "20260623-2101",
+      "20260623-2103",
+      "20260623-2104",
+      "20260623-2300",
+      "20260623-2302",
+      "20260623-2305"
+    ],
+    "core_tags": [
+      "Lacan"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 15,
+    "kind": "tag",
+    "suggested_title": "两种法与两个主体：拉康的俄狄浦斯结构与其后俄狄浦斯出路",
     "gaps": [
       "case_gap",
       "evidence_gap"
@@ -42,54 +348,1149 @@
     "relations_present": [
       "counter",
       "extend",
-      "parent"
+      "parent",
+      "support"
     ],
     "status": "pending_user_decision",
     "already_seen": true,
     "readiness": "ready"
   },
   {
-    "cluster_id": "29a4333d6750",
-    "view": "entity",
-    "tag": null,
-    "entity": "拉康",
-    "merged_views": [
-      "tag",
-      "tag:拉康"
-    ],
+    "cluster_id": "a18b93729233",
+    "view": "tag",
+    "tag": "lacan",
+    "entity": null,
+    "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
+    "detected_at": "2026-06-23T13:45:16+08:00",
     "members": [
-      "20260619-1330",
-      "20260619-1615",
-      "20260619-1745",
-      "20260619-2100",
-      "20260619-2130",
-      "20260619-2145",
-      "20260619-2345",
-      "20260620-0245",
-      "20260620-0600",
-      "20260620-0615",
-      "20260620-0645",
-      "20260620-0800",
-      "20260620-0900",
-      "20260620-0915"
+      "20260621-0008",
+      "20260621-0480",
+      "20260621-0481",
+      "20260621-0482",
+      "20260621-0483",
+      "20260621-0488",
+      "20260621-0489",
+      "20260621-0491",
+      "20260621-0505",
+      "20260622-0011",
+      "20260622-0012",
+      "20260622-0013",
+      "20260622-0019",
+      "20260622-0029"
     ],
     "core_tags": [
-      "拉康"
+      "lacan"
     ],
     "density": 1.0,
     "voice_ratio": 1.0,
     "size": 14,
-    "kind": "entity",
-    "suggested_title": "<待 agent 命题:拉康>",
+    "kind": "tag",
+    "suggested_title": "拉康欲望主体的实在界与符号界的裂缝",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "9bf4cfa67ffd",
+    "view": "tag",
+    "tag": "Zevnik",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260622-1600-本体论的虚无不是空无而是肯定性的潜能",
+      "20260622-1610-笛卡尔式政治主体制造排斥而非常识",
+      "20260622-1620-男人名即父亲名的法律作为秩序原则而非仅仅是规范体系",
+      "20260622-1630-俄狄浦斯法与图腾禁忌奠定了现代主体性的基础",
+      "20260622-1640-症状法基于博罗米结提供了一种后俄狄浦斯的替代秩序",
+      "20260622-1650-非全逻辑拒绝总体化和例外",
+      "20260622-1700-德勒兹的内在生命作为前主体非人格化的纯粹力量",
+      "20260622-1710-斯宾诺莎的抗力与欲望作为内在力量而非匮乏",
+      "20260622-1720-身体通过享乐被法律铭写而内在生命在法律之外",
+      "20260622-1730-关塔那摩微观实践展示了法律边界之外的替代存在形式",
+      "20260622-1740-实在界的爱作为打破主体秩序的力量而非情感",
+      "20260622-1750-存在与实存的内在性区别是政治实体的秩序逻辑产物",
+      "20260622-1800-德勒兹的法律作为法律实践的不停生成而非体系的封闭结构",
+      "20260622-1810-泽夫尼克对拉康和德勒兹的整合是非对称的策略而非体系性综合"
+    ],
+    "core_tags": [
+      "Zevnik"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 14,
+    "kind": "tag",
+    "suggested_title": "拉康-德勒兹的非对称整合：从俄狄浦斯法到圣状共同体的政治本体论",
+    "gaps": [
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "child",
+      "counter",
+      "extend",
+      "parent",
+      "support"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "718894202c54",
+    "view": "tag",
+    "tag": "capitalism",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1509",
+      "20260620-1518",
+      "20260620-1520",
+      "20260620-1528",
+      "20260620-1529",
+      "20260620-1531",
+      "20260620-1535",
+      "20260621-0445",
+      "20260621-0468",
+      "20260621-0485",
+      "20260622-0005",
+      "20260623-1610",
+      "20260623-1616"
+    ],
+    "core_tags": [
+      "capitalism"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 13,
+    "kind": "tag",
+    "suggested_title": "资本作为公理系统：德勒兹-加塔利的政治经济学从解码货币到机械奴役",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "a0d6bec09390",
+    "view": "tag",
+    "tag": "time",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1544",
+      "20260620-1549",
+      "20260620-1602",
+      "20260620-1605",
+      "20260622-0017",
+      "20260622-0026",
+      "20260622-1604",
+      "20260622-1606",
+      "20260622-1607",
+      "20260622-1608",
+      "20260623-1615",
+      "20260623-1704",
+      "20260623-2000"
+    ],
+    "core_tags": [
+      "time"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 13,
+    "kind": "tag",
+    "suggested_title": "德勒兹时间的三种维度：Chronos/Aion/永恒回归从Bergson到Shores",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "55c2a3a12231",
+    "view": "tag",
+    "tag": "plane-of-immanence",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1561",
+      "20260620-1563",
+      "20260620-1564",
+      "20260620-1565",
+      "20260620-1566",
+      "20260620-1567",
+      "20260620-1577",
+      "20260620-1582",
+      "20260620-1583",
+      "20260620-1720",
+      "20260621-0505",
+      "20260622-0001",
+      "20260623-1616"
+    ],
+    "core_tags": [
+      "plane-of-immanence"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 13,
+    "kind": "tag",
+    "suggested_title": "内在性平面：从康德批判到德勒兹-加塔利的肯定性本体论",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "abd5904b6c23",
+    "view": "tag",
+    "tag": "zevnik",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0486",
+      "20260621-0487",
+      "20260621-0488",
+      "20260621-0489",
+      "20260621-0490",
+      "20260621-0491",
+      "20260621-0492",
+      "20260621-0493",
+      "20260621-0494",
+      "20260621-0495",
+      "20260621-0496",
+      "20260621-0505",
+      "20260622-0011"
+    ],
+    "core_tags": [
+      "ontology",
+      "zevnik"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 13,
+    "kind": "tag",
+    "suggested_title": "泽夫尼克的主体本体论：非全一元论对笛卡尔式政治主体的重构",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "7c3d02ae7208",
+    "view": "tag",
+    "tag": "void",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0487",
+      "20260621-0494",
+      "20260621-0495",
+      "20260621-0504",
+      "20260621-0505",
+      "20260622-0001",
+      "20260622-0012",
+      "20260622-0019",
+      "20260622-0020",
+      "20260622-1608",
+      "20260623-2100",
+      "20260623-2300"
+    ],
+    "core_tags": [
+      "ontology",
+      "void"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 12,
+    "kind": "tag",
+    "suggested_title": "虚空的本体论：从德勒兹虚拟经Zevnik非全到Žižek少于无",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "d908e3d5dc78",
+    "view": "tag",
+    "tag": "synthesis",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0504",
+      "20260621-0505",
+      "20260622-0017",
+      "20260622-0026",
+      "20260623-0002",
+      "20260623-0003",
+      "20260623-0004",
+      "20260623-0010",
+      "20260623-0011",
+      "20260623-0012",
+      "20260623-0013",
+      "20260623-0014"
+    ],
+    "core_tags": [
+      "synthesis"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 12,
+    "kind": "tag",
+    "suggested_title": "剩余安全的理论地基：少于无/非全/剩余/取向四条进路的汇聚",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "fd18d695e3e6",
+    "view": "tag",
+    "tag": "assemblage",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1500",
+      "20260620-1501",
+      "20260620-1502",
+      "20260620-1516",
+      "20260620-1812",
+      "20260620-1817",
+      "20260621-0442",
+      "20260621-0444",
+      "20260622-0030",
+      "20260623-1611",
+      "20260623-2203"
+    ],
+    "core_tags": [
+      "assemblage"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 11,
+    "kind": "tag",
+    "suggested_title": "组合体不是结构：德勒兹-加塔利装置理论的拒绝整体性逻辑",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "b67547a7076c",
+    "view": "tag",
+    "tag": "smooth-space",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1564",
+      "20260620-1565",
+      "20260620-1703",
+      "20260620-1811",
+      "20260620-1819",
+      "20260623-0002",
+      "20260623-0004",
+      "20260623-1606",
+      "20260623-1610",
+      "20260623-1617",
+      "20260623-2202"
+    ],
+    "core_tags": [
+      "smooth-space"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 11,
+    "kind": "tag",
+    "suggested_title": "平滑空间的多重生命：从游牧逃逸线到资本控制再到本体论安全",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "56acbce247c0",
+    "view": "tag",
+    "tag": "immanence",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1700",
+      "20260620-1701",
+      "20260622-0006",
+      "20260622-0011",
+      "20260622-0029",
+      "20260622-1700-德勒兹的内在生命作为前主体非人格化的纯粹力量",
+      "20260622-1750-存在与实存的内在性区别是政治实体的秩序逻辑产物",
+      "20260623-1601",
+      "20260623-1602",
+      "20260623-1604",
+      "20260623-1801"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "immanence"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 11,
+    "kind": "tag",
+    "suggested_title": "内在性的谱系：从斯宾诺莎经德勒兹到Richter-卢曼的意义生产",
     "gaps": [
       "counter_gap",
       "case_gap",
       "evidence_gap"
     ],
     "relations_present": [
-      "case",
+      "support"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "199bd1e8c053",
+    "view": "tag",
+    "tag": "philosophy",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1506",
+      "20260620-1517",
+      "20260620-1702",
+      "20260620-1720",
+      "20260621-0460",
+      "20260621-0461",
+      "20260621-0462",
+      "20260621-0463",
+      "20260621-0464",
+      "20260621-0471"
+    ],
+    "core_tags": [
+      "philosophy"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 10,
+    "kind": "tag",
+    "suggested_title": "哲学即概念创造：德勒兹对哲学功能的激进重构",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "9295b00a7247",
+    "view": "tag",
+    "tag": "becoming",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1514",
+      "20260620-1515",
+      "20260620-1814",
+      "20260620-1818",
+      "20260621-0441",
+      "20260621-0492",
+      "20260622-1730-关塔那摩微观实践展示了法律边界之外的替代存在形式",
+      "20260622-1800-德勒兹的法律作为法律实践的不停生成而非体系的封闭结构",
+      "20260623-1701",
+      "20260623-2201"
+    ],
+    "core_tags": [
+      "becoming"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 10,
+    "kind": "tag",
+    "suggested_title": "生成的本体论：从分子革命到关塔那摩成为-被拘留者",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "support"
+    ],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "7a0dd475fb52",
+    "view": "tag",
+    "tag": "intensity",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1515",
+      "20260620-1557",
+      "20260620-1621",
+      "20260620-1721",
+      "20260620-1724",
+      "20260620-1814",
+      "20260620-1818",
+      "20260623-1614",
+      "20260623-1619",
+      "20260623-2201"
+    ],
+    "core_tags": [
+      "intensity"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 10,
+    "kind": "tag",
+    "suggested_title": "强度作为差异的物质性：德勒兹的虚拟本体论中的核心操作概念",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "0840d3dc7925",
+    "view": "tag",
+    "tag": "desiring-production",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1521",
+      "20260620-1523",
+      "20260620-1525",
+      "20260620-1526",
+      "20260620-1529",
+      "20260620-1534",
+      "20260620-1535",
+      "20260620-1813",
+      "20260621-0498",
+      "20260622-0045"
+    ],
+    "core_tags": [
+      "desiring-production"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 10,
+    "kind": "tag",
+    "suggested_title": "欲望生产：德勒兹-加塔利对马克思主义的唯物主义扩展",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "0752d94854ad",
+    "view": "tag",
+    "tag": "critique-of-Kantian-rationality",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1561",
+      "20260620-1563",
+      "20260620-1565",
+      "20260620-1567",
+      "20260620-1569",
+      "20260620-1574",
+      "20260620-1577",
+      "20260620-1579",
+      "20260620-1581",
+      "20260620-1582"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "critique-of-Kantian-rationality",
+      "plane-of-immanence"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 10,
+    "kind": "tag",
+    "suggested_title": "越过康德：德勒兹对康德理性的内在性批判",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "969331719b8e",
+    "view": "tag",
+    "tag": "柏格森",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1600",
+      "20260620-1601",
+      "20260620-1602",
+      "20260620-1603",
+      "20260620-1604",
+      "20260620-1605",
+      "20260620-1606",
+      "20260620-1607",
+      "20260620-1608",
+      "20260620-1609"
+    ],
+    "core_tags": [
+      "柏格森"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 10,
+    "kind": "tag",
+    "suggested_title": "柏格森为德勒兹提供了什么？绵延/直觉/虚拟的哲学奠基",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "f3068dc44543",
+    "view": "tag",
+    "tag": "hegel",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0460",
+      "20260621-0461",
+      "20260621-0462",
+      "20260621-0463",
+      "20260621-0464",
+      "20260621-0465",
+      "20260621-0483",
+      "20260622-0019",
+      "20260622-0020",
+      "20260622-0038"
+    ],
+    "core_tags": [
+      "hegel"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 10,
+    "kind": "tag",
+    "suggested_title": "Žižek的黑格尔：否定之否定不是回到肯定而是缺失的加倍",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "3cf8bc4c5a5a",
+    "view": "tag",
+    "tag": "zizek",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0480",
+      "20260621-0481",
+      "20260621-0482",
+      "20260621-0483",
+      "20260621-0484",
+      "20260621-0485",
+      "20260621-0495",
+      "20260622-0014",
+      "20260622-0019",
+      "20260622-0020"
+    ],
+    "core_tags": [
+      "ideology",
+      "zizek"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 10,
+    "kind": "tag",
+    "suggested_title": "意识形态的驱力基础：Žižek的政治主体与拉康实在界",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "95b5baa71f16",
+    "view": "tag",
+    "tag": "territory",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1501",
+      "20260620-1810",
+      "20260620-1812",
+      "20260621-0013",
+      "20260621-0448",
+      "20260621-0466",
+      "20260621-0496",
+      "20260623-1610",
+      "20260623-1611"
+    ],
+    "core_tags": [
+      "territory"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "界域化作为表达：从鸟鸣到国家主权的落脚点创造",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "72f9832fb602",
+    "view": "tag",
+    "tag": "space",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1502",
+      "20260620-1605",
+      "20260621-0450",
+      "20260622-0021",
+      "20260622-0031",
+      "20260622-1604",
+      "20260623-0012",
+      "20260623-1600",
+      "20260623-2000"
+    ],
+    "core_tags": [
+      "space"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "德勒兹空间理论的四重翻译：Saldanha/Shores/Bonta-Protevi/Richter",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "3193249dd6bd",
+    "view": "tag",
+    "tag": "difference",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1511",
+      "20260620-1540",
+      "20260620-1552",
+      "20260620-1607",
+      "20260620-1715",
+      "20260622-0021",
+      "20260622-1607",
+      "20260622-1609",
+      "20260623-1614"
+    ],
+    "core_tags": [
+      "deleuze",
+      "difference"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "差异不是同一性的缺乏：德勒兹肯定性差异本体论的多重进路",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "5ce000d936b6",
+    "view": "tag",
+    "tag": "body-without-organs",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1515",
+      "20260620-1525",
+      "20260620-1533",
+      "20260620-1534",
+      "20260620-1538",
+      "20260621-0446",
+      "20260621-0498",
+      "20260622-0046",
+      "20260623-1612"
+    ],
+    "core_tags": [
+      "body-without-organs"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "无器官身体从反俄狄浦斯到千高原：制造BwO的警告与指南",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "11bfb9b3c63c",
+    "view": "tag",
+    "tag": "sense",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1541",
+      "20260620-1545",
+      "20260620-1546",
+      "20260620-1547",
+      "20260620-1548",
+      "20260620-1723",
+      "20260623-0011",
+      "20260623-1800",
+      "20260623-1801"
+    ],
+    "core_tags": [
+      "deleuze",
+      "sense"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "意义作为第四维度：德勒兹-卢曼的意义内在创造与政治",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "b48a915e3169",
+    "view": "tag",
+    "tag": "creation-of-concepts",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1560",
+      "20260620-1564",
+      "20260620-1566",
+      "20260620-1567",
+      "20260620-1568",
+      "20260620-1572",
+      "20260620-1580",
+      "20260620-1582",
+      "20260620-1583"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "creation-of-concepts",
+      "plane-of-immanence"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "概念创造的逻辑：弹球机、Dupréel一致性与dialetheia",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "bc90eae57e3f",
+    "view": "tag",
+    "tag": "consistency",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0004",
+      "20260621-0006",
+      "20260621-0007",
+      "20260621-0442",
+      "20260621-0444",
+      "20260621-0448",
+      "20260623-1611",
+      "20260623-1702",
+      "20260623-1707"
+    ],
+    "core_tags": [
+      "consistency",
+      "guattari"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "一致性不是同一性：德勒兹-加塔利异质性组合的逻辑",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "9bf14ba5a0f4",
+    "view": "tag",
+    "tag": "geophilosophy",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0437",
+      "20260621-0453",
+      "20260622-0021",
+      "20260622-0043",
+      "20260623-0012",
+      "20260623-1600",
+      "20260623-1601",
+      "20260623-1602",
+      "20260623-2200"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "geophilosophy"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "地缘哲学：哲学从地球的物质性不可预测性中涌现",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "ba8312fb9509",
+    "view": "tag",
+    "tag": "law",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0488",
+      "20260621-0489",
+      "20260622-1620-男人名即父亲名的法律作为秩序原则而非仅仅是规范体系",
+      "20260622-1640-症状法基于博罗米结提供了一种后俄狄浦斯的替代秩序",
+      "20260622-1720-身体通过享乐被法律铭写而内在生命在法律之外",
+      "20260622-1800-德勒兹的法律作为法律实践的不停生成而非体系的封闭结构",
+      "20260623-0014",
+      "20260623-2101",
+      "20260623-2104"
+    ],
+    "core_tags": [
+      "Lacan",
+      "law"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "tag",
+    "suggested_title": "两种法：从父亲之名的俄狄浦斯法到圣状的后俄狄浦斯法",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "a569406e353f",
+    "view": "entity",
+    "tag": null,
+    "entity": "骜龙",
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260622-1540-德勒兹的空间概念是一个概念系而非单一概念",
+      "20260622-1543-逃逸线最早是普鲁斯特文本中的叙事组织机制",
+      "20260622-1546-维利里奥的域理论重塑了解域化中域的意涵",
+      "20260622-1549-任意空间通过局部而非整体构建",
+      "20260622-1552-德勒兹通过尼采将空间与偶然性和迷宫路径关联",
+      "20260622-1555-贝克特的穷尽策略将空间从事件场所还原为纯空间",
+      "20260622-1558-德勒兹空间理论关注空间如何可能而非空间是什么",
+      "20260622-1600-解域化与解辖域化是对域的不同政治性理解",
+      "20260622-1603-解域化与祛魅共享解绑结构但本体论与社会学取向根本不同"
+    ],
+    "core_tags": [
+      "德勒兹"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 9,
+    "kind": "entity",
+    "suggested_title": "德勒兹空间概念系的发生学：从普鲁斯特逃逸线到维尔托夫任意空间",
+    "gaps": [
+      "counter_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [
+      "child",
       "extend",
       "parent"
     ],
@@ -98,41 +1499,328 @@
     "readiness": "ready"
   },
   {
-    "cluster_id": "ac290ad38980",
-    "view": "entity",
-    "tag": null,
-    "entity": "加塔利",
-    "merged_views": [
-      "tag",
-      "tag:加塔利"
-    ],
+    "cluster_id": "63c3004cf244",
+    "view": "tag",
+    "tag": "language",
+    "entity": null,
+    "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
+    "detected_at": "2026-06-23T13:45:16+08:00",
     "members": [
-      "20260619-2000",
-      "20260619-2200",
-      "20260619-2345",
-      "20260620-0115",
-      "20260620-0200",
-      "20260620-0215",
-      "20260620-0300",
-      "20260620-0330",
-      "20260620-0345",
-      "20260620-0400",
-      "20260620-0430",
-      "20260620-0445",
-      "20260620-0500",
-      "20260620-0515"
+      "20260620-1507",
+      "20260620-1508",
+      "20260620-1541",
+      "20260620-1553",
+      "20260620-1558",
+      "20260620-1625",
+      "20260621-0464",
+      "20260623-2000"
     ],
     "core_tags": [
-      "加塔利",
-      "德勒兹"
+      "language"
     ],
     "density": 1.0,
     "voice_ratio": 1.0,
-    "size": 14,
-    "kind": "entity",
-    "suggested_title": "<待 agent 命题:加塔利, 德勒兹>",
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "语言与权力：德勒兹-福柯的语言政治学",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "062aa37ab7d3",
+    "view": "tag",
+    "tag": "schizoanalysis",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1526",
+      "20260620-1530",
+      "20260621-0012",
+      "20260621-0468",
+      "20260621-0501",
+      "20260622-0004",
+      "20260622-0006",
+      "20260622-0045"
+    ],
+    "core_tags": [
+      "guattari",
+      "schizoanalysis"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "精神分裂分析：德勒兹-加塔利对精神分析的内部爆破",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "2897e96c00dc",
+    "view": "tag",
+    "tag": "unconscious-consciousness-boundary",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1562",
+      "20260620-1571",
+      "20260620-1573",
+      "20260620-1578",
+      "20260620-1579",
+      "20260620-1580",
+      "20260620-1581",
+      "20260620-1583"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "unconscious-consciousness-boundary"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "无意识-意识边界的消融：德勒兹的transcendental经验论",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "75be02b21a98",
+    "view": "tag",
+    "tag": "哲学",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1640",
+      "20260620-1641",
+      "20260620-1642",
+      "20260620-1643",
+      "20260620-1644",
+      "20260620-1645",
+      "20260620-1646",
+      "20260620-1647"
+    ],
+    "core_tags": [
+      "哲学",
+      "概念"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "德勒兹对哲学的定义：建构主义、概念创造与反共识",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "77a158209691",
+    "view": "tag",
+    "tag": "war-machine",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1703",
+      "20260621-0497",
+      "20260621-0499",
+      "20260621-0504",
+      "20260622-0022",
+      "20260622-0036",
+      "20260623-1608",
+      "20260623-1617"
+    ],
+    "core_tags": [
+      "deleuze",
+      "war-machine"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "战争机器从游牧到国家捕获：德勒兹空间政治学的当代变形",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "dfb4f3ccc73f",
+    "view": "tag",
+    "tag": "complexity",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0444",
+      "20260621-0494",
+      "20260623-0007",
+      "20260623-0011",
+      "20260623-0012",
+      "20260623-1609",
+      "20260623-2201",
+      "20260623-2202"
+    ],
+    "core_tags": [
+      "Deleuze",
+      "complexity"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "复杂性理论的两种面孔：德勒兹-加塔利与钱学森OCGS的跨文明平行",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "4550d10e3b8e",
+    "view": "tag",
+    "tag": "marx",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260621-0460",
+      "20260621-0462",
+      "20260621-0463",
+      "20260621-0464",
+      "20260621-0465",
+      "20260621-0480",
+      "20260621-0485",
+      "20260622-0047"
+    ],
+    "core_tags": [
+      "concept-creation",
+      "hegel",
+      "marx",
+      "philosophy"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "德勒兹和马克思：资本主义批判的两种唯物主义路径",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "afc56114629a",
+    "view": "tag",
+    "tag": "li-kelin",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260622-0048",
+      "20260622-0049",
+      "20260622-1604",
+      "20260622-1605",
+      "20260622-1606",
+      "20260622-1607",
+      "20260622-1608",
+      "20260622-1609"
+    ],
+    "core_tags": [
+      "deleuze",
+      "li-kelin",
+      "time"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 8,
+    "kind": "tag",
+    "suggested_title": "李科林论德勒兹时间的生命内涵：从三种综合到永恒回归",
+    "gaps": [
+      "counter_gap",
+      "case_gap",
+      "evidence_gap"
+    ],
+    "relations_present": [],
+    "status": "pending_user_decision",
+    "already_seen": true,
+    "readiness": "ready"
+  },
+  {
+    "cluster_id": "318dfd8a913a",
+    "view": "tag",
+    "tag": "body",
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-06-23T13:45:16+08:00",
+    "members": [
+      "20260620-1505",
+      "20260620-1512",
+      "20260620-1549",
+      "20260621-0492",
+      "20260622-1720-身体通过享乐被法律铭写而内在生命在法律之外",
+      "20260622-1730-关塔那摩微观实践展示了法律边界之外的替代存在形式",
+      "20260623-2102"
+    ],
+    "core_tags": [
+      "body"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 7,
+    "kind": "tag",
+    "suggested_title": "身体的政治存在：从斯多葛到关塔那摩的强度-物质性",
     "gaps": [
       "counter_gap",
       "case_gap",
@@ -146,153 +1834,32 @@
     "readiness": "ready"
   },
   {
-    "cluster_id": "6db1205a6dba",
-    "view": "entity",
-    "tag": null,
-    "entity": "福柯",
-    "merged_views": [
-      "tag",
-      "tag:福柯"
-    ],
-    "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
-    "members": [
-      "20260619-1315",
-      "20260619-1700",
-      "20260619-1800",
-      "20260619-1930",
-      "20260619-2115",
-      "20260619-2330",
-      "20260620-0015",
-      "20260620-0030",
-      "20260620-0100",
-      "20260620-0315",
-      "20260620-0345",
-      "20260620-0630",
-      "20260620-0745"
-    ],
-    "core_tags": [
-      "福柯"
-    ],
-    "density": 1.0,
-    "voice_ratio": 1.0,
-    "size": 13,
-    "kind": "entity",
-    "suggested_title": "<待 agent 命题:福柯>",
-    "gaps": [
-      "case_gap",
-      "evidence_gap"
-    ],
-    "relations_present": [
-      "counter",
-      "extend",
-      "parent"
-    ],
-    "status": "pending_user_decision",
-    "already_seen": true,
-    "readiness": "ready"
-  },
-  {
-    "cluster_id": "1a0dbede54ca",
+    "cluster_id": "adaca0a2efba",
     "view": "tag",
-    "tag": "齐泽克",
-    "entity": null,
-    "merged_views": [
-      "entity",
-      "entity:齐泽克"
-    ],
-    "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
-    "members": [
-      "20260619-1330",
-      "20260619-2100",
-      "20260620-0645",
-      "20260620-0800",
-      "20260620-0900"
-    ],
-    "core_tags": [
-      "拉康",
-      "齐泽克"
-    ],
-    "density": 1.0,
-    "voice_ratio": 1.0,
-    "size": 5,
-    "kind": "tag",
-    "suggested_title": "<待 agent 命题:拉康, 齐泽克>",
-    "gaps": [
-      "counter_gap",
-      "case_gap",
-      "evidence_gap"
-    ],
-    "relations_present": [
-      "case",
-      "parent"
-    ],
-    "status": "pending_user_decision",
-    "already_seen": true,
-    "readiness": "ready"
-  },
-  {
-    "cluster_id": "ed1ee17d7e01",
-    "view": "tag",
-    "tag": "语言",
+    "tag": "ideology",
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
+    "detected_at": "2026-06-23T13:45:16+08:00",
     "members": [
-      "20260619-1215",
-      "20260619-1600",
-      "20260619-1700",
-      "20260619-2245",
-      "20260620-0030",
-      "20260620-0200"
+      "20260620-1536",
+      "20260621-0480",
+      "20260621-0481",
+      "20260621-0482",
+      "20260621-0483",
+      "20260621-0484",
+      "20260621-0495"
     ],
     "core_tags": [
-      "语言"
+      "ideology",
+      "lacan",
+      "zizek"
     ],
     "density": 1.0,
     "voice_ratio": 1.0,
-    "size": 6,
+    "size": 7,
     "kind": "tag",
-    "suggested_title": "<待 agent 命题:语言>",
-    "gaps": [
-      "case_gap",
-      "evidence_gap"
-    ],
-    "relations_present": [
-      "counter",
-      "parent"
-    ],
-    "status": "pending_user_decision",
-    "already_seen": true,
-    "readiness": "ready"
-  },
-  {
-    "cluster_id": "d7fcfc2ae742",
-    "view": "tag",
-    "tag": "主体",
-    "entity": null,
-    "merged_views": [],
-    "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
-    "members": [
-      "20260619-1515",
-      "20260619-1615",
-      "20260619-1745",
-      "20260619-1915",
-      "20260620-0445",
-      "20260620-0630"
-    ],
-    "core_tags": [
-      "主体",
-      "德勒兹"
-    ],
-    "density": 1.0,
-    "voice_ratio": 1.0,
-    "size": 6,
-    "kind": "tag",
-    "suggested_title": "<待 agent 命题:主体, 德勒兹>",
+    "suggested_title": "意识形态批判的拉康-德勒兹之辩：齐泽克对德勒兹的批评",
     "gaps": [
       "counter_gap",
       "case_gap",
@@ -304,203 +1871,73 @@
     "readiness": "ready"
   },
   {
-    "cluster_id": "35cb31fe5858",
+    "cluster_id": "0815b7437535",
     "view": "tag",
-    "tag": "欲望",
+    "tag": "sovereignty",
     "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
+    "detected_at": "2026-06-23T13:45:16+08:00",
     "members": [
-      "20260619-1145",
-      "20260619-1330",
-      "20260619-1730",
-      "20260620-0600",
-      "20260620-0800"
+      "20260620-1538",
+      "20260621-0499",
+      "20260621-0500",
+      "20260622-1610",
+      "20260622-1720-身体通过享乐被法律铭写而内在生命在法律之外",
+      "20260623-0014",
+      "20260623-2104"
     ],
     "core_tags": [
-      "拉康",
-      "欲望"
+      "sovereignty"
     ],
     "density": 1.0,
     "voice_ratio": 1.0,
-    "size": 5,
+    "size": 7,
     "kind": "tag",
-    "suggested_title": "<待 agent 命题:拉康, 欲望>",
-    "gaps": [
-      "case_gap",
-      "evidence_gap"
-    ],
-    "relations_present": [
-      "counter",
-      "parent"
-    ],
-    "status": "pending_user_decision",
-    "already_seen": true,
-    "readiness": "ready"
-  },
-  {
-    "cluster_id": "5904724a2c12",
-    "view": "tag",
-    "tag": "解域",
-    "entity": null,
-    "merged_views": [],
-    "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
-    "members": [
-      "20260619-1245",
-      "20260619-1300",
-      "20260619-1400",
-      "20260620-0200",
-      "20260620-0300"
-    ],
-    "core_tags": [
-      "Deleuze",
-      "Guattari",
-      "解域"
-    ],
-    "density": 1.0,
-    "voice_ratio": 1.0,
-    "size": 5,
-    "kind": "tag",
-    "suggested_title": "<待 agent 命题:Deleuze, Guattari, 解域>",
-    "gaps": [
-      "case_gap",
-      "evidence_gap"
-    ],
-    "relations_present": [
-      "counter",
-      "parent"
-    ],
-    "status": "pending_user_decision",
-    "already_seen": true,
-    "readiness": "ready"
-  },
-  {
-    "cluster_id": "df1a4e8cffd8",
-    "view": "tag",
-    "tag": "权力",
-    "entity": null,
-    "merged_views": [],
-    "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
-    "members": [
-      "20260619-1315",
-      "20260619-1700",
-      "20260619-2015",
-      "20260620-0315",
-      "20260620-0630"
-    ],
-    "core_tags": [
-      "权力"
-    ],
-    "density": 1.0,
-    "voice_ratio": 1.0,
-    "size": 5,
-    "kind": "tag",
-    "suggested_title": "<待 agent 命题:权力>",
+    "suggested_title": "主权与抵抗：法律边界上的政治主体重构",
     "gaps": [
       "counter_gap",
       "case_gap",
       "evidence_gap"
     ],
-    "relations_present": [
-      "parent"
-    ],
+    "relations_present": [],
     "status": "pending_user_decision",
     "already_seen": true,
     "readiness": "ready"
   },
   {
-    "cluster_id": "de6ab6cb29e6",
-    "view": "entity",
-    "tag": null,
-    "entity": "弗洛伊德",
+    "cluster_id": "4d6624dce5dd",
+    "view": "tag",
+    "tag": "complexity-theory",
+    "entity": null,
     "merged_views": [],
     "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
+    "detected_at": "2026-06-23T13:45:16+08:00",
     "members": [
-      "20260619-2000",
-      "20260619-2130",
-      "20260619-2345",
-      "20260620-0615",
-      "20260620-0915"
+      "20260621-0437",
+      "20260621-0438",
+      "20260621-0439",
+      "20260621-0441",
+      "20260621-0449",
+      "20260623-0013",
+      "20260623-2200"
     ],
     "core_tags": [
-      "拉康"
+      "complexity-theory",
+      "deleuze",
+      "guattari"
     ],
     "density": 1.0,
     "voice_ratio": 1.0,
-    "size": 5,
-    "kind": "entity",
-    "suggested_title": "<待 agent 命题:拉康>",
+    "size": 7,
+    "kind": "tag",
+    "suggested_title": "德勒兹作为复杂性理论的康德：Bonta-Protevi的地缘哲学纲领",
     "gaps": [
       "counter_gap",
       "case_gap",
       "evidence_gap"
     ],
-    "relations_present": [
-      "parent"
-    ],
-    "status": "pending_user_decision",
-    "already_seen": true,
-    "readiness": "ready"
-  },
-  {
-    "cluster_id": "26f47308302b",
-    "view": "entity",
-    "tag": null,
-    "entity": "Deleuze",
-    "merged_views": [
-      "tag",
-      "tag:Deleuze"
-    ],
-    "published_overlap": null,
-    "detected_at": "2026-06-19T11:53:20+08:00",
-    "members": [
-      "20260619-1101",
-      "20260619-1115",
-      "20260619-1130",
-      "20260619-1145",
-      "20260619-1200",
-      "20260619-1215",
-      "20260619-1230",
-      "20260619-1245",
-      "20260619-1300",
-      "20260619-1330",
-      "20260619-1400",
-      "20260619-1415",
-      "20260619-1430",
-      "20260619-1445",
-      "20260619-1500",
-      "20260619-1515",
-      "20260619-1530",
-      "20260619-1545",
-      "20260619-1615",
-      "20260619-1630",
-      "20260619-1645",
-      "20260619-1700",
-      "20260619-1830",
-      "20260619-1915",
-      "20260619-1945"
-    ],
-    "core_tags": [
-      "Deleuze"
-    ],
-    "density": 1.0,
-    "voice_ratio": 1.0,
-    "size": 25,
-    "kind": "entity",
-    "suggested_title": "<待 agent 命题:Deleuze>",
-    "gaps": [
-      "case_gap",
-      "evidence_gap"
-    ],
-    "relations_present": [
-      "counter",
-      "extend",
-      "parent"
-    ],
+    "relations_present": [],
     "status": "pending_user_decision",
     "already_seen": true,
     "readiness": "ready"

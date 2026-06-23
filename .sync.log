@@ -43,3 +43,9 @@
 [2026-06-22T15:35:48+08:00] validate_cards: passed=18 demoted=334 skipped_non_true=0 fix=False
 [2026-06-22T15:38:22+08:00] validate_cards: passed=18 demoted=336 skipped_non_true=0 fix=False
 [2026-06-22T15:38:49+08:00] validate_cards: passed=20 demoted=334 skipped_non_true=0 fix=False
+[2026-06-23T13:42:58+08:00] ===== build_index start =====
+[2026-06-23T13:42:58+08:00] index built: cards=446 tags=1208 entities=15 terms=52326
+[2026-06-23T13:42:58+08:00] ===== build_index done =====
+[2026-06-23T13:45:16+08:00] ===== inspect start =====
+[2026-06-23T13:45:16+08:00] inspect summary: {'total_cards': 446, 'permanent_cards': 446, 'ready_clusters': 50, 'new_ready_clusters': 50, 'near_ready_clusters': 30}
+[2026-06-23T13:45:16+08:00] ===== inspect done =====

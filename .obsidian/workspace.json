@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cards/20260622-1700-德勒兹的内在生命作为前主体非人格化的纯粹力量.md",
+                "file": "cards/20260620-1500.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260622-1700-德勒兹的内在生命作为前主体非人格化的纯粹力量"
+              "title": "20260620-1500"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.50390243530273
   },
   "right": {
     "id": "3a6e5db8a353aeef",
@@ -185,6 +185,25 @@
   },
   "active": "c2ffe650e31b2508",
   "lastOpenFiles": [
+    "cards/20260622-0004-COVID19不是单纯生物危机而是德勒兹式事件.md",
+    "cards/20260620-1704.md",
+    "cards/20260620-1509.md",
+    "cards/20260620-1503.md",
+    "cards/20260620-1502.md",
+    "cards/20260620-1500.md",
+    "_index/embeddings_meta.json",
+    "_index/embeddings.npy",
+    "cards/20260620-1501.md",
+    "drafts/德勒兹的时间哲学-从绵延到永恒回归.md",
+    "cards/20260623-1613.md.tmp.74478.00c3c88f43f3",
+    "cards/20260623-1708.md.tmp.74478.03bb7cbcb93d",
+    "drafts/20260621-concept-creation-geopolitics.md",
+    "drafts/20260621-surplus-security-proposal.md",
+    "drafts/翻译消灭创造生成两种思维的根本差异.md",
+    "drafts/航母的平滑空间困境.md",
+    "drafts/complex-spatial-geography-essay.md",
+    "drafts/proposal_20260621_三层本体论.md",
+    "cards/20260622-1700-德勒兹的内在生命作为前主体非人格化的纯粹力量.md",
     "CLAUDE.md",
     "cards/20260622-1710-斯宾诺莎的抗力与欲望作为内在力量而非匮乏.md",
     "cards/20260622-1720-身体通过享乐被法律铭写而内在生命在法律之外.md",
@@ -196,21 +215,6 @@
     "cards/20260623-0003-航母作为本体论安全装置国家的海洋大国身份叙事通过航母的物质化展演來修补.md",
     "cards/20260623-0004-海洋作为半平滑空间DG的空间三元组需要第四项理解海洋的永不可完全条纹化的本体论特征.md",
     "cards/20260623-0005-Hendrix论航母的代价在反舰导弹和卫星时代航母正在重蹈战列舰的覆辙昂贵脆弱且过时.md",
-    "cards/20260623-0006-Erickson和Wilson论中国的航母困境在反舰导弹和卫星监视时代中国面临航母还是潜艇的战略抉择.md",
-    "cards/20260623-0007-钱学森的开放复杂巨系统方法论是中国复杂性科学的根基与BontaProtevi的DG复杂性理论的跨文明对话.md",
-    "cards/20260623-0008-姜鹏论海陆复合型大国的战略选择提出了区域陆权全球海权和海陆并举的三分法框架.md",
-    "20260623-0004.md",
-    "cards/20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR.md",
-    "cards/20260620-1500.md",
-    "cards/20260620-1818.md",
-    "drafts/20260621-surplus-security-proposal.md",
-    "cards/20260621-0485-无实体主体性无产阶级作为资本主义秩序的剩余和否定性力量及其乌托邦局限.md",
-    "cards/20260621-0484-主体作为消失的中介意识形态质询永远无法完全成功总有创伤性剩余抵御征召.md",
-    "cards/20260621-0483-主体作为符号化的剩余齐泽克论主体即实体符号操作的丢失链条和消失的中介.md",
-    "cards/20260621-0482-主人话语公式S1-S2-dollar-a揭示资本家从工人那里掠夺的不只是剩余价值还掠夺了快感和知识.md",
-    "cards/20260621-0481-剩余快感不是快感的剩余而是通过认同和接受象征秩序所获得的痛苦欢乐.md",
-    "cards/20260621-0480-剩余作为可跨域迁移的理论模型从剩余价值到剩余快感构成同一枚硬币的两面.md",
-    "cards/20260621-0473-BontaProtevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁.md",
     "_state/cluster_history.json",
     "_state/near_ready.json",
     "_state/pending_articles.json"
