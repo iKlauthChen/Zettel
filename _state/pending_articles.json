@@ -439,9 +439,10 @@
       "parent",
       "support"
     ],
-    "status": "pending_user_decision",
+    "status": "published",
     "already_seen": true,
-    "readiness": "ready"
+    "readiness": "ready",
+    "produced_article": "drafts/Zevnik-拉康德勒兹的非对称整合.md"
   },
   {
     "cluster_id": "718894202c54",
