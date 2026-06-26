@@ -7,7 +7,12 @@ source:
   ref: "Lieberman, Elli. 'Why Deterrence Failed on October 7, 2023?' Strategic Assessment 28, no. 2 (July 2025)"
 tags: [deterrence, attrition-trap, denial-deter-paradox, cumulative-deterrence, israel-hamas]
 entities: [Elli Lieberman, Hamas, Israel, Iron Dome]
-links: []
+links: [
+  {id: 20260621-0484, reason: "意识形态质询永远不完整——拒止-威慑悖论中战术成功掩盖的结构缺陷"},
+  {id: 20260621-0483, reason: "主体作为符号化剩余——铁穹的战术成功重塑威慑者的主体位置"},
+  {id: 20260620-1800, reason: "灰色地带行动——拒止-威慑悖论在灰色地带中的表现"},
+  {id: 20260622-0036, reason: "Reid论战争机器——铁穹装置的技术成功使以色列被困在累积威慑的递归节奏中"},
+]
 voice_passed: true
 ---
 
