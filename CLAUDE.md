@@ -39,3 +39,62 @@ metadata:
 - 利用 Zettelkasten 卡片系统（本 Obsidian Vault）积累和连接思想
 - 研究素材持续消化为原子卡，成熟时组织为论文
 - 直接指出逻辑漏洞或薄弱环节，不必顾虑
+
+## 数据总览
+
+| 维度 | 数值 |
+|---|---|
+| 原子卡总数（~/zettel/cards/） | **652** |
+| — 时间戳编号卡 | 478 |
+| — 主题命名卡（从 memory/ 移入） | 174 |
+| — 全量带 tags | ✅ 652 张，平均每卡 6.8 个标签 |
+| — 总文本量 | 2.3 MB |
+| 草稿总数（~/zettel/drafts/） | **26** |
+| 桥接卡（~/.claude/.../memory/） | **35**（含 3 篇合成笔记） |
+| 标签索引 | 2065 标签 / 4407 条引用 |
+| 全文倒排索引 | 19829 词条（jieba 中英分词） |
+| wikilink 关系图 | 639 节点 / 1213 条边 |
+| 命名实体 | 246 个 |
+| 语义向量 | 652×512（446 真实 + 206 零向量占位） |
+
+## Zettel 目录结构
+
+```
+~/zettel/
+├── cards/               # 原子卡主库（652 张，全部 zettel 格式 frontmatter）
+│   ├── 20260620-*.md    # 时间戳编号卡（原始原子卡）
+│   ├── bonta-protevi-*  # 主题切卡（从 memory/ 移入）
+│   ├── original-batch-* # 原始库提炼卡
+│   └── ...
+├── drafts/              # 写作草稿
+├── _index/              # 搜索引擎索引（自动生成，勿手动编辑）
+│   ├── tags.json        # 标签索引（2065 标签，652 卡全覆盖）
+│   ├── links_graph.json # wikilink 关系图（639 节点，1213 条边）
+│   ├── term_inverted.json # 全文倒排索引（19829 词条，jieba 分词）
+│   ├── entities.json    # 命名实体（246 个）
+│   ├── embeddings.npy   # 语义向量（446 真实 + 206 零向量占位，652×512）
+│   └── embeddings_meta.json
+├── _state/              # Zettel 系统状态（聚类/就绪文章等）
+│   ├── cluster_history.json
+│   ├── near_ready.json
+│   └── pending_articles.json
+├── CLAUDE.md            # 本文件
+├── _rebuild_index.py    # 重建所有索引（tags/links/terms/entities/embeddings）
+└── _add_tags.py         # 为缺 tags 的新卡自动补标签
+```
+
+~/.claude/projects/-Users-iklauthchen/memory/ 存放桥接卡（34 张）和合成笔记（4 篇），由 MEMORY.md 索引加载到 Claude 会话上下文。
+
+## 索引维护流程
+
+添加新卡后，运行以下命令重建索引：
+
+```bash
+cd ~/zettel
+python3 _rebuild_index.py          # 完整重建
+python3 _add_tags.py               # 新卡自动补 tags（先于 _rebuild_index.py 运行）
+python3 _rebuild_index.py --tags   # 快速：只重建 tags + links
+python3 _rebuild_index.py --terms  # 只重建全文索引
+```
+
+注意：新卡的 embedding 向量为全零占位，语义搜索对新卡无效。如需真正的向量索引，需用嵌入模型重新生成 embeddings.npy。
