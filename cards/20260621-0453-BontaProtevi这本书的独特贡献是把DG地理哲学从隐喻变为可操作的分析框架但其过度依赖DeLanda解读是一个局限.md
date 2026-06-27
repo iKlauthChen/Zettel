@@ -1,16 +1,16 @@
 ---
-id: 20260621-0453
+id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限
 status: permanent
 created: 2026-06-21T04:53:00Z
 source: {type: book, ref: "Bonta & Protevi (2004). Deleuze and Geophilosophy: A Guide and Glossary. Edinburgh University Press"}
 tags: [deleuze, guattari, delanda, geophilosophy, metasource]
 links:
-  - {id: 20260621-0437, reason: "本书对地理哲学的整体定位"}
-  - {id: 20260621-0438, reason: "结构/能动性困境的解决——本书核心论点"}
-  - {id: 20260621-0449, reason: "复杂性理论的本体论承诺——本书理论奠基"}
-  - {id: 20260621-0442, reason: "抽象机器的三种含义——本书术语分析精华"}
-  - {id: 20260621-0451, reason: "DeLanda 尺度框架——本书最主要的理论来源之一"}
-  - {id: 20260621-0450, reason: "Olancho 案例——本书理论应用田野测试"}
+  - {id: 20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学, reason: "本书对地理哲学的整体定位"}
+  - {id: 20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边, reason: "结构/能动性困境的解决——本书核心论点"}
+  - {id: 20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模, reason: "复杂性理论的本体论承诺——本书理论奠基"}
+  - {id: 20260621-0442-抽象机器将虚拟奇异点连接成多重性定义了系统的变化阈值和创造潜力, reason: "抽象机器的三种含义——本书术语分析精华"}
+  - {id: 20260621-0451-DeLanda的多层次尺度分析将DG的分层理论转化为跨无机有机社会的统一框架, reason: "DeLanda 尺度框架——本书最主要的理论来源之一"}
+  - {id: 20260621-0450-Olancho案例如何运用DG制图学分析复杂空间指出空间的韧性在于空间的缠结而非分治, reason: "Olancho 案例——本书理论应用田野测试"}
 voice_passed: true
 ---
 
@@ -38,6 +38,6 @@ voice_passed: true
 
 ## 相关卡片
 
-- [[20260621-0437]] — 地理哲学的整体定位
-- [[20260621-0442]] — 抽象机器的三种含义：本书分析最精妙之处
-- [[20260621-0452]] — register 概念：一个小但精妙的术语贡献
+- [[20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学|link]] — 地理哲学的整体定位
+- [[20260621-0442-抽象机器将虚拟奇异点连接成多重性定义了系统的变化阈值和创造潜力|link]] — 抽象机器的三种含义：本书分析最精妙之处
+- [[20260621-0452-BontaProtevi用register替代level强调无机有机社会三域的物质交互而非层级分离|link]] — register 概念：一个小但精妙的术语贡献

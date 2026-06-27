@@ -85,6 +85,72 @@ metadata:
 
 ~/.claude/projects/-Users-iklauthchen/memory/ 存放桥接卡（34 张）和合成笔记（4 篇），由 MEMORY.md 索引加载到 Claude 会话上下文。
 
+## 卡片格式规范
+
+### 文件命名
+`YYYYMMDD-NNNN-简短描述.md`
+- `YYYYMMDD` = `created:` 字段中的日期
+- `NNNN` = 当天内的顺序号（0001 起，按字母序排列）
+- 描述取卡片标题或别名，中文不用 `":"` 和 `"`
+
+### YAML 前置元数据模板
+```yaml
+---
+id: YYYYMMDD-NNNN
+status: permanent
+created: 2026-06-24T15:23:59+0800
+source: {type: book|article|reading-note|external-url, ref: "完整引用", page: "页码"}
+tags: [tag1, tag2, concept]
+links:
+  - {id: YYYYMMDD-NNNN, reason: "关联原因——明确链接理由"}
+voice_passed: true
+aliases: ["卡片核心论题的简洁表述"]
+---
+```
+
+### YAML 常见陷阱（必须避免）
+
+| 问题 | 错误示例 | 正确写法 |
+|---|---|---|
+| **缺开头 `---`** | `tags: [...]`（文件直接以 YAML 内容开头） | `---\ntags: [...]` |
+| **中文双引号嵌套** | `aliases: ["德勒兹的"块茎"概念"]` → YAML 将 `"块茎"` 的 `""` 视为字符串结束 | `aliases: ["德勒兹的'块茎'概念"]` 改用英文单引号 |
+| **ASCII `"` 在未引用值中** | `description: 情报机构"封住"安全化` → `"` 被 YAML 解析为特殊字符 | `description: "情报机构'封住'安全化"` 将整个值用 YAML 双引号包裹 |
+| **重复键** | `pages: "23-26; Deleuze...", pages: "114-216"` → 后一个覆盖前一个 | 合并到 `ref` 字段：`ref: "..., pp.23-26; ..., pp.114-216"` |
+| **冒号在未引用值中** | `description: Reid(2003) War Machine: Nomadism` → `: ` 被解析为映射分隔符 | `description: "Reid(2003) War Machine: Nomadism"` |
+| **缺尾部 `---`** | YAML 内容延伸至正文，`**bold**` 的 `*` 被解析为 YAML 别名 | 确保正文前有 `---\n` 关闭 YAML |
+
+### Wiki 链接格式
+
+```markdown
+<!-- 正确：使用时间戳 ID，无 .md 后缀 -->
+[[20260624-0001|显示文本]]
+
+<!-- 错误：使用描述性名称 -->
+[[baldauff-heng-japan-dcas-card1-puzzle]]
+
+<!-- 错误：带 .md 后缀 -->
+[[20260624-0001.md|显示文本]]
+```
+
+### 相关卡片 Section 格式
+
+```markdown
+## 相关卡片
+
+- [[20260624-0005|目标卡片别名]] — 关联原因说明
+- [[20260623-1400|概念创造]] — 与概念创造论的建构论前提一致
+```
+
+### 创建新卡的标准流程
+
+1. 确定 `created:` 时间戳（ISO 8601: `2026-06-24T15:23:59+0800`）
+2. 命名文件：`YYYYMMDD-NNNN-别名摘要.md`
+3. 写入 YAML frontmatter（参照模板）
+4. `tags` 从现有标签索引复用，避免发明不规范标签
+5. `links` 填写与本卡有直接关联的前件卡片
+6. 文末 `## 相关卡片` 填写跨簇链接
+7. 运行索引维护流程
+
 ## 索引维护流程
 
 添加新卡后，运行以下命令重建索引：

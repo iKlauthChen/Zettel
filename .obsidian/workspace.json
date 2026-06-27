@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "98830c2175adb17c",
+    "id": "61db837acac8ec3f",
     "type": "split",
     "children": [
       {
-        "id": "89bb1cce5ef50c93",
+        "id": "b7fb5fcbbd9fd685",
         "type": "tabs",
         "children": [
           {
-            "id": "cb2152665e5e1a50",
+            "id": "f5b2cf5aad9c78e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cards/20260621-0008.md",
+                "file": "cards/20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260621-0008"
+              "title": "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dac148c48d491db3",
+    "id": "66bde136f52d8ca6",
     "type": "split",
     "children": [
       {
-        "id": "d2367923e1995678",
+        "id": "24995a703e94b563",
         "type": "tabs",
         "children": [
           {
-            "id": "7b769524d3cbc066",
+            "id": "d754d567a96acf42",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "1b180b87ecadd231",
+            "id": "954a24c7722661ad",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "758ffd51a480be1c",
+            "id": "359b7814f10df2c6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.50390243530273
+    "width": 300
   },
   "right": {
-    "id": "3a6e5db8a353aeef",
+    "id": "aeec41400d6a992a",
     "type": "split",
     "children": [
       {
-        "id": "291935b768f221de",
+        "id": "b0e02274a465b2da",
         "type": "tabs",
         "children": [
           {
-            "id": "a858b3515178e327",
+            "id": "845782d18936fd6a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards/20260619-1430-平滑与纹理是两种异质的空间化逻辑.md",
+                "file": "cards/20260622-0030.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "20260619-1430-平滑与纹理是两种异质的空间化逻辑 的反向链接列表"
+              "title": "20260622-0030 的反向链接列表"
             }
           },
           {
-            "id": "f25abefe0728a360",
+            "id": "182298852403611f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cards/20260619-1430-平滑与纹理是两种异质的空间化逻辑.md",
+                "file": "cards/20260622-0030.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "20260619-1430-平滑与纹理是两种异质的空间化逻辑 的出链列表"
+              "title": "20260622-0030 的出链列表"
             }
           },
           {
-            "id": "bd7f397362af3084",
+            "id": "1f98332a467ded40",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "cedd0aef35488a70",
+            "id": "2637b1c103d8305c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "b5d6863a679f1bbc",
+            "id": "4c96fea428b3687f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "cards/20260619-1430-平滑与纹理是两种异质的空间化逻辑.md",
+                "file": "cards/20260622-0030.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20260619-1430-平滑与纹理是两种异质的空间化逻辑 的大纲"
+              "title": "20260622-0030 的大纲"
             }
           }
         ]
@@ -183,41 +183,32 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cb2152665e5e1a50",
+  "active": "f5b2cf5aad9c78e6",
   "lastOpenFiles": [
-    "cards/20260626-1710-张能论德勒兹政治操作于战术层面而非战略层面.md",
-    "raw/articles/张能 _ 2026 _ 朝向未来的政治学：德勒兹视阈中的政治.pdf",
-    "cards/20260626-1100-张能将德勒兹政治哲学定位为描述而非论证.md",
-    "cards/20260626-1050-张能论平滑空间非解放性需要平滑抗争.md",
-    "cards/20260626-1040-张能论德勒兹政治学朝向未来而非空间分类.md",
-    "cards/20260621-0009.md",
-    "cards/20260621-0013.md",
-    "cards/20260621-0014.md",
-    "cards/20260621-0015.md",
-    "cards/20260622-0008-地图-图像德勒兹美学中的地图不是静态再现而是虚拟与现实之间的波动装置.md",
-    "cards/20260622-0010-操作图像Farocki和Waheed的监控美学揭示了后人类地图中代码与控制的新型图像体制.md",
-    "cards/tang-yongsheng-grand-strategy-card2-strategic-stability.md",
-    "cards/qin-strategic-uncertainty-card6-strategic-stability.md",
-    "cards/20260623-2202.md",
-    "cards/20260623-1804.md",
-    "cards/20260626-1224-安全化失败当认识权威不支持.md",
-    "cards/20260626-1146-lieberman-october-7-failure-mechanism.md",
-    "cards/20260626-1134-lieberman-core-thesis-deterrence-failure.md",
-    "cards/20260623-1611.md",
-    "cards/20260623-1610.md",
-    "cards/20260623-1609.md",
-    "cards/20260623-1608.md",
-    "cards/20260623-1607.md",
-    "cards/20260623-1606.md",
-    "cards/20260623-1605.md",
-    "cards/20260623-1604.md",
-    "cards/20260623-1603.md",
-    "_index/embeddings_meta.json",
-    "_index/embeddings.npy",
-    "cards/20260623-1613.md.tmp.74478.00c3c88f43f3",
-    "cards/20260623-1708.md.tmp.74478.03bb7cbcb93d",
-    "_state/cluster_history.json",
-    "_state/near_ready.json",
-    "_state/pending_articles.json"
+    "cards/20260620-1504-任何事物都是生成中的多样性的和谐.md",
+    "cards/20260620-1516-装置既是物的系统也是符号的系统.md",
+    "cards/20260620-1501-装置创造界域而非只是占据空间.md",
+    "cards/20260620-1500-装置是安排的过程而非静态组织.md",
+    "cards/20260621-0441-事件与逃逸线是物质系统敏感性与多元相遇产生创造性的两种机制.md",
+    "cards/20260620-1536-精神分析重铸了一个关于阉割和匮乏的新观念.md",
+    "cards/20260620-1545-无意义不是意义的缺席.md",
+    "cards/20260620-1583-无名的经验像沉默的海洋.md",
+    "cards/20260621-0009-Guattari与Deleuze选择了截.md",
+    "cards/20260621-0002-Guattari应被视为独立于Deleu.md",
+    "cards/20260621-0472-DG的四种符号制度从原始领域的前符号到专制国家的符号表意再到游牧的激情主体性和资本主义的反符号.md",
+    "cards/20260620-1507-语言不是被动的而是能动的创造真理.md",
+    "cards/20260621-0445-river-connection.md",
+    "20260621-0441.md",
+    "cards/20260620-1596-生成.md",
+    "cards/20260620-1576-永恒轮回中某物的轮回不能证明同一性.md",
+    "cards/20260620-1570-如何在生命断裂的同时持守整体性.md",
+    "20260622-1609.md",
+    "cards/20260620-1509-资本主义解域化只为更强大的再辖域化.md",
+    "cards/20260622-0030-abrahams-assemblage.md",
+    "cards/20260620-1500.md",
+    "20260622-0030.md",
+    "20260621-0445.md",
+    "111.md",
+    "cards/20260622-0030.md"
   ]
 }

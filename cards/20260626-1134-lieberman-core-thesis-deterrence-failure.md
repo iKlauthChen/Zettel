@@ -1,5 +1,5 @@
 ---
-id: 20260626-1134
+id: 20260626-1134-lieberman-core-thesis-deterrence-failure
 status: literature
 created: 2026-06-26T11:34:00+08:00
 source:
@@ -8,10 +8,10 @@ source:
 tags: [deterrence, attrition-trap, denial-deter-paradox, cumulative-deterrence, israel-hamas]
 entities: [Elli Lieberman, Hamas, Israel, Iron Dome]
 links: [
-  {id: 20260621-0484, reason: "意识形态质询永远不完整——拒止-威慑悖论中战术成功掩盖的结构缺陷"},
-  {id: 20260621-0483, reason: "主体作为符号化剩余——铁穹的战术成功重塑威慑者的主体位置"},
-  {id: 20260620-1800, reason: "灰色地带行动——拒止-威慑悖论在灰色地带中的表现"},
-  {id: 20260622-0036, reason: "Reid论战争机器——铁穹装置的技术成功使以色列被困在累积威慑的递归节奏中"},
+  {id: 20260621-0484-主体作为消失的中介意识形态质询永远无法完全成功总有创伤性剩余抵御征召, reason: "意识形态质询永远不完整——拒止-威慑悖论中战术成功掩盖的结构缺陷"},
+  {id: 20260621-0483-主体作为符号化的剩余齐泽克论主体即实体符号操作的丢失链条和消失的中介, reason: "主体作为符号化剩余——铁穹的战术成功重塑威慑者的主体位置"},
+  {id: 20260620-1800-灰色地带行动模糊和平与战争界限挑战传统威, reason: "灰色地带行动——拒止-威慑悖论在灰色地带中的表现"},
+  {id: 20260622-0036-Reid论德勒兹的战争机器不是军队而是一种反抗国家捕获的思维和存在的游牧形式, reason: "Reid论战争机器——铁穹装置的技术成功使以色列被困在累积威慑的递归节奏中"},
 ]
 voice_passed: true
 ---

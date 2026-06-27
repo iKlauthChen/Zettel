@@ -1,5 +1,5 @@
 ---
-id: 20260626-1140
+id: 20260626-1140-lieberman-lateral-comparison-pattern
 status: literature
 created: 2026-06-26T11:40:00+08:00
 source:
@@ -8,9 +8,9 @@ source:
 tags: [deterrence, longitudinal-study, PLO, hezbollah, egypt, hamas, credibility, strategic-learning]
 entities: [Elli Lieberman, PLO, PA, Hezbollah, Hamas, Egypt, Israel]
 links:
-  - id: 20260626-1136
+  - id: 20260626-1136-lieberman-credibility-land-maneuver
     reason: "纵向比较验证了陆地机动→可信性→威慑稳定的因果机制"
-  - id: 20260626-1134
+  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
     reason: "四案例中累积威慑均导致消耗陷阱，为核心论题提供经验证据"
 voice_passed: true
 ---
@@ -49,5 +49,5 @@ Lieberman 的纵向比较方法(methodologically，参见 [[叶成城&唐世平 
 
 ## 相关卡片
 
-- [[20260626-1138-lieberman-overextension-trap]] — PLO/1982的过度延伸是过度延伸陷阱的典型案例
+- [[20260626-1138-lieberman-overextension-trap|link]] — PLO/1982的过度延伸是过度延伸陷阱的典型案例
 - [[张景全&吴昊 区域化与安全化悖论(2017首创) 切卡|区域化与安全化悖论]] — 悖论机制(行动产生与预期相反的结果)在 Lieberman 案例中反复出现：拒止→削弱威慑、过度延伸→激发意志竞赛

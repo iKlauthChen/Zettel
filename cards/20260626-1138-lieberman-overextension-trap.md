@@ -1,5 +1,5 @@
 ---
-id: 20260626-1138
+id: 20260626-1138-lieberman-overextension-trap
 status: literature
 created: 2026-06-26T11:38:00+08:00
 source:
@@ -8,9 +8,9 @@ source:
 tags: [deterrence, overextension, disengagement, attrition-trap, military-strategy]
 entities: [Elli Lieberman, Frederick the Great, Raymond Aron, Egypt, Israel, PLO]
 links:
-  - id: 20260626-1134
+  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
     reason: "过度延伸陷阱是核心论题中'机动战略'必须配套的约束条件——消耗陷阱的对称版本"
-  - id: 20260626-1136
+  - id: 20260626-1136-lieberman-credibility-land-maneuver
     reason: "没有过度延伸的警戒机制，陆地机动从威慑解决手段转变为消耗陷阱的入口"
 voice_passed: true
 ---
@@ -41,5 +41,5 @@ Arons 的"自愿退让"原则在理论上具有重要意义——它挑战了威
 
 ## 相关卡片
 
-- [[20260626-1140-lieberman-lateral-comparison-pattern]] — PLO案例(1982黎巴嫩战争后继续占领→消耗陷阱)再次验证了此机制
+- [[20260626-1140-lieberman-lateral-comparison-pattern|link]] — PLO案例(1982黎巴嫩战争后继续占领→消耗陷阱)再次验证了此机制
 - [[原始库提炼-平滑-纹理空间的IR映射]] — 2000年撤出黎巴嫩可被理解为从纹理空间(占领/领土持有)退回到平滑空间(机动自由)，后者是战争机器的空间条件

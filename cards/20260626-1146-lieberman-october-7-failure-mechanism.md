@@ -1,5 +1,5 @@
 ---
-id: 20260626-1146
+id: 20260626-1146-lieberman-october-7-failure-mechanism
 status: literature
 created: 2026-06-26T11:46:00+08:00
 source:
@@ -8,9 +8,9 @@ source:
 tags: [deterrence, october-7, hamas, miscalculation, multi-front-war, attrition-trap]
 entities: [Elli Lieberman, Hamas, Yahya Sinwar, Hezbollah, Iran, Israel, Iron Dome]
 links:
-  - id: 20260626-1134
+  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
     reason: "本卡是核心论题的最终验证案例——累积威慑+铁穹→消耗陷阱→十月7日威慑失败"
-  - id: 20260626-1142
+  - id: 20260626-1142-lieberman-hamas-deterrable-organization
     reason: "哈马斯的错误预期(以色列会沿用累积威慑模式)正是哈马斯可威慑性的反证"
 voice_passed: true
 ---
@@ -39,6 +39,6 @@ Lieberman 对十月7日威慑失败的重构揭示了哈马斯战略推理中的
 
 ## 相关卡片
 
-- [[20260626-1144-lieberman-israeli-military-political-failures]] — 以色列军事转型和政治算计是导致两种威慑路径同时缺失的根本原因
+- [[20260626-1144-lieberman-israeli-military-political-failures|link]] — 以色列军事转型和政治算计是导致两种威慑路径同时缺失的根本原因
 - [[秦立志 战略不确定性与安全困境 切卡|战略不确定性卡组]] — 反事实威慑路径(进攻性/防御性)与战略不确定性分析框架形成对话
 - [[原始库提炼-平滑-纹理空间的IR映射]] — 铁穹+电子栅栏创造了一个"技术纹理空间"的假象，但这不是真正的主权绝对空间（Saldanea意义上的"面"），哈马斯以"线"的渗透(地面突击)轻松穿越了它
