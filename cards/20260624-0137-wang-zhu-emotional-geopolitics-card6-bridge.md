@@ -1,3 +1,4 @@
+tags: [20260624, 情感, 20260622, 地缘, security, 情动, 链接, 氛围, ingest, 维度]
 ---
 name: wang-zhu-emotional-geopolitics-card6-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
----
 
 # 桥接卡：情感地缘政治在跨学科谱系中的位置
 

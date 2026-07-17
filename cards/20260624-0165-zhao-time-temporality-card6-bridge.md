@@ -1,3 +1,4 @@
+tags: [20260624, 鼎新, 德勒, 时间, 时间性, 权力, 20260622, 道家, card1, 四种]
 ---
 name: zhao-time-temporality-card6-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：时间本体论的社会学建构与跨领域对话
 

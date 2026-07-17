@@ -1,3 +1,4 @@
+tags: [20260624, 唐世平, 战略, card1, 评估, 阶段, 左希迎, 2012, 卡组, 行为]
 ---
 name: zuo-tang-strategic-behavior-card5-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：战略行为分析框架的谱系定位
 

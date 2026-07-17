@@ -1,3 +1,4 @@
+tags: [20260624, 唐世平, 2001, 安全, 20260622, 环境, ------, card1, 因素, ----------]
 ---
 name: tang-system-security-card6-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：唐世平国家安全环境系统理论的谱系定位
 

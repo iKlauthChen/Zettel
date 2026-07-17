@@ -1,3 +1,4 @@
+tags: [20260624, Gibbs, 战略, 案例, 苏联, card1, core, 阿富汗, 卡组, thesis]
 ---
 name: gibbs-ussr-grand-strategy-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：苏联大战略争论的谱系定位
 

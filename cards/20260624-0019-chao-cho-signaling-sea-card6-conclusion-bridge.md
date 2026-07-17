@@ -1,3 +1,4 @@
+tags: [20260624, 信号, 海上, 20260622, 威慑, deterrence, 传递, Chao, Cho, 克制]
 ---
 name: chao-cho-signaling-sea-card6-conclusion-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
----
 
 # 研究议程与跨谱系桥接——将海洋维度引入安全研究
 

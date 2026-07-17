@@ -1,3 +1,4 @@
+tags: [20260624, ------, 安全, 桥接, 德勒, 机器, ---, Olancho, -------------, vs]
 ---
 name: original-remaining-bridge-index
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 原始库未提炼笔记——IR/安全桥接索引
 

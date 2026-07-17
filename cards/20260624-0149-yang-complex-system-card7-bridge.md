@@ -1,3 +1,4 @@
+tags: [20260624, 杨思灵, 20260622, 复合, ------, card1, security, 系统论, 安全, 卡组]
 ---
 name: yang-complex-system-card7-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：杨思灵国际政治复合系统论的谱系定位
 
@@ -58,6 +58,6 @@ metadata:
 
 1. **操作化方向**：杨思灵提出了四大要素+五种路径依赖的框架，但缺乏实证操作化。后续研究可沿[[20260622-0068-qin-tan-geostrategy-ingest]]的地缘位势二维操作化路径，为复合系统构建可测量的指标体系。
 
-2. **与战争机器桥接**：[[20260624-0138-war-machine-bridge-residual-security]]中"剩余安全"概念可为杨思灵的"动力要素系统"提供新的动力类型——在合作/竞争/冲突/战争之外，"占有"（appropriation）作为第五种动力。
+2. **与战争机器桥接**：[[20260624-0138-war-machine-bridge-surplus-security]]中"剩余安全"概念可为杨思灵的"动力要素系统"提供新的动力类型——在合作/竞争/冲突/战争之外，"占有"（appropriation）作为第五种动力。
 
 3. **叠加态安全**：杨思灵的"复合"与[[20260622-0077-wu-quantum-turn-political-science]]的"叠加态"共享同一本体论直觉——IP系统的状态不是确定的"结构决定单元"而是多重可能性的并存。

@@ -1,3 +1,4 @@
+tags: [20260624, Retaill, 地缘, 自我实现, 地缘政治学, ------, 模型, card1, 谱系, core]
 ---
 name: retaille-geopolitics-history-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：法国地缘政治学的谱系定位
 
@@ -33,7 +33,7 @@ Retaillé（2000）代表了**法国地缘政治学传统**——区别于德英
 | 时殷弘三传统 | [[20260624-0102-shi-security-philosophical-paradigms-card1-core]] | 两个三分类框架的对比：时殷弘以马丁·怀特的三大IR思想传统（现实主义/理性主义/革命主义）分安全哲理；Retaillé以三种模型家族（帝国/国家/普世）分地缘政治再现——时殷弘更偏**伦理/安全**，Retaillé更偏**空间/再现** |
 | 张景全区域化悖论 | [[20260624-0157-zhang-regionalization-securitization-card1-core-thesis]] | Retaillé的普世主义模型（中国"天下"、伊斯兰世界、西方普世主义）与张景全的"区域化意向"相通——区域化意向本质上是行为体对区域空间的一种"地缘政治书写"，受其"模型家族"的制约 |
 | 邵永灵时殷弘陆海复合 | [[20260624-0100-shao-shi-land-maritime-card1-foundation]] | Retaillé的"自我实现"循环机制解释了邵永灵时殷弘观察到的现象——"海权优势"之所以自我验证，不是因为海权客观上更优越，而是因为**海陆对立的模型被不断自我实现**（从托尔德西里亚斯→麦金德→冷战） |
-| 战争机器桥接卡 | [[20260624-0138-war-machine-bridge-residual-security]] | Retaillé的"新地缘政治"（ethnicity取代state成为中心）与战争机器的"逃逸线"思维有深层共鸣——当国家失去其中心地位，"国族地图不同于国家地图"时，战争机器从国家的"占有"中逃逸出来，转化为族裔/身份的斗争 |
+| 战争机器桥接卡 | [[20260624-0138-war-machine-bridge-surplus-security]] | Retaillé的"新地缘政治"（ethnicity取代state成为中心）与战争机器的"逃逸线"思维有深层共鸣——当国家失去其中心地位，"国族地图不同于国家地图"时，战争机器从国家的"占有"中逃逸出来，转化为族裔/身份的斗争 |
 
 ## "自我实现"概念的独特贡献
 

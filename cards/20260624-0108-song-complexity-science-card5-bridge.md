@@ -1,3 +1,4 @@
+tags: [20260624, 复杂性, 科学, 复杂, 非线性, 德勒, 2003, 范式, 此文, 20260623]
 ---
 name: song-complexity-science-card5-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
----
 
 # 桥接卡：复杂性科学在思维谱系中的定位
 

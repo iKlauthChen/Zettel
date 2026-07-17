@@ -1,3 +1,4 @@
+tags: [20260624, DCAs, 20260622, DCA, deterrence, 合作, 同盟, 安全, KPI, 盟友]
 ---
 name: baldauff-heng-japan-dcas-card6-conclusion-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
----
 
 # DCAs的评价、局限与跨谱系定位
 

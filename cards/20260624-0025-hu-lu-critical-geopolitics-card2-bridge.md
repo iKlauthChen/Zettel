@@ -1,3 +1,4 @@
+tags: [20260624, ------, 胡志丁陆, 地缘, 地缘政治学, 2016, 批判, 间性, card1, 大道]
 ---
 name: hu-lu-critical-geopolitics-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：批判地缘政治学的谱系定位
 

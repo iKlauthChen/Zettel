@@ -1,3 +1,4 @@
+tags: [20260624, 2019, 立志, 因果, 2016, 战略, ------, ----------, 卡组, card1]
 ---
 name: qin-dynamic-mechanism-card5-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：动力机制理论的三重谱系定位
 

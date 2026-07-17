@@ -1,3 +1,4 @@
+tags: [20260624, 2016, 殷弘, 2000, 陆海, 姜鹏, 2019, 邵永灵时, 战略, 立志]
 ---
 name: shao-shi-land-maritime-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：陆海复合型国家研究的谱系奠基
 

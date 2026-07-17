@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "NichNeumor",
+  "showRibbon": true,
+  "baseFontSizeAction": false,
+  "translucency": true
+}

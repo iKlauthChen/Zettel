@@ -1,3 +1,4 @@
+tags: [20260624, 航母, Bana, 威慑, 2015, card6, bridge, 信号, conclusion, 出云]
 ---
 name: bana-sea-power-card5-conclusion-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
----
 
 # 桥接卡：亚太航母竞赛2015年截面与现有卡组的对接
 

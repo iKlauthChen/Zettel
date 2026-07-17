@@ -1,3 +1,4 @@
+tags: [20260624, 流形, 德勒, 多重性, 黎曼, 20260623, ingest, 拓扑, deleuze, 外尔]
 ---
 name: liu-qu-manifold-evolution-card6-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
----
 
 # 桥接卡：流形概念史的思想谱系定位——从空间观念变革到哲学多重性
 
@@ -56,4 +56,4 @@ metadata:
 
 **How to apply**: 此卡作为桥接卡，在撰写空间哲学/空间政治/德勒兹研究时需要时引用。可用于论证（1）数学概念演变中的内在驱动力与外在驱动力辩证（高斯的地图 vs 黎曼的非欧几何危机）；（2）"局部/全局"结构在数学与社会科学中的通用性；（3）流形作为"多重可赋能基底"的思想模型如何跨越数学进入哲学和社会理论。
 
-**跨簇链接**: [[20260623-0018-saldanha-space-after-deleuze-ingest]]、[[complex-spatial-geography-essay]]、[[20260623-0019-shores-logic-deleuze-ingest]]、[[20260624-0138-war-machine-bridge-residual-security]]、[[20260623-0020-unwin-waste-space-ingest]]
+**跨簇链接**: [[20260623-0018-saldanha-space-after-deleuze-ingest]]、[[complex-spatial-geography-essay]]、[[20260623-0019-shores-logic-deleuze-ingest]]、[[20260624-0138-war-machine-bridge-surplus-security]]、[[20260623-0020-unwin-waste-space-ingest]]

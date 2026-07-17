@@ -1,3 +1,4 @@
+tags: [20260624, 间性, 主体, 胡志丁, 他者, ------, 战略, 卡组, ----------, card1]
 ---
 name: hu-liu-geopolitical-intersubjectivity-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：地缘战略主体间性的谱系定位
 

@@ -1,3 +1,4 @@
+tags: [2024summer, 鼎新, 杨思灵, Retaill, 德勒, 战略, 胡志丁, 时间, ---, ------]
 ---
 name: summer-batch-cross-domain-synthesis
 description: 2025夏季批量切卡（22篇文献）地缘政治/安全新卡与已有哲学卡组的跨领域渗透与共振
@@ -5,7 +6,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 夏季批量切卡——跨领域合成笔记
 

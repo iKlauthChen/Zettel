@@ -1,3 +1,4 @@
+tags: [20260624, Brooks, 战略, 海权, 海洋, ------, 1986, 威慑, 海军, 案例]
 ---
 name: brooks-maritime-strategy-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：美国海洋战略的谱系定位
 

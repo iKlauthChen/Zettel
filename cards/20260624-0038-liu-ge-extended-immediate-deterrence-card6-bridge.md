@@ -1,3 +1,4 @@
+tags: [20260624, 威慑, 20260622, 即时, 延伸, 进攻方, 威慑理论, 信号, deterrence, 拒止]
 ---
 name: liu-ge-extended-immediate-deterrence-card6-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
----
 
 # 桥接卡：延伸—即时威慑在安全研究谱系中的位置
 

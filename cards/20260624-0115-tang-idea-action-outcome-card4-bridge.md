@@ -1,3 +1,4 @@
+tags: [20260624, 行动, 结果, 唐世平, 方法论, card1, core, thesis, 客体, 战略]
 ---
 name: tang-idea-action-outcome-card4-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：观念-行动-结果框架的元方法论定位
 

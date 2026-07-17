@@ -1,3 +1,4 @@
+tags: [20260624, 战略, 永胜, 安全, 2020, card1, 国家, 军事, 利德尔, --------]
 ---
 name: tang-yongsheng-grand-strategy-card6-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：中国特色安全道路与理论谱系定位
 
@@ -62,7 +62,7 @@ metadata:
 | 杨思灵复合系统论 | [[20260624-0143-yang-complex-system-card1-core-thesis]] 至 card7 | 唐永胜的"多维世界需要多维视角"（p.35）与杨思灵的"俄罗斯套娃系统嵌套"——共享对单一归因的拒绝 |
 | 秦立志战略不确定性 | [[20260624-0091-qin-strategic-uncertainty-card1-core-thesis]] | 唐永胜的"不确定性增强"是秦立志因果链的**宏观输入**——战略不确定性在"百年变局"条件下被系统性放大 |
 | 唐世平系统理论 | [[20260624-0120-tang-system-security-card1-core-thesis]] | 唐永胜（2020）可视为唐世平（2001）五因素系统在20年后的**现实化检验**——五个因素在百年变局中有什么变化？ |
-| 战争机器桥接卡 | [[20260624-0138-war-machine-bridge-residual-security]] | 唐永胜的"积极防御"与德勒兹战争机器的区别——前者是国家装置对军事力量的**克制性占有**，后者是**逃逸性占有** |
+| 战争机器桥接卡 | [[20260624-0138-war-machine-bridge-surplus-security]] | 唐永胜的"积极防御"与德勒兹战争机器的区别——前者是国家装置对军事力量的**克制性占有**，后者是**逃逸性占有** |
 | 情感地缘政治 | [[20260624-0132-wang-zhu-emotional-geopolitics-card1-turn]] | 唐永胜多处提及"战略定力"——在情感地缘政治框架下，"定力"是对抗"情动氛围"中非理性冲动的能力 |
 | 总体国家安全观 | 此卡本身就部分涉及 | 可作为总体国家安全观在军事领域的操作化讨论 |
 

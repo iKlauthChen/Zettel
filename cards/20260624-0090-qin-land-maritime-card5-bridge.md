@@ -1,3 +1,4 @@
+tags: [20260624, ------, 战略, 地缘, 立志, 2016, 海权, 转型, card1, 防御性]
 ---
 name: qin-land-maritime-card5-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：陆海复合型国家战略转型的谱系定位
 

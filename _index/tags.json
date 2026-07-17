@@ -1,4 +1,168 @@
 {
+  "2024summer": [
+    "2024summer-batch-cross-domain-synthesis"
+  ],
+  "鼎新": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
+    "20260624-0160-zhao-time-temporality-card1-core-thesis",
+    "20260624-0161-zhao-time-temporality-card2-critique-western-time",
+    "20260624-0163-zhao-time-temporality-card4-daoist-time",
+    "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom",
+    "20260624-0165-zhao-time-temporality-card6-bridge"
+  ],
+  "杨思灵": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260624-0143-yang-complex-system-card1-core-thesis",
+    "20260624-0148-yang-complex-system-card6-productive-forces",
+    "20260624-0149-yang-complex-system-card7-bridge"
+  ],
+  "Retaill": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260624-0099-retaille-geopolitics-history-card2-bridge"
+  ],
+  "德勒": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical",
+    "20260622-0061-li-kelin-deleuze-time-ingest",
+    "20260622-0062-luzecky-cinema-time-bergson-film",
+    "20260622-0063-luzecky-smith-deleuze-time-intro",
+    "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
+    "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
+    "20260622-0069-reid-war-machine-ingest",
+    "20260622-0070-sheldahl-thomason-deleuze-foucault-time",
+    "20260622-0071-smith-pure-form-time-three-syntheses",
+    "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
+    "20260622-0073-stivale-deleuze-seminar-time-out-of-joint",
+    "20260622-0075-trnka-deleuze-negri-political-time",
+    "20260623-0017-richter-politics-of-orientation-ingest",
+    "20260623-0018-saldanha-space-after-deleuze-ingest",
+    "20260623-0019-shores-logic-deleuze-ingest",
+    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
+    "20260624-0049-luan-dong-deleuze-creation-card1-encounter",
+    "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
+    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition",
+    "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
+    "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
+    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
+    "20260624-0073-original-batch3-desire-machine-state",
+    "20260624-0077-original-batch5-event-security-law",
+    "20260624-0080-original-remaining-bridge-index",
+    "20260624-0108-song-complexity-science-card5-bridge",
+    "20260624-0165-zhao-time-temporality-card6-bridge",
+    "博士论文框架诊断-三个候选方向"
+  ],
+  "战略": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260622-0056-dibb-brabin-deterrence-denial-warning",
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
+    "20260624-0012-brooks-maritime-strategy-card1-core",
+    "20260624-0013-brooks-maritime-strategy-card2-bridge",
+    "20260624-0020-gibbs-ussr-grand-strategy-card1-core",
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
+    "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
+    "20260624-0029-hulme-gartzke-tyranny-distance-card4-self-inflicted-paradox",
+    "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
+    "20260624-0058-nathan-scobell-globalization-security-card1-thesis",
+    "20260624-0060-nathan-scobell-globalization-security-card3-china-model",
+    "20260624-0065-original-batch1-great-power-naval-strategy",
+    "20260624-0067-original-batch1-naval-politics",
+    "20260624-0070-original-batch2-geoposition-security-perception",
+    "20260624-0081-qin-dynamic-mechanism-card1-core-thesis",
+    "20260624-0082-qin-dynamic-mechanism-card2-system-level",
+    "20260624-0083-qin-dynamic-mechanism-card3-unit-level",
+    "20260624-0084-qin-dynamic-mechanism-card4-china-path",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0086-qin-land-maritime-card1-core-thesis",
+    "20260624-0087-qin-land-maritime-card2-six-factors",
+    "20260624-0088-qin-land-maritime-card3-germany-case",
+    "20260624-0089-qin-land-maritime-card4-soviet-china",
+    "20260624-0090-qin-land-maritime-card5-bridge",
+    "20260624-0091-qin-strategic-uncertainty-card1-core-thesis",
+    "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox",
+    "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
+    "20260624-0100-shao-shi-land-maritime-card1-foundation",
+    "20260624-0101-shao-shi-land-maritime-card2-bridge",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge",
+    "20260624-0126-tang-yongsheng-grand-strategy-card1-core-thesis",
+    "20260624-0127-tang-yongsheng-grand-strategy-card2-strategic-stability",
+    "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation",
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge",
+    "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
+    "20260624-0140-xu-time-strategic-goal-card2-three-distortion-factors",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
+    "20260624-0144-yang-complex-system-card2-four-subsystems",
+    "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis",
+    "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
+    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
+    "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge",
+    "博士论文框架诊断-三个候选方向"
+  ],
+  "胡志丁": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge"
+  ],
+  "时间": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260620-1595-核危机摧毁的不是启蒙进步信念",
+    "20260622-0055-cisney-power-false-time-truth",
+    "20260622-0061-li-kelin-deleuze-time-ingest",
+    "20260622-0062-luzecky-cinema-time-bergson-film",
+    "20260622-0063-luzecky-smith-deleuze-time-intro",
+    "20260622-0065-nail-kinetic-theory-time-lucretius",
+    "20260622-0067-olkowski-time-real-chaos-complexity",
+    "20260622-0070-sheldahl-thomason-deleuze-foucault-time",
+    "20260622-0071-smith-pure-form-time-three-syntheses",
+    "20260622-0073-stivale-deleuze-seminar-time-out-of-joint",
+    "20260622-0075-trnka-deleuze-negri-political-time",
+    "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
+    "20260624-0140-xu-time-strategic-goal-card2-three-distortion-factors",
+    "20260624-0141-xu-time-strategic-goal-card3-germany-afghanistan",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
+    "20260624-0160-zhao-time-temporality-card1-core-thesis",
+    "20260624-0161-zhao-time-temporality-card2-critique-western-time",
+    "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom",
+    "20260624-0165-zhao-time-temporality-card6-bridge",
+    "20260715-0017",
+    "20260715-0018",
+    "20260715-0019",
+    "20260715-0023",
+    "20260715-0024",
+    "20260716-0001",
+    "20260716-0010",
+    "20260716-0025",
+    "20260716-0028",
+    "博士论文框架诊断-三个候选方向"
+  ],
+  "---": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260624-0080-original-remaining-bridge-index"
+  ],
+  "------": [
+    "2024summer-batch-cross-domain-synthesis",
+    "20260624-0013-brooks-maritime-strategy-card2-bridge",
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
+    "20260624-0080-original-remaining-bridge-index",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0090-qin-land-maritime-card5-bridge",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
+    "20260624-0099-retaille-geopolitics-history-card2-bridge",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
+    "20260624-0125-tang-system-security-card6-bridge",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
+    "20260624-0149-yang-complex-system-card7-bridge",
+    "20260624-0155-zhang-maritime-politics-card2-bridge",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge"
+  ],
   "assemblage": [
     "20260620-1500-装置是安排的过程而非静态组织",
     "20260620-1501-装置创造界域而非只是占据空间",
@@ -10,7 +174,8 @@
     "20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造",
     "20260622-0030-abrahams-assemblage",
     "20260623-1611-重复段与界域化",
-    "20260623-2203-地缘哲学核心术语的复杂性理论快照"
+    "20260623-2203-地缘哲学核心术语的复杂性理论快照",
+    "20260713-0001-duree-vs-assemblage-relation-set"
   ],
   "Deleuze": [
     "20260620-1500-装置是安排的过程而非静态组织",
@@ -120,7 +285,10 @@
     "20260626-1306-第二种否定性差异本体论从柏拉图到海德格尔",
     "20260626-1318-回反作为否思方法思想生命自我反转",
     "20260626-1710-张能论德勒兹政治操作于战术层面而非战略层面",
-    "20260627-0019"
+    "20260627-0019",
+    "20260627-0020",
+    "20260701-0037-evans-reid-thinking-as-if-already-dead",
+    "20260703-0016"
   ],
   "process-philosophy": [
     "20260620-1500-装置是安排的过程而非静态组织"
@@ -154,7 +322,8 @@
     "20260623-0003-航母作为本体论安全装置国家的海洋大国身份叙事通过航母的物质化展演來修补",
     "20260623-1403-少数文学的三大特征是语言解域政治挂钩和群",
     "20260623-1607-资本的公理系统",
-    "20260623-2203-地缘哲学核心术语的复杂性理论快照"
+    "20260623-2203-地缘哲学核心术语的复杂性理论快照",
+    "20260627-0020"
   ],
   "space": [
     "20260620-1502-家是通过安排构建的舒适空间而非预先存在的",
@@ -245,7 +414,9 @@
     "20260624-1015-菌丝体作为线的本体论隐喻",
     "20260624-1040-向前生活不是向上连接",
     "20260626-1020-张小宁发掘Ingold反达尔文动机替换存在为生成",
-    "20260626-1306-第二种否定性差异本体论从柏拉图到海德格尔"
+    "20260626-1306-第二种否定性差异本体论从柏拉图到海德格尔",
+    "20260630-0001",
+    "20260630-0002"
   ],
   "multiplicity": [
     "20260620-1504-任何事物都是生成中的多样性的和谐",
@@ -776,7 +947,11 @@
     "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
     "20260623-0017-richter-politics-of-orientation-ingest",
     "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
-    "20260623-0022-zizek-less-than-nothing-ingest"
+    "20260623-0022-zizek-less-than-nothing-ingest",
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260630-0001",
+    "20260630-0003"
   ],
   "sense": [
     "20260620-1541-意义是事件在命题与事物之间划出的边界",
@@ -1033,7 +1208,15 @@
   "主体性": [
     "20260620-1590-主体之死被高估了",
     "20260620-1598-身份是由连续的认同化构成逃避理性控制的无",
-    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest"
+    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
+    "20260703-0017",
+    "20260703-0018",
+    "20260703-0020",
+    "20260714-0005",
+    "20260715-0007",
+    "20260715-0019",
+    "20260715-0020",
+    "20260716-0038"
   ],
   "后结构主义": [
     "20260620-1590-主体之死被高估了",
@@ -1054,7 +1237,11 @@
   ],
   "批判理论": [
     "20260620-1592-法国和德国批判学派对理性与暴力关系的分歧",
-    "20260622-1532-德勒兹的建构主义超越了否定辩证法"
+    "20260622-1532-德勒兹的建构主义超越了否定辩证法",
+    "20260703-0011",
+    "20260703-0012",
+    "20260703-0013",
+    "20260716-0043"
   ],
   "理性": [
     "20260620-1592-法国和德国批判学派对理性与暴力关系的分歧",
@@ -1090,38 +1277,30 @@
     "20260620-1594-女性身体的形态学模糊性挑战了逻各斯中心主"
   ],
   "凝视": [
-    "20260620-1594-女性身体的形态学模糊性挑战了逻各斯中心主"
+    "20260620-1594-女性身体的形态学模糊性挑战了逻各斯中心主",
+    "20260703-0020"
   ],
   "精神分析": [
     "20260620-1594-女性身体的形态学模糊性挑战了逻各斯中心主",
     "20260620-1597-思想先于理性思考",
     "20260621-0016-deleuze-geophilosophy-ingest",
-    "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis"
+    "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
+    "20260703-0017",
+    "20260703-0018",
+    "20260703-0019",
+    "20260703-0020",
+    "20260715-0019"
   ],
   "核危机": [
     "20260620-1595-核危机摧毁的不是启蒙进步信念"
   ],
-  "时间": [
-    "20260620-1595-核危机摧毁的不是启蒙进步信念",
-    "20260622-0055-cisney-power-false-time-truth",
-    "20260622-0061-li-kelin-deleuze-time-ingest",
-    "20260622-0062-luzecky-cinema-time-bergson-film",
-    "20260622-0063-luzecky-smith-deleuze-time-intro",
-    "20260622-0065-nail-kinetic-theory-time-lucretius",
-    "20260622-0067-olkowski-time-real-chaos-complexity",
-    "20260622-0070-sheldahl-thomason-deleuze-foucault-time",
-    "20260622-0071-smith-pure-form-time-three-syntheses",
-    "20260622-0073-stivale-deleuze-seminar-time-out-of-joint",
-    "20260622-0075-trnka-deleuze-negri-political-time",
-    "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
-    "20260624-0140-xu-time-strategic-goal-card2-three-distortion-factors",
-    "20260624-0141-xu-time-strategic-goal-card3-germany-afghanistan",
-    "20260624-0160-zhao-time-temporality-card1-core-thesis",
-    "20260624-0161-zhao-time-temporality-card2-critique-western-time",
-    "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
-  ],
   "未来": [
-    "20260620-1595-核危机摧毁的不是启蒙进步信念"
+    "20260620-1595-核危机摧毁的不是启蒙进步信念",
+    "20260703-0011",
+    "20260703-0012",
+    "20260703-0013",
+    "20260703-0014",
+    "20260703-0015"
   ],
   "福柯": [
     "20260620-1595-核危机摧毁的不是启蒙进步信念",
@@ -1153,14 +1332,49 @@
     "20260622-1555-贝克特的穷尽策略将空间从事件场所还原为纯空间",
     "20260622-1558-德勒兹空间理论关注空间如何可能而非空间是什么",
     "20260622-1600-解域化与解辖域化是对域的不同政治性理解",
-    "20260622-1603-解域化与祛魅共享解绑结构但本体论与社会学取向根本不同"
+    "20260622-1603-解域化与祛魅共享解绑结构但本体论与社会学取向根本不同",
+    "20260703-0015",
+    "20260703-0020",
+    "20260709-0003",
+    "20260709-0004",
+    "20260710-0001",
+    "20260710-0003",
+    "20260713-0001-duree-vs-assemblage-relation-set",
+    "20260715-0023",
+    "20260715-0024",
+    "20260716-0001",
+    "20260716-0002",
+    "20260716-0004",
+    "20260716-0007",
+    "20260716-0008",
+    "20260716-0009",
+    "20260716-0010",
+    "20260716-0011",
+    "20260716-0012",
+    "20260716-0013",
+    "20260716-0014",
+    "20260716-0015",
+    "20260716-0016",
+    "20260716-0017",
+    "20260716-0018",
+    "20260716-0019",
+    "20260716-0021",
+    "20260716-0022",
+    "20260716-0023",
+    "20260716-0024",
+    "20260716-0025",
+    "20260716-0041",
+    "20260716-0045"
   ],
   "解域化": [
     "20260620-1596-生成",
     "20260622-1546-维利里奥的域理论重塑了解域化中域的意涵",
     "20260622-1600-解域化与解辖域化是对域的不同政治性理解",
     "20260622-1603-解域化与祛魅共享解绑结构但本体论与社会学取向根本不同",
-    "20260624-0072-original-batch3-assemblage-territory"
+    "20260624-0072-original-batch3-assemblage-territory",
+    "20260713-0007",
+    "20260716-0003",
+    "20260716-0026"
   ],
   "思想": [
     "20260620-1597-思想先于理性思考"
@@ -1169,7 +1383,12 @@
     "20260620-1597-思想先于理性思考"
   ],
   "身份": [
-    "20260620-1598-身份是由连续的认同化构成逃避理性控制的无"
+    "20260620-1598-身份是由连续的认同化构成逃避理性控制的无",
+    "20260701-0025-wendt-constructivist-ontology",
+    "20260713-0003",
+    "20260715-0008",
+    "20260716-0029",
+    "20260716-0048"
   ],
   "认同化": [
     "20260620-1598-身份是由连续的认同化构成逃避理性控制的无"
@@ -1184,11 +1403,15 @@
     "20260620-1599-游牧意识是对霸权主义主体性观点的政治抵抗",
     "20260622-1529-块茎是本体论生产星丛是认知论批判",
     "20260624-0112-tang-idea-action-outcome-card1-core-thesis",
-    "20260624-0113-tang-idea-action-outcome-card2-epistemology-critique"
+    "20260624-0113-tang-idea-action-outcome-card2-epistemology-critique",
+    "20260701-0022-buzan-security-studies-spectrum",
+    "20260715-0002"
   ],
   "根茎": [
     "20260620-1599-游牧意识是对霸权主义主体性观点的政治抵抗",
-    "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology"
+    "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
+    "20260710-0001",
+    "20260716-0017"
   ],
   "后人类": [
     "20260620-1599-游牧意识是对霸权主义主体性观点的政治抵抗"
@@ -1204,21 +1427,27 @@
     "20260620-1607-否定隐含着抽象的一般概念",
     "20260620-1608-绵延记忆和生命冲动不是三个概念而是三个存",
     "20260620-1609-宇宙是一个巨大的记忆",
-    "20260622-0062-luzecky-cinema-time-bergson-film"
+    "20260622-0062-luzecky-cinema-time-bergson-film",
+    "20260713-0001-duree-vs-assemblage-relation-set",
+    "20260716-0015",
+    "20260716-0023",
+    "20260716-0024"
   ],
   "virtual-actual": [
     "20260620-1600-柏格森对可能与潜能的区分颠覆了西方形而上",
     "20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性",
     "20260622-0008-地图-图像德勒兹美学中的地图不是静态再现而是虚拟与现实之间的波动装置",
     "20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统",
-    "20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化"
+    "20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化",
+    "20260627-0020"
   ],
   "duration": [
     "20260620-1601-绵延是通过改变本性而被划分的那种繁杂体",
     "20260620-1604-直觉不是绵延本身而是借助绵延发现其他绵延",
     "20260620-1608-绵延记忆和生命冲动不是三个概念而是三个存",
     "20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统",
-    "20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化"
+    "20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化",
+    "20260713-0001-duree-vs-assemblage-relation-set"
   ],
   "memory": [
     "20260620-1602-过去与它所是的现在同时共存是柏格森时间哲",
@@ -1350,11 +1579,14 @@
     "20260622-0078-yang-objective-world-transcending-subjectivism",
     "20260624-0049-luan-dong-deleuze-creation-card1-encounter",
     "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
-    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation"
+    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260716-0020"
   ],
   "建构主义": [
     "20260620-1640-哲学的本质是创造概念而非发现真理",
-    "20260622-1532-德勒兹的建构主义超越了否定辩证法"
+    "20260622-1532-德勒兹的建构主义超越了否定辩证法",
+    "20260701-0025-wendt-constructivist-ontology"
   ],
   "概念创造": [
     "20260620-1640-哲学的本质是创造概念而非发现真理"
@@ -1381,7 +1613,8 @@
     "20260620-1642-哲学不是静观沉思"
   ],
   "分析哲学": [
-    "20260620-1643-概念不是命题"
+    "20260620-1643-概念不是命题",
+    "20260713-0006"
   ],
   "命题": [
     "20260620-1643-概念不是命题"
@@ -1394,16 +1627,20 @@
     "20260624-0039-liu-micro-events-card1-theory",
     "20260624-0041-liu-micro-events-card3-counterfactual-method",
     "20260624-0042-liu-micro-events-card4-complexity-implications",
-    "20260624-0077-original-batch5-event-security-law"
+    "20260624-0077-original-batch5-event-security-law",
+    "20260716-0025"
   ],
   "强度": [
     "20260620-1645-概念表达事件而非本质",
     "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
-    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition"
+    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition",
+    "20260716-0012"
   ],
   "内在性": [
     "20260620-1646-内在性平面是思维的图像而非方法论",
-    "20260623-0018-saldanha-space-after-deleuze-ingest"
+    "20260623-0018-saldanha-space-after-deleuze-ingest",
+    "20260716-0011",
+    "20260716-0013"
   ],
   "思维图像": [
     "20260620-1646-内在性平面是思维的图像而非方法论"
@@ -1419,7 +1656,8 @@
     "20260620-1655-无意识不说任何话",
     "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
     "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
-    "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment"
+    "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment",
+    "20260716-0016"
   ],
   "欲望机器": [
     "20260620-1655-无意识不说任何话",
@@ -1431,7 +1669,13 @@
     "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
     "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
     "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
-    "20260624-0073-original-batch3-desire-machine-state"
+    "20260624-0073-original-batch3-desire-machine-state",
+    "20260710-0001",
+    "20260713-0009",
+    "20260715-0001",
+    "20260715-0019",
+    "20260716-0022",
+    "20260716-0032"
   ],
   "匮乏": [
     "20260620-1656-关于欲望的三个错误"
@@ -1443,10 +1687,13 @@
     "20260620-1656-关于欲望的三个错误"
   ],
   "革命": [
-    "20260620-1657-欲望是革命性的而非乱伦的"
+    "20260620-1657-欲望是革命性的而非乱伦的",
+    "20260716-0014",
+    "20260716-0021"
   ],
   "政治": [
-    "20260620-1657-欲望是革命性的而非乱伦的"
+    "20260620-1657-欲望是革命性的而非乱伦的",
+    "20260716-0046"
   ],
   "社会生产": [
     "20260620-1657-欲望是革命性的而非乱伦的"
@@ -1457,7 +1704,8 @@
     "20260624-0069-original-batch2-capital-space-war"
   ],
   "精神分裂": [
-    "20260620-1658-精神分裂是资本主义的界域而非疾病"
+    "20260620-1658-精神分裂是资本主义的界域而非疾病",
+    "20260716-0020"
   ],
   "去领土化": [
     "20260620-1658-精神分裂是资本主义的界域而非疾病"
@@ -1488,7 +1736,9 @@
   ],
   "俄狄浦斯": [
     "20260620-1662-对母亲欲望的还原遮蔽了婴儿性欲的政治维度",
-    "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis"
+    "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
+    "20260703-0016",
+    "20260710-0001"
   ],
   "性欲": [
     "20260620-1662-对母亲欲望的还原遮蔽了婴儿性欲的政治维度"
@@ -1570,7 +1820,8 @@
     "20260621-0460-德勒兹哲学创造概念与黑格尔概念认识的根本分歧在多元与一元",
     "20260622-0031-Hubbard论空间的本体论被回避在多元主义的对话中空间仍然是弱本体论概念",
     "20260623-1405-斯宾诺莎三种知识对应光的三种状态从阴影符",
-    "20260627-0003"
+    "20260627-0003",
+    "20260630-0002"
   ],
   "modernism": [
     "20260620-1687-后现代主义是现代主义内部危机在资本主义条"
@@ -1641,7 +1892,8 @@
     "20260620-1702-哲学艺术和科学作为互不隶属的旋律线的共振",
     "20260621-0464-概念创造的思想资源来自语言反思科学史的思维关系演进和面向未来的理论想象",
     "20260621-0471-什么是哲学中的三平面框架艺术创造感知物科学创造函项哲学创造概念是三种平等的思想操作",
-    "20260624-0042-liu-micro-events-card4-complexity-implications"
+    "20260624-0042-liu-micro-events-card4-complexity-implications",
+    "20260630-0001"
   ],
   "interdisciplinarity": [
     "20260620-1702-哲学艺术和科学作为互不隶属的旋律线的共振",
@@ -1762,7 +2014,8 @@
     "20260620-1756-距离暴君在单极体系中同样制约着军事力量的",
     "20260622-0037-陆海复合型强国的战略选择不是地理宿命秦立志谭皓宇的地缘位势安全感知分析框架",
     "20260623-0004-海洋作为半平滑空间DG的空间三元组需要第四项理解海洋的永不可完全条纹化的本体论特征",
-    "20260623-0008-姜鹏论海陆复合型大国的战略选择提出了区域陆权全球海权和海陆并举的三分法框架"
+    "20260623-0008-姜鹏论海陆复合型大国的战略选择提出了区域陆权全球海权和海陆并举的三分法框架",
+    "20260703-0006"
   ],
   "historical-comparison": [
     "20260620-1750-成为海上霸主的前提是在大陆上完成统一并具"
@@ -1783,7 +2036,8 @@
     "20260620-1752-海上霸主总会将海洋经验错误地套用到陆地侵"
   ],
   "maritime-conflict": [
-    "20260620-1753-海战因隔绝了文化和情感因素而比陆地战争更"
+    "20260620-1753-海战因隔绝了文化和情感因素而比陆地战争更",
+    "20260703-0007"
   ],
   "strategic-theory": [
     "20260620-1753-海战因隔绝了文化和情感因素而比陆地战争更",
@@ -1801,7 +2055,8 @@
     "20260622-0054-唐世平论声誉崇拜无政府状态下决心声誉无法形成政治家对声誉价值的执着是一种迷信"
   ],
   "maritime-security": [
-    "20260620-1755-海洋与陆地领域在信号传递和危机谈判中存在"
+    "20260620-1755-海洋与陆地领域在信号传递和危机谈判中存在",
+    "20260703-0009"
   ],
   "crisis-management": [
     "20260620-1755-海洋与陆地领域在信号传递和危机谈判中存在"
@@ -1894,7 +2149,8 @@
     "20260620-1772-中国的危机管理以避战为首要原则但在核心利"
   ],
   "中国外交": [
-    "20260620-1772-中国的危机管理以避战为首要原则但在核心利"
+    "20260620-1772-中国的危机管理以避战为首要原则但在核心利",
+    "20260701-0007-liu-xuelian-china-periphery-school"
   ],
   "核心利益": [
     "20260620-1772-中国的危机管理以避战为首要原则但在核心利"
@@ -1992,7 +2248,18 @@
     "20260620-1801-认知战框架为海洋政治学提供超越军事对抗的"
   ],
   "国际关系理论": [
-    "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做"
+    "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做",
+    "20260703-0011",
+    "20260703-0012",
+    "20260703-0013",
+    "20260703-0014",
+    "20260703-0015",
+    "20260703-0017",
+    "20260713-0002",
+    "20260713-0003",
+    "20260714-0008",
+    "20260714-0010",
+    "20260715-0015"
   ],
   "地理本体论": [
     "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做"
@@ -2034,19 +2301,24 @@
     "20260624-0010-bana-sea-power-card4-technical-operational"
   ],
   "欧盟": [
-    "20260620-1791-欧盟在印太的航母部署面临战略自主与依附美"
+    "20260620-1791-欧盟在印太的航母部署面临战略自主与依附美",
+    "20260714-0006"
   ],
   "战略自主": [
     "20260620-1791-欧盟在印太的航母部署面临战略自主与依附美"
   ],
   "印太": [
     "20260620-1791-欧盟在印太的航母部署面临战略自主与依附美",
-    "20260624-0065-original-batch1-great-power-naval-strategy"
+    "20260624-0065-original-batch1-great-power-naval-strategy",
+    "20260701-0013-indo-pacific-geopolitical-construction",
+    "20260715-0021",
+    "20260715-0025"
   ],
   "苏联": [
     "20260620-1792-苏联航母计划的历史教训在于军事投资不能脱",
     "20260624-0012-brooks-maritime-strategy-card1-core",
     "20260624-0020-gibbs-ussr-grand-strategy-card1-core",
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
     "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
     "20260624-0067-original-batch1-naval-politics",
     "20260624-0089-qin-land-maritime-card4-soviet-china",
@@ -2065,7 +2337,10 @@
     "20260624-0003-baldauff-heng-japan-dcas-card3-kpi-framework",
     "20260624-0004-baldauff-heng-japan-dcas-card4-australia-case",
     "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case",
-    "20260624-0009-bana-sea-power-card3-regional-responders"
+    "20260624-0009-bana-sea-power-card3-regional-responders",
+    "20260701-0013-indo-pacific-geopolitical-construction",
+    "20260716-0017",
+    "20260716-0050"
   ],
   "出云级": [
     "20260620-1793-日本改造航母面临宪法约束与战略必要性的结"
@@ -2079,6 +2354,7 @@
     "20260624-0008-bana-sea-power-card2-china",
     "20260624-0009-bana-sea-power-card3-regional-responders",
     "20260624-0010-bana-sea-power-card4-technical-operational",
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge",
     "20260624-0012-brooks-maritime-strategy-card1-core",
     "20260624-0016-chao-cho-signaling-sea-card3-costly-signals",
     "20260624-0018-chao-cho-signaling-sea-card5-platform-specific",
@@ -2119,20 +2395,25 @@
     "20260620-1797-1996年台海危机直接催化了中国航母计划"
   ],
   "因果关系": [
-    "20260620-1797-1996年台海危机直接催化了中国航母计划"
+    "20260620-1797-1996年台海危机直接催化了中国航母计划",
+    "20260701-0025-wendt-constructivist-ontology"
   ],
   "1950年代": [
     "20260620-1798-1950年代台海危机暴露核威慑在有限冲突"
   ],
   "核威慑": [
     "20260620-1798-1950年代台海危机暴露核威慑在有限冲突",
-    "20260620-1799-核威慑在21世纪仍是防止全面战争的根本保"
+    "20260620-1799-核威慑在21世纪仍是防止全面战争的根本保",
+    "20260701-0003-gray-geography-grand-strategy",
+    "20260701-0018-cnas-restore-strategic-competence"
   ],
   "有限冲突": [
     "20260620-1798-1950年代台海危机暴露核威慑在有限冲突"
   ],
   "东北亚": [
-    "20260620-1799-核威慑在21世纪仍是防止全面战争的根本保"
+    "20260620-1799-核威慑在21世纪仍是防止全面战争的根本保",
+    "20260701-0018-cnas-restore-strategic-competence",
+    "20260701-0029-zhang-yunling-ideal-reality-regional-order"
   ],
   "长和平": [
     "20260620-1799-核威慑在21世纪仍是防止全面战争的根本保"
@@ -2177,7 +2458,8 @@
     "20260620-1803-美国形而上学理性主义限制其理解中国战略文"
   ],
   "战略文化": [
-    "20260620-1803-美国形而上学理性主义限制其理解中国战略文"
+    "20260620-1803-美国形而上学理性主义限制其理解中国战略文",
+    "20260715-0014"
   ],
   "认知差异": [
     "20260620-1803-美国形而上学理性主义限制其理解中国战略文"
@@ -2204,7 +2486,8 @@
     "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
     "20260623-0002-海洋作为本体论不安全的空间对应在陆地条纹化叙事和海洋平滑性之间的存在焦虑",
     "20260623-0004-海洋作为半平滑空间DG的空间三元组需要第四项理解海洋的永不可完全条纹化的本体论特征",
-    "20260624-ingold-ocean-straightening-bridge"
+    "20260624-ingold-ocean-straightening-bridge",
+    "20260703-0005"
   ],
   "maritime-geopolitics": [
     "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理"
@@ -2230,18 +2513,23 @@
     "20260622-0022-德勒兹的空间四重奏地球流场所地图构成了德勒兹空间哲学的四维分析框架",
     "20260623-1614-虚拟与强度",
     "20260623-2201-德勒兹本体论作为复杂性理论的形而上学",
-    "20260623-2304-柏拉图理念的唯物主义翻转"
+    "20260623-2304-柏拉图理念的唯物主义翻转",
+    "20260630-0001"
   ],
   "actual": [
     "20260620-1815-航母的威慑力量作为虚拟性存在不被现实化却",
     "20260622-0018-时间晶体不是隐喻而是本体论Cisney的权力的虚假和Luzecky的电影时间论时间作为差异的持续生成",
     "20260623-1614-虚拟与强度",
-    "20260623-2201-德勒兹本体论作为复杂性理论的形而上学"
+    "20260623-2201-德勒兹本体论作为复杂性理论的形而上学",
+    "20260630-0001"
   ],
   "deterrence": [
     "20260620-1815-航母的威慑力量作为虚拟性存在不被现实化却",
     "20260622-0054-唐世平论声誉崇拜无政府状态下决心声誉无法形成政治家对声誉价值的执着是一种迷信",
     "20260623-0003-航母作为本体论安全装置国家的海洋大国身份叙事通过航母的物质化展演來修补",
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
     "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion",
     "20260624-war-machine-bridge",
     "20260626-1134-lieberman-core-thesis-deterrence-failure",
@@ -2251,7 +2539,10 @@
     "20260626-1142-lieberman-hamas-deterrable-organization",
     "20260626-1144-lieberman-israeli-military-political-failures",
     "20260626-1146-lieberman-october-7-failure-mechanism",
-    "20260626-1218-哈马斯威慑假设情报概念自免疫"
+    "20260626-1218-哈马斯威慑假设情报概念自免疫",
+    "20260703-0004",
+    "20260703-0007",
+    "20260716-0001"
   ],
   "international-relations-theory": [
     "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因"
@@ -2335,7 +2626,8 @@
     "20260621-0502-Watson以瓜塔里将激进化解构为远离极端的离心运动和主体性的重新占有",
     "20260621-0503-Devji的伦理圣战论作为目的本身的圣战逾越了工具理性政治它对德勒兹式欲望政治学既是挑战也是边界测试",
     "20260622-0004-COVID19不是单纯生物危机而是德勒兹式事件",
-    "20260622-0027-Kullman论地理学中的概念制作概念不是语义单位而是思辨设计的多模态过程"
+    "20260622-0027-Kullman论地理学中的概念制作概念不是语义单位而是思辨设计的多模态过程",
+    "20260630-0003"
   ],
   "possible": [
     "20260621-0001-Guattari的思想在1980年前后发",
@@ -2490,7 +2782,8 @@
   "DG": [
     "20260621-0016-deleuze-geophilosophy-ingest",
     "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
-    "20260624-0079-original-olancho-case-card"
+    "20260624-0079-original-olancho-case-card",
+    "20260624-0138-war-machine-bridge-surplus-security"
   ],
   "复杂性": [
     "20260621-0016-deleuze-geophilosophy-ingest",
@@ -2500,6 +2793,7 @@
     "20260624-0105-song-complexity-science-card2-complex-systems",
     "20260624-0106-song-complexity-science-card3-complexity-science",
     "20260624-0107-song-complexity-science-card4-research-landscape",
+    "20260624-0108-song-complexity-science-card5-bridge",
     "20260624-0109-tan-cas-theory-card1-basics"
   ],
   "ATP": [
@@ -2545,11 +2839,15 @@
     "20260621-0441-事件与逃逸线是物质系统敏感性与多元相遇产生创造性的两种机制",
     "20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模",
     "20260623-0013-复杂性理论的跨文明平行德勒兹加塔利与钱学森开放复杂巨系统",
-    "20260623-2200-Bonta"
+    "20260623-2200-Bonta",
+    "20260630-0001",
+    "20260630-0002",
+    "20260630-0003"
   ],
   "structure-agency": [
     "20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边",
-    "20260623-2200-Bonta"
+    "20260623-2200-Bonta",
+    "20260630-0003"
   ],
   "emergence": [
     "20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边",
@@ -2557,10 +2855,13 @@
     "20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧",
     "20260623-2200-Bonta",
     "20260623-2202-复杂空间的地理学",
-    "20260624-0114-tan-cas-theory-card4-bridge"
+    "20260624-0114-tan-cas-theory-card4-bridge",
+    "20260630-0002",
+    "20260630-0003"
   ],
   "methodological-individualism": [
-    "20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边"
+    "20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边",
+    "20260630-0003"
   ],
   "signs": [
     "20260621-0439-DG将符号重新定义为物质系统感知到的临界阈值绕过了后索绪尔符号学的意义危机",
@@ -2614,7 +2915,9 @@
     "20260623-1609-尺度问题",
     "20260623-2201-德勒兹本体论作为复杂性理论的形而上学",
     "20260623-2202-复杂空间的地理学",
-    "20260624-0114-tan-cas-theory-card4-bridge"
+    "20260624-0114-tan-cas-theory-card4-bridge",
+    "20260630-0001",
+    "20260630-0002"
   ],
   "flow": [
     "20260621-0445-river-connection"
@@ -2684,7 +2987,8 @@
   ],
   "delanda": [
     "20260621-0451-DeLanda的多层次尺度分析将DG的分层理论转化为跨无机有机社会的统一框架",
-    "20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限"
+    "20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限",
+    "20260630-0001"
   ],
   "articulation": [
     "20260621-0451-DeLanda的多层次尺度分析将DG的分层理论转化为跨无机有机社会的统一框架"
@@ -2834,16 +3138,24 @@
   "bonta": [
     "20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁",
     "20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区",
-    "20260623-0015-bonta-protevi-geophilosophy-ingest-2"
+    "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
+    "20260630-0001",
+    "20260630-0002",
+    "20260630-0003"
   ],
   "protevi": [
-    "20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁"
+    "20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁",
+    "20260630-0001",
+    "20260630-0002",
+    "20260630-0003"
   ],
   "methodology": [
     "20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁",
     "20260622-1810-泽夫尼克对拉康和德勒兹的整合是非对称的策略而非体系性综合",
     "20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi",
-    "20260627-0011"
+    "20260627-0011",
+    "20260703-0010",
+    "20260707-0001"
   ],
   "threshold": [
     "20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁",
@@ -2890,7 +3202,8 @@
     "20260621-0484-主体作为消失的中介意识形态质询永远无法完全成功总有创伤性剩余抵御征召",
     "20260621-0488-being不是存在Zevnik区分的内在平面与超验具象化颠覆了政治主体论的同一性预设",
     "20260623-0014-抵抗的极限与可能福柯德勒兹拉康主权抵抗三角",
-    "20260623-1410-幼年是语言的先验界限经验使语言成为真理的"
+    "20260623-1410-幼年是语言的先验界限经验使语言成为真理的",
+    "20260630-0003"
   ],
   "master-discourse": [
     "20260621-0482-主人话语公式S1-S2-dollar-a揭示资本家从工人那里掠夺的不只是剩余价值还掠夺了快感和知识"
@@ -2964,7 +3277,9 @@
     "20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架",
     "20260622-0011-析取综合NedohZevnik论拉康与德勒兹既不可调和也不可分离的悖论性关系",
     "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
-    "20260623-0022-zizek-less-than-nothing-ingest"
+    "20260623-0022-zizek-less-than-nothing-ingest",
+    "20260703-0015",
+    "20260703-0016"
   ],
   "political-subject": [
     "20260621-0486-政治排斥不仅是政治意志的结果更是本体论承诺的后果",
@@ -3109,7 +3424,8 @@
   "attractor": [
     "20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧",
     "20260622-0002-选择性法律主义作为秩序塑造实践改变了国际争端解决的吸引子结构",
-    "20260623-2201-德勒兹本体论作为复杂性理论的形而上学"
+    "20260623-2201-德勒兹本体论作为复杂性理论的形而上学",
+    "20260630-0002"
   ],
   "novelty": [
     "20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧"
@@ -3259,7 +3575,8 @@
   ],
   "international-law": [
     "20260622-0001-国际法的可分割学院揭示了虚空内在性平面实在界的同步运作",
-    "20260622-0002-选择性法律主义作为秩序塑造实践改变了国际争端解决的吸引子结构"
+    "20260622-0002-选择性法律主义作为秩序塑造实践改变了国际争端解决的吸引子结构",
+    "20260703-0016"
   ],
   "divisible-college": [
     "20260622-0001-国际法的可分割学院揭示了虚空内在性平面实在界的同步运作"
@@ -3268,7 +3585,9 @@
     "20260622-0001-国际法的可分割学院揭示了虚空内在性平面实在界的同步运作"
   ],
   "south-china-sea": [
-    "20260622-0001-国际法的可分割学院揭示了虚空内在性平面实在界的同步运作"
+    "20260622-0001-国际法的可分割学院揭示了虚空内在性平面实在界的同步运作",
+    "20260703-0001",
+    "20260703-0002"
   ],
   "selective-legalism": [
     "20260622-0002-选择性法律主义作为秩序塑造实践改变了国际争端解决的吸引子结构"
@@ -3279,7 +3598,8 @@
     "20260622-0037-陆海复合型强国的战略选择不是地理宿命秦立志谭皓宇的地缘位势安全感知分析框架",
     "20260622-1621-俾斯麦的克制集中型战略与当代中国的克制兼顾型",
     "20260623-0006-Erickson和Wilson论中国的航母困境在反舰导弹和卫星监视时代中国面临航母还是潜艇的战略抉择",
-    "20260623-0007-钱学森的开放复杂巨系统方法论是中国复杂性科学的根基与BontaProtevi的DG复杂性理论的跨文明对话"
+    "20260623-0007-钱学森的开放复杂巨系统方法论是中国复杂性科学的根基与BontaProtevi的DG复杂性理论的跨文明对话",
+    "20260703-0003"
   ],
   "ordercraft": [
     "20260622-0002-选择性法律主义作为秩序塑造实践改变了国际争端解决的吸引子结构"
@@ -3349,7 +3669,8 @@
   "biopolitics": [
     "20260622-0007-自动免疫没有没有免疫的共同体也没有不因生存本身而暴露于死亡的有机体Crockett论疫情的本体论悖论",
     "20260626-1315-回反反进化论尼采生物主义技术社会批判",
-    "20260627-0001"
+    "20260627-0001",
+    "20260703-0016"
   ],
   "paradox": [
     "20260622-0007-自动免疫没有没有免疫的共同体也没有不因生存本身而暴露于死亡的有机体Crockett论疫情的本体论悖论",
@@ -3512,7 +3833,8 @@
   ],
   "cinema": [
     "20260622-0018-时间晶体不是隐喻而是本体论Cisney的权力的虚假和Luzecky的电影时间论时间作为差异的持续生成",
-    "20260623-1706-虚假的权力与创造性的虚假者"
+    "20260623-1706-虚假的权力与创造性的虚假者",
+    "20260713-0001-duree-vs-assemblage-relation-set"
   ],
   "less-than-nothing": [
     "20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论",
@@ -3705,7 +4027,8 @@
     "20260622-0032-李雪和田雨祁梳理国内外德勒兹研究现状指出国内研究依赖译本且集中在概念阐释缺乏跨领域应用"
   ],
   "review": [
-    "20260622-0032-李雪和田雨祁梳理国内外德勒兹研究现状指出国内研究依赖译本且集中在概念阐释缺乏跨领域应用"
+    "20260622-0032-李雪和田雨祁梳理国内外德勒兹研究现状指出国内研究依赖译本且集中在概念阐释缺乏跨领域应用",
+    "20260703-0016"
   ],
   "scholarship": [
     "20260622-0032-李雪和田雨祁梳理国内外德勒兹研究现状指出国内研究依赖译本且集中在概念阐释缺乏跨领域应用"
@@ -4036,7 +4359,8 @@
     "20260622-0050-马迎辉论认知的流形模式以流形作为AI神经科学与意识哲学的统一范式"
   ],
   "neuroscience": [
-    "20260622-0050-马迎辉论认知的流形模式以流形作为AI神经科学与意识哲学的统一范式"
+    "20260622-0050-马迎辉论认知的流形模式以流形作为AI神经科学与意识哲学的统一范式",
+    "20260630-0003"
   ],
   "riemann": [
     "20260622-0050-马迎辉论认知的流形模式以流形作为AI神经科学与意识哲学的统一范式"
@@ -4109,7 +4433,8 @@
     "20260622-0053-叶成城和唐世平超越大分流的现代化比较研究时空视角下的全球史观方法论"
   ],
   "reputation": [
-    "20260622-0054-唐世平论声誉崇拜无政府状态下决心声誉无法形成政治家对声誉价值的执着是一种迷信"
+    "20260622-0054-唐世平论声誉崇拜无政府状态下决心声誉无法形成政治家对声誉价值的执着是一种迷信",
+    "20260716-0001"
   ],
   "reputation-worship": [
     "20260622-0054-唐世平论声誉崇拜无政府状态下决心声誉无法形成政治家对声誉价值的执着是一种迷信"
@@ -4136,7 +4461,8 @@
     "20260622-0055-cisney-power-false-time-truth",
     "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical",
     "20260622-0058-fang-guo-metaphor-scenario-nontraditional-security",
-    "20260622-0080-zhang-security-sense-neglected-dimension"
+    "20260622-0080-zhang-security-sense-neglected-dimension",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge"
   ],
   "虚假": [
     "20260622-0055-cisney-power-false-time-truth",
@@ -4157,11 +4483,15 @@
     "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability"
   ],
   "拒止": [
-    "20260622-0056-dibb-brabin-deterrence-denial-warning"
+    "20260622-0056-dibb-brabin-deterrence-denial-warning",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge"
   ],
   "威慑": [
     "20260622-0056-dibb-brabin-deterrence-denial-warning",
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge",
     "20260624-0012-brooks-maritime-strategy-card1-core",
+    "20260624-0013-brooks-maritime-strategy-card2-bridge",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
     "20260624-0026-hulme-gartzke-tyranny-distance-card1-decline-evidence",
     "20260624-0028-hulme-gartzke-tyranny-distance-card3-empirical-validation",
     "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
@@ -4169,46 +4499,15 @@
     "20260624-0035-liu-ge-extended-immediate-deterrence-card3-implementation",
     "20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes",
     "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
-    "20260624-0065-original-batch1-great-power-naval-strategy"
-  ],
-  "战略": [
-    "20260622-0056-dibb-brabin-deterrence-denial-warning",
-    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
-    "20260624-0012-brooks-maritime-strategy-card1-core",
-    "20260624-0020-gibbs-ussr-grand-strategy-card1-core",
-    "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
-    "20260624-0029-hulme-gartzke-tyranny-distance-card4-self-inflicted-paradox",
-    "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism",
-    "20260624-0058-nathan-scobell-globalization-security-card1-thesis",
-    "20260624-0060-nathan-scobell-globalization-security-card3-china-model",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
     "20260624-0065-original-batch1-great-power-naval-strategy",
-    "20260624-0067-original-batch1-naval-politics",
-    "20260624-0070-original-batch2-geoposition-security-perception",
-    "20260624-0081-qin-dynamic-mechanism-card1-core-thesis",
-    "20260624-0082-qin-dynamic-mechanism-card2-system-level",
-    "20260624-0083-qin-dynamic-mechanism-card3-unit-level",
-    "20260624-0084-qin-dynamic-mechanism-card4-china-path",
-    "20260624-0086-qin-land-maritime-card1-core-thesis",
-    "20260624-0087-qin-land-maritime-card2-six-factors",
-    "20260624-0088-qin-land-maritime-card3-germany-case",
-    "20260624-0089-qin-land-maritime-card4-soviet-china",
-    "20260624-0091-qin-strategic-uncertainty-card1-core-thesis",
-    "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox",
-    "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
-    "20260624-0100-shao-shi-land-maritime-card1-foundation",
-    "20260624-0126-tang-yongsheng-grand-strategy-card1-core-thesis",
-    "20260624-0127-tang-yongsheng-grand-strategy-card2-strategic-stability",
-    "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation",
-    "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
-    "20260624-0140-xu-time-strategic-goal-card2-three-distortion-factors",
-    "20260624-0144-yang-complex-system-card2-four-subsystems",
-    "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis",
-    "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
-    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
-    "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment"
+    "20260715-0006",
+    "20260715-0008",
+    "20260715-0014"
   ],
   "澳大利亚": [
-    "20260622-0056-dibb-brabin-deterrence-denial-warning"
+    "20260622-0056-dibb-brabin-deterrence-denial-warning",
+    "20260701-0013-indo-pacific-geopolitical-construction"
   ],
   "威胁": [
     "20260622-0056-dibb-brabin-deterrence-denial-warning",
@@ -4243,32 +4542,6 @@
   "elsby": [
     "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical"
   ],
-  "德勒": [
-    "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical",
-    "20260622-0061-li-kelin-deleuze-time-ingest",
-    "20260622-0062-luzecky-cinema-time-bergson-film",
-    "20260622-0063-luzecky-smith-deleuze-time-intro",
-    "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
-    "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
-    "20260622-0069-reid-war-machine-ingest",
-    "20260622-0070-sheldahl-thomason-deleuze-foucault-time",
-    "20260622-0071-smith-pure-form-time-three-syntheses",
-    "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
-    "20260622-0073-stivale-deleuze-seminar-time-out-of-joint",
-    "20260622-0075-trnka-deleuze-negri-political-time",
-    "20260623-0017-richter-politics-of-orientation-ingest",
-    "20260623-0018-saldanha-space-after-deleuze-ingest",
-    "20260623-0019-shores-logic-deleuze-ingest",
-    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
-    "20260624-0049-luan-dong-deleuze-creation-card1-encounter",
-    "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
-    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition",
-    "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
-    "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
-    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
-    "20260624-0073-original-batch3-desire-machine-state",
-    "20260624-0077-original-batch5-event-security-law"
-  ],
   "字面": [
     "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical"
   ],
@@ -4288,26 +4561,34 @@
     "20260623-0017-richter-politics-of-orientation-ingest",
     "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20260623-0020-unwin-waste-space-ingest",
-    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation"
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
+    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge"
   ],
   "地缘": [
     "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical",
     "20260622-0068-qin-tan-geostrategy-ingest",
     "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
     "20260624-0024-hu-lu-critical-geopolitics-card1-core",
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
     "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
     "20260624-0067-original-batch1-naval-politics",
     "20260624-0069-original-batch2-capital-space-war",
     "20260624-0070-original-batch2-geoposition-security-perception",
     "20260624-0082-qin-dynamic-mechanism-card2-system-level",
     "20260624-0083-qin-dynamic-mechanism-card3-unit-level",
     "20260624-0086-qin-land-maritime-card1-core-thesis",
+    "20260624-0090-qin-land-maritime-card5-bridge",
     "20260624-0098-retaille-geopolitics-history-card1-core",
+    "20260624-0099-retaille-geopolitics-history-card2-bridge",
     "20260624-0132-wang-zhu-emotional-geopolitics-card1-turn",
     "20260624-0133-wang-zhu-emotional-geopolitics-card2-psychology",
     "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment",
     "20260624-0135-wang-zhu-emotional-geopolitics-card4-methodology",
-    "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism"
+    "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge"
   ],
   "阅读": [
     "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical"
@@ -4315,6 +4596,7 @@
   "时空": [
     "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical",
     "20260622-0076-wang-meng-time-space-world-politics-methodology",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
     "20260624-0148-yang-complex-system-card6-productive-forces",
     "20260624-0152-ye-tang-case-selection-card3-advantages",
     "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
@@ -4337,6 +4619,7 @@
     "20260622-0081-zhu-ning-copenhagen-school-security",
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
     "20260624-0002-baldauff-heng-japan-dcas-card2-motivations",
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
     "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
     "20260624-0058-nathan-scobell-globalization-security-card1-thesis",
     "20260624-0062-nathan-scobell-globalization-security-card5-vulnerabilities",
@@ -4348,21 +4631,35 @@
     "20260624-0076-original-batch4-void-ontology-security",
     "20260624-0077-original-batch5-event-security-law",
     "20260624-0079-original-olancho-case-card",
+    "20260624-0080-original-remaining-bridge-index",
     "20260624-0091-qin-strategic-uncertainty-card1-core-thesis",
     "20260624-0092-qin-strategic-uncertainty-card2-threat-perception",
     "20260624-0095-qin-strategic-uncertainty-card5-british-case",
     "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
     "20260624-0102-shi-security-philosophical-paradigms-card1-core",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
     "20260624-0120-tang-system-security-card1-core-thesis",
     "20260624-0121-tang-system-security-card2-geography",
     "20260624-0122-tang-system-security-card3-interaction",
     "20260624-0124-tang-system-security-card5-system-properties",
+    "20260624-0125-tang-system-security-card6-bridge",
     "20260624-0126-tang-yongsheng-grand-strategy-card1-core-thesis",
     "20260624-0127-tang-yongsheng-grand-strategy-card2-strategic-stability",
     "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation",
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge",
+    "20260624-0138-war-machine-bridge-surplus-security",
     "20260624-0145-yang-complex-system-card3-five-path-dependencies",
+    "20260624-0149-yang-complex-system-card7-bridge",
     "20260624-0157-zhang-regionalization-securitization-card1-core-thesis",
-    "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation"
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge",
+    "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation",
+    "20260703-0014",
+    "20260715-0016",
+    "20260716-0034",
+    "20260716-0035",
+    "20260716-0044",
+    "20260716-0045",
+    "博士论文框架诊断-三个候选方向"
   ],
   "建构": [
     "20260622-0058-fang-guo-metaphor-scenario-nontraditional-security"
@@ -4375,9 +4672,14 @@
   ],
   "话语": [
     "20260622-0058-fang-guo-metaphor-scenario-nontraditional-security",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
     "20260624-0075-original-batch4-surplus-security",
     "20260624-0098-retaille-geopolitics-history-card1-core",
-    "20260624-0132-wang-zhu-emotional-geopolitics-card1-turn"
+    "20260624-0132-wang-zhu-emotional-geopolitics-card1-turn",
+    "20260701-0030-language-autonomous-shapes-reality",
+    "20260703-0013",
+    "20260703-0014",
+    "20260715-0019"
   ],
   "认知": [
     "20260622-0058-fang-guo-metaphor-scenario-nontraditional-security",
@@ -4388,7 +4690,11 @@
     "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment",
     "20260624-0140-xu-time-strategic-goal-card2-three-distortion-factors",
     "20260624-0147-yang-complex-system-card5-false-as-true",
-    "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation"
+    "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation",
+    "20260701-0001-jervis-system-effects-structure-boundary",
+    "20260701-0030-language-autonomous-shapes-reality",
+    "20260701-0031-mearsheimer-how-states-think",
+    "20260714-0003"
   ],
   "gao": [
     "20260622-0059-gao-lu-westphal-geocriticism-review"
@@ -4398,14 +4704,16 @@
     "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core",
     "20260624-0082-qin-dynamic-mechanism-card2-system-level",
     "20260624-0121-tang-system-security-card2-geography",
-    "20260624-0132-wang-zhu-emotional-geopolitics-card1-turn"
+    "20260624-0132-wang-zhu-emotional-geopolitics-card1-turn",
+    "20260701-0034-war-history-culture-industry"
   ],
   "批评": [
     "20260622-0059-gao-lu-westphal-geocriticism-review",
     "20260624-0161-zhao-time-temporality-card2-critique-western-time"
   ],
   "文学": [
-    "20260622-0059-gao-lu-westphal-geocriticism-review"
+    "20260622-0059-gao-lu-westphal-geocriticism-review",
+    "20260716-0018"
   ],
   "指涉": [
     "20260622-0059-gao-lu-westphal-geocriticism-review"
@@ -4442,10 +4750,12 @@
   "竞争": [
     "20260622-0060-hu-bo-chen-grey-zone-strategy",
     "20260624-0128-tang-yongsheng-grand-strategy-card3-security-governance",
-    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal"
+    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal",
+    "20260701-0010-wang-xinying-us-china-role-evolution"
   ],
   "手段": [
-    "20260622-0060-hu-bo-chen-grey-zone-strategy"
+    "20260622-0060-hu-bo-chen-grey-zone-strategy",
+    "20260701-0014-grand-strategy-theory-basics"
   ],
   "战争": [
     "20260622-0060-hu-bo-chen-grey-zone-strategy",
@@ -4456,9 +4766,20 @@
     "20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes",
     "20260624-0040-liu-micro-events-card2-tisza-case",
     "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
     "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation",
     "20260624-0130-tang-yongsheng-grand-strategy-card5-new-military-revolution",
-    "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo"
+    "20260624-0138-war-machine-bridge-surplus-security",
+    "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo",
+    "20260701-0032-lebow-why-nations-fight",
+    "20260701-0034-war-history-culture-industry",
+    "20260715-0016",
+    "20260716-0028",
+    "20260716-0031",
+    "20260716-0036",
+    "20260716-0044",
+    "20260716-0048",
+    "20260716-0051"
   ],
   "美国": [
     "20260622-0060-hu-bo-chen-grey-zone-strategy",
@@ -4470,7 +4791,9 @@
     "20260624-0029-hulme-gartzke-tyranny-distance-card4-self-inflicted-paradox",
     "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
     "20260624-0065-original-batch1-great-power-naval-strategy",
-    "20260624-0145-yang-complex-system-card3-five-path-dependencies"
+    "20260624-0145-yang-complex-system-card3-five-path-dependencies",
+    "20260701-0002-friedman-logan-why-washington-no-grand-strategy",
+    "20260701-0004-boggs-us-grand-strategy-contradictions"
   ],
   "陈相": [
     "20260622-0060-hu-bo-chen-grey-zone-strategy"
@@ -4501,6 +4824,7 @@
     "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
     "20260624-0064-original-batch1-carrier-paradox",
     "20260624-0065-original-batch1-great-power-naval-strategy",
+    "20260624-0080-original-remaining-bridge-index",
     "20260624-0083-qin-dynamic-mechanism-card3-unit-level"
   ],
   "被动": [
@@ -4508,7 +4832,8 @@
   ],
   "永恒": [
     "20260622-0061-li-kelin-deleuze-time-ingest",
-    "20260622-0064-mollison-eternal-return-deleuze-nietzsche"
+    "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
+    "20260715-0023"
   ],
   "sure": [
     "20260622-0061-li-kelin-deleuze-time-ingest"
@@ -4524,7 +4849,11 @@
     "20260622-0062-luzecky-cinema-time-bergson-film"
   ],
   "绵延": [
-    "20260622-0062-luzecky-cinema-time-bergson-film"
+    "20260622-0062-luzecky-cinema-time-bergson-film",
+    "20260713-0001-duree-vs-assemblage-relation-set",
+    "20260715-0024",
+    "20260716-0015",
+    "20260716-0024"
   ],
   "image": [
     "20260622-0062-luzecky-cinema-time-bergson-film"
@@ -4546,7 +4875,8 @@
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche"
   ],
   "回归": [
-    "20260622-0064-mollison-eternal-return-deleuze-nietzsche"
+    "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
+    "20260716-0052"
   ],
   "意志": [
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
@@ -4558,7 +4888,8 @@
   ],
   "重复": [
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
-    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition"
+    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition",
+    "20260716-0004"
   ],
   "类型学": [
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche"
@@ -4567,13 +4898,15 @@
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
     "20260624-0130-tang-yongsheng-grand-strategy-card5-new-military-revolution",
     "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis",
-    "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment"
+    "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge"
   ],
   "nail": [
     "20260622-0065-nail-kinetic-theory-time-lucretius"
   ],
   "物质": [
-    "20260622-0065-nail-kinetic-theory-time-lucretius"
+    "20260622-0065-nail-kinetic-theory-time-lucretius",
+    "20260716-0023"
   ],
   "卢克莱修": [
     "20260622-0065-nail-kinetic-theory-time-lucretius"
@@ -4592,14 +4925,34 @@
   ],
   "拉康": [
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
-    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest"
+    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
+    "20260703-0015",
+    "20260703-0017",
+    "20260703-0018",
+    "20260703-0019",
+    "20260703-0020",
+    "20260703-0021",
+    "20260709-0001",
+    "20260713-0002",
+    "20260713-0008",
+    "20260713-0009",
+    "20260714-0003",
+    "20260714-0004",
+    "20260714-0005",
+    "20260714-0006",
+    "20260715-0001",
+    "20260716-0001",
+    "20260716-0032",
+    "20260716-0053"
   ],
   "驱力": [
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
     "20260623-0022-zizek-less-than-nothing-ingest"
   ],
   "语言": [
-    "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis"
+    "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
+    "20260701-0030-language-autonomous-shapes-reality",
+    "20260716-0002"
   ],
   "析取": [
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
@@ -4652,14 +5005,23 @@
   ],
   "感知": [
     "20260622-0068-qin-tan-geostrategy-ingest",
-    "20260624-0070-original-batch2-geoposition-security-perception"
+    "20260624-0070-original-batch2-geoposition-security-perception",
+    "20260716-0010"
   ],
   "施压": [
     "20260622-0068-qin-tan-geostrategy-ingest"
   ],
   "security": [
     "20260622-0068-qin-tan-geostrategy-ingest",
-    "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion"
+    "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge",
+    "20260624-0149-yang-complex-system-card7-bridge",
+    "20260703-0003",
+    "20260703-0004",
+    "20260703-0006",
+    "20260703-0007",
+    "20260703-0008",
+    "20260703-0009"
   ],
   "精英": [
     "20260622-0068-qin-tan-geostrategy-ingest"
@@ -4670,10 +5032,13 @@
     "20260624-0082-qin-dynamic-mechanism-card2-system-level",
     "20260624-0086-qin-land-maritime-card1-core-thesis",
     "20260624-0089-qin-land-maritime-card4-soviet-china",
-    "20260624-0100-shao-shi-land-maritime-card1-foundation"
+    "20260624-0100-shao-shi-land-maritime-card1-foundation",
+    "20260624-0101-shao-shi-land-maritime-card2-bridge"
   ],
   "克劳塞维茨": [
-    "20260622-0069-reid-war-machine-ingest"
+    "20260622-0069-reid-war-machine-ingest",
+    "20260701-0034-war-history-culture-industry",
+    "20260716-0040"
   ],
   "杜梅": [
     "20260622-0069-reid-war-machine-ingest"
@@ -4726,7 +5091,9 @@
   ],
   "康德": [
     "20260622-0071-smith-pure-form-time-three-syntheses",
-    "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis"
+    "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
+    "20260715-0024",
+    "20260716-0046"
   ],
   "脱节": [
     "20260622-0071-smith-pure-form-time-three-syntheses",
@@ -4744,7 +5111,8 @@
   "模型": [
     "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
     "20260624-0028-hulme-gartzke-tyranny-distance-card3-empirical-validation",
-    "20260624-0098-retaille-geopolitics-history-card1-core"
+    "20260624-0098-retaille-geopolitics-history-card1-core",
+    "20260624-0099-retaille-geopolitics-history-card2-bridge"
   ],
   "庞蒂": [
     "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis"
@@ -4800,10 +5168,18 @@
     "20260622-0074-tang-reputation-cult-international-conflict",
     "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
     "20260624-0042-liu-micro-events-card4-complexity-implications",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge",
     "20260624-0120-tang-system-security-card1-core-thesis",
     "20260624-0122-tang-system-security-card3-interaction",
     "20260624-0124-tang-system-security-card5-system-properties",
-    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors"
+    "20260624-0125-tang-system-security-card6-bridge",
+    "20260624-0153-ye-tang-case-selection-card4-bridge",
+    "20260624-0155-zhang-maritime-politics-card2-bridge",
+    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge",
+    "20260701-0011-tang-shiping-international-order-change",
+    "20260701-0028-tang-shiping-social-evolution-key-concepts"
   ],
   "政治家": [
     "20260622-0074-tang-reputation-cult-international-conflict"
@@ -4817,7 +5193,8 @@
     "20260624-0147-yang-complex-system-card5-false-as-true",
     "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis",
     "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
-    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors"
+    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge"
   ],
   "无政府": [
     "20260622-0074-tang-reputation-cult-international-conflict"
@@ -4848,7 +5225,18 @@
     "20260624-0160-zhao-time-temporality-card1-core-thesis",
     "20260624-0161-zhao-time-temporality-card2-critique-western-time",
     "20260624-0162-zhao-time-temporality-card3-four-powers-temporal",
-    "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
+    "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom",
+    "20260624-0165-zhao-time-temporality-card6-bridge",
+    "20260703-0011",
+    "20260703-0012",
+    "20260703-0013",
+    "20260703-0014",
+    "20260703-0015",
+    "20260715-0017",
+    "20260715-0018",
+    "20260715-0020",
+    "20260716-0031",
+    "20260716-0036"
   ],
   "劳动": [
     "20260622-0075-trnka-deleuze-negri-political-time"
@@ -4867,9 +5255,23 @@
     "20260624-0041-liu-micro-events-card3-counterfactual-method",
     "20260624-0112-tang-idea-action-outcome-card1-core-thesis",
     "20260624-0113-tang-idea-action-outcome-card2-epistemology-critique",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge",
     "20260624-0135-wang-zhu-emotional-geopolitics-card4-methodology",
+    "20260624-0153-ye-tang-case-selection-card4-bridge",
     "20260624-0160-zhao-time-temporality-card1-core-thesis",
-    "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique"
+    "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
+    "20260703-0011",
+    "20260703-0012",
+    "20260703-0017",
+    "20260703-0019",
+    "20260713-0007",
+    "20260714-0006",
+    "20260714-0008",
+    "20260715-0002",
+    "20260715-0016",
+    "20260715-0017",
+    "20260715-0018",
+    "20260716-0042"
   ],
   "时空观": [
     "20260622-0076-wang-meng-time-space-world-politics-methodology"
@@ -4894,16 +5296,19 @@
   ],
   "政治学": [
     "20260622-0077-wu-quantum-turn-political-science",
-    "20260624-0154-zhang-maritime-politics-card1-core-thesis"
+    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
+    "20260714-0010"
   ],
   "量子": [
-    "20260622-0077-wu-quantum-turn-political-science"
+    "20260622-0077-wu-quantum-turn-political-science",
+    "20260716-0036"
   ],
   "主义": [
     "20260622-0077-wu-quantum-turn-political-science"
   ],
   "纠缠": [
-    "20260622-0077-wu-quantum-turn-political-science"
+    "20260622-0077-wu-quantum-turn-political-science",
+    "20260716-0036"
   ],
   "个体": [
     "20260622-0077-wu-quantum-turn-political-science",
@@ -4917,7 +5322,9 @@
     "20260624-0013-tang-idea-action-outcome-card3-methodology-implications",
     "20260624-0041-liu-micro-events-card3-counterfactual-method",
     "20260624-0081-qin-dynamic-mechanism-card1-core-thesis",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
     "20260624-0093-qin-strategic-uncertainty-card3-three-amplifiers",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
     "20260624-0150-ye-tang-case-selection-card1-core-thesis",
     "20260624-0152-ye-tang-case-selection-card3-advantages"
   ],
@@ -4940,7 +5347,8 @@
     "20260624-0148-yang-complex-system-card6-productive-forces"
   ],
   "经验": [
-    "20260622-0078-yang-objective-world-transcending-subjectivism"
+    "20260622-0078-yang-objective-world-transcending-subjectivism",
+    "博士论文框架诊断-三个候选方向"
   ],
   "变化": [
     "20260622-0078-yang-objective-world-transcending-subjectivism"
@@ -4968,15 +5376,21 @@
     "20260622-0079-yin-liu-national-security-personality-foundations"
   ],
   "决策": [
-    "20260622-0079-yin-liu-national-security-personality-foundations"
+    "20260622-0079-yin-liu-national-security-personality-foundations",
+    "20260701-0027-allison-liddell-hart-strategy-decision",
+    "20260701-0031-mearsheimer-how-states-think",
+    "20260701-0033-xia-tong-bounded-rationality-decision",
+    "20260716-0028"
   ],
   "维度": [
     "20260622-0079-yin-liu-national-security-personality-foundations",
     "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann",
     "20260624-0062-nathan-scobell-globalization-security-card5-vulnerabilities",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge",
     "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
     "20260624-0140-xu-time-strategic-goal-card2-three-distortion-factors",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
     "20260624-0148-yang-complex-system-card6-productive-forces",
     "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
   ],
@@ -4988,7 +5402,8 @@
     "20260622-0079-yin-liu-national-security-personality-foundations"
   ],
   "动机": [
-    "20260622-0079-yin-liu-national-security-personality-foundations"
+    "20260622-0079-yin-liu-national-security-personality-foundations",
+    "20260701-0032-lebow-why-nations-fight"
   ],
   "zhang": [
     "20260622-0080-zhang-security-sense-neglected-dimension",
@@ -5009,7 +5424,8 @@
   ],
   "知觉": [
     "20260622-0080-zhang-security-sense-neglected-dimension",
-    "20260624-0092-qin-strategic-uncertainty-card2-threat-perception"
+    "20260624-0092-qin-strategic-uncertainty-card2-threat-perception",
+    "20260701-0023-jervis-perception-misperception-mechanisms"
   ],
   "国家": [
     "20260622-0080-zhang-security-sense-neglected-dimension",
@@ -5024,7 +5440,12 @@
     "20260624-0120-tang-system-security-card1-core-thesis",
     "20260624-0121-tang-system-security-card2-geography",
     "20260624-0122-tang-system-security-card3-interaction",
-    "20260624-0124-tang-system-security-card5-system-properties"
+    "20260624-0124-tang-system-security-card5-system-properties",
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge",
+    "20260624-0138-war-machine-bridge-surplus-security",
+    "20260716-0030",
+    "20260716-0034",
+    "20260716-0041"
   ],
   "zhu": [
     "20260622-0081-zhu-ning-copenhagen-school-security"
@@ -5069,7 +5490,9 @@
   ],
   "逃逸线": [
     "20260622-1520-块茎的核心机制是逃逸线",
-    "20260622-1543-逃逸线最早是普鲁斯特文本中的叙事组织机制"
+    "20260622-1543-逃逸线最早是普鲁斯特文本中的叙事组织机制",
+    "20260716-0007",
+    "20260716-0019"
   ],
   "异质性": [
     "20260622-1520-块茎的核心机制是逃逸线",
@@ -5097,17 +5520,25 @@
     "20260622-1526-块茎追求绝对异质性星丛坚持非同一性"
   ],
   "本体论": [
-    "20260622-1529-块茎是本体论生产星丛是认知论批判"
+    "20260622-1529-块茎是本体论生产星丛是认知论批判",
+    "20260703-0013",
+    "20260703-0015",
+    "20260711-0001",
+    "20260713-0006",
+    "20260716-0036",
+    "20260716-0042"
   ],
   "生产": [
     "20260622-1529-块茎是本体论生产星丛是认知论批判",
     "20260623-0016-charnock-space-form-urbanity-ingest",
-    "20260624-0050-luan-dong-deleuze-creation-card2-concept-person"
+    "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
+    "20260716-0022"
   ],
   "批判": [
     "20260622-1529-块茎是本体论生产星丛是认知论批判",
     "20260623-0016-charnock-space-form-urbanity-ingest",
     "20260623-0020-unwin-waste-space-ingest",
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
     "20260624-0156-zhang-regionalization-innovation-card-supplement"
   ],
   "解构": [
@@ -5118,21 +5549,24 @@
   ],
   "乌托邦": [
     "20260622-1535-界外在块茎是拓扑边界在星丛是不可言说",
-    "20260622-1538-星丛作为乌托邦找不到现实例证"
+    "20260622-1538-星丛作为乌托邦找不到现实例证",
+    "20260703-0012"
   ],
   "拓扑": [
     "20260622-1535-界外在块茎是拓扑边界在星丛是不可言说",
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann",
     "20260624-0045-liu-qu-manifold-evolution-card3-hilbert",
     "20260624-0046-liu-qu-manifold-evolution-card4-weyl",
-    "20260624-0047-liu-qu-manifold-evolution-card5-branches"
+    "20260624-0047-liu-qu-manifold-evolution-card5-branches",
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge"
   ],
   "现实性": [
     "20260622-1538-星丛作为乌托邦找不到现实例证"
   ],
   "空间": [
     "20260622-1540-德勒兹的空间概念是一个概念系而非单一概念",
-    "20260622-1552-德勒兹通过尼采将空间与偶然性和迷宫路径关联"
+    "20260622-1552-德勒兹通过尼采将空间与偶然性和迷宫路径关联",
+    "20260716-0033"
   ],
   "概念系": [
     "20260622-1540-德勒兹的空间概念是一个概念系而非单一概念"
@@ -5186,7 +5620,13 @@
   "生成": [
     "20260622-1552-德勒兹通过尼采将空间与偶然性和迷宫路径关联",
     "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
-    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation"
+    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
+    "20260701-0036-wang-huaping-consciousness-mortal-computation",
+    "20260716-0009",
+    "20260716-0013",
+    "20260716-0018",
+    "20260716-0019",
+    "20260716-0025"
   ],
   "穷尽": [
     "20260622-1555-贝克特的穷尽策略将空间从事件场所还原为纯空间"
@@ -5222,7 +5662,9 @@
     "20260623-2104-思想的极限与法的构型",
     "20260623-2300-Žižek核心论题",
     "20260623-2302-拉康作为黑格尔的重复",
-    "20260623-2305-经过拉康之后的政治"
+    "20260623-2305-经过拉康之后的政治",
+    "20260703-0016",
+    "20260703-0017"
   ],
   "Zevnik": [
     "20260622-1600-解域化与解辖域化是对域的不同政治性理解-本体论的虚无不是空无而是肯定性的潜能",
@@ -5239,7 +5681,10 @@
     "20260622-1750-存在与实存的内在性区别是政治实体的秩序逻辑产物",
     "20260622-1800-德勒兹的法律作为法律实践的不停生成而非体系的封闭结构",
     "20260622-1810-泽夫尼克对拉康和德勒兹的整合是非对称的策略而非体系性综合",
-    "20260624-0076-original-batch4-void-ontology-security"
+    "20260624-0076-original-batch4-void-ontology-security",
+    "20260703-0019",
+    "20260703-0020",
+    "20260703-0021"
   ],
   "翻译": [
     "20260622-1600-解域化与解辖域化是对域的不同政治性理解",
@@ -5329,7 +5774,14 @@
     "20260622-1610-杜梅齐尔三元主权结构与战争的外在性-笛卡尔式政治主体制造排斥而非常识"
   ],
   "IR-theory": [
-    "20260622-1610-杜梅齐尔三元主权结构与战争的外在性-笛卡尔式政治主体制造排斥而非常识"
+    "20260622-1610-杜梅齐尔三元主权结构与战争的外在性-笛卡尔式政治主体制造排斥而非常识",
+    "20260703-0011",
+    "20260703-0012",
+    "20260703-0013",
+    "20260703-0015",
+    "20260703-0017",
+    "20260703-0018",
+    "20260703-0019"
   ],
   "absolute-war": [
     "20260622-1611-克劳塞维茨绝对战争三一模型第三个元素是偶然性"
@@ -5350,7 +5802,8 @@
     "20260627-0003",
     "20260627-0010",
     "20260627-0018",
-    "20260627-0019"
+    "20260627-0019",
+    "20260627-0020"
   ],
   "trinity": [
     "20260622-1611-克劳塞维茨绝对战争三一模型第三个元素是偶然性"
@@ -5380,7 +5833,8 @@
   ],
   "line-of-flight": [
     "20260622-1613-法西斯是自杀式国家战争机器接管国家后的毁灭线",
-    "20260626-1010-张小宁揭示Ingold远足运输继承德勒兹线分类"
+    "20260626-1010-张小宁揭示Ingold远足运输继承德勒兹线分类",
+    "20260627-0020"
   ],
   "affirmative-war": [
     "20260622-1614-德勒兹通过尼采肯定性战争从法西斯主义中拯救尼采"
@@ -5551,7 +6005,15 @@
     "20260623-0004-海洋作为半平滑空间DG的空间三元组需要第四项理解海洋的永不可完全条纹化的本体论特征"
   ],
   "maritime": [
-    "20260623-0004-海洋作为半平滑空间DG的空间三元组需要第四项理解海洋的永不可完全条纹化的本体论特征"
+    "20260623-0004-海洋作为半平滑空间DG的空间三元组需要第四项理解海洋的永不可完全条纹化的本体论特征",
+    "20260703-0001",
+    "20260703-0002",
+    "20260703-0003",
+    "20260703-0004",
+    "20260703-0005",
+    "20260703-0006",
+    "20260703-0008",
+    "20260703-0010"
   ],
   "dg": [
     "20260623-0004-海洋作为半平滑空间DG的空间三元组需要第四项理解海洋的永不可完全条纹化的本体论特征"
@@ -5619,14 +6081,17 @@
     "20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR"
   ],
   "complex-system": [
-    "20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR"
+    "20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR",
+    "20260630-0002"
   ],
   "liu-hui": [
     "20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR"
   ],
   "surplus-security": [
     "20260623-0010-剩余安全的多重本体论基础少于无非全与剩余",
-    "20260623-0011-安全作为取向Richter取向政治与安全理论的对话"
+    "20260623-0011-安全作为取向Richter取向政治与安全理论的对话",
+    "20260624-war-machine-bridge",
+    "20260707-0001"
   ],
   "residuum": [
     "20260623-0010-剩余安全的多重本体论基础少于无非全与剩余"
@@ -5674,7 +6139,8 @@
   ],
   "科学": [
     "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
-    "20260624-0106-song-complexity-science-card3-complexity-science"
+    "20260624-0106-song-complexity-science-card3-complexity-science",
+    "20260624-0108-song-complexity-science-card5-bridge"
   ],
   "Protevi": [
     "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
@@ -5735,7 +6201,12 @@
   ],
   "机器": [
     "20260623-0018-saldanha-space-after-deleuze-ingest",
-    "20260624-0074-original-batch3-smooth-striated-ir"
+    "20260624-0074-original-batch3-smooth-striated-ir",
+    "20260624-0080-original-remaining-bridge-index",
+    "20260624-0138-war-machine-bridge-surplus-security",
+    "20260710-0002",
+    "20260716-0004",
+    "20260716-0007"
   ],
   "新颖": [
     "20260623-0018-saldanha-space-after-deleuze-ingest"
@@ -5773,12 +6244,17 @@
     "20260623-0020-unwin-waste-space-ingest"
   ],
   "圣状": [
-    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest"
+    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
+    "20260703-0016"
   ],
   "主体": [
     "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
     "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
-    "20260624-0075-original-batch4-surplus-security"
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
+    "20260624-0075-original-batch4-surplus-security",
+    "20260703-0021",
+    "20260709-0001",
+    "20260714-0006"
   ],
   "拘留": [
     "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest"
@@ -5892,7 +6368,8 @@
   ],
   "strata": [
     "20260623-1603-层叠与双重分节",
-    "20260623-2203-地缘哲学核心术语的复杂性理论快照"
+    "20260623-2203-地缘哲学核心术语的复杂性理论快照",
+    "20260630-0001"
   ],
   "geology": [
     "20260623-1603-层叠与双重分节"
@@ -6067,7 +6544,8 @@
     "20260623-1804-游牧单子与自创生折叠"
   ],
   "morphogenesis": [
-    "20260623-1619-高原与卵"
+    "20260623-1619-高原与卵",
+    "20260630-0001"
   ],
   "embryology": [
     "20260623-1619-高原与卵"
@@ -6133,10 +6611,13 @@
     "20260623-1802-分岔政治事件"
   ],
   "Aion": [
-    "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支"
+    "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支",
+    "20260716-0010",
+    "20260716-0016"
   ],
   "Chronos": [
-    "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支"
+    "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支",
+    "20260716-0016"
   ],
   "intuitionism": [
     "20260623-1705-没有逻辑的智慧"
@@ -6283,7 +6764,9 @@
     "20260623-2001-空间拜物教的新危险"
   ],
   "empirical-research": [
-    "20260623-2001-空间拜物教的新危险"
+    "20260623-2001-空间拜物教的新危险",
+    "20260703-0001",
+    "20260703-0010"
   ],
   "abstraction": [
     "20260623-2001-空间拜物教的新危险"
@@ -6308,7 +6791,8 @@
   ],
   "Olancho": [
     "20260623-2202-复杂空间的地理学",
-    "20260624-0079-original-olancho-case-card"
+    "20260624-0079-original-olancho-case-card",
+    "20260624-0080-original-remaining-bridge-index"
   ],
   "glossary": [
     "20260623-2203-地缘哲学核心术语的复杂性理论快照"
@@ -6373,13 +6857,16 @@
   ],
   "DCAs": [
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
-    "20260624-0002-baldauff-heng-japan-dcas-card2-motivations"
+    "20260624-0002-baldauff-heng-japan-dcas-card2-motivations",
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge"
   ],
   "合作": [
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
     "20260624-0003-baldauff-heng-japan-dcas-card3-kpi-framework",
     "20260624-0004-baldauff-heng-japan-dcas-card4-australia-case",
-    "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case"
+    "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case",
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
+    "20260715-0003"
   ],
   "防务": [
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
@@ -6389,6 +6876,7 @@
   "同盟": [
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
     "20260624-0002-baldauff-heng-japan-dcas-card2-motivations",
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
     "20260624-0144-yang-complex-system-card2-four-subsystems",
     "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation"
   ],
@@ -6397,7 +6885,8 @@
     "20260624-0004-baldauff-heng-japan-dcas-card4-australia-case"
   ],
   "协议": [
-    "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle"
+    "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
+    "20260716-0034"
   ],
   "Heng": [
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle"
@@ -6410,6 +6899,7 @@
   ],
   "盟友": [
     "20260624-0002-baldauff-heng-japan-dcas-card2-motivations",
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
     "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
     "20260624-0034-liu-ge-extended-immediate-deterrence-card2-motivations"
   ],
@@ -6422,7 +6912,8 @@
   "KPI": [
     "20260624-0003-baldauff-heng-japan-dcas-card3-kpi-framework",
     "20260624-0004-baldauff-heng-japan-dcas-card4-australia-case",
-    "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case"
+    "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case",
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge"
   ],
   "RAA": [
     "20260624-0003-baldauff-heng-japan-dcas-card3-kpi-framework",
@@ -6455,7 +6946,57 @@
     "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case"
   ],
   "Japan": [
-    "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case"
+    "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case",
+    "20260703-0004"
+  ],
+  "20260624": [
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge",
+    "20260624-0013-brooks-maritime-strategy-card2-bridge",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
+    "20260624-0080-original-remaining-bridge-index",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0090-qin-land-maritime-card5-bridge",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
+    "20260624-0099-retaille-geopolitics-history-card2-bridge",
+    "20260624-0101-shao-shi-land-maritime-card2-bridge",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
+    "20260624-0108-song-complexity-science-card5-bridge",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge",
+    "20260624-0125-tang-system-security-card6-bridge",
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge",
+    "20260624-0138-war-machine-bridge-surplus-security",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
+    "20260624-0149-yang-complex-system-card7-bridge",
+    "20260624-0153-ye-tang-case-selection-card4-bridge",
+    "20260624-0155-zhang-maritime-politics-card2-bridge",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge",
+    "20260624-0165-zhao-time-temporality-card6-bridge",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge"
+  ],
+  "20260622": [
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
+    "20260624-0125-tang-system-security-card6-bridge",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge",
+    "20260624-0138-war-machine-bridge-surplus-security",
+    "20260624-0149-yang-complex-system-card7-bridge",
+    "20260624-0165-zhao-time-temporality-card6-bridge"
+  ],
+  "DCA": [
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge"
   ],
   "jiang": [
     "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
@@ -6463,12 +7004,17 @@
   ],
   "海权": [
     "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
+    "20260624-0013-brooks-maritime-strategy-card2-bridge",
     "20260624-0024-hu-lu-critical-geopolitics-card1-core",
     "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
     "20260624-0086-qin-land-maritime-card1-core-thesis",
     "20260624-0087-qin-land-maritime-card2-six-factors",
     "20260624-0088-qin-land-maritime-card3-germany-case",
-    "20260624-0089-qin-land-maritime-card4-soviet-china"
+    "20260624-0089-qin-land-maritime-card4-soviet-china",
+    "20260624-0090-qin-land-maritime-card5-bridge",
+    "20260701-0003-gray-geography-grand-strategy",
+    "20260715-0025"
   ],
   "同色": [
     "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
@@ -6476,16 +7022,22 @@
   ],
   "海陆": [
     "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
     "20260624-0100-shao-shi-land-maritime-card1-foundation",
-    "20260624-0154-zhang-maritime-politics-card1-core-thesis"
+    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
+    "20260624-0155-zhang-maritime-politics-card2-bridge"
   ],
   "陆权": [
     "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
     "20260624-0024-hu-lu-critical-geopolitics-card1-core",
     "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
     "20260624-0086-qin-land-maritime-card1-core-thesis",
     "20260624-0087-qin-land-maritime-card2-six-factors",
-    "20260624-0089-qin-land-maritime-card4-soviet-china"
+    "20260624-0089-qin-land-maritime-card4-soviet-china",
+    "20260701-0003-gray-geography-grand-strategy",
+    "20260701-0016-china-grand-strategy-debate",
+    "20260715-0025"
   ],
   "霸权": [
     "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
@@ -6493,14 +7045,17 @@
     "20260624-0095-qin-strategic-uncertainty-card5-british-case",
     "20260624-0102-shi-security-philosophical-paradigms-card1-core",
     "20260624-0145-yang-complex-system-card3-five-path-dependencies",
-    "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo"
+    "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo",
+    "20260701-0008-yang-yuan-rise-concede-or-confront"
   ],
   "追求": [
     "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge"
   ],
   "姜鹏": [
     "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
-    "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism"
+    "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
+    "20260624-0101-shao-shi-land-maritime-card2-bridge"
   ],
   "bana": [
     "20260624-0007-bana-sea-power-card1-overview",
@@ -6510,11 +7065,13 @@
   ],
   "出云": [
     "20260624-0007-bana-sea-power-card1-overview",
-    "20260624-0009-bana-sea-power-card3-regional-responders"
+    "20260624-0009-bana-sea-power-card3-regional-responders",
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge"
   ],
   "海上": [
     "20260624-0007-bana-sea-power-card1-overview",
     "20260624-0014-chao-cho-signaling-sea-card1-continentalism",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
     "20260624-0066-original-batch1-grey-zone-a2ad",
     "20260624-0068-original-batch1-sea-power-ontology"
   ],
@@ -6527,6 +7084,7 @@
     "20260624-0008-bana-sea-power-card2-china",
     "20260624-0009-bana-sea-power-card3-regional-responders",
     "20260624-0012-brooks-maritime-strategy-card1-core",
+    "20260624-0013-brooks-maritime-strategy-card2-bridge",
     "20260624-0016-chao-cho-signaling-sea-card3-costly-signals",
     "20260624-0067-original-batch1-naval-politics",
     "20260624-0088-qin-land-maritime-card3-germany-case",
@@ -6544,7 +7102,8 @@
   ],
   "此文": [
     "20260624-0007-bana-sea-power-card1-overview",
-    "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion"
+    "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion",
+    "20260624-0108-song-complexity-science-card5-bridge"
   ],
   "ADIZ": [
     "20260624-0008-bana-sea-power-card2-china"
@@ -6560,7 +7119,9 @@
     "20260624-0061-nathan-scobell-globalization-security-card4-power-gains",
     "20260624-0062-nathan-scobell-globalization-security-card5-vulnerabilities",
     "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion",
-    "20260624-0084-qin-dynamic-mechanism-card4-china-path"
+    "20260624-0084-qin-dynamic-mechanism-card4-china-path",
+    "20260701-0016-china-grand-strategy-debate",
+    "20260715-0022"
   ],
   "战斗群": [
     "20260624-0008-bana-sea-power-card2-china"
@@ -6596,13 +7157,48 @@
     "20260624-0010-bana-sea-power-card4-technical-operational"
   ],
   "俄罗斯": [
-    "20260624-0010-bana-sea-power-card4-technical-operational"
+    "20260624-0010-bana-sea-power-card4-technical-operational",
+    "20260715-0014"
   ],
   "特级": [
     "20260624-0010-bana-sea-power-card4-technical-operational"
   ],
   "印度": [
-    "20260624-0010-bana-sea-power-card4-technical-operational"
+    "20260624-0010-bana-sea-power-card4-technical-operational",
+    "20260701-0013-indo-pacific-geopolitical-construction"
+  ],
+  "Bana": [
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge"
+  ],
+  "2015": [
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge"
+  ],
+  "card6": [
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge"
+  ],
+  "bridge": [
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge",
+    "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge",
+    "20260624-0110-state-superposition-concept-trace",
+    "20260624-0114-tan-cas-theory-card4-bridge",
+    "20260624-0123-tang-social-evolution-card5-implications-bridge",
+    "20260624-ingold-deleuze-bridge",
+    "20260624-war-machine-bridge"
+  ],
+  "信号": [
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge",
+    "20260624-0015-chao-cho-signaling-sea-card2-restraint",
+    "20260624-0016-chao-cho-signaling-sea-card3-costly-signals",
+    "20260624-0018-chao-cho-signaling-sea-card5-platform-specific",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
+    "20260624-0035-liu-ge-extended-immediate-deterrence-card3-implementation",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
+    "20260624-0064-original-batch1-carrier-paradox",
+    "20260624-0068-original-batch1-sea-power-ontology",
+    "20260715-0003"
+  ],
+  "conclusion": [
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge"
   ],
   "tan": [
     "20260624-0011-tan-cas-theory-card2-seven-elements",
@@ -6647,16 +7243,49 @@
   "SSBN": [
     "20260624-0012-brooks-maritime-strategy-card1-core"
   ],
+  "Brooks": [
+    "20260624-0013-brooks-maritime-strategy-card2-bridge"
+  ],
+  "海洋": [
+    "20260624-0013-brooks-maritime-strategy-card2-bridge",
+    "20260624-0014-chao-cho-signaling-sea-card1-continentalism",
+    "20260624-0017-chao-cho-signaling-sea-card4-limited-conflict",
+    "20260624-0065-original-batch1-great-power-naval-strategy",
+    "20260624-0068-original-batch1-sea-power-ontology",
+    "20260624-0072-original-batch3-assemblage-territory",
+    "20260624-0078-original-ingold-ocean-line-card",
+    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
+    "20260624-0155-zhang-maritime-politics-card2-bridge",
+    "20260716-0017"
+  ],
+  "1986": [
+    "20260624-0013-brooks-maritime-strategy-card2-bridge"
+  ],
+  "案例": [
+    "20260624-0013-brooks-maritime-strategy-card2-bridge",
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
+    "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
+    "20260624-0079-original-olancho-case-card",
+    "20260624-0150-ye-tang-case-selection-card1-core-thesis",
+    "20260624-0151-ye-tang-case-selection-card2-book-comparison",
+    "20260624-0152-ye-tang-case-selection-card3-advantages",
+    "20260624-0153-ye-tang-case-selection-card4-bridge",
+    "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
+    "博士论文框架诊断-三个候选方向"
+  ],
   "结果": [
     "20260624-0013-tang-idea-action-outcome-card3-methodology-implications",
     "20260624-0028-hulme-gartzke-tyranny-distance-card3-empirical-validation",
     "20260624-0112-tang-idea-action-outcome-card1-core-thesis",
-    "20260624-0113-tang-idea-action-outcome-card2-epistemology-critique"
+    "20260624-0113-tang-idea-action-outcome-card2-epistemology-critique",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge"
   ],
   "行动": [
     "20260624-0013-tang-idea-action-outcome-card3-methodology-implications",
     "20260624-0112-tang-idea-action-outcome-card1-core-thesis",
-    "20260624-0113-tang-idea-action-outcome-card2-epistemology-critique"
+    "20260624-0113-tang-idea-action-outcome-card2-epistemology-critique",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge"
   ],
   "方法": [
     "20260624-0013-tang-idea-action-outcome-card3-methodology-implications",
@@ -6671,10 +7300,12 @@
     "20260624-0091-qin-strategic-uncertainty-card1-core-thesis",
     "20260624-0093-qin-strategic-uncertainty-card3-three-amplifiers",
     "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
     "20260624-0118-tang-social-evolution-card3-mechanisms",
     "20260624-0150-ye-tang-case-selection-card1-core-thesis",
     "20260624-0151-ye-tang-case-selection-card2-book-comparison",
     "20260624-0152-ye-tang-case-selection-card3-advantages",
+    "20260624-0153-ye-tang-case-selection-card4-bridge",
     "20260624-0163-zhao-time-temporality-card4-daoist-time"
   ],
   "追踪": [
@@ -6690,6 +7321,7 @@
     "20260624-0120-tang-system-security-card1-core-thesis",
     "20260624-0121-tang-system-security-card2-geography",
     "20260624-0124-tang-system-security-card5-system-properties",
+    "20260624-0125-tang-system-security-card6-bridge",
     "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
     "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors"
   ],
@@ -6705,19 +7337,20 @@
     "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge",
     "20260624-0039-liu-micro-events-card1-theory",
     "20260624-0041-liu-micro-events-card3-counterfactual-method",
-    "20260624-0123-tang-social-evolution-card5-implications-bridge"
+    "20260624-0123-tang-social-evolution-card5-implications-bridge",
+    "20260703-0011",
+    "20260703-0012",
+    "20260703-0014",
+    "20260716-0039",
+    "20260716-0041",
+    "20260716-0042",
+    "20260716-0047",
+    "20260716-0050",
+    "20260716-0052",
+    "博士论文框架诊断-三个候选方向"
   ],
   "大陆": [
     "20260624-0014-chao-cho-signaling-sea-card1-continentalism"
-  ],
-  "海洋": [
-    "20260624-0014-chao-cho-signaling-sea-card1-continentalism",
-    "20260624-0017-chao-cho-signaling-sea-card4-limited-conflict",
-    "20260624-0065-original-batch1-great-power-naval-strategy",
-    "20260624-0068-original-batch1-sea-power-ontology",
-    "20260624-0072-original-batch3-assemblage-territory",
-    "20260624-0078-original-ingold-ocean-line-card",
-    "20260624-0154-zhang-maritime-politics-card1-core-thesis"
   ],
   "海域": [
     "20260624-0014-chao-cho-signaling-sea-card1-continentalism"
@@ -6736,23 +7369,17 @@
     "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox",
     "20260624-0144-yang-complex-system-card2-four-subsystems"
   ],
-  "信号": [
-    "20260624-0015-chao-cho-signaling-sea-card2-restraint",
-    "20260624-0016-chao-cho-signaling-sea-card3-costly-signals",
-    "20260624-0018-chao-cho-signaling-sea-card5-platform-specific",
-    "20260624-0035-liu-ge-extended-immediate-deterrence-card3-implementation",
-    "20260624-0064-original-batch1-carrier-paradox",
-    "20260624-0068-original-batch1-sea-power-ontology"
-  ],
   "传递": [
-    "20260624-0015-chao-cho-signaling-sea-card2-restraint"
+    "20260624-0015-chao-cho-signaling-sea-card2-restraint",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge"
   ],
   "强制": [
     "20260624-0015-chao-cho-signaling-sea-card2-restraint",
     "20260624-0017-chao-cho-signaling-sea-card4-limited-conflict"
   ],
   "克制": [
-    "20260624-0015-chao-cho-signaling-sea-card2-restraint"
+    "20260624-0015-chao-cho-signaling-sea-card2-restraint",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge"
   ],
   "部署": [
     "20260624-0015-chao-cho-signaling-sea-card2-restraint",
@@ -6765,11 +7392,13 @@
   "目标": [
     "20260624-0015-chao-cho-signaling-sea-card2-restraint",
     "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
-    "20260624-0141-xu-time-strategic-goal-card3-germany-afghanistan"
+    "20260624-0141-xu-time-strategic-goal-card3-germany-afghanistan",
+    "20260701-0014-grand-strategy-theory-basics"
   ],
   "危机": [
     "20260624-0015-chao-cho-signaling-sea-card2-restraint",
-    "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan"
+    "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
+    "20260714-0003"
   ],
   "潜艇": [
     "20260624-0016-chao-cho-signaling-sea-card3-costly-signals",
@@ -6812,6 +7441,12 @@
   "公开": [
     "20260624-0018-chao-cho-signaling-sea-card5-platform-specific"
   ],
+  "Chao": [
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge"
+  ],
+  "Cho": [
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge"
+  ],
   "非传统": [
     "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
     "20260624-0062-nathan-scobell-globalization-security-card5-vulnerabilities",
@@ -6833,7 +7468,10 @@
     "20260624-0120-tang-system-security-card1-core-thesis",
     "20260624-0121-tang-system-security-card2-geography",
     "20260624-0122-tang-system-security-card3-interaction",
-    "20260624-0124-tang-system-security-card5-system-properties"
+    "20260624-0124-tang-system-security-card5-system-properties",
+    "20260624-0125-tang-system-security-card6-bridge",
+    "20260703-0014",
+    "20260716-0004"
   ],
   "阻吓": [
     "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge"
@@ -6848,6 +7486,7 @@
   ],
   "阿富汗": [
     "20260624-0020-gibbs-ussr-grand-strategy-card1-core",
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
     "20260624-0141-xu-time-strategic-goal-card3-germany-afghanistan"
   ],
   "入侵": [
@@ -6863,28 +7502,108 @@
   "凯南": [
     "20260624-0020-gibbs-ussr-grand-strategy-card1-core"
   ],
+  "Gibbs": [
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge"
+  ],
+  "card1": [
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0090-qin-land-maritime-card5-bridge",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
+    "20260624-0099-retaille-geopolitics-history-card2-bridge",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge",
+    "20260624-0125-tang-system-security-card6-bridge",
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge",
+    "20260624-0149-yang-complex-system-card7-bridge",
+    "20260624-0155-zhang-maritime-politics-card2-bridge",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge",
+    "20260624-0165-zhao-time-temporality-card6-bridge",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge"
+  ],
+  "core": [
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
+    "20260624-0099-retaille-geopolitics-history-card2-bridge",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge"
+  ],
+  "卡组": [
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
+    "20260624-0149-yang-complex-system-card7-bridge",
+    "20260624-0153-ye-tang-case-selection-card4-bridge",
+    "20260624-0155-zhang-maritime-politics-card2-bridge",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge",
+    "博士论文框架诊断-三个候选方向"
+  ],
+  "thesis": [
+    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge",
+    "20260624-1040-向前生活不是向上连接"
+  ],
   "间性": [
-    "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis"
+    "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge"
   ],
   "围堵": [
     "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis"
   ],
   "他者": [
-    "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis"
+    "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge"
   ],
   "互动": [
     "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
     "20260624-0143-yang-complex-system-card1-core-thesis",
-    "20260624-0144-yang-complex-system-card2-four-subsystems"
+    "20260624-0144-yang-complex-system-card2-four-subsystems",
+    "20260701-0019-jervis-system-effects-core-mechanisms"
+  ],
+  "----------": [
+    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
+    "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
+    "20260624-0125-tang-system-security-card6-bridge",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge",
+    "20260624-0145-yang-complex-system-card3-five-path-dependencies",
+    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
+    "20260624-0155-zhang-maritime-politics-card2-bridge",
+    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors"
   ],
   "麦金德": [
     "20260624-0024-hu-lu-critical-geopolitics-card1-core"
   ],
   "地缘政治学": [
-    "20260624-0024-hu-lu-critical-geopolitics-card1-core"
+    "20260624-0024-hu-lu-critical-geopolitics-card1-core",
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
+    "20260624-0099-retaille-geopolitics-history-card2-bridge"
   ],
   "尺度": [
     "20260624-0024-hu-lu-critical-geopolitics-card1-core"
+  ],
+  "胡志丁陆": [
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge"
+  ],
+  "2016": [
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0090-qin-land-maritime-card5-bridge",
+    "20260624-0101-shao-shi-land-maritime-card2-bridge"
+  ],
+  "大道": [
+    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge"
   ],
   "hulme": [
     "20260624-0026-hulme-gartzke-tyranny-distance-card1-decline-evidence",
@@ -6949,7 +7668,9 @@
   ],
   "意识形态": [
     "20260624-0029-hulme-gartzke-tyranny-distance-card4-self-inflicted-paradox",
-    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal"
+    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal",
+    "20260701-0009-gao-cheng-geopolitics-three-layers",
+    "20260713-0009"
   ],
   "大国": [
     "20260624-0029-hulme-gartzke-tyranny-distance-card4-self-inflicted-paradox",
@@ -6959,14 +7680,6 @@
   ],
   "tyranny-of-distance": [
     "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge"
-  ],
-  "bridge": [
-    "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge",
-    "20260624-0110-state-superposition-concept-trace",
-    "20260624-0114-tan-cas-theory-card4-bridge",
-    "20260624-0123-tang-social-evolution-card5-implications-bridge",
-    "20260624-ingold-deleuze-bridge",
-    "20260624-war-machine-bridge"
   ],
   "Hulme": [
     "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge"
@@ -6983,6 +7696,13 @@
   "国在": [
     "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism"
   ],
+  "立志": [
+    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0090-qin-land-maritime-card5-bridge",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
+    "20260624-0101-shao-shi-land-maritime-card2-bridge"
+  ],
   "liu": [
     "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
     "20260624-0034-liu-ge-extended-immediate-deterrence-card2-motivations",
@@ -6997,24 +7717,28 @@
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann",
     "20260624-0045-liu-qu-manifold-evolution-card3-hilbert",
     "20260624-0046-liu-qu-manifold-evolution-card4-weyl",
-    "20260624-0047-liu-qu-manifold-evolution-card5-branches"
+    "20260624-0047-liu-qu-manifold-evolution-card5-branches",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge"
   ],
   "即时": [
     "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
     "20260624-0034-liu-ge-extended-immediate-deterrence-card2-motivations",
     "20260624-0035-liu-ge-extended-immediate-deterrence-card3-implementation",
     "20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes",
-    "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan"
+    "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge"
   ],
   "延伸": [
     "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
     "20260624-0034-liu-ge-extended-immediate-deterrence-card2-motivations",
-    "20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes"
+    "20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge"
   ],
   "进攻方": [
     "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
     "20260624-0035-liu-ge-extended-immediate-deterrence-card3-implementation",
-    "20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes"
+    "20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes",
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge"
   ],
   "保护国": [
     "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
@@ -7055,16 +7779,11 @@
   "台海": [
     "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan"
   ],
-  "案例": [
-    "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
-    "20260624-0079-original-olancho-case-card",
-    "20260624-0150-ye-tang-case-selection-card1-core-thesis",
-    "20260624-0151-ye-tang-case-selection-card2-book-comparison",
-    "20260624-0152-ye-tang-case-selection-card3-advantages",
-    "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique"
-  ],
   "叙利亚": [
     "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan"
+  ],
+  "威慑理论": [
+    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge"
   ],
   "微观": [
     "20260624-0039-liu-micro-events-card1-theory",
@@ -7086,7 +7805,10 @@
   ],
   "杰维斯": [
     "20260624-0039-liu-micro-events-card1-theory",
-    "20260624-0116-tang-social-evolution-card1-core-thesis"
+    "20260624-0116-tang-social-evolution-card1-core-thesis",
+    "20260701-0001-jervis-system-effects-structure-boundary",
+    "20260701-0019-jervis-system-effects-core-mechanisms",
+    "20260701-0023-jervis-perception-misperception-mechanisms"
   ],
   "复杂": [
     "20260624-0039-liu-micro-events-card1-theory",
@@ -7094,6 +7816,7 @@
     "20260624-0105-song-complexity-science-card2-complex-systems",
     "20260624-0106-song-complexity-science-card3-complexity-science",
     "20260624-0107-song-complexity-science-card4-research-landscape",
+    "20260624-0108-song-complexity-science-card5-bridge",
     "20260624-0109-tan-cas-theory-card1-basics"
   ],
   "预测": [
@@ -7105,7 +7828,8 @@
     "20260624-0042-liu-micro-events-card4-complexity-implications"
   ],
   "帝国": [
-    "20260624-0040-liu-micro-events-card2-tisza-case"
+    "20260624-0040-liu-micro-events-card2-tisza-case",
+    "20260716-0047"
   ],
   "反对": [
     "20260624-0040-liu-micro-events-card2-tisza-case"
@@ -7121,7 +7845,8 @@
     "20260624-0040-liu-micro-events-card2-tisza-case"
   ],
   "塞尔维亚": [
-    "20260624-0040-liu-micro-events-card2-tisza-case"
+    "20260624-0040-liu-micro-events-card2-tisza-case",
+    "20260713-0002"
   ],
   "假设": [
     "20260624-0041-liu-micro-events-card3-counterfactual-method",
@@ -7150,7 +7875,8 @@
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann",
     "20260624-0045-liu-qu-manifold-evolution-card3-hilbert",
     "20260624-0046-liu-qu-manifold-evolution-card4-weyl",
-    "20260624-0047-liu-qu-manifold-evolution-card5-branches"
+    "20260624-0047-liu-qu-manifold-evolution-card5-branches",
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge"
   ],
   "投影": [
     "20260624-0043-liu-qu-manifold-evolution-card1-gauss"
@@ -7178,7 +7904,8 @@
   "黎曼": [
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann",
     "20260624-0046-liu-qu-manifold-evolution-card4-weyl",
-    "20260624-0047-liu-qu-manifold-evolution-card5-branches"
+    "20260624-0047-liu-qu-manifold-evolution-card5-branches",
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge"
   ],
   "量块": [
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann"
@@ -7216,7 +7943,8 @@
     "20260624-0045-liu-qu-manifold-evolution-card3-hilbert"
   ],
   "外尔": [
-    "20260624-0046-liu-qu-manifold-evolution-card4-weyl"
+    "20260624-0046-liu-qu-manifold-evolution-card4-weyl",
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge"
   ],
   "斯道夫": [
     "20260624-0046-liu-qu-manifold-evolution-card4-weyl"
@@ -7233,6 +7961,16 @@
   "测量": [
     "20260624-0047-liu-qu-manifold-evolution-card5-branches"
   ],
+  "多重性": [
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
+    "20260715-0023",
+    "20260716-0015"
+  ],
+  "20260623": [
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260624-0108-song-complexity-science-card5-bridge"
+  ],
   "luan": [
     "20260624-0049-luan-dong-deleuze-creation-card1-encounter",
     "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
@@ -7244,7 +7982,8 @@
   "栾栋": [
     "20260624-0049-luan-dong-deleuze-creation-card1-encounter",
     "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
-    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation"
+    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge"
   ],
   "译名": [
     "20260624-0049-luan-dong-deleuze-creation-card1-encounter"
@@ -7290,7 +8029,9 @@
   ],
   "游牧": [
     "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
-    "20260624-0163-zhao-time-temporality-card4-daoist-time"
+    "20260624-0163-zhao-time-temporality-card4-daoist-time",
+    "20260716-0009",
+    "20260716-0014"
   ],
   "社会": [
     "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
@@ -7308,21 +8049,30 @@
     "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis"
   ],
   "生命": [
-    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation"
+    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
+    "20260716-0023"
   ],
   "德里达": [
-    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation"
+    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
+    "20260716-0051"
+  ],
+  "华语": [
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge"
   ],
   "marklund": [
     "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core"
   ],
   "Kjell": [
-    "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core"
+    "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge"
   ],
   "权力": [
     "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core",
     "20260624-0061-nathan-scobell-globalization-security-card4-power-gains",
-    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal"
+    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal",
+    "20260624-0165-zhao-time-temporality-card6-bridge",
+    "20260714-0004",
+    "20260716-0049"
   ],
   "当代": [
     "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core"
@@ -7330,14 +8080,10 @@
   "竞争性": [
     "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core"
   ],
-  "----------": [
-    "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core",
-    "20260624-0145-yang-complex-system-card3-five-path-dependencies",
-    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
-    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors"
-  ],
   "想象": [
-    "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core"
+    "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core",
+    "20260701-0037-evans-reid-thinking-as-if-already-dead",
+    "20260715-0016"
   ],
   "nathan": [
     "20260624-0058-nathan-scobell-globalization-security-card1-thesis",
@@ -7352,7 +8098,8 @@
   ],
   "相互依赖": [
     "20260624-0058-nathan-scobell-globalization-security-card1-thesis",
-    "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion"
+    "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion",
+    "20260715-0010"
   ],
   "合法性": [
     "20260624-0058-nathan-scobell-globalization-security-card1-thesis",
@@ -7438,7 +8185,9 @@
     "20260624-0062-nathan-scobell-globalization-security-card5-vulnerabilities"
   ],
   "利益": [
-    "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion"
+    "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion",
+    "20260701-0025-wendt-constructivist-ontology",
+    "20260701-0032-lebow-why-nations-fight"
   ],
   "防扩散": [
     "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion"
@@ -7464,8 +8213,12 @@
   "悖论": [
     "20260624-0064-original-batch1-carrier-paradox",
     "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
     "20260624-0157-zhang-regionalization-securitization-card1-core-thesis",
-    "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation"
+    "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation",
+    "20260716-0008",
+    "20260716-0029",
+    "20260716-0053"
   ],
   "可见": [
     "20260624-0064-original-batch1-carrier-paradox"
@@ -7478,7 +8231,10 @@
     "20260624-0066-original-batch1-grey-zone-a2ad",
     "20260624-0068-original-batch1-sea-power-ontology",
     "20260624-0074-original-batch3-smooth-striated-ir",
-    "20260624-0118-tang-social-evolution-card3-mechanisms"
+    "20260624-0118-tang-social-evolution-card3-mechanisms",
+    "20260703-0016",
+    "20260703-0019",
+    "20260716-0052"
   ],
   "象征": [
     "20260624-0064-original-batch1-carrier-paradox"
@@ -7490,22 +8246,33 @@
     "20260624-0065-original-batch1-great-power-naval-strategy"
   ],
   "叠加": [
-    "20260624-0066-original-batch1-grey-zone-a2ad"
+    "20260624-0066-original-batch1-grey-zone-a2ad",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge"
   ],
   "争议": [
     "20260624-0066-original-batch1-grey-zone-a2ad"
   ],
   "和平": [
     "20260624-0066-original-batch1-grey-zone-a2ad",
-    "20260624-0102-shi-security-philosophical-paradigms-card1-core"
+    "20260624-0102-shi-security-philosophical-paradigms-card1-core",
+    "20260716-0048"
   ],
   "叙事": [
     "20260624-0067-original-batch1-naval-politics",
     "20260624-0071-original-batch2-ontological-security",
-    "20260624-0160-zhao-time-temporality-card1-core-thesis"
+    "20260624-0160-zhao-time-temporality-card1-core-thesis",
+    "20260701-0035-think-tank-narrative-power",
+    "20260714-0007",
+    "20260715-0001",
+    "20260716-0003"
   ],
   "技术": [
-    "20260624-0067-original-batch1-naval-politics"
+    "20260624-0067-original-batch1-naval-politics",
+    "20260703-0014",
+    "20260709-0001",
+    "20260715-0005",
+    "20260715-0016",
+    "20260716-0027"
   ],
   "军种": [
     "20260624-0067-original-batch1-naval-politics"
@@ -7545,13 +8312,17 @@
   ],
   "虚空": [
     "20260624-0071-original-batch2-ontological-security",
-    "20260624-0076-original-batch4-void-ontology-security"
+    "20260624-0076-original-batch4-void-ontology-security",
+    "20260701-0037-evans-reid-thinking-as-if-already-dead",
+    "20260703-0017",
+    "20260703-0018"
   ],
   "一致性": [
     "20260624-0071-original-batch2-ontological-security"
   ],
   "信任": [
-    "20260624-0071-original-batch2-ontological-security"
+    "20260624-0071-original-batch2-ontological-security",
+    "20260715-0003"
   ],
   "认同": [
     "20260624-0071-original-batch2-ontological-security"
@@ -7567,7 +8338,9 @@
   ],
   "边界": [
     "20260624-0072-original-batch3-assemblage-territory",
-    "20260624-0078-original-ingold-ocean-line-card"
+    "20260624-0078-original-ingold-ocean-line-card",
+    "20260701-0017-chu-zhaogen-security-redefinition",
+    "20260716-0048"
   ],
   "体制": [
     "20260624-0073-original-batch3-desire-machine-state",
@@ -7581,7 +8354,8 @@
     "20260624-0073-original-batch3-desire-machine-state"
   ],
   "消失": [
-    "20260624-0073-original-batch3-desire-machine-state"
+    "20260624-0073-original-batch3-desire-machine-state",
+    "20260716-0040"
   ],
   "纹理": [
     "20260624-0074-original-batch3-smooth-striated-ir"
@@ -7601,13 +8375,19 @@
     "20260624-0074-original-batch3-smooth-striated-ir"
   ],
   "网络": [
-    "20260624-0074-original-batch3-smooth-striated-ir"
+    "20260624-0074-original-batch3-smooth-striated-ir",
+    "20260716-0045"
   ],
   "剩余": [
-    "20260624-0075-original-batch4-surplus-security"
+    "20260624-0075-original-batch4-surplus-security",
+    "20260624-0138-war-machine-bridge-surplus-security",
+    "20260714-0001",
+    "博士论文框架诊断-三个候选方向"
   ],
   "桥接": [
-    "20260624-0075-original-batch4-surplus-security"
+    "20260624-0075-original-batch4-surplus-security",
+    "20260624-0080-original-remaining-bridge-index",
+    "20260706-0001"
   ],
   "永远": [
     "20260624-0075-original-batch4-surplus-security"
@@ -7636,7 +8416,8 @@
     "20260624-0077-original-batch5-event-security-law"
   ],
   "法律": [
-    "20260624-0077-original-batch5-event-security-law"
+    "20260624-0077-original-batch5-event-security-law",
+    "20260703-0019"
   ],
   "Ingold": [
     "20260624-0078-original-ingold-ocean-line-card",
@@ -7670,7 +8451,8 @@
     "20260624-0079-original-olancho-case-card"
   ],
   "韧性": [
-    "20260624-0079-original-olancho-case-card"
+    "20260624-0079-original-olancho-case-card",
+    "20260715-0020"
   ],
   "嵌套": [
     "20260624-0079-original-olancho-case-card"
@@ -7679,7 +8461,14 @@
     "20260624-0079-original-olancho-case-card",
     "20260624-0127-tang-yongsheng-grand-strategy-card2-strategic-stability",
     "20260624-0128-tang-yongsheng-grand-strategy-card3-security-governance",
-    "20260624-0154-zhang-maritime-politics-card1-core-thesis"
+    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
+    "20260703-0020",
+    "20260703-0021",
+    "20260716-0005",
+    "20260716-0027"
+  ],
+  "-------------": [
+    "20260624-0080-original-remaining-bridge-index"
   ],
   "单元": [
     "20260624-0081-qin-dynamic-mechanism-card1-core-thesis",
@@ -7695,7 +8484,8 @@
     "20260624-0084-qin-dynamic-mechanism-card4-china-path",
     "20260624-0086-qin-land-maritime-card1-core-thesis",
     "20260624-0087-qin-land-maritime-card2-six-factors",
-    "20260624-0089-qin-land-maritime-card4-soviet-china"
+    "20260624-0089-qin-land-maritime-card4-soviet-china",
+    "20260624-0090-qin-land-maritime-card5-bridge"
   ],
   "包容性": [
     "20260624-0081-qin-dynamic-mechanism-card1-core-thesis"
@@ -7717,7 +8507,8 @@
   ],
   "崛起": [
     "20260624-0083-qin-dynamic-mechanism-card3-unit-level",
-    "20260624-0084-qin-dynamic-mechanism-card4-china-path"
+    "20260624-0084-qin-dynamic-mechanism-card4-china-path",
+    "20260701-0008-yang-yuan-rise-concede-or-confront"
   ],
   "制衡": [
     "20260624-0084-qin-dynamic-mechanism-card4-china-path",
@@ -7728,8 +8519,13 @@
   ],
   "防御性": [
     "20260624-0084-qin-dynamic-mechanism-card4-china-path",
+    "20260624-0090-qin-land-maritime-card5-bridge",
     "20260624-0116-tang-social-evolution-card1-core-thesis",
     "20260624-0118-tang-social-evolution-card3-mechanisms"
+  ],
+  "2019": [
+    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
+    "20260624-0101-shao-shi-land-maritime-card2-bridge"
   ],
   "重心": [
     "20260624-0086-qin-land-maritime-card1-core-thesis"
@@ -7743,7 +8539,10 @@
   "德国": [
     "20260624-0088-qin-land-maritime-card3-germany-case",
     "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox",
-    "20260624-0141-xu-time-strategic-goal-card3-germany-afghanistan"
+    "20260624-0141-xu-time-strategic-goal-card3-germany-afghanistan",
+    "20260714-0007",
+    "20260715-0001",
+    "20260716-0051"
   ],
   "施里芬": [
     "20260624-0088-qin-land-maritime-card3-germany-case"
@@ -7764,7 +8563,8 @@
   "不确定性": [
     "20260624-0091-qin-strategic-uncertainty-card1-core-thesis",
     "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox",
-    "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability"
+    "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
+    "20260624-0097-qin-strategic-uncertainty-card7-bridge"
   ],
   "困境": [
     "20260624-0091-qin-strategic-uncertainty-card1-core-thesis",
@@ -7833,7 +8633,9 @@
   ],
   "文化": [
     "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
-    "20260624-0161-zhao-time-temporality-card2-critique-western-time"
+    "20260624-0161-zhao-time-temporality-card2-critique-western-time",
+    "20260701-0032-lebow-why-nations-fight",
+    "20260701-0034-war-history-culture-industry"
   ],
   "retaille": [
     "20260624-0098-retaille-geopolitics-history-card1-core"
@@ -7846,6 +8648,13 @@
   ],
   "Models": [
     "20260624-0098-retaille-geopolitics-history-card1-core"
+  ],
+  "自我实现": [
+    "20260624-0099-retaille-geopolitics-history-card2-bridge"
+  ],
+  "谱系": [
+    "20260624-0099-retaille-geopolitics-history-card2-bridge",
+    "20260701-0022-buzan-security-studies-spectrum"
   ],
   "shao": [
     "20260624-0100-shao-shi-land-maritime-card1-foundation"
@@ -7861,6 +8670,7 @@
     "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo",
     "20260624-0147-yang-complex-system-card5-false-as-true",
     "20260624-0148-yang-complex-system-card6-productive-forces",
+    "20260624-0149-yang-complex-system-card7-bridge",
     "20260624-0160-zhao-time-temporality-card1-core-thesis",
     "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
   ],
@@ -7870,17 +8680,29 @@
   "大陆性": [
     "20260624-0100-shao-shi-land-maritime-card1-foundation"
   ],
-  "shi": [
-    "20260624-0102-shi-security-philosophical-paradigms-card1-core"
-  ],
   "殷弘": [
+    "20260624-0101-shao-shi-land-maritime-card2-bridge",
+    "20260624-0102-shi-security-philosophical-paradigms-card1-core",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge"
+  ],
+  "2000": [
+    "20260624-0101-shao-shi-land-maritime-card2-bridge"
+  ],
+  "邵永灵时": [
+    "20260624-0101-shao-shi-land-maritime-card2-bridge"
+  ],
+  "shi": [
     "20260624-0102-shi-security-philosophical-paradigms-card1-core"
   ],
   "哲理": [
     "20260624-0102-shi-security-philosophical-paradigms-card1-core"
   ],
   "革命主义": [
-    "20260624-0102-shi-security-philosophical-paradigms-card1-core"
+    "20260624-0102-shi-security-philosophical-paradigms-card1-core",
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge"
+  ],
+  "传统": [
+    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge"
   ],
   "song": [
     "20260624-0104-song-complexity-science-card1-definitions",
@@ -7903,7 +8725,8 @@
   "非线性": [
     "20260624-0105-song-complexity-science-card2-complex-systems",
     "20260624-0106-song-complexity-science-card3-complexity-science",
-    "20260624-0107-song-complexity-science-card4-research-landscape"
+    "20260624-0107-song-complexity-science-card4-research-landscape",
+    "20260624-0108-song-complexity-science-card5-bridge"
   ],
   "敏感性": [
     "20260624-0105-song-complexity-science-card2-complex-systems"
@@ -7916,6 +8739,7 @@
   ],
   "范式": [
     "20260624-0106-song-complexity-science-card3-complexity-science",
+    "20260624-0108-song-complexity-science-card5-bridge",
     "20260624-0117-tang-social-evolution-card2-evolution-paradigm"
   ],
   "动力学": [
@@ -7929,6 +8753,9 @@
   ],
   "钱学森": [
     "20260624-0107-song-complexity-science-card4-research-landscape"
+  ],
+  "2003": [
+    "20260624-0108-song-complexity-science-card5-bridge"
   ],
   "适应性": [
     "20260624-0109-tan-cas-theory-card1-basics"
@@ -7982,7 +8809,8 @@
     "20260624-0112-tang-idea-action-outcome-card1-core-thesis"
   ],
   "客体": [
-    "20260624-0112-tang-idea-action-outcome-card1-core-thesis"
+    "20260624-0112-tang-idea-action-outcome-card1-core-thesis",
+    "20260624-0115-tang-idea-action-outcome-card4-bridge"
   ],
   "折中主义": [
     "20260624-0112-tang-idea-action-outcome-card1-core-thesis"
@@ -8004,7 +8832,8 @@
   ],
   "现实主义": [
     "20260624-0116-tang-social-evolution-card1-core-thesis",
-    "20260624-0118-tang-social-evolution-card3-mechanisms"
+    "20260624-0118-tang-social-evolution-card3-mechanisms",
+    "20260714-0008"
   ],
   "进攻性": [
     "20260624-0116-tang-social-evolution-card1-core-thesis",
@@ -8101,6 +8930,9 @@
   "稳定性": [
     "20260624-0124-tang-system-security-card5-system-properties"
   ],
+  "2001": [
+    "20260624-0125-tang-system-security-card6-bridge"
+  ],
   "变局": [
     "20260624-0126-tang-yongsheng-grand-strategy-card1-core-thesis"
   ],
@@ -8114,7 +8946,8 @@
     "20260624-0126-tang-yongsheng-grand-strategy-card1-core-thesis",
     "20260624-0127-tang-yongsheng-grand-strategy-card2-strategic-stability",
     "20260624-0128-tang-yongsheng-grand-strategy-card3-security-governance",
-    "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation"
+    "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation",
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge"
   ],
   "诊断": [
     "20260624-0126-tang-yongsheng-grand-strategy-card1-core-thesis"
@@ -8140,7 +8973,9 @@
   "军事": [
     "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation",
     "20260624-0130-tang-yongsheng-grand-strategy-card5-new-military-revolution",
-    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal"
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge",
+    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal",
+    "20260716-0032"
   ],
   "打赢": [
     "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation"
@@ -8160,12 +8995,27 @@
   "战斗力": [
     "20260624-0130-tang-yongsheng-grand-strategy-card5-new-military-revolution"
   ],
+  "2020": [
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge"
+  ],
+  "利德尔": [
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge"
+  ],
+  "--------": [
+    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge"
+  ],
   "情感": [
     "20260624-0132-wang-zhu-emotional-geopolitics-card1-turn",
     "20260624-0133-wang-zhu-emotional-geopolitics-card2-psychology",
     "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment",
     "20260624-0135-wang-zhu-emotional-geopolitics-card4-methodology",
-    "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism"
+    "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge",
+    "20260714-0004",
+    "20260715-0012",
+    "20260715-0015",
+    "20260716-0005",
+    "20260716-0034"
   ],
   "日常生活": [
     "20260624-0132-wang-zhu-emotional-geopolitics-card1-turn"
@@ -8193,7 +9043,8 @@
   "情动": [
     "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment",
     "20260624-0135-wang-zhu-emotional-geopolitics-card4-methodology",
-    "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism"
+    "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge"
   ],
   "体验": [
     "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment"
@@ -8203,7 +9054,8 @@
   ],
   "氛围": [
     "20260624-0135-wang-zhu-emotional-geopolitics-card4-methodology",
-    "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism"
+    "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism",
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge"
   ],
   "集体": [
     "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism"
@@ -8214,6 +9066,15 @@
   "邂逅": [
     "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism"
   ],
+  "链接": [
+    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge"
+  ],
+  "占有": [
+    "20260624-0138-war-machine-bridge-surplus-security"
+  ],
+  "暴力": [
+    "20260624-0138-war-machine-bridge-surplus-security"
+  ],
   "xu": [
     "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
     "20260624-0140-xu-time-strategic-goal-card2-three-distortion-factors",
@@ -8223,7 +9084,8 @@
     "20260624-0139-xu-time-strategic-goal-card1-core-thesis"
   ],
   "徐进": [
-    "20260624-0139-xu-time-strategic-goal-card1-core-thesis"
+    "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
+    "20260624-0142-xu-time-strategic-goal-card4-bridge"
   ],
   "p.5": [
     "20260624-0139-xu-time-strategic-goal-card1-core-thesis"
@@ -8244,17 +9106,15 @@
     "20260624-0141-xu-time-strategic-goal-card3-germany-afghanistan"
   ],
   "系统论": [
-    "20260624-0143-yang-complex-system-card1-core-thesis"
-  ],
-  "杨思灵": [
     "20260624-0143-yang-complex-system-card1-core-thesis",
-    "20260624-0148-yang-complex-system-card6-productive-forces"
+    "20260624-0149-yang-complex-system-card7-bridge"
   ],
   "简约": [
     "20260624-0143-yang-complex-system-card1-core-thesis"
   ],
   "外交": [
-    "20260624-0143-yang-complex-system-card1-core-thesis"
+    "20260624-0143-yang-complex-system-card1-core-thesis",
+    "20260715-0004"
   ],
   "构成": [
     "20260624-0144-yang-complex-system-card2-four-subsystems"
@@ -8273,7 +9133,8 @@
     "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo"
   ],
   "核武器": [
-    "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo"
+    "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo",
+    "20260715-0010"
   ],
   "出现": [
     "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo"
@@ -8282,7 +9143,8 @@
     "20260624-0147-yang-complex-system-card5-false-as-true"
   ],
   "意象": [
-    "20260624-0147-yang-complex-system-card5-false-as-true"
+    "20260624-0147-yang-complex-system-card5-false-as-true",
+    "20260701-0037-evans-reid-thinking-as-if-already-dead"
   ],
   "IP": [
     "20260624-0147-yang-complex-system-card5-false-as-true"
@@ -8307,7 +9169,8 @@
   "负面": [
     "20260624-0150-ye-tang-case-selection-card1-core-thesis",
     "20260624-0151-ye-tang-case-selection-card2-book-comparison",
-    "20260624-0152-ye-tang-case-selection-card3-advantages"
+    "20260624-0152-ye-tang-case-selection-card3-advantages",
+    "20260624-0153-ye-tang-case-selection-card4-bridge"
   ],
   "步骤": [
     "20260624-0150-ye-tang-case-selection-card1-core-thesis"
@@ -8339,6 +9202,15 @@
   "p.46": [
     "20260624-0152-ye-tang-case-selection-card3-advantages"
   ],
+  "切卡": [
+    "20260624-0153-ye-tang-case-selection-card4-bridge"
+  ],
+  "叶成城": [
+    "20260624-0153-ye-tang-case-selection-card4-bridge"
+  ],
+  "MBCSM": [
+    "20260624-0153-ye-tang-case-selection-card4-bridge"
+  ],
   "群落": [
     "20260624-0154-zhang-maritime-politics-card1-core-thesis"
   ],
@@ -8346,11 +9218,17 @@
     "20260624-0154-zhang-maritime-politics-card1-core-thesis"
   ],
   "张景全": [
-    "20260624-0154-zhang-maritime-politics-card1-core-thesis"
+    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
+    "20260624-0155-zhang-maritime-politics-card2-bridge",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge"
+  ],
+  "互补": [
+    "20260624-0155-zhang-maritime-politics-card2-bridge"
   ],
   "区域化": [
     "20260624-0156-zhang-regionalization-innovation-card-supplement",
     "20260624-0157-zhang-regionalization-securitization-card1-core-thesis",
+    "20260624-0158-zhang-regionalization-securitization-card2-bridge",
     "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation"
   ],
   "社会科学": [
@@ -8393,12 +9271,6 @@
     "20260624-0163-zhao-time-temporality-card4-daoist-time",
     "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
   ],
-  "鼎新": [
-    "20260624-0160-zhao-time-temporality-card1-core-thesis",
-    "20260624-0161-zhao-time-temporality-card2-critique-western-time",
-    "20260624-0163-zhao-time-temporality-card4-daoist-time",
-    "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
-  ],
   "社会学": [
     "20260624-0160-zhao-time-temporality-card1-core-thesis",
     "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
@@ -8418,7 +9290,8 @@
     "20260624-0161-zhao-time-temporality-card2-critique-western-time"
   ],
   "四种": [
-    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal"
+    "20260624-0162-zhao-time-temporality-card3-four-powers-temporal",
+    "20260624-0165-zhao-time-temporality-card6-bridge"
   ],
   "积累性": [
     "20260624-0162-zhao-time-temporality-card3-four-powers-temporal"
@@ -8433,7 +9306,8 @@
     "20260624-0163-zhao-time-temporality-card4-daoist-time"
   ],
   "道家": [
-    "20260624-0163-zhao-time-temporality-card4-daoist-time"
+    "20260624-0163-zhao-time-temporality-card4-daoist-time",
+    "20260624-0165-zhao-time-temporality-card6-bridge"
   ],
   "规律": [
     "20260624-0163-zhao-time-temporality-card4-daoist-time"
@@ -8451,7 +9325,8 @@
     "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis",
     "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
     "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
-    "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment"
+    "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge"
   ],
   "决策层": [
     "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis"
@@ -8469,7 +9344,8 @@
     "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors"
   ],
   "左希迎": [
-    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors"
+    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge"
   ],
   "成功": [
     "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment"
@@ -8485,6 +9361,9 @@
   ],
   "非常": [
     "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment"
+  ],
+  "2012": [
+    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge"
   ],
   "anthropology": [
     "20260624-1005-线缕与痕迹的转换生成表面",
@@ -8573,9 +9452,6 @@
   "line": [
     "20260624-1040-向前生活不是向上连接"
   ],
-  "thesis": [
-    "20260624-1040-向前生活不是向上连接"
-  ],
   "smooth": [
     "20260624-ingold-deleuze-bridge"
   ],
@@ -8590,9 +9466,6 @@
   ],
   "nine-dash-line": [
     "20260624-ingold-ocean-straightening-bridge"
-  ],
-  "residual-security": [
-    "20260624-war-machine-bridge"
   ],
   "type-distinction": [
     "20260624-war-machine-bridge"
@@ -9311,5 +10184,1884 @@
   ],
   "nomadic-thought": [
     "20260627-0019"
+  ],
+  "planning": [
+    "20260627-0020"
+  ],
+  "implementation": [
+    "20260627-0020"
+  ],
+  "gap": [
+    "20260627-0020"
+  ],
+  "becoming-strategy": [
+    "20260627-0020"
+  ],
+  "intensive": [
+    "20260630-0001"
+  ],
+  "self-organization": [
+    "20260630-0002"
+  ],
+  "reciprocal-causality": [
+    "20260630-0002"
+  ],
+  "agency": [
+    "20260630-0003"
+  ],
+  "political-physiology": [
+    "20260630-0003"
+  ],
+  "系统效应": [
+    "20260701-0001-jervis-system-effects-structure-boundary",
+    "20260701-0019-jervis-system-effects-core-mechanisms",
+    "20260701-0020-system-effects-application-framework"
+  ],
+  "结构分析": [
+    "20260701-0001-jervis-system-effects-structure-boundary"
+  ],
+  "两极": [
+    "20260701-0001-jervis-system-effects-structure-boundary"
+  ],
+  "多极": [
+    "20260701-0001-jervis-system-effects-structure-boundary"
+  ],
+  "同盟困境": [
+    "20260701-0001-jervis-system-effects-structure-boundary"
+  ],
+  "结构边界": [
+    "20260701-0001-jervis-system-effects-structure-boundary"
+  ],
+  "大战略": [
+    "20260701-0002-friedman-logan-why-washington-no-grand-strategy",
+    "20260701-0003-gray-geography-grand-strategy",
+    "20260701-0004-boggs-us-grand-strategy-contradictions",
+    "20260701-0005-popescu-grand-strategy-vs-emergent-strategy",
+    "20260701-0014-grand-strategy-theory-basics",
+    "20260701-0016-china-grand-strategy-debate",
+    "20260701-0027-allison-liddell-hart-strategy-decision",
+    "20260716-0043"
+  ],
+  "首要地位": [
+    "20260701-0002-friedman-logan-why-washington-no-grand-strategy"
+  ],
+  "精英共识": [
+    "20260701-0002-friedman-logan-why-washington-no-grand-strategy"
+  ],
+  "智库": [
+    "20260701-0002-friedman-logan-why-washington-no-grand-strategy",
+    "20260701-0035-think-tank-narrative-power"
+  ],
+  "学术": [
+    "20260701-0002-friedman-logan-why-washington-no-grand-strategy"
+  ],
+  "primacy": [
+    "20260701-0002-friedman-logan-why-washington-no-grand-strategy"
+  ],
+  "地理学": [
+    "20260701-0003-gray-geography-grand-strategy",
+    "20260716-0004"
+  ],
+  "相互威慑": [
+    "20260701-0003-gray-geography-grand-strategy"
+  ],
+  "Gray": [
+    "20260701-0003-gray-geography-grand-strategy"
+  ],
+  "帝国主义": [
+    "20260701-0004-boggs-us-grand-strategy-contradictions"
+  ],
+  "军国主义": [
+    "20260701-0004-boggs-us-grand-strategy-contradictions"
+  ],
+  "新保守主义": [
+    "20260701-0004-boggs-us-grand-strategy-contradictions"
+  ],
+  "矛盾": [
+    "20260701-0004-boggs-us-grand-strategy-contradictions"
+  ],
+  "Boggs": [
+    "20260701-0004-boggs-us-grand-strategy-contradictions"
+  ],
+  "紧急战略": [
+    "20260701-0005-popescu-grand-strategy-vs-emergent-strategy"
+  ],
+  "战略学派": [
+    "20260701-0005-popescu-grand-strategy-vs-emergent-strategy"
+  ],
+  "短期": [
+    "20260701-0005-popescu-grand-strategy-vs-emergent-strategy"
+  ],
+  "长期": [
+    "20260701-0005-popescu-grand-strategy-vs-emergent-strategy"
+  ],
+  "外交政策": [
+    "20260701-0005-popescu-grand-strategy-vs-emergent-strategy",
+    "20260714-0003"
+  ],
+  "Popescu": [
+    "20260701-0005-popescu-grand-strategy-vs-emergent-strategy"
+  ],
+  "安全定义": [
+    "20260701-0006-zhangyu-feng-security-postulates",
+    "20260701-0017-chu-zhaogen-security-redefinition"
+  ],
+  "安全假定": [
+    "20260701-0006-zhangyu-feng-security-postulates"
+  ],
+  "无政府状态": [
+    "20260701-0006-zhangyu-feng-security-postulates"
+  ],
+  "有限理性": [
+    "20260701-0006-zhangyu-feng-security-postulates",
+    "20260701-0033-xia-tong-bounded-rationality-decision",
+    "20260701-0034-war-history-culture-industry"
+  ],
+  "元利益": [
+    "20260701-0006-zhangyu-feng-security-postulates"
+  ],
+  "张宇燕": [
+    "20260701-0006-zhangyu-feng-security-postulates"
+  ],
+  "冯维江": [
+    "20260701-0006-zhangyu-feng-security-postulates"
+  ],
+  "中国周边学": [
+    "20260701-0007-liu-xuelian-china-periphery-school"
+  ],
+  "周边概念": [
+    "20260701-0007-liu-xuelian-china-periphery-school"
+  ],
+  "主体客体": [
+    "20260701-0007-liu-xuelian-china-periphery-school"
+  ],
+  "刘雪莲": [
+    "20260701-0007-liu-xuelian-china-periphery-school"
+  ],
+  "安全困境": [
+    "20260701-0008-yang-yuan-rise-concede-or-confront",
+    "20260713-0003",
+    "20260715-0002",
+    "20260715-0003",
+    "20260715-0005",
+    "20260715-0010",
+    "20260715-0011"
+  ],
+  "荣誉": [
+    "20260701-0008-yang-yuan-rise-concede-or-confront"
+  ],
+  "地位": [
+    "20260701-0008-yang-yuan-rise-concede-or-confront",
+    "20260701-0032-lebow-why-nations-fight"
+  ],
+  "预期": [
+    "20260701-0008-yang-yuan-rise-concede-or-confront",
+    "20260703-0012"
+  ],
+  "杨原": [
+    "20260701-0008-yang-yuan-rise-concede-or-confront"
+  ],
+  "地缘政治": [
+    "20260701-0009-gao-cheng-geopolitics-three-layers",
+    "20260701-0021-spykman-peace-geography-rimland",
+    "20260716-0033"
+  ],
+  "地缘战略": [
+    "20260701-0009-gao-cheng-geopolitics-three-layers"
+  ],
+  "宣传工具": [
+    "20260701-0009-gao-cheng-geopolitics-three-layers"
+  ],
+  "中国选择": [
+    "20260701-0009-gao-cheng-geopolitics-three-layers"
+  ],
+  "高程": [
+    "20260701-0009-gao-cheng-geopolitics-three-layers"
+  ],
+  "美国对华": [
+    "20260701-0010-wang-xinying-us-china-role-evolution"
+  ],
+  "战略认知": [
+    "20260701-0010-wang-xinying-us-china-role-evolution"
+  ],
+  "国家安全战略": [
+    "20260701-0010-wang-xinying-us-china-role-evolution"
+  ],
+  "四阶段": [
+    "20260701-0010-wang-xinying-us-china-role-evolution"
+  ],
+  "接触": [
+    "20260701-0010-wang-xinying-us-china-role-evolution"
+  ],
+  "遏制": [
+    "20260701-0010-wang-xinying-us-china-role-evolution"
+  ],
+  "国际秩序": [
+    "20260701-0011-tang-shiping-international-order-change"
+  ],
+  "制度变迁": [
+    "20260701-0011-tang-shiping-international-order-change"
+  ],
+  "权力集中": [
+    "20260701-0011-tang-shiping-international-order-change"
+  ],
+  "制度化": [
+    "20260701-0011-tang-shiping-international-order-change"
+  ],
+  "中国选项": [
+    "20260701-0011-tang-shiping-international-order-change"
+  ],
+  "中国周边": [
+    "20260701-0012-zhang-yunling-china-regional-view"
+  ],
+  "区域观": [
+    "20260701-0012-zhang-yunling-china-regional-view"
+  ],
+  "东亚": [
+    "20260701-0012-zhang-yunling-china-regional-view"
+  ],
+  "命运共同体": [
+    "20260701-0012-zhang-yunling-china-regional-view"
+  ],
+  "张蕴岭": [
+    "20260701-0012-zhang-yunling-china-regional-view",
+    "20260701-0029-zhang-yunling-ideal-reality-regional-order"
+  ],
+  "地缘政治建构": [
+    "20260701-0013-indo-pacific-geopolitical-construction"
+  ],
+  "四方安全": [
+    "20260701-0013-indo-pacific-geopolitical-construction"
+  ],
+  "区域秩序": [
+    "20260701-0013-indo-pacific-geopolitical-construction"
+  ],
+  "战略集中": [
+    "20260701-0014-grand-strategy-theory-basics"
+  ],
+  "安全战略": [
+    "20260701-0014-grand-strategy-theory-basics"
+  ],
+  "发展": [
+    "20260701-0014-grand-strategy-theory-basics"
+  ],
+  "Miller": [
+    "20260701-0014-grand-strategy-theory-basics"
+  ],
+  "战略透支": [
+    "20260701-0015-strategic-overextension-analysis"
+  ],
+  "过度扩张": [
+    "20260701-0015-strategic-overextension-analysis"
+  ],
+  "腓力陷阱": [
+    "20260701-0015-strategic-overextension-analysis"
+  ],
+  "资源匹配": [
+    "20260701-0015-strategic-overextension-analysis"
+  ],
+  "海陆复合": [
+    "20260701-0015-strategic-overextension-analysis"
+  ],
+  "一带一路": [
+    "20260701-0016-china-grand-strategy-debate"
+  ],
+  "海洋强国": [
+    "20260701-0016-china-grand-strategy-debate"
+  ],
+  "经济手段": [
+    "20260701-0016-china-grand-strategy-debate"
+  ],
+  "安全化": [
+    "20260701-0017-chu-zhaogen-security-redefinition",
+    "20260701-0022-buzan-security-studies-spectrum",
+    "20260701-0030-language-autonomous-shapes-reality",
+    "20260703-0013"
+  ],
+  "超政治化": [
+    "20260701-0017-chu-zhaogen-security-redefinition"
+  ],
+  "去安全化": [
+    "20260701-0017-chu-zhaogen-security-redefinition"
+  ],
+  "哥本哈根学派": [
+    "20260701-0017-chu-zhaogen-security-redefinition",
+    "20260701-0022-buzan-security-studies-spectrum"
+  ],
+  "CNAS": [
+    "20260701-0018-cnas-restore-strategic-competence"
+  ],
+  "联盟管理": [
+    "20260701-0018-cnas-restore-strategic-competence"
+  ],
+  "朝鲜": [
+    "20260701-0018-cnas-restore-strategic-competence"
+  ],
+  "延伸威慑": [
+    "20260701-0018-cnas-restore-strategic-competence"
+  ],
+  "正反馈": [
+    "20260701-0019-jervis-system-effects-core-mechanisms",
+    "20260701-0024-complex-economics-arthur"
+  ],
+  "负反馈": [
+    "20260701-0019-jervis-system-effects-core-mechanisms"
+  ],
+  "多米诺": [
+    "20260701-0019-jervis-system-effects-core-mechanisms"
+  ],
+  "均势": [
+    "20260701-0019-jervis-system-effects-core-mechanisms"
+  ],
+  "分析框架": [
+    "20260701-0020-system-effects-application-framework"
+  ],
+  "中苏分裂": [
+    "20260701-0020-system-effects-application-framework"
+  ],
+  "直接间接": [
+    "20260701-0020-system-effects-application-framework"
+  ],
+  "意图性": [
+    "20260701-0020-system-effects-application-framework"
+  ],
+  "滞后": [
+    "20260701-0020-system-effects-application-framework"
+  ],
+  "曾亚勇": [
+    "20260701-0020-system-effects-application-framework"
+  ],
+  "斯皮克曼": [
+    "20260701-0021-spykman-peace-geography-rimland"
+  ],
+  "和平地理学": [
+    "20260701-0021-spykman-peace-geography-rimland"
+  ],
+  "边缘地带": [
+    "20260701-0021-spykman-peace-geography-rimland"
+  ],
+  "美国安全": [
+    "20260701-0021-spykman-peace-geography-rimland"
+  ],
+  "包围": [
+    "20260701-0021-spykman-peace-geography-rimland"
+  ],
+  "布赞": [
+    "20260701-0022-buzan-security-studies-spectrum"
+  ],
+  "安全研究": [
+    "20260701-0022-buzan-security-studies-spectrum",
+    "20260716-0044"
+  ],
+  "地区安全复合体": [
+    "20260701-0022-buzan-security-studies-spectrum"
+  ],
+  "错误知觉": [
+    "20260701-0023-jervis-perception-misperception-mechanisms"
+  ],
+  "认知相符": [
+    "20260701-0023-jervis-perception-misperception-mechanisms"
+  ],
+  "统一性知觉": [
+    "20260701-0023-jervis-perception-misperception-mechanisms"
+  ],
+  "历史类比": [
+    "20260701-0023-jervis-perception-misperception-mechanisms"
+  ],
+  "螺旋模式": [
+    "20260701-0023-jervis-perception-misperception-mechanisms"
+  ],
+  "复杂经济学": [
+    "20260701-0024-complex-economics-arthur"
+  ],
+  "非均衡": [
+    "20260701-0024-complex-economics-arthur"
+  ],
+  "路径锁定": [
+    "20260701-0024-complex-economics-arthur"
+  ],
+  "生物学思维": [
+    "20260701-0024-complex-economics-arthur"
+  ],
+  "涌现": [
+    "20260701-0024-complex-economics-arthur",
+    "20260703-0022",
+    "20260706-0001"
+  ],
+  "温特": [
+    "20260701-0025-wendt-constructivist-ontology"
+  ],
+  "理念主义": [
+    "20260701-0025-wendt-constructivist-ontology"
+  ],
+  "共有观念": [
+    "20260701-0025-wendt-constructivist-ontology"
+  ],
+  "科普兰": [
+    "20260701-0026-copeland-trade-expectations-theory"
+  ],
+  "贸易预期": [
+    "20260701-0026-copeland-trade-expectations-theory"
+  ],
+  "经济相互依赖": [
+    "20260701-0026-copeland-trade-expectations-theory"
+  ],
+  "预防性战争": [
+    "20260701-0026-copeland-trade-expectations-theory"
+  ],
+  "贸易安全困境": [
+    "20260701-0026-copeland-trade-expectations-theory"
+  ],
+  "艾利森": [
+    "20260701-0027-allison-liddell-hart-strategy-decision"
+  ],
+  "理性行为体": [
+    "20260701-0027-allison-liddell-hart-strategy-decision"
+  ],
+  "组织行为": [
+    "20260701-0027-allison-liddell-hart-strategy-decision"
+  ],
+  "政府政治": [
+    "20260701-0027-allison-liddell-hart-strategy-decision"
+  ],
+  "李特哈德": [
+    "20260701-0027-allison-liddell-hart-strategy-decision"
+  ],
+  "间接路线": [
+    "20260701-0027-allison-liddell-hart-strategy-decision"
+  ],
+  "社会演化": [
+    "20260701-0028-tang-shiping-social-evolution-key-concepts"
+  ],
+  "变异选择遗传": [
+    "20260701-0028-tang-shiping-social-evolution-key-concepts"
+  ],
+  "进攻性现实主义": [
+    "20260701-0028-tang-shiping-social-evolution-key-concepts",
+    "20260715-0003"
+  ],
+  "防御性现实主义": [
+    "20260701-0028-tang-shiping-social-evolution-key-concepts"
+  ],
+  "和平制度化": [
+    "20260701-0028-tang-shiping-social-evolution-key-concepts"
+  ],
+  "东亚秩序": [
+    "20260701-0029-zhang-yunling-ideal-reality-regional-order"
+  ],
+  "区域合作": [
+    "20260701-0029-zhang-yunling-ideal-reality-regional-order"
+  ],
+  "共同体": [
+    "20260701-0029-zhang-yunling-ideal-reality-regional-order"
+  ],
+  "东盟": [
+    "20260701-0029-zhang-yunling-ideal-reality-regional-order"
+  ],
+  "符号": [
+    "20260701-0030-language-autonomous-shapes-reality",
+    "20260715-0015"
+  ],
+  "言语行为": [
+    "20260701-0030-language-autonomous-shapes-reality"
+  ],
+  "现实建构": [
+    "20260701-0030-language-autonomous-shapes-reality"
+  ],
+  "米尔斯海默": [
+    "20260701-0031-mearsheimer-how-states-think"
+  ],
+  "国家理性": [
+    "20260701-0031-mearsheimer-how-states-think"
+  ],
+  "理论": [
+    "20260701-0031-mearsheimer-how-states-think"
+  ],
+  "生存": [
+    "20260701-0031-mearsheimer-how-states-think"
+  ],
+  "审议": [
+    "20260701-0031-mearsheimer-how-states-think"
+  ],
+  "恐惧": [
+    "20260701-0032-lebow-why-nations-fight"
+  ],
+  "复仇": [
+    "20260701-0032-lebow-why-nations-fight"
+  ],
+  "Lebow": [
+    "20260701-0032-lebow-why-nations-fight"
+  ],
+  "西蒙": [
+    "20260701-0033-xia-tong-bounded-rationality-decision"
+  ],
+  "情报分析": [
+    "20260701-0033-xia-tong-bounded-rationality-decision"
+  ],
+  "镜像思维": [
+    "20260701-0033-xia-tong-bounded-rationality-decision"
+  ],
+  "认知碎片化": [
+    "20260701-0033-xia-tong-bounded-rationality-decision"
+  ],
+  "工业能力": [
+    "20260701-0034-war-history-culture-industry"
+  ],
+  "战争史": [
+    "20260701-0034-war-history-culture-industry"
+  ],
+  "话语权": [
+    "20260701-0035-think-tank-narrative-power"
+  ],
+  "辩经": [
+    "20260701-0035-think-tank-narrative-power"
+  ],
+  "知识领导力": [
+    "20260701-0035-think-tank-narrative-power"
+  ],
+  "思想坦克": [
+    "20260701-0035-think-tank-narrative-power"
+  ],
+  "曹德军": [
+    "20260701-0035-think-tank-narrative-power"
+  ],
+  "意识": [
+    "20260701-0036-wang-huaping-consciousness-mortal-computation"
+  ],
+  "可朽计算": [
+    "20260701-0036-wang-huaping-consciousness-mortal-computation",
+    "20260706-0001"
+  ],
+  "新计算主义": [
+    "20260701-0036-wang-huaping-consciousness-mortal-computation"
+  ],
+  "基质": [
+    "20260701-0036-wang-huaping-consciousness-mortal-computation"
+  ],
+  "过程本体论": [
+    "20260701-0036-wang-huaping-consciousness-mortal-computation"
+  ],
+  "王华平": [
+    "20260701-0036-wang-huaping-consciousness-mortal-computation"
+  ],
+  "死亡": [
+    "20260701-0037-evans-reid-thinking-as-if-already-dead"
+  ],
+  "存在论": [
+    "20260701-0037-evans-reid-thinking-as-if-already-dead"
+  ],
+  "Evans": [
+    "20260701-0037-evans-reid-thinking-as-if-already-dead"
+  ],
+  "Reid": [
+    "20260701-0037-evans-reid-thinking-as-if-already-dead"
+  ],
+  "CSIS": [
+    "20260703-0001",
+    "20260703-0002",
+    "20260703-0003",
+    "20260703-0004",
+    "20260703-0005",
+    "20260703-0006",
+    "20260703-0007",
+    "20260703-0008",
+    "20260703-0009",
+    "20260703-0010"
+  ],
+  "trade": [
+    "20260703-0001",
+    "20260703-0002",
+    "20260703-0003",
+    "20260703-0004",
+    "20260703-0005",
+    "20260703-0006",
+    "20260703-0007",
+    "20260703-0008",
+    "20260703-0009",
+    "20260703-0010"
+  ],
+  "chokepoint": [
+    "20260703-0001",
+    "20260703-0002",
+    "20260703-0003",
+    "20260703-0004",
+    "20260703-0005",
+    "20260703-0006",
+    "20260703-0007",
+    "20260703-0008",
+    "20260703-0009",
+    "20260703-0010"
+  ],
+  "strait": [
+    "20260703-0001",
+    "20260703-0002",
+    "20260703-0003",
+    "20260703-0004",
+    "20260703-0005",
+    "20260703-0006",
+    "20260703-0007",
+    "20260703-0008",
+    "20260703-0009"
+  ],
+  "supply-chain": [
+    "20260703-0002",
+    "20260703-0008"
+  ],
+  "taiwan": [
+    "20260703-0003",
+    "20260703-0004",
+    "20260703-0009"
+  ],
+  "Australia": [
+    "20260703-0005"
+  ],
+  "blockade": [
+    "20260703-0007"
+  ],
+  "energy-security": [
+    "20260703-0009"
+  ],
+  "殖民": [
+    "20260703-0014"
+  ],
+  "政治主体性": [
+    "20260703-0015"
+  ],
+  "书评": [
+    "20260703-0016"
+  ],
+  "关塔那摩": [
+    "20260703-0016",
+    "20260703-0019"
+  ],
+  "解放": [
+    "20260703-0017",
+    "20260703-0018",
+    "20260716-0043"
+  ],
+  "伦理": [
+    "20260703-0018",
+    "20260716-0049",
+    "20260716-0051"
+  ],
+  "幻象": [
+    "20260703-0018",
+    "20260703-0019",
+    "20260703-0021",
+    "20260709-0001",
+    "20260713-0002",
+    "20260713-0009",
+    "20260714-0002",
+    "20260715-0001",
+    "20260716-0032"
+  ],
+  "焦虑": [
+    "20260703-0018",
+    "20260703-0021",
+    "20260715-0007",
+    "20260715-0012",
+    "20260716-0030"
+  ],
+  "症候": [
+    "20260703-0019"
+  ],
+  "例外状态": [
+    "20260703-0019"
+  ],
+  "面孔": [
+    "20260703-0020"
+  ],
+  "观视": [
+    "20260703-0020"
+  ],
+  "知识生产": [
+    "20260703-0020",
+    "20260716-0037"
+  ],
+  "雕像": [
+    "20260703-0021"
+  ],
+  "种族": [
+    "20260703-0021"
+  ],
+  "纪念": [
+    "20260703-0021"
+  ],
+  "合成": [
+    "20260703-0022"
+  ],
+  "替代秩序": [
+    "20260703-0022"
+  ],
+  "吸引子": [
+    "20260703-0022",
+    "20260706-0001"
+  ],
+  "剩余安全": [
+    "20260703-0022",
+    "20260709-0001",
+    "20260709-0002",
+    "20260710-0002",
+    "20260710-0003",
+    "20260711-0001",
+    "20260713-0004",
+    "20260713-0005",
+    "20260713-0006",
+    "20260713-0007",
+    "20260713-0008"
+  ],
+  "可持续性": [
+    "20260703-0022"
+  ],
+  "制度中介": [
+    "20260703-0022"
+  ],
+  "互反因果性": [
+    "20260703-0022"
+  ],
+  "欧陆哲学": [
+    "20260706-0001"
+  ],
+  "复杂科学": [
+    "20260706-0001"
+  ],
+  "AI": [
+    "20260706-0001",
+    "20260709-0001",
+    "20260715-0005",
+    "20260716-0028"
+  ],
+  "虚拟": [
+    "20260706-0001",
+    "20260709-0004",
+    "20260716-0011",
+    "20260716-0012",
+    "20260716-0015",
+    "20260716-0041"
+  ],
+  "生成式AI": [
+    "20260706-0001"
+  ],
+  "跨学科": [
+    "20260706-0001"
+  ],
+  "attractor-basin": [
+    "20260707-0001"
+  ],
+  "seed-practice": [
+    "20260707-0001"
+  ],
+  "experimental-ontology": [
+    "20260707-0001"
+  ],
+  "operation": [
+    "20260707-0001"
+  ],
+  "二阶排除": [
+    "20260709-0001"
+  ],
+  "证伪免疫": [
+    "20260709-0001"
+  ],
+  "自我再生产": [
+    "20260709-0001"
+  ],
+  "威胁认定": [
+    "20260709-0001"
+  ],
+  "元叙事": [
+    "20260709-0001"
+  ],
+  "安全话语": [
+    "20260709-0001",
+    "20260713-0008"
+  ],
+  "余茂春": [
+    "20260709-0001"
+  ],
+  "章家敦": [
+    "20260709-0001"
+  ],
+  "齐泽克": [
+    "20260709-0001",
+    "20260709-0002",
+    "20260713-0008"
+  ],
+  "超级我": [
+    "20260709-0001"
+  ],
+  "享乐": [
+    "20260709-0001",
+    "20260714-0003",
+    "20260716-0032"
+  ],
+  "S1": [
+    "20260709-0001"
+  ],
+  "S2": [
+    "20260709-0001"
+  ],
+  "二阶剩余": [
+    "20260709-0002"
+  ],
+  "评价体系": [
+    "20260709-0002"
+  ],
+  "指标治理": [
+    "20260709-0002"
+  ],
+  "超我悖论": [
+    "20260709-0002"
+  ],
+  "实在界剩余": [
+    "20260709-0002"
+  ],
+  "符号秩序": [
+    "20260709-0002"
+  ],
+  "加塔利": [
+    "20260709-0003",
+    "20260709-0004",
+    "20260710-0001",
+    "20260710-0002",
+    "20260710-0003",
+    "20260716-0004",
+    "20260716-0006",
+    "20260716-0007",
+    "20260716-0013",
+    "20260716-0018",
+    "20260716-0019",
+    "20260716-0025"
+  ],
+  "机械圈": [
+    "20260709-0003",
+    "20260709-0004"
+  ],
+  "智慧圈": [
+    "20260709-0003"
+  ],
+  "德日进": [
+    "20260709-0003"
+  ],
+  "阿尔都塞": [
+    "20260709-0003"
+  ],
+  "地球哲学": [
+    "20260709-0003"
+  ],
+  "人类世": [
+    "20260709-0003"
+  ],
+  "非有机生命": [
+    "20260709-0003"
+  ],
+  "层": [
+    "20260709-0003",
+    "20260716-0003"
+  ],
+  "抽象机器": [
+    "20260709-0003",
+    "20260709-0004"
+  ],
+  "计算机模拟": [
+    "20260709-0004"
+  ],
+  "扁平本体论": [
+    "20260709-0004"
+  ],
+  "装配理论": [
+    "20260709-0004"
+  ],
+  "现实": [
+    "20260709-0004",
+    "20260716-0011",
+    "20260716-0012",
+    "20260716-0041"
+  ],
+  "树状": [
+    "20260710-0001"
+  ],
+  "反俄狄浦斯": [
+    "20260710-0001",
+    "20260716-0022"
+  ],
+  "千高原": [
+    "20260710-0001",
+    "20260713-0001-duree-vs-assemblage-relation-set",
+    "20260716-0017"
+  ],
+  "结构比较": [
+    "20260710-0001"
+  ],
+  "装配": [
+    "20260710-0001",
+    "20260716-0004",
+    "20260716-0007",
+    "20260716-0035",
+    "20260716-0041"
+  ],
+  "混沌互渗": [
+    "20260710-0002"
+  ],
+  "自创生": [
+    "20260710-0002"
+  ],
+  "三重生态": [
+    "20260710-0002"
+  ],
+  "异质发生": [
+    "20260710-0002"
+  ],
+  "桥接卡": [
+    "20260710-0002",
+    "20260710-0003"
+  ],
+  "机器圈": [
+    "20260710-0003",
+    "20260713-0001-duree-vs-assemblage-relation-set"
+  ],
+  "超客体": [
+    "20260710-0003"
+  ],
+  "国际政治": [
+    "20260710-0003",
+    "20260715-0017"
+  ],
+  "莫顿": [
+    "20260710-0003"
+  ],
+  "能动性": [
+    "20260710-0003"
+  ],
+  "层化": [
+    "20260710-0003"
+  ],
+  "洞穴根茎": [
+    "20260710-0003"
+  ],
+  "巴塔耶": [
+    "20260711-0001"
+  ],
+  "耗费": [
+    "20260711-0001"
+  ],
+  "一般经济学": [
+    "20260711-0001"
+  ],
+  "过剩": [
+    "20260711-0001"
+  ],
+  "僭越": [
+    "20260711-0001"
+  ],
+  "比较分析": [
+    "20260711-0001"
+  ],
+  "瓜塔里": [
+    "20260713-0001-duree-vs-assemblage-relation-set"
+  ],
+  "agencement": [
+    "20260713-0001-duree-vs-assemblage-relation-set"
+  ],
+  "关系本体论": [
+    "20260713-0001-duree-vs-assemblage-relation-set",
+    "20260716-0013"
+  ],
+  "时间本体论": [
+    "20260713-0001-duree-vs-assemblage-relation-set"
+  ],
+  "本体论安全": [
+    "20260713-0002",
+    "20260713-0003",
+    "20260714-0002",
+    "20260714-0003",
+    "20260714-0004",
+    "20260714-0005",
+    "20260714-0007",
+    "20260715-0001",
+    "20260715-0004",
+    "20260715-0007",
+    "20260715-0008",
+    "20260715-0012",
+    "20260715-0013",
+    "20260716-0029",
+    "20260716-0030",
+    "20260716-0038"
+  ],
+  "对象a": [
+    "20260713-0002",
+    "20260713-0007"
+  ],
+  "欲望原因": [
+    "20260713-0002"
+  ],
+  "科索沃": [
+    "20260713-0002"
+  ],
+  "例行化": [
+    "20260713-0003"
+  ],
+  "依附": [
+    "20260713-0003"
+  ],
+  "柄谷行人": [
+    "20260713-0004"
+  ],
+  "不对称性": [
+    "20260713-0004"
+  ],
+  "裂隙": [
+    "20260713-0004",
+    "20260713-0005"
+  ],
+  "形式同构": [
+    "20260713-0004"
+  ],
+  "第三方": [
+    "20260713-0004"
+  ],
+  "跨域论证": [
+    "20260713-0004"
+  ],
+  "自指": [
+    "20260713-0005"
+  ],
+  "形式定理": [
+    "20260713-0005"
+  ],
+  "哥德尔": [
+    "20260713-0005"
+  ],
+  "塔斯基": [
+    "20260713-0005"
+  ],
+  "Lawvere": [
+    "20260713-0005"
+  ],
+  "本体论必然性": [
+    "20260713-0005"
+  ],
+  "数学哲学": [
+    "20260713-0005"
+  ],
+  "奎因": [
+    "20260713-0006"
+  ],
+  "本体论相对性": [
+    "20260713-0006"
+  ],
+  "翻译不确定性": [
+    "20260713-0006"
+  ],
+  "指称": [
+    "20260713-0006"
+  ],
+  "偏执型重复": [
+    "20260713-0007"
+  ],
+  "编码重塑": [
+    "20260713-0007"
+  ],
+  "再辖域化": [
+    "20260713-0007",
+    "20260716-0003"
+  ],
+  "操作化": [
+    "20260713-0007"
+  ],
+  "享乐的窃取": [
+    "20260713-0008"
+  ],
+  "他者化": [
+    "20260713-0008",
+    "20260714-0004"
+  ],
+  "幻想": [
+    "20260713-0008"
+  ],
+  "叙事机制": [
+    "20260713-0008"
+  ],
+  "新自由主义": [
+    "20260713-0009"
+  ],
+  "自由市场": [
+    "20260713-0009"
+  ],
+  "G20": [
+    "20260713-0009"
+  ],
+  "金融危机": [
+    "20260713-0009"
+  ],
+  "马克思主义": [
+    "20260714-0001"
+  ],
+  "结构性溢出": [
+    "20260714-0001"
+  ],
+  "商品拜物教": [
+    "20260714-0001"
+  ],
+  "马克思": [
+    "20260714-0001",
+    "20260716-0021",
+    "20260716-0022"
+  ],
+  "阿甘本": [
+    "20260714-0001"
+  ],
+  "使用价值": [
+    "20260714-0001"
+  ],
+  "交换价值": [
+    "20260714-0001"
+  ],
+  "克莱因": [
+    "20260714-0002",
+    "20260714-0007"
+  ],
+  "客体关系": [
+    "20260714-0002"
+  ],
+  "偏执-分裂位置": [
+    "20260714-0002"
+  ],
+  "抑郁位置": [
+    "20260714-0002"
+  ],
+  "焦虑管理": [
+    "20260714-0002"
+  ],
+  "防御机制": [
+    "20260714-0002",
+    "20260714-0007"
+  ],
+  "土耳其": [
+    "20260714-0003",
+    "20260714-0004",
+    "20260714-0005"
+  ],
+  "神经症": [
+    "20260714-0003"
+  ],
+  "酷儿": [
+    "20260714-0004"
+  ],
+  "恐同": [
+    "20260714-0004"
+  ],
+  "后殖民": [
+    "20260714-0005",
+    "20260715-0012",
+    "20260716-0030",
+    "20260716-0038",
+    "20260716-0047"
+  ],
+  "地位焦虑": [
+    "20260714-0005"
+  ],
+  "全球南方": [
+    "20260714-0005"
+  ],
+  "话语分析": [
+    "20260714-0006"
+  ],
+  "四大话语": [
+    "20260714-0006"
+  ],
+  "气候政策": [
+    "20260714-0006"
+  ],
+  "无意识幻想": [
+    "20260714-0007"
+  ],
+  "欧洲神话": [
+    "20260714-0007"
+  ],
+  "移民危机": [
+    "20260714-0007"
+  ],
+  "不均衡与组合发展": [
+    "20260714-0008",
+    "20260714-0010"
+  ],
+  "全球历史社会学": [
+    "20260714-0008"
+  ],
+  "去殖民": [
+    "20260714-0008",
+    "20260716-0033",
+    "20260716-0037",
+    "20260716-0039"
+  ],
+  "葛兰西": [
+    "20260714-0008"
+  ],
+  "生态": [
+    "20260714-0008"
+  ],
+  "全球国际关系": [
+    "20260714-0009"
+  ],
+  "本质主义陷阱": [
+    "20260714-0009"
+  ],
+  "关系主义": [
+    "20260714-0009"
+  ],
+  "全球史": [
+    "20260714-0009"
+  ],
+  "学科批判": [
+    "20260714-0009",
+    "20260714-0010"
+  ],
+  "社会多重性": [
+    "20260714-0010"
+  ],
+  "越界": [
+    "20260715-0001"
+  ],
+  "同理心": [
+    "20260715-0002"
+  ],
+  "去升级": [
+    "20260715-0002"
+  ],
+  "实验": [
+    "20260715-0003",
+    "20260715-0010"
+  ],
+  "系统信任": [
+    "20260715-0004"
+  ],
+  "峰会": [
+    "20260715-0004"
+  ],
+  "国家人格": [
+    "20260715-0004"
+  ],
+  "暗物质": [
+    "20260715-0004"
+  ],
+  "核风险": [
+    "20260715-0005"
+  ],
+  "无意升级": [
+    "20260715-0005"
+  ],
+  "战争迷雾": [
+    "20260715-0005"
+  ],
+  "归因": [
+    "20260715-0006"
+  ],
+  "网络战": [
+    "20260715-0006"
+  ],
+  "战略互补": [
+    "20260715-0006"
+  ],
+  "承诺": [
+    "20260715-0006"
+  ],
+  "博弈论": [
+    "20260715-0006",
+    "20260715-0009"
+  ],
+  "信息战": [
+    "20260715-0007"
+  ],
+  "操纵": [
+    "20260715-0007"
+  ],
+  "数字化": [
+    "20260715-0007"
+  ],
+  "仪式": [
+    "20260715-0008",
+    "20260715-0015"
+  ],
+  "述行性": [
+    "20260715-0008"
+  ],
+  "战略实践": [
+    "20260715-0008"
+  ],
+  "军备控制": [
+    "20260715-0009"
+  ],
+  "承诺问题": [
+    "20260715-0009"
+  ],
+  "监督成本": [
+    "20260715-0009"
+  ],
+  "权力转移": [
+    "20260715-0009"
+  ],
+  "威胁感知": [
+    "20260715-0010"
+  ],
+  "中美": [
+    "20260715-0010",
+    "20260715-0011"
+  ],
+  "攻防区分": [
+    "20260715-0010"
+  ],
+  "数字安全": [
+    "20260715-0011"
+  ],
+  "数据流动": [
+    "20260715-0011"
+  ],
+  "技术竞争": [
+    "20260715-0011"
+  ],
+  "Web3": [
+    "20260715-0011"
+  ],
+  "欧洲中心主义": [
+    "20260715-0012"
+  ],
+  "去地方化": [
+    "20260715-0012"
+  ],
+  "AUKUS": [
+    "20260715-0013"
+  ],
+  "太平洋岛国": [
+    "20260715-0013"
+  ],
+  "核遗产": [
+    "20260715-0013"
+  ],
+  "气候安全": [
+    "20260715-0013"
+  ],
+  "责任": [
+    "20260715-0013"
+  ],
+  "胁迫": [
+    "20260715-0014"
+  ],
+  "乌克兰": [
+    "20260715-0014"
+  ],
+  "核战略": [
+    "20260715-0014"
+  ],
+  "互动仪式链": [
+    "20260715-0015"
+  ],
+  "大国竞争": [
+    "20260715-0016",
+    "20260715-0021"
+  ],
+  "社会技术": [
+    "20260715-0016"
+  ],
+  "时机": [
+    "20260715-0017"
+  ],
+  "批判IR": [
+    "20260715-0018",
+    "20260716-0027",
+    "20260716-0037"
+  ],
+  "线性时间": [
+    "20260715-0018"
+  ],
+  "战争 on terror": [
+    "20260715-0019"
+  ],
+  "不安全": [
+    "20260715-0020"
+  ],
+  "安全实践": [
+    "20260715-0020"
+  ],
+  "批判安全研究": [
+    "20260715-0020"
+  ],
+  "战略节奏": [
+    "20260715-0021"
+  ],
+  "间断均衡": [
+    "20260715-0021"
+  ],
+  "中美印": [
+    "20260715-0021"
+  ],
+  "时间视野": [
+    "20260715-0021"
+  ],
+  "战略时间差": [
+    "20260715-0022"
+  ],
+  "战略安全": [
+    "20260715-0022"
+  ],
+  "战略机遇期": [
+    "20260715-0022"
+  ],
+  "时间换空间": [
+    "20260715-0022"
+  ],
+  "艾翁": [
+    "20260715-0023"
+  ],
+  "柯罗诺斯": [
+    "20260715-0023"
+  ],
+  "本体生成": [
+    "20260715-0023"
+  ],
+  "三种综合": [
+    "20260715-0024",
+    "20260716-0001"
+  ],
+  "永恒回归": [
+    "20260715-0024"
+  ],
+  "美国陆军": [
+    "20260715-0025"
+  ],
+  "远征": [
+    "20260715-0025"
+  ],
+  "多领域": [
+    "20260715-0025"
+  ],
+  "岸对海": [
+    "20260715-0025"
+  ],
+  "康威": [
+    "20260716-0001"
+  ],
+  "超现实数": [
+    "20260716-0001"
+  ],
+  "西田": [
+    "20260716-0001"
+  ],
+  "京都学派": [
+    "20260716-0001",
+    "20260716-0050"
+  ],
+  "Mercer": [
+    "20260716-0001"
+  ],
+  "irreducibility": [
+    "20260716-0001"
+  ],
+  "causal-closure": [
+    "20260716-0001"
+  ],
+  "strategic-qi": [
+    "20260716-0001"
+  ],
+  "意义": [
+    "20260716-0002",
+    "20260716-0008"
+  ],
+  "无意义": [
+    "20260716-0002",
+    "20260716-0008"
+  ],
+  "表层": [
+    "20260716-0002"
+  ],
+  "深度": [
+    "20260716-0002"
+  ],
+  "卡罗尔": [
+    "20260716-0002"
+  ],
+  "阿尔托": [
+    "20260716-0002"
+  ],
+  "地理哲学": [
+    "20260716-0003"
+  ],
+  "巴尔干": [
+    "20260716-0003"
+  ],
+  "辖域化": [
+    "20260716-0003",
+    "20260716-0026"
+  ],
+  "辖域": [
+    "20260716-0004"
+  ],
+  "算法治理性": [
+    "20260716-0005"
+  ],
+  "平台化": [
+    "20260716-0005"
+  ],
+  "采掘主义": [
+    "20260716-0005"
+  ],
+  "症候学": [
+    "20260716-0005"
+  ],
+  "横贯性": [
+    "20260716-0006"
+  ],
+  "主体群": [
+    "20260716-0006"
+  ],
+  "列宁式切割": [
+    "20260716-0006"
+  ],
+  "战争机器": [
+    "20260716-0006",
+    "20260716-0009",
+    "20260716-0019"
+  ],
+  "表述": [
+    "20260716-0006"
+  ],
+  "政治变革": [
+    "20260716-0007"
+  ],
+  "后资本主义": [
+    "20260716-0007"
+  ],
+  "黑暗前兆": [
+    "20260716-0008"
+  ],
+  "准因果": [
+    "20260716-0008",
+    "20260716-0012"
+  ],
+  "激情": [
+    "20260716-0008"
+  ],
+  "平滑空间": [
+    "20260716-0009"
+  ],
+  "内在性平面": [
+    "20260716-0009"
+  ],
+  "抵抗": [
+    "20260716-0009",
+    "20260716-0019"
+  ],
+  "触觉": [
+    "20260716-0010"
+  ],
+  "非物体性": [
+    "20260716-0010"
+  ],
+  "沙漠岛": [
+    "20260716-0010"
+  ],
+  "精神哲学": [
+    "20260716-0011"
+  ],
+  "造神": [
+    "20260716-0011"
+  ],
+  "结构": [
+    "20260716-0012"
+  ],
+  "差异与重复": [
+    "20260716-0012",
+    "20260716-0024"
+  ],
+  "政治本体论": [
+    "20260716-0014"
+  ],
+  "今在": [
+    "20260716-0014"
+  ],
+  "无时间性": [
+    "20260716-0016"
+  ],
+  "死亡驱力": [
+    "20260716-0016"
+  ],
+  "弗洛伊德": [
+    "20260716-0016"
+  ],
+  "岛": [
+    "20260716-0017"
+  ],
+  "巫师": [
+    "20260716-0018"
+  ],
+  "写作": [
+    "20260716-0018",
+    "20260716-0051"
+  ],
+  "日文": [
+    "20260716-0020"
+  ],
+  "哲学政治化": [
+    "20260716-0021"
+  ],
+  "菲勒斯中心主义": [
+    "20260716-0023"
+  ],
+  "性别": [
+    "20260716-0023"
+  ],
+  "数学时间": [
+    "20260716-0024"
+  ],
+  "钟表时间": [
+    "20260716-0024"
+  ],
+  "历史哲学": [
+    "20260716-0025"
+  ],
+  "记忆场所": [
+    "20260716-0026"
+  ],
+  "创伤": [
+    "20260716-0026"
+  ],
+  "民族": [
+    "20260716-0026"
+  ],
+  "离散": [
+    "20260716-0026"
+  ],
+  "诺拉": [
+    "20260716-0026"
+  ],
+  "算法": [
+    "20260716-0027"
+  ],
+  "量子理论": [
+    "20260716-0027"
+  ],
+  "速度": [
+    "20260716-0028"
+  ],
+  "美国军事思想": [
+    "20260716-0028"
+  ],
+  "建筑": [
+    "20260716-0029"
+  ],
+  "公共空间": [
+    "20260716-0029"
+  ],
+  "纪念碑": [
+    "20260716-0029"
+  ],
+  "封闭": [
+    "20260716-0030"
+  ],
+  "冲突后": [
+    "20260716-0030",
+    "20260716-0048"
+  ],
+  "生命政治": [
+    "20260716-0031"
+  ],
+  "自由战争": [
+    "20260716-0031"
+  ],
+  "人道": [
+    "20260716-0031"
+  ],
+  "宇宙论": [
+    "20260716-0031"
+  ],
+  "安全想象": [
+    "20260716-0032"
+  ],
+  "可解释AI": [
+    "20260716-0032"
+  ],
+  "萨赫勒": [
+    "20260716-0033"
+  ],
+  "干预": [
+    "20260716-0033"
+  ],
+  "反恐战争": [
+    "20260716-0033"
+  ],
+  "制图": [
+    "20260716-0033"
+  ],
+  "崇高": [
+    "20260716-0034"
+  ],
+  "美学": [
+    "20260716-0034"
+  ],
+  "否认": [
+    "20260716-0035"
+  ],
+  "海底": [
+    "20260716-0035"
+  ],
+  "太空": [
+    "20260716-0035"
+  ],
+  "批判安全": [
+    "20260716-0035"
+  ],
+  "位置性": [
+    "20260716-0036"
+  ],
+  "大学": [
+    "20260716-0037"
+  ],
+  "学科": [
+    "20260716-0037"
+  ],
+  "巴西": [
+    "20260716-0038"
+  ],
+  "自我": [
+    "20260716-0038"
+  ],
+  "想象力": [
+    "20260716-0038"
+  ],
+  "世界化": [
+    "20260716-0039"
+  ],
+  "本体论政治": [
+    "20260716-0039"
+  ],
+  "多元世界": [
+    "20260716-0039",
+    "20260716-0042"
+  ],
+  "战争本体论": [
+    "20260716-0040"
+  ],
+  "鲍德里亚": [
+    "20260716-0040"
+  ],
+  "目标化": [
+    "20260716-0040"
+  ],
+  "处理": [
+    "20260716-0040"
+  ],
+  "单一本体论": [
+    "20260716-0041"
+  ],
+  "杰克逊": [
+    "20260716-0042"
+  ],
+  "知识论": [
+    "20260716-0042"
+  ],
+  "合作安全": [
+    "20260716-0043"
+  ],
+  "多边主义": [
+    "20260716-0043"
+  ],
+  "人类安全": [
+    "20260716-0043"
+  ],
+  "学科史": [
+    "20260716-0044"
+  ],
+  "宽泛议程": [
+    "20260716-0044"
+  ],
+  "沃弗斯": [
+    "20260716-0044"
+  ],
+  "控制社会": [
+    "20260716-0045"
+  ],
+  "城市": [
+    "20260716-0045"
+  ],
+  "纪律": [
+    "20260716-0045"
+  ],
+  "永久和平": [
+    "20260716-0046"
+  ],
+  "施密特": [
+    "20260716-0046"
+  ],
+  "形而上学": [
+    "20260716-0046"
+  ],
+  "自由主义": [
+    "20260716-0046"
+  ],
+  "萨义德": [
+    "20260716-0047"
+  ],
+  "公共知识分子": [
+    "20260716-0047"
+  ],
+  "东方主义": [
+    "20260716-0047"
+  ],
+  "暴力冲突": [
+    "20260716-0048"
+  ],
+  "过渡": [
+    "20260716-0048"
+  ],
+  "说服": [
+    "20260716-0049"
+  ],
+  "正义": [
+    "20260716-0049"
+  ],
+  "希腊": [
+    "20260716-0049"
+  ],
+  "影响力": [
+    "20260716-0049"
+  ],
+  "西田几多郎": [
+    "20260716-0050"
+  ],
+  "空": [
+    "20260716-0050"
+  ],
+  "非西方": [
+    "20260716-0050"
+  ],
+  "良知": [
+    "20260716-0051"
+  ],
+  "小说": [
+    "20260716-0051"
+  ],
+  "宗教": [
+    "20260716-0052"
+  ],
+  "神圣": [
+    "20260716-0052"
+  ],
+  "流亡": [
+    "20260716-0052"
+  ],
+  "寄生物": [
+    "20260716-0053"
+  ],
+  "人类": [
+    "20260716-0053"
+  ],
+  "塞雷": [
+    "20260716-0053"
+  ],
+  "输赢": [
+    "20260716-0053"
+  ],
+  "博士论文框架诊断": [
+    "博士论文框架诊断-三个候选方向"
   ]
 }

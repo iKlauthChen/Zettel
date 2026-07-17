@@ -1,3 +1,4 @@
+tags: [20260624, 张景全, 海洋, ------, card1, 海陆, 卡组, 唐世平, 互补, ----------]
 ---
 name: zhang-maritime-politics-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：海洋政治学理论的谱系定位
 

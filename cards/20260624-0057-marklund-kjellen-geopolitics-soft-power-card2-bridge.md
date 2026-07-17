@@ -1,3 +1,4 @@
+tags: [20260624, Kjell, 地缘, ------, 卡组, 德勒, 地缘政治学, ----------, 案例, 话语]
 ---
 name: marklund-kjellen-geopolitics-soft-power-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：Kjellén地缘政治学的当代回响
 
@@ -41,7 +41,7 @@ Marklund（2015）的Kjellén重读处于两个学术传统的交汇点：
 |------|----------|------|
 | 栾栋德勒兹创造 | [[20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition]] | Kjellén的"国家有机体论"（state as a living organism）与德勒兹的"无器官身体"——国家有机体是对国家本质的生物学类比，德勒兹的无器官身体是对有机体的解构——两者形成奇特的镜像关系 |
 | Saldanha空间化 | [[20260623-0018-saldanha-space-after-deleuze-ingest]] | Kjellén用地质学概念（Baltic Shield, Fennoscandia）构建地缘政治想象——这与Saldanha的"Earth"（作为物质性的地球）高度相关：Kjellén展示了对"Earth"的物质构成（地质）进行政治利用的经典案例 |
-| 战争机器桥接卡 | [[20260624-0138-war-machine-bridge-residual-security]] | Kjellén的生命政治（biopolitics）作为战争机器的补充——国家通过生命政治主动改造领土和人口，这一过程类似于德勒兹-加塔利的"领土化"机制 |
+| 战争机器桥接卡 | [[20260624-0138-war-machine-bridge-surplus-security]] | Kjellén的生命政治（biopolitics）作为战争机器的补充——国家通过生命政治主动改造领土和人口，这一过程类似于德勒兹-加塔利的"领土化"机制 |
 
 ### 与IR范式
 

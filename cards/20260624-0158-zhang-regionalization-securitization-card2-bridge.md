@@ -1,3 +1,4 @@
+tags: [20260624, 区域化, 张景全, 安全, 卡组, ------, 叠加, card1, core, thesis]
 ---
 name: zhang-regionalization-securitization-card2-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：区域化与安全化悖论的谱系定位
 

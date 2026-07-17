@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7fb5fcbbd9fd685",
+        "id": "40283455d96e0f12",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b2cf5aad9c78e6",
+            "id": "e1f2e843e3fab4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cards/20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis.md",
+                "file": "drafts/线的文化史-英戈尔德研究综述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis"
+              "title": "线的文化史-英戈尔德研究综述"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "aeec41400d6a992a",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards/20260622-0030.md",
+                "file": "drafts/冷和平的生成哲学-核威慑-战争机器-国际政治的未来.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "20260622-0030 的反向链接列表"
+              "title": "冷和平的生成哲学-核威慑-战争机器-国际政治的未来 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cards/20260622-0030.md",
+                "file": "drafts/冷和平的生成哲学-核威慑-战争机器-国际政治的未来.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "20260622-0030 的出链列表"
+              "title": "冷和平的生成哲学-核威慑-战争机器-国际政治的未来 的出链列表"
             }
           },
           {
@@ -156,16 +156,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cards/20260622-0030.md",
+                "file": "cards/20260620-1558-第三种秘传语言不是对理想语言的修复.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "20260622-0030 的大纲"
+              "title": "20260620-1558-第三种秘传语言不是对理想语言的修复 的大纲"
+            }
+          },
+          {
+            "id": "000bb523023f9bdd",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "cards/20260701-0037-evans-reid-thinking-as-if-already-dead.md"
+              },
+              "icon": "lucide-info",
+              "title": "20260701-0037-evans-reid-thinking-as-if-already-dead的笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,32 +196,39 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f5b2cf5aad9c78e6",
+  "active": "e1f2e843e3fab4a6",
   "lastOpenFiles": [
-    "cards/20260620-1504-任何事物都是生成中的多样性的和谐.md",
-    "cards/20260620-1516-装置既是物的系统也是符号的系统.md",
-    "cards/20260620-1501-装置创造界域而非只是占据空间.md",
-    "cards/20260620-1500-装置是安排的过程而非静态组织.md",
-    "cards/20260621-0441-事件与逃逸线是物质系统敏感性与多元相遇产生创造性的两种机制.md",
-    "cards/20260620-1536-精神分析重铸了一个关于阉割和匮乏的新观念.md",
-    "cards/20260620-1545-无意义不是意义的缺席.md",
-    "cards/20260620-1583-无名的经验像沉默的海洋.md",
-    "cards/20260621-0009-Guattari与Deleuze选择了截.md",
-    "cards/20260621-0002-Guattari应被视为独立于Deleu.md",
-    "cards/20260621-0472-DG的四种符号制度从原始领域的前符号到专制国家的符号表意再到游牧的激情主体性和资本主义的反符号.md",
-    "cards/20260620-1507-语言不是被动的而是能动的创造真理.md",
-    "cards/20260621-0445-river-connection.md",
-    "20260621-0441.md",
-    "cards/20260620-1596-生成.md",
-    "cards/20260620-1576-永恒轮回中某物的轮回不能证明同一性.md",
-    "cards/20260620-1570-如何在生命断裂的同时持守整体性.md",
-    "20260622-1609.md",
-    "cards/20260620-1509-资本主义解域化只为更强大的再辖域化.md",
-    "cards/20260622-0030-abrahams-assemblage.md",
-    "cards/20260620-1500.md",
-    "20260622-0030.md",
-    "20260621-0445.md",
-    "111.md",
-    "cards/20260622-0030.md"
+    "drafts/柏格森记忆理论与晶体时间-合并稿.md",
+    "drafts/柏格森记忆理论与IR决策分析重构.md",
+    "drafts/IR理论预测失败-研究综述.md",
+    "drafts/柏格森记忆理论与AI大语言模型-研究综述.md",
+    "drafts/晶体时间作为IR分析方法.md",
+    "drafts/剩余安全-全文初稿-脚注版.md",
+    "drafts/剩余安全-全文初稿-修订版.md",
+    "cards/20260716-0053-Howells2024-parasite-paradox.md",
+    "drafts/外部性结构性批判-Kapp与OConnor综述.md",
+    "drafts/公海-IR空间研究综述.md",
+    "drafts/海权与陆权-历史对抗与理论反思综述.md",
+    "drafts/奎因翻译不确定性-研究综述.md",
+    "drafts/平滑与纹理-德勒兹空间与复杂科学综述.md",
+    "drafts/非欧几何-黎曼流形-空间认知综述.md",
+    "drafts/Chronos与Aion研究综述.md",
+    "drafts/IR空间研究-综述.md",
+    "drafts/线的地缘政治-Ingold.md",
+    "cards/20260716-0052-Rengger2003-eternal-return-religion-IR.md",
+    "cards/20260716-0051-Zehfuss2004-writing-war-conscience.md",
+    "cards/20260716-0050-Ong2004-Nishida-Kitaro-emptiness-IR.md",
+    "cards/20260716-0049-Lebow2005-power-persuasion-justice.md",
+    "drafts/线的文化史-英戈尔德研究综述.md",
+    "cards/20260716-0048-Buckley-Zistel2006-in-between-war-peace.md",
+    "drafts/超限战-全球学术接受综述-合成本.md",
+    "drafts/超限战-全球学术接受综述.md",
+    "drafts/超限战-海外引用综述.md",
+    "drafts/temporal-conditions-desecuritization.md.tmp.14021.2ed35ace6105",
+    "drafts/有限性海陆双向战略的哲学基础——三层本体论重构.md.tmp.14021.890cdb1db62a",
+    "drafts/日本安全转型的三层本体论分析.md.tmp.14021.25dcb0fb6d7c",
+    "drafts/日本安全转型的三层本体论分析.md.tmp.14021.28dedbd95e05",
+    "drafts/日本安全转型的三层本体论分析.md.tmp.14021.d76b9c2198d4",
+    "drafts/有限性海陆双向战略——基于原二稿的修订版.md.tmp.14021.1f277d27c122"
   ]
 }

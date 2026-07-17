@@ -1,3 +1,4 @@
+tags: [20260624, 立志, 不确定性, 因果, card1, 20260622, ------, 机制, liu, 悖论]
 ---
 name: qin-strategic-uncertainty-card7-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：秦立志战略不确定性与安全困境的谱系定位
 

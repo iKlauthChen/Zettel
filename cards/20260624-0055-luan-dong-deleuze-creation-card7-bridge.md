@@ -1,3 +1,4 @@
+tags: [20260624, 德勒, 栾栋, deleuze, 20260622, ingest, 战争, 20260623, 哲学, 华语]
 ---
 name: luan-dong-deleuze-creation-card7-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
----
 
 # 桥接卡：栾栋文章在华语德勒兹研究谱系中的独特定位
 
@@ -39,7 +39,7 @@ metadata:
 | 根茎与游牧学（卡4） | [[20260623-0018-saldanha-space-after-deleuze-ingest]] | 平滑空间/条纹空间、层叠与机械圈 |
 | 分裂分析（卡5） | [[zevnik-lacan-deleuze-world-politics]] | "心内法西斯"与主权话语批判 |
 | 战争机械（卡4-5） | [[20260622-0069-reid-war-machine-ingest]] | 战争机器详论、克劳塞维茨绝对战争 |
-| 战争机械→安全 | [[20260624-0138-war-machine-bridge-residual-security]] | 战争机器与剩余安全的桥接 |
+| 战争机械→安全 | [[20260624-0138-war-machine-bridge-surplus-security]] | 战争机器与剩余安全的桥接 |
 | 创造即冒险（卡6） | [[20260622-0073-stivale-deleuze-seminar-time-out-of-joint]] | 哲学思考的即兴时间性与生命代价 |
 | 巴黎会晤庄子（卡1） | [[20260622-0057-elsby-kafka-becoming-animal-non-metaphorical]] | 生成-非隐喻的跨文化发生场域 |
 

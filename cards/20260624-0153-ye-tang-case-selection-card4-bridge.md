@@ -1,3 +1,4 @@
+tags: [20260624, 案例, 唐世平, 方法论, 切卡, 负面, 机制, 叶成城, 卡组, MBCSM]
 ---
 name: ye-tang-case-selection-card4-bridge
 description: 
@@ -7,7 +8,6 @@ metadata:
   node_type: memory
   type: reference
   originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
 
 # 桥接卡：案例选择方法论的谱系定位
 
