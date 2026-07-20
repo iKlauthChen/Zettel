@@ -11,7 +11,7 @@ metadata:
 
 # 研究议程与跨谱系桥接——将海洋维度引入安全研究
 
-**来源**：Chao, B. C., & Cho, H.-B. (2023). Security in the Asia-Pacific and signaling at sea. *International Relations of the Asia-Pacific*, 23(3), 511-539. 综合桥接。
+**来源**：Chao, Brian C., and Hyun-Binn Cho. 'Security in the Asia-Pacific and signaling at sea.' *International Relations of the Asia-Pacific* 23.3 (2023): 511–539. 综合桥接。
 
 ## 研究议程总结
 
