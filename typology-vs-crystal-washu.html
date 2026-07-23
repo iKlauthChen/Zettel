@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>类型学 vs 晶体场方法 — 和</title>
+<style>
+  /* ── 和色 palette ── */
+  :root {
+    --paper:       #F5F1EA;
+    --paper-card:  #FBF8F3;
+    --paper-deep:  #EDE7DD;
+    --ink:         #2D2A28;
+    --ink-light:   #4A4440;
+    --ink-muted:   #7A7268;
+    --ink-pale:    #B8B0A4;
+    --ai:          #1B365D;
+    --ai-light:    rgba(27,54,93,0.06);
+    --matsuba:     #2D5A3A;
+    --matsuba-light: rgba(45,90,58,0.06);
+    --shu:         #B33A2A;
+    --shu-light:   rgba(179,58,42,0.07);
+    --yamabuki:    #C8A45C;
+    --hatoba:      #8E7F71;
+    --sumi:        #2D2A28;
+    --usuzumi:     #D0C8BA;
+    --kiri:        #A8A09A;
+    --byakuro:     #E6DFD2;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Noto Serif SC', 'Songti SC', 'STSong', 'Source Han Serif SC', serif;
+    -webkit-font-smoothing: antialiased;
+    padding: 72px 48px 48px;
+    min-height: 100vh;
+  }
+
+  .page-wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+
+  /* ═══════════════ HEADER ═══════════════ */
+  .header {
+    text-align: center;
+    margin-bottom: 64px;
+    position: relative;
+  }
+
+  /* ── Hanko stamp ── */
+  .stamp {
+    display: inline-block;
+    width: 52px;
+    height: 52px;
+    border: 2px solid var(--shu);
+    border-radius: 6px;
+    margin-bottom: 20px;
+    position: relative;
+    transform: rotate(-3deg);
+    opacity: 0.85;
+  }
+  .stamp-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--shu);
+    font-family: 'Noto Serif SC', serif;
+    letter-spacing: 2px;
+    line-height: 1;
+  }
+
+  .header h1 {
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--ai);
+    letter-spacing: 0.12em;
+    line-height: 1.3;
+  }
+  .header .subtitle {
+    font-size: 15px;
+    color: var(--ink-muted);
+    margin-top: 12px;
+    font-weight: 400;
+    letter-spacing: 0.08em;
+  }
+
+  .header-divider {
+    margin: 28px auto 0;
+    width: 160px;
+    height: 1px;
+    background: var(--usuzumi);
+    position: relative;
+  }
+  .header-divider::before {
+    content: '';
+    position: absolute;
+    top: -4px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 8px;
+    height: 8px;
+    background: var(--shu);
+    border-radius: 50%;
+    opacity: 0.5;
+  }
+
+  /* ═══════════════ PANELS ═══════════════ */
+  .panels {
+    display: flex;
+    gap: 36px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .panel {
+    flex: 1;
+    min-width: 520px;
+    max-width: 680px;
+    background: var(--paper-card);
+    border: 0.5px solid var(--usuzumi);
+    padding: 36px 32px 28px;
+    position: relative;
+  }
+
+  /* ── Panel header area ── */
+  .panel-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 2px;
+  }
+  .panel-title-group {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+  }
+  .panel-title {
+    font-size: 19px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+  }
+  .panel.ai .panel-title { color: var(--ai); }
+  .panel.matsuba .panel-title { color: var(--matsuba); }
+
+  .panel-badge {
+    font-size: 11px;
+    font-weight: 500;
+    padding: 2px 10px;
+    letter-spacing: 0.05em;
+    border-radius: 0;
+  }
+  .panel.ai .panel-badge {
+    background: var(--ai-light);
+    color: var(--ai);
+    border: 0.5px solid rgba(27,54,93,0.15);
+  }
+  .panel.matsuba .panel-badge {
+    background: var(--matsuba-light);
+    color: var(--matsuba);
+    border: 0.5px solid rgba(45,90,58,0.15);
+  }
+
+  .panel-subtitle {
+    font-size: 12px;
+    color: var(--ink-muted);
+    font-weight: 400;
+    margin-bottom: 28px;
+    letter-spacing: 0.04em;
+    padding-left: 0;
+  }
+
+  /* ── Decorative corner marks ── */
+  .panel::before,
+  .panel::after {
+    content: '';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-color: var(--ink-pale);
+    border-style: solid;
+    opacity: 0.4;
+  }
+  .panel::before {
+    top: 4px;
+    left: 4px;
+    border-width: 1px 0 0 1px;
+  }
+  .panel::after {
+    bottom: 4px;
+    right: 4px;
+    border-width: 0 1px 1px 0;
+  }
+
+  .panel.ai::before,
+  .panel.ai::after { border-color: rgba(27,54,93,0.2); }
+  .panel.matsuba::before,
+  .panel.matsuba::after { border-color: rgba(45,90,58,0.2); }
+
+  svg { width: 100%; height: auto; display: block; }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+    margin-top: 20px;
+    padding-top: 14px;
+    border-top: 0.5px solid var(--usuzumi);
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 11px;
+    color: var(--ink-muted);
+    font-weight: 400;
+    font-family: -apple-system, system-ui, sans-serif;
+  }
+  .legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 0;
+    flex-shrink: 0;
+  }
+
+  /* ═══════════════ NOTES ═══════════════ */
+  .notes {
+    margin-top: 52px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .note {
+    background: var(--paper-card);
+    padding: 28px 28px 24px;
+    border: 0.5px solid var(--usuzumi);
+  }
+  .note-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+  .note-header .tag {
+    font-size: 10px;
+    font-weight: 500;
+    padding: 2px 10px;
+    letter-spacing: 0.04em;
+    border-radius: 0;
+  }
+  .note-header .tag.ai-tag {
+    background: var(--ai-light);
+    color: var(--ai);
+    border: 0.5px solid rgba(27,54,93,0.12);
+  }
+  .note-header .tag.matsuba-tag {
+    background: var(--matsuba-light);
+    color: var(--matsuba);
+    border: 0.5px solid rgba(45,90,58,0.12);
+  }
+  .note-header .tag.shu-tag {
+    background: var(--shu-light);
+    color: var(--shu);
+    border: 0.5px solid rgba(179,58,42,0.12);
+  }
+  .note-header h3 {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--ink);
+    letter-spacing: 0.04em;
+  }
+  .note p, .note ul {
+    font-size: 13px;
+    color: var(--ink-light);
+    line-height: 1.85;
+  }
+  .note ul { padding-left: 0; list-style: none; }
+  .note li {
+    padding: 4px 0;
+    border-bottom: 0.5px solid var(--byakuro);
+    position: relative;
+    padding-left: 14px;
+  }
+  .note li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 13px;
+    width: 6px;
+    height: 1px;
+    background: var(--ink-pale);
+  }
+  .note li:last-child { border-bottom: none; }
+  .note li strong { color: var(--ink); font-weight: 500; }
+  .note p strong { color: var(--ink); font-weight: 500; }
+
+  .note.correction p {
+    font-size: 13px;
+    line-height: 1.9;
+  }
+
+  /* ═══════════════ FOOTER ═══════════════ */
+  .footer {
+    text-align: center;
+    font-size: 11px;
+    color: var(--ink-muted);
+    margin-top: 52px;
+    padding-top: 22px;
+    border-top: 0.5px solid var(--usuzumi);
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    opacity: 0.7;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 640px) {
+    body { padding: 36px 16px 24px; }
+    .panel { min-width: 0; padding: 28px 16px 20px; }
+    .header h1 { font-size: 26px; }
+    .panel-header { flex-wrap: wrap; gap: 6px; }
+    .notes { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="page-wrapper">
+
+  <!-- ════════════ HEADER ════════════ -->
+  <div class="header">
+    <div class="stamp">
+      <div class="stamp-inner">方<br>法</div>
+    </div>
+    <h1>類型學 vs 晶體場方法</h1>
+    <div class="subtitle">核去功能化的方法論比較 — 以朝鮮棄核問題為例</div>
+    <div class="header-divider"></div>
+  </div>
+
+  <!-- ════════════ PANELS ════════════ -->
+  <div class="panels">
+
+    <!-- ────────── LEFT: 类型学 / Typology ────────── -->
+    <div class="panel ai">
+      <div class="panel-header">
+        <div class="panel-title-group">
+          <span class="panel-title">類型學方法</span>
+          <span class="panel-badge">Chronos · 菜單</span>
+        </div>
+      </div>
+      <div class="panel-subtitle">操作流程：剪裁 → 命名 → 菜單化 → 匹配</div>
+
+      <svg viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg" role="img">
+        <title>类型学方法流程图</title>
+        <desc>五种历史模式作为可选项菜单，朝鲜决策者从中匹配，生成第六种模式</desc>
+        <defs>
+          <marker id="a-ch" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
+            <path d="M0,0 L6,2 L0,4 Z" fill="var(--ink-pale, #B8B0A4)"/>
+          </marker>
+          <marker id="a-ch-sel" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
+            <path d="M0,0 L6,2 L0,4 Z" fill="var(--ai, #1B365D)"/>
+          </marker>
+          <marker id="a-ch-red" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
+            <path d="M0,0 L6,2 L0,4 Z" fill="var(--shu, #B33A2A)"/>
+          </marker>
+        </defs>
+
+        <!-- Subtle background -->
+        <rect width="600" height="500" fill="transparent"/>
+
+        <!-- Section label -->
+        <text x="300" y="22" text-anchor="middle" fill="var(--hatoba, #8E7F71)" font-size="10" font-family="'Noto Serif SC', serif" letter-spacing="2">五種「模式」— 可選項菜單</text>
+
+        <!-- Model 1: Libya -->
+        <rect x="28" y="40" width="110" height="48" rx="0" fill="transparent" stroke="var(--ai, #1B365D)" stroke-width="0.8"/>
+        <text x="83" y="58" text-anchor="middle" fill="var(--ai, #1B365D)" font-size="11" font-weight="500">利比亞模式</text>
+        <text x="83" y="74" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="9">談判→棄核→回報</text>
+
+        <!-- Model 2: Iraq -->
+        <rect x="160" y="40" width="110" height="48" rx="0" fill="transparent" stroke="var(--shu, #B33A2A)" stroke-width="0.8"/>
+        <text x="215" y="58" text-anchor="middle" fill="var(--shu, #B33A2A)" font-size="11" font-weight="500">伊拉克模式</text>
+        <text x="215" y="74" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="9">武力解決</text>
+
+        <!-- Model 3: India-Pakistan -->
+        <rect x="292" y="40" width="120" height="48" rx="0" fill="transparent" stroke="var(--hatoba, #8E7F71)" stroke-width="0.8"/>
+        <text x="352" y="58" text-anchor="middle" fill="var(--hatoba, #8E7F71)" font-size="11" font-weight="500">印巴模式</text>
+        <text x="352" y="74" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="9">制裁→事實承認</text>
+
+        <!-- Model 4: Ukraine -->
+        <rect x="434" y="40" width="114" height="48" rx="0" fill="transparent" stroke="var(--ai, #1B365D)" stroke-width="0.6" stroke-dasharray="3,2"/>
+        <text x="491" y="58" text-anchor="middle" fill="var(--ai, #1B365D)" font-size="11" font-weight="500">烏克蘭模式</text>
+        <text x="491" y="74" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="9">移交大國代管</text>
+
+        <!-- Model 5: South Africa -->
+        <rect x="220" y="100" width="160" height="48" rx="0" fill="transparent" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.8"/>
+        <text x="300" y="118" text-anchor="middle" fill="var(--matsuba, #2D5A3A)" font-size="11" font-weight="500">南非模式</text>
+        <text x="300" y="134" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="9">自願放棄（後種族隔離）</text>
+
+        <!-- Selection arrows -->
+        <path d="M83,88 L83,175 L175,175" fill="none" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.5" marker-end="url(#a-ch)"/>
+        <path d="M215,88 L215,175" fill="none" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.5" marker-end="url(#a-ch)"/>
+        <path d="M352,88 L352,175 L385,175" fill="none" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.5" marker-end="url(#a-ch)"/>
+        <path d="M491,88 L491,175 L425,175" fill="none" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.5" marker-end="url(#a-ch)"/>
+        <path d="M300,148 L300,175" fill="none" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.5" marker-end="url(#a-ch)"/>
+
+        <!-- NK Decision node -->
+        <rect x="190" y="178" width="220" height="56" rx="0" fill="var(--ai-light, rgba(27,54,93,0.06))" stroke="var(--ai, #1B365D)" stroke-width="0.8" stroke-dasharray="5,3"/>
+        <text x="300" y="200" text-anchor="middle" fill="var(--ink, #2D2A28)" font-size="12" font-weight="500">朝鮮決策者</text>
+        <text x="300" y="216" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="10">選項評估 → 匹配最優模式</text>
+        <text x="300" y="228" text-anchor="middle" fill="var(--ink-pale, #B8B0A4)" font-size="8" font-style="italic">「我應該選哪一個？」</text>
+
+        <!-- Selected arrow -->
+        <path d="M300,234 L300,278" fill="none" stroke="var(--ai, #1B365D)" stroke-width="1" marker-end="url(#a-ch-sel)"/>
+
+        <!-- Result node -->
+        <rect x="195" y="282" width="210" height="48" rx="0" fill="transparent" stroke="var(--ai, #1B365D)" stroke-width="0.8"/>
+        <text x="300" y="304" text-anchor="middle" fill="var(--ai, #1B365D)" font-size="12" font-weight="500">「第六種模式」</text>
+        <text x="300" y="320" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="9">朝鮮獨特路徑</text>
+
+        <!-- Menu annotation -->
+        <text x="420" y="308" fill="var(--ink-pale, #B8B0A4)" font-size="8" font-family="'Noto Serif SC', serif">← 事後被收入菜單</text>
+        <text x="420" y="320" fill="var(--ink-pale, #B8B0A4)" font-size="8" font-family="'Noto Serif SC', serif">成為第6個可選項</text>
+
+        <!-- Negative info discarded -->
+        <rect x="110" y="362" width="380" height="38" rx="0" fill="transparent" stroke="var(--shu, #B33A2A)" stroke-width="0.6" stroke-dasharray="3,3"/>
+        <text x="300" y="378" text-anchor="middle" fill="var(--shu, #B33A2A)" font-size="9">✂ 剪裁操作丟棄的信息</text>
+        <text x="300" y="392" text-anchor="middle" fill="var(--shu, #B33A2A)" font-size="8">卡扎菲 2011 被殺 · 烏克蘭 2014 被入侵 · A.Q.汗核黑市</text>
+
+        <!-- Time arrow -->
+        <line x1="30" y1="452" x2="570" y2="452" stroke="var(--usuzumi, #D0C8BA)" stroke-width="0.5"/>
+        <text x="30" y="466" fill="var(--ink-pale, #B8B0A4)" font-size="8" font-family="'Noto Serif SC', serif">過去案例 ──────→ 現在決策 ────→ 未來</text>
+        <text x="300" y="486" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="9">操作方向：從類型 → 個案（匹配） — Chronos 時間</text>
+      </svg>
+
+      <div class="legend">
+        <div class="legend-item"><span class="legend-dot" style="background:var(--ai)"></span> 可選模式</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--shu)"></span> 負效應（被剪裁）</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--hatoba)"></span> 中間路徑</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--ai);opacity:0.5"></span> 未選路徑</div>
+      </div>
+    </div>
+
+    <!-- ────────── RIGHT: Crystal / Field ────────── -->
+    <div class="panel matsuba">
+      <div class="panel-header">
+        <div class="panel-title-group">
+          <span class="panel-title">晶體場方法</span>
+          <span class="panel-badge">Aion · 場域</span>
+        </div>
+      </div>
+      <div class="panel-subtitle">操作流程：沉積共存 → 厚度感知 → 獨異生成 → 事後被命名</div>
+
+      <svg viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg" role="img">
+        <title>晶体场方法流程图</title>
+        <desc>历史案例的完整沉积场共存于现在，决策者感知全场，生成独异路径</desc>
+        <defs>
+          <marker id="a-cr" markerWidth="6" markerHeight="4" refX="6" refY="2" orient="auto">
+            <path d="M0,0 L6,2 L0,4 Z" fill="var(--matsuba, #2D5A3A)"/>
+          </marker>
+        </defs>
+
+        <rect width="600" height="500" fill="transparent"/>
+
+        <!-- Field oval -->
+        <ellipse cx="300" cy="130" rx="264" ry="90" fill="var(--matsuba-light, rgba(45,90,58,0.04))" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.6" stroke-dasharray="5,4"/>
+        <text x="300" y="20" text-anchor="middle" fill="var(--matsuba, #2D5A3A)" font-size="10" font-family="'Noto Serif SC', serif" letter-spacing="1">沉積場 — 所有過去案例的厚度同時共存</text>
+
+        <!-- Layer: Libya -->
+        <rect x="32" y="42" width="154" height="64" rx="0" fill="transparent" stroke="var(--yamabuki, #C8A45C)" stroke-width="0.7"/>
+        <text x="109" y="58" text-anchor="middle" fill="var(--ink, #2D2A28)" font-size="10" font-weight="500">利比亞 2003–2011</text>
+        <text x="109" y="74" text-anchor="middle" fill="var(--ink-light, #4A4440)" font-size="7.5">✓ 棄核後制裁解除、重返國際社會</text>
+        <text x="109" y="84" text-anchor="middle" fill="var(--shu, #B33A2A)" font-size="7.5">✗ 2011年被推翻，卡扎菲被殺</text>
+        <text x="109" y="94" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="7">⊗ 棄核後安全保障承諾的脆弱性</text>
+
+        <!-- Layer: Iraq -->
+        <rect x="204" y="42" width="154" height="64" rx="0" fill="transparent" stroke="var(--shu, #B33A2A)" stroke-width="0.7"/>
+        <text x="281" y="58" text-anchor="middle" fill="var(--ink, #2D2A28)" font-size="10" font-weight="500">伊拉克 2003</text>
+        <text x="281" y="74" text-anchor="middle" fill="var(--ink-light, #4A4440)" font-size="7.5">✓ 薩達姆政權被推翻</text>
+        <text x="281" y="84" text-anchor="middle" fill="var(--shu, #B33A2A)" font-size="7.5">✗ 無WMD也被入侵 → 反向證明</text>
+        <text x="281" y="94" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="7">⊗ 「沒有核武=自殺」信號</text>
+
+        <!-- Layer: India-Pakistan -->
+        <rect x="376" y="42" width="180" height="64" rx="0" fill="transparent" stroke="var(--hatoba, #8E7F71)" stroke-width="0.7"/>
+        <text x="466" y="58" text-anchor="middle" fill="var(--ink, #2D2A28)" font-size="10" font-weight="500">印巴 1998–2008</text>
+        <text x="466" y="74" text-anchor="middle" fill="var(--ink-light, #4A4440)" font-size="7.5">✓ 核威懾穩定了雙方邊境</text>
+        <text x="466" y="84" text-anchor="middle" fill="var(--shu, #B33A2A)" font-size="7.5">✗ NSG雙重標準 / A.Q.汗黑市擴散</text>
+        <text x="466" y="94" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="7">⊗ 「撐夠久就被承認」</text>
+
+        <!-- Layer: Ukraine -->
+        <rect x="74" y="118" width="170" height="54" rx="0" fill="transparent" stroke="var(--ai, #1B365D)" stroke-width="0.6" stroke-dasharray="3,2"/>
+        <text x="159" y="134" text-anchor="middle" fill="var(--ink, #2D2A28)" font-size="10" font-weight="500">烏克蘭 1994–2022</text>
+        <text x="159" y="148" text-anchor="middle" fill="var(--ink-light, #4A4440)" font-size="7.5">✓ 世界第三大核武庫安全移除</text>
+        <text x="159" y="158" text-anchor="middle" fill="var(--shu, #B33A2A)" font-size="7.5">✗ 2014克里米亞 / 2022全面入侵</text>
+        <text x="159" y="168" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="7">⊗ 布達佩斯備忘錄無執行機制</text>
+
+        <!-- Layer: South Africa -->
+        <rect x="310" y="118" width="206" height="54" rx="0" fill="transparent" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.7"/>
+        <text x="413" y="134" text-anchor="middle" fill="var(--ink, #2D2A28)" font-size="10" font-weight="500">南非 1990s</text>
+        <text x="413" y="148" text-anchor="middle" fill="var(--ink-light, #4A4440)" font-size="7.5">✓ 自願、自主、不可逆棄核</text>
+        <text x="413" y="158" text-anchor="middle" fill="var(--shu, #B33A2A)" font-size="7.5">✗ 科學家/技術知識網絡留存</text>
+        <text x="413" y="168" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="7">⊗ 舊政權不信任新主體</text>
+
+        <!-- Cross-layer resonance lines -->
+        <line x1="186" y1="106" x2="204" y2="95" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.4" stroke-dasharray="2,3"/>
+        <line x1="186" y1="108" x2="159" y2="118" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.4" stroke-dasharray="2,3"/>
+        <line x1="358" y1="106" x2="376" y2="96" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.4" stroke-dasharray="2,3"/>
+        <line x1="244" y1="146" x2="310" y2="145" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.4" stroke-dasharray="2,3"/>
+        <line x1="466" y1="106" x2="516" y2="145" stroke="var(--ink-pale, #B8B0A4)" stroke-width="0.4" stroke-dasharray="2,3"/>
+
+        <!-- Resonance label -->
+        <text x="92" y="192" fill="var(--ink-pale, #B8B0A4)" font-size="6.5" font-family="'Noto Serif SC', serif">跨層共振：「安全保障承諾的脆弱性」連結利比亞+烏克蘭+伊拉克</text>
+
+        <!-- NK Decision maker -->
+        <rect x="170" y="222" width="260" height="64" rx="0" fill="var(--matsuba-light, rgba(45,90,58,0.06))" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.8"/>
+        <text x="300" y="244" text-anchor="middle" fill="var(--ink, #2D2A28)" font-size="12" font-weight="500">朝鮮決策者</text>
+        <text x="300" y="260" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="10">同時感知整個沉積場 → 提取條件</text>
+        <text x="300" y="274" text-anchor="middle" fill="var(--matsuba, #2D5A3A)" font-size="10">「這些事件共同教會了我什麼？」</text>
+        <text x="300" y="284" text-anchor="middle" fill="var(--ink-pale, #B8B0A4)" font-size="8">（不是選模板，而是讀厚度）</text>
+
+        <!-- Perception rays -->
+        <path d="M109,108 Q200,188 195,222" fill="none" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.4" opacity="0.3"/>
+        <path d="M281,108 Q300,183 300,222" fill="none" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.4" opacity="0.3"/>
+        <path d="M466,108 Q420,183 405,222" fill="none" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.4" opacity="0.3"/>
+        <path d="M159,172 Q230,208 230,222" fill="none" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.4" opacity="0.3"/>
+        <path d="M413,172 Q380,208 370,222" fill="none" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.4" opacity="0.3"/>
+
+        <!-- Singular path arrow -->
+        <path d="M300,286 L300,334" fill="none" stroke="var(--matsuba, #2D5A3A)" stroke-width="1.2" marker-end="url(#a-cr)"/>
+        <text x="310" y="318" fill="var(--matsuba, #2D5A3A)" font-size="10" font-weight="500" font-family="'Noto Serif SC', serif">獨異生成</text>
+
+        <!-- Singular path result -->
+        <rect x="150" y="340" width="300" height="54" rx="0" fill="var(--matsuba-light, rgba(45,90,58,0.06))" stroke="var(--matsuba, #2D5A3A)" stroke-width="0.8"/>
+        <text x="300" y="362" text-anchor="middle" fill="var(--matsuba, #2D5A3A)" font-size="12" font-weight="500">獨異的實際化</text>
+        <text x="300" y="378" text-anchor="middle" fill="var(--ink-light, #4A4440)" font-size="9">一條從沉積場條件中生成的、從未被走過的路</text>
+        <text x="300" y="390" text-anchor="middle" fill="var(--ink-pale, #B8B0A4)" font-size="8">不是第六種模式 → 不可複製的獨異路徑</text>
+
+        <!-- Retrospective naming -->
+        <rect x="350" y="416" width="220" height="36" rx="0" fill="transparent" stroke="var(--yamabuki, #C8A45C)" stroke-width="0.5" stroke-dasharray="3,3"/>
+        <text x="460" y="432" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="8">事後旁觀者：「這是第六種模式」</text>
+        <text x="460" y="445" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="8">（收編為菜單項）</text>
+        <path d="M390,394 Q430,406 440,416" fill="none" stroke="var(--yamabuki, #C8A45C)" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+        <!-- Time arrow -->
+        <line x1="30" y1="462" x2="570" y2="462" stroke="var(--usuzumi, #D0C8BA)" stroke-width="0.5"/>
+        <text x="30" y="476" fill="var(--matsuba, #2D5A3A)" font-size="8" font-family="'Noto Serif SC', serif">過去沉積共存於場中 ⟷ 現在決策者感知全場 ⟷ 生成獨異路徑 ⟹ 未來</text>
+        <text x="300" y="495" text-anchor="middle" fill="var(--ink-muted, #7A7268)" font-size="9">操作方向：從沉積場 → 獨異生成（不是匹配，是創造） — Aion 時間</text>
+      </svg>
+
+      <div class="legend">
+        <div class="legend-item"><span class="legend-dot" style="background:var(--matsuba)"></span> 沉積層共存 / 生成路徑</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--yamabuki)"></span> 積極面（✓）</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--shu)"></span> 消極面（✗）</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--kiri)"></span> 潛在性（⊗）</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ════════════ NOTES ════════════ -->
+  <div class="notes">
+    <div class="note">
+      <div class="note-header">
+        <span class="tag ai-tag">Chronos</span>
+        <h3>類型學</h3>
+      </div>
+      <ul>
+        <li><strong>操作：</strong>從每個過去案例中剪裁出「成功線索」，壓縮為可複製的「模式」</li>
+        <li><strong>決策者的位置：</strong>面對一個菜單，做匹配選擇</li>
+        <li><strong>時間結構：</strong>過去是已完成的、可提取的模板 → 未來是模板的重組或擴展</li>
+        <li><strong>解釋力：</strong>強（回頭看，重構因果鏈）</li>
+        <li><strong>預測力：</strong>弱（假設條件可以重複，但每次實際化都改變了條件）</li>
+        <li><strong>關鍵丟失：</strong>剪裁掉了每個案例的全部消極面和未被實際化的潛在性</li>
+      </ul>
+    </div>
+
+    <div class="note">
+      <div class="note-header">
+        <span class="tag matsuba-tag">Aion</span>
+        <h3>晶體場方法</h3>
+      </div>
+      <ul>
+        <li><strong>操作：</strong>保留每個案例的完整厚度（積極面 + 消極面 + 潛在性），讓它們在同一個場中共存</li>
+        <li><strong>決策者的位置：</strong>感知整個沉積場，從中提取條件，生成獨異路徑</li>
+        <li><strong>時間結構：</strong>所有沉積層在每一個現在中共存 → 未來是獨異的實際化</li>
+        <li><strong>解釋力：</strong>不同但互補——追蹤沉積的變形和共振，而非重構因果鏈</li>
+        <li><strong>預測力：</strong>不做預測—做結構性判斷：當前場狀態下哪些潛在性最可能被實際化</li>
+        <li><strong>關鍵保留：</strong>消極面和潛在性與積極面同樣重要——晶體追蹤整個厚度</li>
+      </ul>
+    </div>
+
+    <div class="note correction">
+      <div class="note-header">
+        <span class="tag shu-tag">修正</span>
+        <h3>解釋 vs 預測</h3>
+      </div>
+      <p>類型學在<strong>解釋</strong>（回頭看，重構已完成的因果鏈）中有效，但在<strong>預測</strong>（向前看，假設因果條件可重複）中失效。失效的結構性原因：每一次安全操作都在改變操作條件本身——利比亞 2003 年棄核的成功同時沉積了「安全保障承諾的脆弱性」這個潛在性。這個潛在性在 2011 年被實際化，改變了整個場，使得後續任何「預測」都面對一個已經不同於原始條件的場。</p>
+    </div>
+  </div>
+
+  <!-- ════════════ FOOTER ════════════ -->
+  <div class="footer">
+    方法論比較圖 · 陳祖豐 — 晶體時間 × 國際政治方法論 · 2026-07-21
+  </div>
+
+</div>
+
+</body>
+</html>
