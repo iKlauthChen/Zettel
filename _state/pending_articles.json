@@ -4522,5 +4522,23 @@
       "历史上帝国在中介策略和同化策略之间的切换案例需要补充更详细的比较研究",
       "当代中美裂隙竞争的展开需要独立的经验论文"
     ]
+  },
+  {
+    "cluster_id": "manual-decision-generative-compensatory",
+    "view": "draft",
+    "members": [],
+    "core_tags": [
+      "决策理论",
+      "生成性",
+      "补偿性",
+      "裂缝本体论",
+      "德勒兹",
+      "拉康"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "kind": "manual",
+    "status": "draft",
+    "produced_article": "drafts/生成与补偿-裂缝本体论视野下的决策质量判别.md"
   }
 ]
