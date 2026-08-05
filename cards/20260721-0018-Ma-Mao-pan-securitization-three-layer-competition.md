@@ -1,5 +1,5 @@
 ---
-id: "20260721-0018"
+id: 20260721-0018-Ma-Mao-pan-securitization-three-layer-competition
 status: seedling
 created: 2026-07-21
 source: "马赟菲、毛维准，《海权支点的大国数智化竞争：以中美智慧港口博弈为例》，《外交评论》2026年第3期"

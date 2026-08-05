@@ -1,13 +1,11 @@
-tags: [20260624, 徐进, 时间, 战略, 维度, 卡组, 鼎新, 时空, ----------, ------]
 ---
-name: xu-time-strategic-goal-card4-bridge
-description: 
+id: 20260624-0142-xu-time-strategic-goal-card4-bridge
+status: permanent
 created: 2026-06-24T16:09:25+0800
-  徐进2021时间维度与战略目标的桥接卡——与已有卡组的交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 徐进, 时间, 战略, 维度, 卡组, 鼎新, 时空, ----------, ------]
+aliases: ["xu-time-strategic-goal-card4-bridge"]
+---
 
 # 桥接卡：战略时间论的理论定位
 

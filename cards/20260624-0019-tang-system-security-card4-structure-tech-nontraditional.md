@@ -1,6 +1,6 @@
 ---
 tags: [tang, 安全, 非传统, 攻防, p.18, 因素, 环境, 唐世平, 阻吓, 防御]
-id: 20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge
+id: 20260624-0019-tang-system-security-card4-structure-tech-nontraditional
 status: permanent
 created: 2026-06-24T15:54:17+0800
 description: 唐世平2001论国际结构/军事技术/非传统安全三因素及其互动

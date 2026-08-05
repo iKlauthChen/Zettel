@@ -1,13 +1,11 @@
-tags: [20260624, 复杂性, 科学, 复杂, 非线性, 德勒, 2003, 范式, 此文, 20260623]
 ---
-name: song-complexity-science-card5-bridge
-description: 
+id: 20260624-0108-song-complexity-science-card5-bridge
+status: permanent
 created: 2026-06-24T15:37:12+0800
-  复杂性科学在安全研究谱系中的桥接——与德勒兹/复杂空间地理学/量子政治学的对话
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 复杂性, 科学, 复杂, 非线性, 德勒, 2003, 范式, 此文, 20260623]
+aliases: ["song-complexity-science-card5-bridge"]
+---
 
 # 桥接卡：复杂性科学在思维谱系中的定位
 

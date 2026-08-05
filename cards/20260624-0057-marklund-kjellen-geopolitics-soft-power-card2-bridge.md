@@ -1,13 +1,11 @@
-tags: [20260624, Kjell, 地缘, ------, 卡组, 德勒, 地缘政治学, ----------, 案例, 话语]
 ---
-name: marklund-kjellen-geopolitics-soft-power-card2-bridge
-description: 
+id: 20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge
+status: permanent
 created: 2026-06-24T16:25:07+0800
-  Marklund2015重读Kjellén桥接卡——与地缘政治/德勒兹/安全研究交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, Kjell, 地缘, ------, 卡组, 德勒, 地缘政治学, ----------, 案例, 话语]
+aliases: ["marklund-kjellen-geopolitics-soft-power-card2-bridge"]
+---
 
 # 桥接卡：Kjellén地缘政治学的当代回响
 

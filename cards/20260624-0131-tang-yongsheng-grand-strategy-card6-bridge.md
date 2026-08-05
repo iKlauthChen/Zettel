@@ -1,13 +1,11 @@
-tags: [20260624, 战略, 永胜, 安全, 2020, card1, 国家, 军事, 利德尔, --------]
 ---
-name: tang-yongsheng-grand-strategy-card6-bridge
-description: 
+id: 20260624-0131-tang-yongsheng-grand-strategy-card6-bridge
+status: permanent
 created: 2026-06-24T15:56:33+0800
-  唐永胜2020大战略选择与军事思维创新的桥接卡——中国特色安全道路与理论谱系
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 战略, 永胜, 安全, 2020, card1, 国家, 军事, 利德尔, --------]
+aliases: ["tang-yongsheng-grand-strategy-card6-bridge"]
+---
 
 # 桥接卡：中国特色安全道路与理论谱系定位
 

@@ -1,13 +1,11 @@
-tags: [20260624, Brooks, 战略, 海权, 海洋, ------, 1986, 威慑, 海军, 案例]
 ---
-name: brooks-maritime-strategy-card2-bridge
-description: 
+id: 20260624-0013-brooks-maritime-strategy-card2-bridge
+status: permanent
 created: 2026-06-24T16:34:14+0800
-  Brooks1986海洋战略桥接卡——与海权理论/陆海复合型/威慑理论的交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, Brooks, 战略, 海权, 海洋, ------, 1986, 威慑, 海军, 案例]
+aliases: ["brooks-maritime-strategy-card2-bridge"]
+---
 
 # 桥接卡：美国海洋战略的谱系定位
 

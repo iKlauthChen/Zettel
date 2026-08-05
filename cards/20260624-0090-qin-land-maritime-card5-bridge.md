@@ -1,13 +1,11 @@
-tags: [20260624, ------, 战略, 地缘, 立志, 2016, 海权, 转型, card1, 防御性]
 ---
-name: qin-land-maritime-card5-bridge
-description: 
+id: 20260624-0090-qin-land-maritime-card5-bridge
+status: permanent
 created: 2026-06-24T16:04:46+0800
-  秦立志2016陆海复合型国家战略转型的桥接卡——与已有卡组交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, ------, 战略, 地缘, 立志, 2016, 海权, 转型, card1, 防御性]
+aliases: ["qin-land-maritime-card5-bridge"]
+---
 
 # 桥接卡：陆海复合型国家战略转型的谱系定位
 

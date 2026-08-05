@@ -1,5 +1,5 @@
 ---
-id: 20260624-war-machine-bridge
+id: 20260624-war-machine-bridge-surplus-security
 status: permanent
 created: 2026-06-24T16:00:00Z
 source: {type: synthesis, ref: "Reid(2003) × D&G(千高原) × Purakayastha&Das(2023) × Colebrook(2023) × Bonta-Protevi(2004) × 胡波(2024) × Dibb&Brabin-Smith(2021)"}

@@ -1,13 +1,11 @@
-tags: [20260624, 2016, 殷弘, 2000, 陆海, 姜鹏, 2019, 邵永灵时, 战略, 立志]
 ---
-name: shao-shi-land-maritime-card2-bridge
-description: 
+id: 20260624-0101-shao-shi-land-maritime-card2-bridge
+status: permanent
 created: 2026-06-24T16:26:57+0800
-  邵永灵时殷弘2000陆海复合国家桥接卡——与秦立志姜鹏等后续研究的关系
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 2016, 殷弘, 2000, 陆海, 姜鹏, 2019, 邵永灵时, 战略, 立志]
+aliases: ["shao-shi-land-maritime-card2-bridge"]
+---
 
 # 桥接卡：陆海复合型国家研究的谱系奠基
 

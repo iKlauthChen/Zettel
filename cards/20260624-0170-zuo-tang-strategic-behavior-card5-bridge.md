@@ -1,13 +1,11 @@
-tags: [20260624, 唐世平, 战略, card1, 评估, 阶段, 左希迎, 2012, 卡组, 行为]
 ---
-name: zuo-tang-strategic-behavior-card5-bridge
-description: 
+id: 20260624-0170-zuo-tang-strategic-behavior-card5-bridge
+status: permanent
 created: 2026-06-24T16:02:45+0800
-  左希迎唐世平2012理解战略行为的桥接卡——与已有卡组的交叉链接
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 唐世平, 战略, card1, 评估, 阶段, 左希迎, 2012, 卡组, 行为]
+aliases: ["zuo-tang-strategic-behavior-card5-bridge"]
+---
 
 # 桥接卡：战略行为分析框架的谱系定位
 

@@ -1,13 +1,11 @@
-tags: [20260624, 德勒, 栾栋, deleuze, 20260622, ingest, 战争, 20260623, 哲学, 华语]
 ---
-name: luan-dong-deleuze-creation-card7-bridge
-description: 
+id: 20260624-0055-luan-dong-deleuze-creation-card7-bridge
+status: permanent
 created: 2026-06-24T14:59:03+0800
-  栾栋文章在德勒兹研究谱系中的定位——华语学界第一手文献的独特价值
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 德勒, 栾栋, deleuze, 20260622, ingest, 战争, 20260623, 哲学, 华语]
+aliases: ["luan-dong-deleuze-creation-card7-bridge"]
+---
 
 # 桥接卡：栾栋文章在华语德勒兹研究谱系中的独特定位
 

@@ -1,13 +1,11 @@
-tags: [20260624, Retaill, 地缘, 自我实现, 地缘政治学, ------, 模型, card1, 谱系, core]
 ---
-name: retaille-geopolitics-history-card2-bridge
-description: 
+id: 20260624-0099-retaille-geopolitics-history-card2-bridge
+status: permanent
 created: 2026-06-24T16:32:38+0800
-  Retaillé2000历史中的地缘政治桥接卡——法国视角与地缘政治/IR思想史交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, Retaill, 地缘, 自我实现, 地缘政治学, ------, 模型, card1, 谱系, core]
+aliases: ["retaille-geopolitics-history-card2-bridge"]
+---
 
 # 桥接卡：法国地缘政治学的谱系定位
 

@@ -1,13 +1,11 @@
-tags: [20260624, 流形, 德勒, 多重性, 黎曼, 20260623, ingest, 拓扑, deleuze, 外尔]
 ---
-name: liu-qu-manifold-evolution-card6-bridge
-description: 
+id: 20260624-0048-liu-qu-manifold-evolution-card6-bridge
+status: permanent
 created: 2026-06-24T14:55:10+0800
-  流形概念演变在思想史谱系中的桥接——空间观念变革的内在驱动与哲学共振
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 流形, 德勒, 多重性, 黎曼, 20260623, ingest, 拓扑, deleuze, 外尔]
+aliases: ["liu-qu-manifold-evolution-card6-bridge"]
+---
 
 # 桥接卡：流形概念史的思想谱系定位——从空间观念变革到哲学多重性
 

@@ -1,13 +1,11 @@
-tags: [20260624, ------, 胡志丁陆, 地缘, 地缘政治学, 2016, 批判, 间性, card1, 大道]
 ---
-name: hu-lu-critical-geopolitics-card2-bridge
-description: 
+id: 20260624-0025-hu-lu-critical-geopolitics-card2-bridge
+status: permanent
 created: 2026-06-24T16:29:17+0800
-  胡志丁陆大道2015批判地缘政治学桥接卡——与胡志丁2016/经典地缘政治/方法论文献的交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, ------, 胡志丁陆, 地缘, 地缘政治学, 2016, 批判, 间性, card1, 大道]
+aliases: ["hu-lu-critical-geopolitics-card2-bridge"]
+---
 
 # 桥接卡：批判地缘政治学的谱系定位
 

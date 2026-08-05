@@ -1,13 +1,11 @@
-tags: [20260624, 航母, Bana, 威慑, 2015, card6, bridge, 信号, conclusion, 出云]
 ---
-name: bana-sea-power-card5-conclusion-bridge
-description: 
+id: 20260624-0011-bana-sea-power-card5-conclusion-bridge
+status: permanent
 created: 2026-06-24T15:29:01+0800
-  亚太航母竞赛2015年截面：实证数据桥接至现有卡组的威慑/信号/灰色地带讨论
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 航母, Bana, 威慑, 2015, card6, bridge, 信号, conclusion, 出云]
+aliases: ["bana-sea-power-card5-conclusion-bridge"]
+---
 
 # 桥接卡：亚太航母竞赛2015年截面与现有卡组的对接
 

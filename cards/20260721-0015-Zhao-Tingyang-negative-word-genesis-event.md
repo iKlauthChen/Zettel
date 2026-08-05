@@ -1,5 +1,5 @@
 ---
-id: "20260721-0015"
+id: 20260721-0015-Zhao-Tingyang-negative-word-genesis-event
 status: seedling
 created: 2026-07-21
 source: "赵汀阳，《人类的创世纪事件：否定词的发明》，《浙江学刊》2026年第2期"

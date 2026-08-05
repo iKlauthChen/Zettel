@@ -1,13 +1,11 @@
-tags: [20260624, 张景全, 海洋, ------, card1, 海陆, 卡组, 唐世平, 互补, ----------]
 ---
-name: zhang-maritime-politics-card2-bridge
-description: 
+id: 20260624-0155-zhang-maritime-politics-card2-bridge
+status: permanent
 created: 2026-06-24T16:11:04+0800
-  张景全2020海洋政治学理论构建桥接卡——与已有卡组交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 张景全, 海洋, ------, card1, 海陆, 卡组, 唐世平, 互补, ----------]
+aliases: ["zhang-maritime-politics-card2-bridge"]
+---
 
 # 桥接卡：海洋政治学理论的谱系定位
 

@@ -5,9 +5,9 @@ created: 2026-07-01T19:30:00+0800
 tags: [语言, 符号, 言语行为, 安全化, 话语, 认知, 现实建构]
 links:
   - {id: 20260622-0081-zhu-ning-copenhagen-school-security, reason: "安全化作为言语行为——说话即改变现实的直接理论例证"}
-  - {id: 20260622-0041-xue-li-strategic-narrative-ontological-security, reason: "战略叙事建构本体安全——语言塑造行为体的存在状态"}
-  - {id: 20260622-1740-lacan-love-discourse-order, reason: "拉康话语理论——语言不是工具而是打结三个界域的操作"}
-  - {id: 20260621-0439-dg-sign-material-critical-threshold, reason: "德勒兹符号作为物质系统的临界阈值——语言连接物质与理念"}
+  - {id: 20260622-0041-薛丽论战略叙事建构本体安全以美国对一带一路的叙事演变为例分析对外政策演化, reason: "战略叙事建构本体安全——语言塑造行为体的存在状态"}
+  - {id: 20260622-1740-实在界的爱作为打破主体秩序的力量而非情感, reason: "拉康话语理论——语言不是工具而是打结三个界域的操作"}
+  - {id: 20260621-0439-DG将符号重新定义为物质系统感知到的临界阈值绕过了后索绪尔符号学的意义危机, reason: "德勒兹符号作为物质系统的临界阈值——语言连接物质与理念"}
   - {id: 20260701-0023-jervis-perception-misperception-mechanisms, reason: "预期同化信息——语言对认知的塑形与窄化"}
 voice_passed: true
 aliases: ["语言作为行动与边界", "语言的建构力"]

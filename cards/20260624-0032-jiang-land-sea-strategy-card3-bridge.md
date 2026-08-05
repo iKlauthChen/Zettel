@@ -1,13 +1,11 @@
-tags: [20260624, 姜鹏, 海陆, 海权, 战略, card1, 立志, ------, 陆权, ----------]
 ---
-name: jiang-land-sea-strategy-card3-bridge
-description: 
+id: 20260624-0032-jiang-land-sea-strategy-card3-bridge
+status: permanent
 created: 2026-06-24T16:16:21+0800
-  姜鹏2016海陆复合型大国战略选择桥接卡——与秦立志/盟友理论/战略研究交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 姜鹏, 海陆, 海权, 战略, card1, 立志, ------, 陆权, ----------]
+aliases: ["jiang-land-sea-strategy-card3-bridge"]
+---
 
 # 桥接卡：海陆复合型大国战略选择的谱系定位
 

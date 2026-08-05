@@ -1,13 +1,11 @@
-tags: [20260624, 杨思灵, 20260622, 复合, ------, card1, security, 系统论, 安全, 卡组]
 ---
-name: yang-complex-system-card7-bridge
-description: 
+id: 20260624-0149-yang-complex-system-card7-bridge
+status: permanent
 created: 2026-06-24T15:46:12+0800
-  杨思灵国际政治复合系统论的桥接卡——与已有卡组的交叉链接与谱系定位
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 杨思灵, 20260622, 复合, ------, card1, security, 系统论, 安全, 卡组]
+aliases: ["yang-complex-system-card7-bridge"]
+---
 
 # 桥接卡：杨思灵国际政治复合系统论的谱系定位
 

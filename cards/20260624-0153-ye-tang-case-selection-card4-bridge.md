@@ -1,13 +1,11 @@
-tags: [20260624, 案例, 唐世平, 方法论, 切卡, 负面, 机制, 叶成城, 卡组, MBCSM]
 ---
-name: ye-tang-case-selection-card4-bridge
-description: 
+id: 20260624-0153-ye-tang-case-selection-card4-bridge
+status: permanent
 created: 2026-06-24T16:13:19+0800
-  叶成城唐世平2019基于因果机制案例选择的桥接卡——方法论谱系定位
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 案例, 唐世平, 方法论, 切卡, 负面, 机制, 叶成城, 卡组, MBCSM]
+aliases: ["ye-tang-case-selection-card4-bridge"]
+---
 
 # 桥接卡：案例选择方法论的谱系定位
 

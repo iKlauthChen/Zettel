@@ -1,17 +1,10 @@
+---
+id: 20260624-0138-war-machine-bridge-surplus-security
+status: permanent
+created: 2026-06-24T18:00:00+0800
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 机器, 战争, 占有, 安全, 20260622, 剩余, 暴力, 国家, DG]
 ---
-name: ""
-description: 
-created: 2026-06-24T18:00:00+0800
-  "严格区分德勒兹-瓜塔里\"战争机器\"（游牧/逃逸/本体论外部性）与安全研究\"战争机器\"（国家军事体制/暴力工具），通过占有(appropriation)概念桥接至剩余安全框架"
-metadata: 
-  node_type: memory
-  type: reference
-  clusters: 
-    - deleuze-war-machine
-    - surplus-security
-    - synthesis
-  originSessionId: 98233f0e-9b1e-421d-9036-f59a5c6d92d0
 
 # 战争机器桥接卡——DG战争机器 vs 安全研究的战争机器
 

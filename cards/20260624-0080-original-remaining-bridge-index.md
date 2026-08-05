@@ -1,13 +1,11 @@
-tags: [20260624, ------, 安全, 桥接, 德勒, 机器, ---, Olancho, -------------, vs]
 ---
-name: original-remaining-bridge-index
-description: 
+id: 20260624-0080-original-remaining-bridge-index
+status: permanent
 created: 2026-06-24T18:00:00+0800
-  原始库仍有桥接潜力的笔记索引——6类80条，标记编号+主题+建议连接方向
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, ------, 安全, 桥接, 德勒, 机器, ---, Olancho, -------------, vs]
+aliases: ["original-remaining-bridge-index"]
+---
 
 # 原始库未提炼笔记——IR/安全桥接索引
 

@@ -1,13 +1,11 @@
-tags: [20260624, 间性, 主体, 胡志丁, 他者, ------, 战略, 卡组, ----------, card1]
 ---
-name: hu-liu-geopolitical-intersubjectivity-card2-bridge
-description: 
+id: 20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge
+status: permanent
 created: 2026-06-24T16:14:54+0800
-  胡志丁刘卫东2016地缘战略主体间性桥接卡——与已有卡组交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 间性, 主体, 胡志丁, 他者, ------, 战略, 卡组, ----------, card1]
+aliases: ["hu-liu-geopolitical-intersubjectivity-card2-bridge"]
+---
 
 # 桥接卡：地缘战略主体间性的谱系定位
 

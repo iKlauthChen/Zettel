@@ -1,5 +1,5 @@
 ---
-id: "20260721-0019"
+id: 20260721-0019-Hart-et-al-SCS-trade-chokepoints
 status: seedling
 created: 2026-07-21
 source: "Brian Hart, Matthew P. Funaiole, David Peng, Jasper Verschuur, Bonny Lin, Leon Li, \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea,\" CSIS Brief, July 2026"

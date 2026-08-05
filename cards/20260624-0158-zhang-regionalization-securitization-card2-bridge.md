@@ -1,13 +1,11 @@
-tags: [20260624, 区域化, 张景全, 安全, 卡组, ------, 叠加, card1, core, thesis]
 ---
-name: zhang-regionalization-securitization-card2-bridge
-description: 
+id: 20260624-0158-zhang-regionalization-securitization-card2-bridge
+status: permanent
 created: 2026-06-24T16:20:32+0800
-  张景全2018区域化与安全化悖论桥接卡——与已有卡组交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 区域化, 张景全, 安全, 卡组, ------, 叠加, card1, core, thesis]
+aliases: ["zhang-regionalization-securitization-card2-bridge"]
+---
 
 # 桥接卡：区域化与安全化悖论的谱系定位
 

@@ -1,5 +1,5 @@
 ---
-id: "20260721-0013"
+id: 20260721-0013-Zhao-Tingyang-objects-without-objectivity
 status: seedling
 created: 2026-07-21
 source: "赵汀阳，《动词的存在论》，《哲学研究》2025年第2期"

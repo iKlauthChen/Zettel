@@ -1,13 +1,11 @@
-tags: [20260624, 威慑, 20260622, 即时, 延伸, 进攻方, 威慑理论, 信号, deterrence, 拒止]
 ---
-name: liu-ge-extended-immediate-deterrence-card6-bridge
-description: 
+id: 20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge
+status: permanent
 created: 2026-06-24T15:06:45+0800
-  延伸—即时威慑与现有卡组的桥接——声誉/战略预警/灰色地带/地缘位势/安全感
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: 6c07cc0a-f306-4c03-9ebc-fa7bec582917
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 威慑, 20260622, 即时, 延伸, 进攻方, 威慑理论, 信号, deterrence, 拒止]
+aliases: ["liu-ge-extended-immediate-deterrence-card6-bridge"]
+---
 
 # 桥接卡：延伸—即时威慑在安全研究谱系中的位置
 

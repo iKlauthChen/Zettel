@@ -2,7 +2,7 @@
 id: 20260715-0013
 status: permanent
 created: 2026-07-15T15:00:00+0800
-source: {type: article, ref: "Vaha, Milla Emilia. 'Responsibility and anxiety in the "Pacific family": AUKUS as a source of ontological insecurity.' International Relations (2025)."}
+source: {type: article, ref: 'Vaha, Milla Emilia. "Responsibility and anxiety in the Pacific family": AUKUS as a source of ontological insecurity. International Relations (2025).' }
 tags: [本体论安全, AUKUS, 太平洋岛国, 核遗产, 气候安全, 责任]
 links:
   - {id: 20260713-0003, reason: "Mitzen的OSS——本文是OSS在太平洋岛国的具体应用案例"}

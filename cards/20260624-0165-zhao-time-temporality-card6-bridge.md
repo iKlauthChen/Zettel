@@ -1,13 +1,11 @@
-tags: [20260624, 鼎新, 德勒, 时间, 时间性, 权力, 20260622, 道家, card1, 四种]
 ---
-name: zhao-time-temporality-card6-bridge
-description: 
+id: 20260624-0165-zhao-time-temporality-card6-bridge
+status: permanent
 created: 2026-06-24T15:58:10+0800
-  赵鼎新2019时间时间性与智慧桥接卡——与德勒兹时间/IR系统论/中国哲学的交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 鼎新, 德勒, 时间, 时间性, 权力, 20260622, 道家, card1, 四种]
+aliases: ["zhao-time-temporality-card6-bridge"]
+---
 
 # 桥接卡：时间本体论的社会学建构与跨领域对话
 

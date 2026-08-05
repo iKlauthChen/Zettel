@@ -1,13 +1,11 @@
-tags: [20260624, 安全, 殷弘, ------, 卡组, 唐世平, 隐喻, 传统, 革命主义, ----------]
 ---
-name: shi-security-philosophical-paradigms-card2-bridge
-description: 
+id: 20260624-0103-shi-security-philosophical-paradigms-card2-bridge
+status: permanent
 created: 2026-06-24T16:31:07+0800
-  时殷弘2000国际安全哲理范式桥接卡——与安全研究/IR传统卡组的交叉
-metadata: 
-  node_type: memory
-  type: reference
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
+source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+tags: [20260624, 安全, 殷弘, ------, 卡组, 唐世平, 隐喻, 传统, 革命主义, ----------]
+aliases: ["shi-security-philosophical-paradigms-card2-bridge"]
+---
 
 # 桥接卡：国际安全哲理范式的谱系定位
 
