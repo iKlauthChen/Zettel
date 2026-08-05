@@ -9,7 +9,7 @@ links:
   - {id: 20260721-0011, reason: "Luttwak战略五层级——悖论逻辑的层级化展开"}
   - {id: 20260721-0012, reason: "Luttwak武装说服——后英雄时代的悖论操作"}
   - {id: 20260721-0001, reason: "Womack对Schelling霸权前提的批判与Luttwak的'线性逻辑在战略中失效'论断共享问题意识"}
-  - {id: 20260721-litmap, reason: "Luttwak的悖论逻辑是论文奇正重述最直接的西方战略理论对话者"}
+  - {id: 20260805-0003, reason: "Luttwak的悖论逻辑是论文奇正重述最直接的西方战略理论对话者"}
 voice_passed: true
 aliases: ["Luttwak paradoxical logic", "战略的悖论逻辑", "linear vs paradoxical logic"]
 ---
@@ -36,6 +36,6 @@ Luttwak的五个层级按操作规模做了实用的划分，但这一划分缺�
 
 - [[20260721-0005-Biddle-modern-system-force-employment|Biddle现代系统理论]]
 - [[20260721-0001-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
-- [[20260721-当代战略理论代表性文献清单-论文配套映射|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260805-0003-strategic-theory-literature-map|文献清单与论文映射]]
 - [[20260721-0011-Luttwak-vertical-dimension-levels|Luttwak：战略五层级]] — 悖论逻辑的层级化展开
 - [[20260721-0012-Luttwak-armed-suasion-postheroic|Luttwak：武装说服]] — 后英雄时代的悖论操作

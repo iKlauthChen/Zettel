@@ -42,7 +42,8 @@
     "in": [
       "2024summer-batch-cross-domain-synthesis",
       "20260703-0001",
-      "20260703-0005"
+      "20260703-0005",
+      "20260805-0003"
     ]
   },
   "20260624-0006-jiang-land-sea-strategy-card1-core-thesis": {
@@ -1451,7 +1452,8 @@
       "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
       "20260722-0002-能但不执法晶体的实践入口",
       "20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation",
-      "20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos"
+      "20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos",
+      "20260805-0003"
     ]
   },
   "20260622-0071-smith-pure-form-time-three-syntheses": {
@@ -9018,7 +9020,8 @@
       "20260701-0001-jervis-system-effects-structure-boundary",
       "20260701-0020-system-effects-application-framework",
       "20260701-0025-wendt-constructivist-ontology",
-      "20260701-0028-tang-shiping-social-evolution-key-concepts"
+      "20260701-0028-tang-shiping-social-evolution-key-concepts",
+      "20260805-0003"
     ]
   },
   "20260624-0084-qin-dynamic-mechanism-card4-china-path": {
@@ -9132,7 +9135,8 @@
     ],
     "in": [
       "20260626-1136-lieberman-credibility-land-maneuver",
-      "20260626-1146-lieberman-october-7-failure-mechanism"
+      "20260626-1146-lieberman-october-7-failure-mechanism",
+      "20260805-0003"
     ]
   },
   "20260715-0014-Adamsky2025-Russian-deterrence": {
@@ -10482,7 +10486,8 @@
     "out": [],
     "in": [
       "20260627-0019",
-      "20260627-0020"
+      "20260627-0020",
+      "20260805-0003"
     ]
   },
   "20260701-0005-popescu-grand-strategy-vs-emergent-strategy": {
@@ -12138,7 +12143,8 @@
       "20260721-0010",
       "20260721-0011",
       "20260721-0012",
-      "\"20260721-0019\""
+      "\"20260721-0019\"",
+      "20260805-0003"
     ]
   },
   "20260716-0008-Sholtz2020-paradox-quasi-cause": {
@@ -12891,18 +12897,19 @@
       "20260721-0004",
       "20260721-0009",
       "20260721-0012",
-      "\"20260721-0017\""
+      "\"20260721-0017\"",
+      "20260805-0003"
     ]
   },
   "20260721-0002": {
     "out": [
       "20260721-0001-Womack-multinodal-critique-Schelling-premises",
       "20260622-0076-wang-meng-time-space-world-politics-methodology",
-      "20260721-当代战略理论代表性文献清单-论文配套映射"
+      "20260805-0003-strategic-theory-literature-map"
     ],
     "in": []
   },
-  "20260721-当代战略理论代表性文献清单-论文配套映射": {
+  "20260805-0003-strategic-theory-literature-map": {
     "out": [],
     "in": [
       "20260721-0002",
@@ -12924,7 +12931,7 @@
     "out": [
       "20260721-0001-Womack-multinodal-critique-Schelling-premises",
       "20260721-0003-Womack-command-credibility-vs-leadership",
-      "20260721-当代战略理论代表性文献清单-论文配套映射"
+      "20260805-0003-strategic-theory-literature-map"
     ],
     "in": []
   },
@@ -12937,7 +12944,7 @@
   },
   "20260721-0005": {
     "out": [
-      "20260721-当代战略理论代表性文献清单-论文配套映射",
+      "20260805-0003-strategic-theory-literature-map",
       "20260620-1501-装置创造界域而非只是占据空间"
     ],
     "in": []
@@ -12949,13 +12956,14 @@
       "20260721-0007",
       "20260721-0008",
       "20260721-0009",
-      "20260721-0011"
+      "20260721-0011",
+      "20260805-0003"
     ]
   },
   "20260721-0006": {
     "out": [
       "20260721-0005-Biddle-modern-system-force-employment",
-      "20260721-当代战略理论代表性文献清单-论文配套映射",
+      "20260805-0003-strategic-theory-literature-map",
       "20260721-0007-Biddle-technology-employment-interaction"
     ],
     "in": []
@@ -12984,7 +12992,7 @@
   "20260721-0008": {
     "out": [
       "20260721-0005-Biddle-modern-system-force-employment",
-      "20260721-当代战略理论代表性文献清单-论文配套映射"
+      "20260805-0003-strategic-theory-literature-map"
     ],
     "in": []
   },
@@ -12992,7 +13000,7 @@
     "out": [
       "20260721-0005-Biddle-modern-system-force-employment",
       "20260721-0001-Womack-multinodal-critique-Schelling-premises",
-      "20260721-当代战略理论代表性文献清单-论文配套映射",
+      "20260805-0003-strategic-theory-literature-map",
       "20260721-0011-Luttwak-vertical-dimension-levels",
       "20260721-0012-Luttwak-armed-suasion-postheroic"
     ],
@@ -13541,5 +13549,18 @@
     "in": [
       "20260805-0002"
     ]
+  },
+  "20260805-0003": {
+    "out": [
+      "20260721-0001-Womack-multinodal-critique-Schelling-premises",
+      "20260721-0009-Luttwak-paradoxical-logic-strategy",
+      "20260721-0005-Biddle-modern-system-force-employment",
+      "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
+      "20260624-0116-tang-social-evolution-card1-core-thesis",
+      "20260620-1544-德勒兹的两种时间模式",
+      "20260624-0089-qin-land-maritime-card4-soviet-china",
+      "20260627-0018-孙子诡道即变化而非欺骗"
+    ],
+    "in": []
   }
 }

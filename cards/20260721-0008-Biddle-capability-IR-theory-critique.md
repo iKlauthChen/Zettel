@@ -6,7 +6,7 @@ source: {type: book, ref: "Biddle, Stephen. 2004. Military Power: Explaining Vic
 tags: [biddle, IR-theory, capability, material-preponderance, realism, power]
 links:
   - {id: 20260721-0005, reason: "Biddle的核心结论——物质主义能力观的根本错误——直接影响IR理论的基础假设"}
-  - {id: 20260721-litmap, reason: "论文可以与Biddle对IR物质主义能力观的批判对话"}
+  - {id: 20260805-0003, reason: "论文可以与Biddle对IR物质主义能力观的批判对话"}
 voice_passed: true
 aliases: ["Biddle IR theory critique", "Biddle material preponderance critique", "Biddle capability critique"]
 ---
@@ -34,4 +34,4 @@ Biddle对能力概念的批判是整本书在理论层面的最高贡献。他�
 ## 相关卡片
 
 - [[20260721-0005-Biddle-modern-system-force-employment|Biddle现代系统理论]]
-- [[20260721-当代战略理论代表性文献清单-论文配套映射|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260805-0003-strategic-theory-literature-map|文献清单与论文映射]]

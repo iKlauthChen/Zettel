@@ -7,7 +7,7 @@ tags: [multinodal, global-order, connectivity, uncertainty, womack, strategic-th
 links:
   - {id: 20260721-0001, reason: "本卡的母卡——multinodal概念是Womack批判Schelling三前提的经验基础"}
   - {id: 20260716-0048, reason: "秦立志的地缘时空维度与Womack的多节点可以对比——一个从本体论出发，一个从经验观察出发"}
-  - {id: 20260721-litmap, reason: "此概念在论文中可定位于'强迫逻辑vs剩余安全'的对比位置"}
+  - {id: 20260805-0003, reason: "此概念在论文中可定位于'强迫逻辑vs剩余安全'的对比位置"}
   - {id: 20260620-1501, reason: "多节点世界的节点概念与D&G的界域/装置概念有理论接口"}
 voice_passed: true
 aliases: ["Womack multinodal era", "多节点时代概念", "不确定性与连通性"]
@@ -35,4 +35,4 @@ Womack（2025）以"multinodal"描述冷战后全球秩序的结构特征，以�
 
 - [[20260721-0001-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
 - [[20260622-0076-wang-meng-time-space-world-politics-methodology|地缘政治的时空维度探究（秦立志）]]
-- [[20260721-当代战略理论代表性文献清单-论文配套映射|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260805-0003-strategic-theory-literature-map|文献清单与论文映射]]

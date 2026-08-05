@@ -7,7 +7,7 @@ tags: [putin, ukraine, coercion, schelling, case-study, multinodal, strategic-th
 links:
   - {id: 20260721-0001, reason: "案例分析的理论框架——Putin失败的直接原因是应用了Schelling的强迫逻辑"}
   - {id: 20260721-0003, reason: "Putin失败的实质是牺牲了领导信誉来追逐不可达的命令信誉"}
-  - {id: 20260721-litmap, reason: "可作为'动力有限性'的经验支撑——Putin的战略意图与手段-环境的结构性错位"}
+  - {id: 20260805-0003, reason: "可作为'动力有限性'的经验支撑——Putin的战略意图与手段-环境的结构性错位"}
 voice_passed: true
 aliases: ["Womack Putin analysis", "Putin coercive trap案例", "乌克兰战争与强迫逻辑失败"]
 ---
@@ -32,4 +32,4 @@ Womack（2025）将Putin的乌克兰入侵分析为Schelling式强迫战略在�
 
 - [[20260721-0001-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
 - [[20260721-0003-Womack-command-credibility-vs-leadership|命令信誉vs领导信誉]]
-- [[20260721-当代战略理论代表性文献清单-论文配套映射|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260805-0003-strategic-theory-literature-map|文献清单与论文映射]]
