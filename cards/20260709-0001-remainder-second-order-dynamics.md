@@ -1,5 +1,5 @@
 ---
-id: 20260709-0001
+id: 20260709-0001-remainder-second-order-dynamics
 status: permanent
 created: 2026-07-09T17:30:00+0800
 source: {type: conversation, ref: "与Hermes讨论特朗普-章家敦事件与余茂春'长期预案论'", date: "2026-07-09"}

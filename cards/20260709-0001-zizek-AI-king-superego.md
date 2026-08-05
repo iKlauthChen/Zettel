@@ -1,5 +1,5 @@
 ---
-id: 20260709-0001
+id: 20260709-0001-zizek-AI-king-superego
 status: permanent
 created: 2026-07-09T11:30:00+0800
 source: {type: external-url, ref: "Žižek, Slavoj. 'IN THE COURT OF THE AI KING.' ŽIŽEK GOADS AND PRODS (Substack), 8 July 2026."}

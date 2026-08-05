@@ -1,5 +1,5 @@
 ---
-id: 20260716-0001
+id: 20260716-0001-GonzalezGarcia2017-surreal-deleuze-time
 status: permanent
 created: 2026-07-16T10:00:00+0800
 source: {type: article, ref: "González García, Ignacio. 'Formalización de la ontología del tiempo en Deleuze.' ÉNDOXA: Series Filosóficas 40 (2017): 311–334."}

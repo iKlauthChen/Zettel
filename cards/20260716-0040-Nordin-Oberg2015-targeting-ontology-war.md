@@ -7,7 +7,7 @@ tags: [战争本体论, 鲍德里亚, 克劳塞维茨, 目标化, 处理, 消失
 links:
   - {id: 20260716-0028, reason: "Reynolds的速度战争——重复的打击节奏 = 被加速的战争：从战斗到处理"}
   - {id: 20260716-0031, reason: "Johnson的生命政治战争——'处理'与'人道'是同一种非战斗逻辑的两个表面"}
-  - {id: 20260716-0001, reason: "González García的超现实数——Baudrillard的超现实与超现实数的无限递归共享同一个后现代的差异逻辑"}
+  - {id: 20260716-0001-GonzalezGarcia2017-surreal-deleuze-time, reason: "González García的超现实数——Baudrillard的超现实与超现实数的无限递归共享同一个后现代的差异逻辑"}
 voice_passed: true
 aliases: ["Nordin-Oberg 2015 targeting ontology war", "目标化的战争——从战斗到处理的转换"]
 ---

@@ -5,7 +5,7 @@ created: 2026-07-17T04:20:00+0800
 source: {type: article, ref: "Ong, Graham Gerard. 'Building an IR Theory with \"Japanese Characteristics\": Nishida Kitaro and \"Emptiness\".' Millennium: Journal of International Studies 33.1 (2004): 35–58."}
 tags: [西田几多郎, 京都学派, 空, 日本, IR, 非西方]
 links:
-  - {id: 20260716-0001, reason: "González García的超现实数——西田的'无的场所'是本文与DG-Lacan之间的直接哲学通道"}
+  - {id: 20260716-0001-GonzalezGarcia2017-surreal-deleuze-time, reason: "González García的超现实数——西田的'无的场所'是本文与DG-Lacan之间的直接哲学通道"}
   - {id: 20260716-0017, reason: "Higaki的日本千高原——西田的空/无与Higaki的'海洋作为块茎'共享同一个非西方本体论根源"}
   - {id: 20260716-0039, reason: "Blaney-Tickner的世界化——西田哲学是'多元世界'的另一个被压制非西方的本体论传统"}
 voice_passed: true

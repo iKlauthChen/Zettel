@@ -1,5 +1,5 @@
 ---
-id: 20260716-0001
+id: 20260716-0001-Mercer1996-reputation-irreducible
 status: permanent
 created: 2026-07-16T12:00:00+0800
 source: {type: book, ref: "Mercer, J. (1996). Reputation and International Politics. Ithaca: Cornell University Press."}
