@@ -4,7 +4,8 @@ status: permanent
 created: 2026-07-16T11:20:00+0800
 source: {type: article, ref: "Baranzoni, Sara. 'After Politics: Governing through Affect.' Deleuze and Guattari Studies 18.4 (2024): 1–24."}
 tags: [情感, 治理, 算法治理性, 平台化, 采掘主义, 症候学]
-links: []
+links:
+  - {id: 20260716-0034, reason: "崇高美学与全球安全——情感治理的崇高维度"}
 voice_passed: true
 aliases: ["Baranzoni 2024 governing through affect", "情感治理——灾变未来作为神经武器"]
 ---
@@ -26,3 +27,4 @@ Baranzoni 对"情感采掘"的分析为批判安全研究提供了一个直接�
 - [[20260715-0007-Bolton2021-targeting-ontological-security|Bolton的信息战]] — 灾变未来作为神经武器 = 信息战中本体论安全的工业化
 - [[20260715-0020-DunnCavelty2015-resilience|Dunn Cavelty的韧性]] — 情感采掘 ↔ 韧性的主体生产：都是通过调制情感治理
 - [[20260713-0009-Maher2023-free-market-fantasy|Maher的自由市场幻象]] — 情感采掘中的幻象性维度：安全幻想的内置失败机制
+- [[20260716-0034-Austin-Leander2022-sublime-aesthetics|崇高美学与全球安全]] — 情感治理的崇高维度

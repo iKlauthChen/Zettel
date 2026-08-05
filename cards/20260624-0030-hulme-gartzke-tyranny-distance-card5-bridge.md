@@ -72,3 +72,7 @@ metadata:
 **How to apply**: 在分析任何大国的军事行动或威慑承诺时，将"距离"作为核心变量提出——不仅是后勤上的困难，更是利益衰减和信息劣化的系统性效应。用于批判"能力—意愿"二分法的朴素现实主义：能力和意愿都随距离衰减。
 
 **跨簇链接**: [[20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept]]、[[20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan]]、[[20260622-0056-dibb-brabin-deterrence-denial-warning]]、[[20260622-0068-qin-tan-geostrategy-ingest]]、[[20260622-0074-tang-reputation-cult-international-conflict]]、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge]]
+
+## 相关卡片
+
+- [[20260703-0008-hart2026-rerouting-costs|南海中断后的绕行成本]] — 距离困境的经验量化

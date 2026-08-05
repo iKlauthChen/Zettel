@@ -6,6 +6,7 @@ source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing 
 tags: [CSIS, trade, chokepoint, strait, south-china-sea, maritime, empirical-research]
 links:
   - {id: 20260620-1782, reason: "海洋陆地的本体论差异——本卡提供海权贸易的实证数据底座"}
+  - {id: 20260701-0026, reason: "科普兰贸易预期理论——贸易结构决定战争预期，与南海贸易数据互补"}
   - {id: 20260624-0089, reason: "中国海陆转型的战略分析——贸易数据揭示中国海权需求的物质基础"}
   - {id: 20260624-0067, reason: "海军政治学的一般框架——本卡补充海权竞争的经济维度"}
 voice_passed: true
@@ -31,3 +32,4 @@ CSIS China Power Project 于2026年7月发布的政策简报，基于 Verschuur�
 - [[20260620-1782-海洋与陆地的本体论差异要求国际关系理论做|海洋与陆地的本体论差异]] — 南海贸易数据提供了海洋空间本体论的经济物质基础，补充了纯粹哲学/安全理论的讨论
 - [[20260624-0089-qin-land-maritime-card4-soviet-china|秦立志陆海转型：苏联与中国案例]] — 中国海权转型的物质条件分析，本卡贸易数据可为"中国海权需求的驱动力"提供量化支撑
 - [[20260624-0067-original-batch1-naval-politics|海军政治学原始批1]] — 海军政治学的一般分析框架，南海贸易数据揭示了海军竞争背后的经济关联网络
+- [[20260701-0026-copeland-trade-expectations-theory|科普兰贸易预期理论]] — 贸易结构决定战争预期的理论框架与南海贸易数据互补

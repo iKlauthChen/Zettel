@@ -39,3 +39,4 @@ links: [20260721-0014, 20260720-0001, 20260520-0001]
 - [[20260721-0014-Zhao-Tingyang-verb-ontology-vs-noun-metaphysics]]：否定词作为"动词即本源"的最根本落实——否定词是最原初的动词/存在论行动
 - [[20260720-0001-philosophy-forum-speech-fissure-ontology-AI]]：裂隙本体论——否定词打开的可能性空间正是本体论裂隙的语言机制
 - [[20260520-0001-Chronos-Aion-causal-closure-strategy]]：Aion的因果不可闭合与否定词创造的"有未来性的未来"——未来是在因果不可闭合中通过动词行为建构的
+- [[20260721-0016-Zhao-Tingyang-negative-word-causality-reflection|否定词与因果概念的升级]] — 同篇文章的因果性反思卡：局部因果到普遍递归因果

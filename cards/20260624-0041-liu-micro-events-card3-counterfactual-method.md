@@ -63,3 +63,7 @@ description: 反事实假设在IR中的方法论价值——揭示随机性微�
 **How to apply**: 在安全研究的危机推演和情景规划中，反事实假设是核心工具——"如果X发生，Y会如何？" 台湾危机、朝鲜半岛危机、南海冲突等场景都可以应用这种方法。关键是要遵循"最小改写原则"和"可证明性"约束，避免随意想象。
 
 **跨簇链接**: [[20260624-0111-tan-cas-theory-card3-emergence-simulation]]（从仿真实验到反事实推演的方法论连续谱）、[[20260624-0106-song-complexity-science-card3-complexity-science]]（确定性系统+不可预测行为=反事实的数学基础）
+
+## 相关卡片
+
+- [[20260703-0010-hart2026-OxMarTrans-methodology|OxMarTrans方法论]] — 反事实方法的数据侧互补

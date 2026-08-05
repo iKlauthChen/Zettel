@@ -9,6 +9,9 @@ tags: [deterrence, credibility, land-maneuver, conversion-problem, coercion, asy
 entities: [Elli Lieberman, James Fearon, Thomas Schelling, Israel, Hamas]
 links:
   - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
+  - id: 20260716-0001-Mercer1996-reputation-irreducible
+    relation: support
+    reason: "Mercer声誉不可归因——可信度的不可观察性与声誉的不可归因性共享认识论结构" 
     reason: "本卡展开核心论题中'为什么陆地机动而非累积威慑解决可信性问题'的机制"
   - id: 20260626-1138-lieberman-overextension-trap
     reason: "过度延伸陷阱是陆地机动策略必须配套的约束条件"
@@ -41,3 +44,4 @@ Lieberman 拒绝了一个广泛接受的理论前提即"累积威慑(Tit-for-Tat
 
 - [[20260626-1140-lieberman-lateral-comparison-pattern|link]] — PLO/真主党/埃及案例一致验证：机动→可信性→威慑稳定；累积威慑→消耗持续
 - [[秦立志 战略不确定性与安全困境 切卡|战略不确定性卡组]] — 不确定性→威胁预期的因果链与 Lieberman 的 Fearon 引用共同对"信号-解读"模型构成质疑
+- [[20260716-0001-Mercer1996-reputation-irreducible|Mercer：声誉不可归因]] — 可信度的不可观察性与声誉的不可归因性共享认识论结构

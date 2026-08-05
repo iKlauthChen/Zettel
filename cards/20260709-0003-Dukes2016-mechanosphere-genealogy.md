@@ -6,6 +6,9 @@ source: {type: article, ref: "Dukes, Hunter. 'Assembling the Mechanosphere: Mono
 tags: [德勒兹, 加塔利, 机械圈, 智慧圈, 德日进, 阿尔都塞, 地球哲学, 人类世, 非有机生命, 层, 抽象机器]
 links:
   - {id: 20260621-0453, reason: "Bonta/Protevi的地球哲学——mechanosphere是本书未充分展开但关键的DG概念"}
+  - {id: 20260706-0001, reason: "欧陆哲学×复杂科学×AI——机械圈的前沿延伸"}
+  - {id: 20260709-0004, reason: "Shults模拟机器——机械圈的计算机模拟验证"}
+  - {id: 20260731-0001, reason: "Orbis 1610——机械圈的地质学标记"}
   - {id: 20260623-1603, reason: "层叠与双重分节——mechanosphere吸收所有层但不等同于去层化"}
   - {id: 20260623-1600-Saldanha, reason: "Saldanha引用本文的mechanosphere概念"}
   - {id: 20260703-0019, reason: "症候分析——人类世的'reverse transcription'是一种症候断裂"}
@@ -39,3 +42,6 @@ Dukes 追踪了"机械圈"（mechanosphere）的思想谱系——DG 在《千�
 - [[20260623-1603-层叠与双重分节|层叠与双重分节]] — 机械圈吸收所有层，去层化的极限案例
 - [[20260623-1600-Saldanha|Saldanha的大圆筒]] — Saldanha 引用了本文的机械圈概念
 - [[20260703-0022-sustainable-alternative-attractor-bridge|替代秩序与吸引子]] — 机械圈提供了一种比吸引子更激进的替代框架
+- [[20260706-0001-continental-philosophy-complex-science-AI-bridge-prospects|欧陆哲学×复杂科学×AI]] — 机械圈的前沿延伸
+- [[20260709-0004-Shults2020-simulating-machines|Shults：模拟机器]] — 机械圈的计算机模拟验证
+- [[20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker|Orbis 1610]] — 机械圈的地质学标记

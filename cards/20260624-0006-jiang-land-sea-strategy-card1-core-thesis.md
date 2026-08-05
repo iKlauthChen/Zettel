@@ -1,6 +1,6 @@
 ---
 tags: [jiang, 海权, 同色, 海陆, 陆权, 霸权, 追求, 姜鹏, 战略]
-id: 20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge
+id: 20260624-0006-jiang-land-sea-strategy-card1-core-thesis
 status: permanent
 created: 2026-06-24T16:15:21+0800
 description: 姜鹏2016海陆复合型大国战略选择与崛起成败——同色竞争/差色互补与海陆联姻

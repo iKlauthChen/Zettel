@@ -6,6 +6,8 @@ source: {type: article, ref: "Barkawi, Tarak. 'From War to Security: Security St
 tags: [安全研究, 战争, 安全, 学科史, 宽泛议程, 沃弗斯]
 links:
   - {id: 20260624-0159, reason: "张景全的区域化与安全化悖论——Barkawi分析了'从战争到安全'这一史转本身如何掩盖了悖论的根源"}
+  - {id: 20260716-0048, reason: "Buckley-Zistel战争和平之间——安全/战争二分的中间态"}
+  - {id: 20260716-0053, reason: "Howells寄生物悖论——输者赢了的安全转译"}
   - {id: 20260716-0040, reason: "Nordin-Öberg的战争本体论——Barkawi的先驱论文：战争消失于安全的扩张之中"}
   - {id: 20260716-0031, reason: "Johnson的自由战争——Barkawi的诊断预见了自由战争的一切：安全取代了战争作为组织范畴"}
 voice_passed: true
@@ -35,3 +37,5 @@ Barkawi 的"安全是无内容的"为剩余安全的"剩余"提供了一个互�
 - [[20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation|张景全的区域化悖论]] — 空洞安全是悖论的概念根基：为何任何合作议题都可以被安全化
 - [[20260716-0040-Nordin-Oberg2015-targeting-ontology-war|Nordin-Öberg的战争本体论]] — 先行的诊断：战争已消失于安全之中
 - [[20260716-0031-Johnson2024-biopolitics-liberal-war|Johnson的自由战争]] — 人道编码就是空洞安全的填充形式
+- [[20260716-0048-Buckley-Zistel2006-in-between-war-peace|Buckley-Zistel：战争与和平之间]] — 安全/战争二分的中间态
+- [[20260716-0053-Howells2024-parasite-paradox|Howells：寄生物的悖论]] — 输者赢了的战争-安全转译

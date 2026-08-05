@@ -6,6 +6,7 @@ source: {type: article, ref: "Zevnik, Andreja, and Moran M. Mandelbaum. 'Introdu
 tags: [Lacan, IR-theory, 拉康, 精神分析, 国际关系理论, 虚空, 方法论, 主体性, 解放]
 links:
   - {id: 20260621-0493, reason: "Zevnik虚空本体论的IR应用——由此文扩展至学科方法论层面"}
+  - {id: 20260714-0006, reason: "Tolis拉康话语分析气候政策——拉康方法论的气候应用案例"}
   - {id: 20260621-0487, reason: "虚空本体论——本文的哲学起点：《虚空/缺失》作为主客体两层面的出发点"}
   - {id: 20260621-0505, reason: "虚空的三层框架辨析——本文呼应的'虚空作为前本体论'概念"}
   - {id: 20260703-0015, reason: "Zevnik在RIS导言中的立场——两篇导言构成拉康式IR的一对文本"}
@@ -40,3 +41,4 @@ Zevnik & Mandelbaum 在 ISQ 特刊导言中诊断了一个令人困惑的理论�
 - [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|虚空本体论]] — 本文的方法论起点
 - [[20260703-0015-Zevnik-RIS2024-future-IR-perspective|Zevnik在未来IR中的立场]] — RIS导言中的Zevnik与本特刊构成拉康式IR的制度化推进
 - [[20260703-0018-Zevnik-Mandelbaum-ISQ2023-emancipation|拉康式解放：不引入新幻象的伦理路径]] — 下卡详述本文的第三个贡献
+- [[20260714-0006-Tolis2023-LDA-climate-policy|Tolis：拉康话语分析气候政策]] — 拉康方法论在气候议题的应用

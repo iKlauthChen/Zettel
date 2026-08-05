@@ -6,6 +6,7 @@ source: {type: multiple, ref: "唐世平(2001); Ploberger(2017); Kim(2016)"}
 tags: [中国, 大战略, 一带一路, 海洋强国, 经济手段, 陆权]
 links:
   - {id: 20260701-0014-grand-strategy-theory-basics, reason: "大战略理论框架——唐世平再论是框架在中国案例上的应用"}
+  - {id: 20260701-0018, reason: "CNAS恢复战略能力——美国大战略争论的智库立场实例"}
   - {id: 20260701-0015-strategic-overextension-analysis, reason: "战略透支——唐世平'有限地区军事强国'定位与战略透支的关系"}
   - {id: 20260701-0012-zhang-yunling-china-regional-view, reason: "张蕴岭区域观——与唐世平'不强求远洋'的判断互相支撑"}
 voice_passed: true
@@ -39,3 +40,4 @@ aliases: ["中国大战略讨论", "中国的地缘定位"]
 - [[20260701-0014-grand-strategy-theory-basics|20260701-0014-grand-strategy-theory-basics]] — 大战略理论框架——唐世平再论是框架在中国案例上的应用
 - [[20260701-0015-strategic-overextension-analysis|20260701-0015-strategic-overextension-analysis]] — 战略透支——唐世平'有限地区军事强国'定位与战略透支的关系
 - [[20260701-0012-zhang-yunling-china-regional-view|20260701-0012-zhang-yunling-china-regional-view]] — 张蕴岭区域观——与唐世平'不强求远洋'的判断互相支撑
+- [[20260701-0018-cnas-restore-strategic-competence|CNAS恢复战略能力]] — 美国大战略争论的智库立场实例

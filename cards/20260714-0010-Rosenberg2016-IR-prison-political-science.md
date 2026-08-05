@@ -6,6 +6,7 @@ source: {type: article, ref: "Rosenberg, Justin. 'International Relations in the
 tags: [国际关系理论, 学科批判, 不均衡与组合发展, 社会多重性, 政治学]
 links:
   - {id: 20260714-0008, reason: "UCD论坛——本文是Rosenberg'IR作为独立学科'的后续延续"}
+  - {id: 20260716-0042, reason: "Michel一个世界不够——IR多元世界方法论"}
 voice_passed: true
 aliases: ["Rosenberg 2016 IR prison of political science", "IR在政治学的监狱中"]
 ---
@@ -27,3 +28,4 @@ Rosenberg 的这个论证深刻——它将 IR 的"劣等问题"（为什么 IR 
 ## 相关卡片
 
 - [[20260714-0008-Rosenberg2022-UCD-forum|UCD论坛辩论]] — 六年后同一主题的延续，论坛吸收了本文基础
+- [[20260716-0042-Michel2013-one-world-not-enough|Michel：一个世界不够]] — IR多元世界方法论

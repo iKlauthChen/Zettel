@@ -6,6 +6,8 @@ source: {type: book, ref: "Cisney, V.W. 'Time, Truth and the Power of the False'
 tags: [deleuze, time-crystal, powers-of-the-false, cinema, truth, virtual, actual, art, creation]
 links:
   - {id: 20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统, reason: "时间晶体的理论——时间的第二综合(纯过去)和第三综合(新)在晶体中的同时运作"}
+  - {id: 20260716-0018, reason: "Cisney写作者是巫师——同一作者的文学侧：真实的生成"}
+  - {id: 20260724-0003, reason: "再碰撞——德勒兹重复的微观实现与晶体时间共享结构"}
   - {id: 20260622-0010-操作图像Farocki和Waheed的监控美学揭示了后人类地图中代码与控制的新型图像体制, reason: "操作图像与时间晶体——监视摄像头的'时间切片'是操作化的时间晶体"}
   - {id: 20260621-0441-事件与逃逸线是物质系统敏感性与多元相遇产生创造性的两种机制, reason: "逃逸线与事件——时间晶体中虚拟与实际的张力是事件的本体论条件"}
 voice_passed: true
@@ -41,3 +43,5 @@ Elsby的"非隐喻"原则实际上验证了[[20260621-0473-Bonta和Protevi在方
 - [[20260622-0064-mollison-eternal-return-deleuze-nietzsche|link]] — 操作图像
 - [[20260621-0441-事件与逃逸线是物质系统敏感性与多元相遇产生创造性的两种机制|link]] — 逃逸线与事件
 - [[20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁|link]] — 符号作为物质临界阈值
+- [[20260716-0018-Cisney2020-writer-sorcerer|Cisney：写作者是巫师]] — 同一作者的文学侧：真实的生成
+- [[20260724-0003-recollisions-Deleuze-repetition-structural-time|再碰撞]] — 德勒兹重复的微观实现与晶体时间共享结构

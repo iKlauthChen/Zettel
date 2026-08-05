@@ -6,6 +6,8 @@ source: {type: book, ref: "Luttwak, Edward N. 2001. Strategy: The Logic of War a
 tags: [luttwak, strategy, paradox, linear-logic, logic-of-war, strategic-theory]
 links:
   - {id: 20260721-0005, reason: "Biddle和Luttwak对战略运作的描述方式形成鲜明对比——Biddle用可操作化的现代系统，Luttwak用悖论逻辑这个不可操作化的总框架"}
+  - {id: 20260721-0011, reason: "Luttwak战略五层级——悖论逻辑的层级化展开"}
+  - {id: 20260721-0012, reason: "Luttwak武装说服——后英雄时代的悖论操作"}
   - {id: 20260721-0001, reason: "Womack对Schelling霸权前提的批判与Luttwak的'线性逻辑在战略中失效'论断共享问题意识"}
   - {id: 20260721-litmap, reason: "Luttwak的悖论逻辑是论文奇正重述最直接的西方战略理论对话者"}
 voice_passed: true
@@ -35,3 +37,5 @@ Luttwak的五个层级按操作规模做了实用的划分，但这一划分缺�
 - [[20260721-0005-Biddle-modern-system-force-employment|Biddle现代系统理论]]
 - [[20260721-0001-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
 - [[20260721-litmap|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260721-0011-Luttwak-vertical-dimension-levels|Luttwak：战略五层级]] — 悖论逻辑的层级化展开
+- [[20260721-0012-Luttwak-armed-suasion-postheroic|Luttwak：武装说服]] — 后英雄时代的悖论操作

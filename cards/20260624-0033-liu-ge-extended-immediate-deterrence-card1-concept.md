@@ -60,3 +60,7 @@ description: 延伸—即时威慑的概念谱系——从延伸威慑(空间维
 **How to apply**: 用于分析美国在台海/南海/钓鱼岛等潜在冲突中的威慑策略——不仅是"是否保护盟友"的问题，更是"保护承诺何时触发、如何执行、如何释放信号、如何被感知"的系列问题。
 
 **跨簇链接**: [[20260622-0056-dibb-brabin-deterrence-denial-warning]]（拒止威慑与战略预警的互补框架）、[[20260622-0074-tang-reputation-cult-international-conflict]]（声誉在威慑中的核心地位）、[[20260622-0068-qin-tan-geostrategy-ingest]]（地缘位势中的安全感知计算）
+
+## 相关卡片
+
+- [[20260703-0004-hart2026-allies-strait-dependence|盟友的海峡依赖]] — 延伸威慑可信度的物质基础

@@ -58,3 +58,7 @@ description: 自我制造的困境——明知距离有害为何仍持续远距�
 **How to apply**: 对于中国的战略评估——此文暗示美国在台海冲突中面临深刻的"距离困境"：在第一岛链内的军事行动面临着显著的力量衰减（A2/AD放大效应）和利益衰减（台湾对美国核心利益的非对称性），且美国的大战略意识形态可能使其决策者系统性低估这些困难。"台湾离中国很近，离美国很远"这一简单的地理事实，恰恰是距离暴政的核心。
 
 **跨簇链接**: [[20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan]]（台海危机中的距离变量）、[[20260622-0056-dibb-brabin-deterrence-denial-warning]]（预警时间与拒止效率）、[[20260622-0068-qin-tan-geostrategy-ingest]]（地缘位势中的结构性非对称）
+
+## 相关卡片
+
+- [[20260721-0008-Biddle-capability-IR-theory-critique|Biddle：物质优势批判]] — 自残悖论的实证侧
