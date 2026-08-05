@@ -52,4 +52,4 @@ description: 复杂性的定义——系统内在元素非线性交互产生的�
 
 **How to apply**: 在安全研究/IR中应用复杂性概念时需要遵循此文的界定：复杂性≠随机性≠模糊性。国际体系中的"突现行为"（如冷战突然结束、颜色革命等）应被理解为确定系统内主体相互作用的非预期结果，而非外部随机的冲击。
 
-**跨簇链接**: [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]（德勒兹作为复杂性理论奠基者）、[[20260622-0077-wu-quantum-turn-political-science]]（量子政治学与复杂性的交叉）、[[complex-spatial-geography-essay]]（复杂空间地理学的系统复杂性基础）
+**跨簇链接**: [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]（德勒兹作为复杂性理论奠基者）、[[20260622-0077-wu-quantum-turn-political-science]]（量子政治学与复杂性的交叉）、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（复杂空间地理学的系统复杂性基础）

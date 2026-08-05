@@ -22,7 +22,7 @@ metadata:
 - CAS强调**适应性**（adaptation）的稳定化选择
 两者互补：CAS解释系统如何维持和适应，德勒兹解释系统如何转型和革命。
 
-### → [[complex-spatial-geography-essay]]（复杂空间地理学）
+### → [[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（复杂空间地理学）
 CAS的多智能体建模仿真为复杂空间地理学的"空间作为涌现产物"提供了方法论工具——空间分布（如资源二维分布）影响主体行为，主体行为反过来重塑空间模式（资源消耗/再生/移动轨迹）。空间不再是容器，而是主体交互的产物。
 
 ### → IR/安全研究的潜在应用
@@ -54,4 +54,4 @@ CAS的多智能体建模仿真为复杂空间地理学的"空间作为涌现产�
 
 **How to apply**: CAS七要素（聚集/非线性/流/多样性/标识/内部模型/构筑块）可作为分析国际体系的概念工具——特别适合解释多主体在无中央权威条件下的秩序涌现。SWARM仿真平台可应用于冲突动力学、军备竞赛和联盟形成的模拟研究。
 
-**跨簇链接**: [[20260624-0108-song-complexity-science-card5-bridge]]、[[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]、[[complex-spatial-geography-essay]]、[[20260622-0077-wu-quantum-turn-political-science]]、[[20260623-0019-shores-logic-deleuze-ingest]]
+**跨簇链接**: [[20260624-0108-song-complexity-science-card5-bridge]]、[[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]、[[20260622-0077-wu-quantum-turn-political-science]]、[[20260623-0019-shores-logic-deleuze-ingest]]

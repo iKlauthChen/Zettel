@@ -69,4 +69,4 @@ description: 复杂性科学国内外研究纵览——从Li-Yorke混沌到SFI�
 
 **How to apply**: "五大管理复杂性学派"可用于定位不同类型安全研究的复杂性方法论——例如危机升级研究适合混沌理论派（非线性放大效应）、国际制度研究适合复杂自适应系统派（规则涌现和学习适应）。钱学森的综合集成法可应用于复杂战略决策场景。
 
-**跨簇链接**: [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]（德勒兹作为复杂性理论的哲学基础）、[[complex-spatial-geography-essay]]（复杂空间地理学与综合集成方法论的对话可能）
+**跨簇链接**: [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]（德勒兹作为复杂性理论的哲学基础）、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（复杂空间地理学与综合集成方法论的对话可能）

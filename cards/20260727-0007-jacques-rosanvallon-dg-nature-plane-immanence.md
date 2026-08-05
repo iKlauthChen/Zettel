@@ -70,6 +70,6 @@ Montebello之后总结出D&G形而上学最根本的赌注：
 
 - [[20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture|D&G形而上学已超越自然/文化二元论]] — 本卡为该卡的形而上学深化
 - [[20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual|Bonta-Protevi的DeLanda式本体论重构]] — 实际/强度/虚拟三分是D&G单义性本体论的DeLanda式等价表达
-- [[20260621-0440|德勒兹本体论以虚拟替代可能]] — 虚拟/单义性/内在性平面的基础关联
+- [[20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性|德勒兹本体论以虚拟替代可能]] — 虚拟/单义性/内在性平面的基础关联
 - [[20260727-0005-bonta-protevi-geography-philosophy-impasse|Bonta-Protevi对1990年代地理学与哲学困境的诊断]] — BP诊断为"大陆哲学对科学的过敏"，本文提供了内在性平面作为形而上学出路
 - [[20260716-0041-Lenco2014-reintroducing-deleuze-IR|Lenco 2014重新引入德勒兹到IR]] — Lenco的独立论证与本文共享同一核心：反对将D&G碎片化

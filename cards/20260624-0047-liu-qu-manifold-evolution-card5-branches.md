@@ -51,4 +51,4 @@ description: 流形理论三大分支——黎曼几何、复几何、辛几何�
 
 **How to apply**: 三种几何结构（可测量长度/可测量面积/全纯性）可类比于知识空间中不同类型的度量/组织原则。在复杂空间地理学的框架中，同一地理空间可以"折叠"为不同的结构空间（拓扑的/度量的/符号的）。链接到德勒兹"折叠"（le pli）概念——不同几何结构是对同一流形的不同折叠方式。
 
-**跨簇链接**: [[20260624-0044-liu-qu-manifold-evolution-card2-riemann]]（黎曼源头）、[[20260623-0018-saldanha-space-after-deleuze-ingest]]（空间的折叠）、[[richter-politics-of-orientation]]（单子折叠）、[[charnock-space-form-urbanity]]（空间生产的多重性）
+**跨簇链接**: [[20260624-0044-liu-qu-manifold-evolution-card2-riemann]]（黎曼源头）、[[20260623-0018-saldanha-space-after-deleuze-ingest]]（空间的折叠）、[[20260623-0017-richter-politics-of-orientation-ingest|link]]（单子折叠）、[[20260623-0016-charnock-space-form-urbanity-ingest|link]]（空间生产的多重性）

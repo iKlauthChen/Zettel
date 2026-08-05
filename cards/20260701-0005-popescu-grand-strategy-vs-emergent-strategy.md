@@ -43,6 +43,6 @@ Popescu 的比较框架最大的理论贡献在于拒绝本质主义：大战略
 ## 相关卡片
 
 - [[20260624-0020-gibbs-ussr-grand-strategy-card1-core|苏联有大战略吗]] — Gibbs对大战略概念的质疑，与Popescu的学派划分共振
-- [[20260627-0020|生成哲学弥合战略规划与实施的裂隙]] — emergent strategy的德勒兹哲学根基
+- [[20260627-0020-生成哲学弥合战略规划实施裂隙非消除而是重新定义|生成哲学弥合战略规划与实施的裂隙]] — emergent strategy的德勒兹哲学根基
 - [[20260701-0002-friedman-logan-why-washington-no-grand-strategy|华盛顿为什么不争论大战略]] — primacy共识是grand strategy学派在政治实践中的固化案例
 - [[20260701-0004-boggs-us-grand-strategy-contradictions|美国大战略的内在矛盾]] — grand strategy失败案例为emergent strategy提供经验支持

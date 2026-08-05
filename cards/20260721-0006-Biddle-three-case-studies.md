@@ -35,5 +35,5 @@ Desert Storm案例的模拟结果（完整现代系统防御使联军损失上�
 ## 相关卡片
 
 - [[20260721-0005-Biddle-modern-system-force-employment|Biddle现代系统理论]]
-- [[20260721-litmap|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260721-当代战略理论代表性文献清单-论文配套映射|当代战略理论代表性文献清单-论文配套映射]]
 - [[20260721-0007-Biddle-technology-employment-interaction|Biddle：技术×兵力运用]] — 技术放大效应的非线性互动

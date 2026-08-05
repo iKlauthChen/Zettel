@@ -64,4 +64,4 @@ description: 黎曼1854演讲：n维流形描述性定义、连续/离散二分�
 
 **How to apply**: 链接到德勒兹"virtual manifold"或Saldanha空间化中的流量/地图进路——黎曼把空间看作可以附着不同度量的拓扑基础，类似德勒兹"虚拟"作为多重性的基底。可用来说明"空间不是先验容器，而是由邻域关系构成的延展量"的思想史转折。
 
-**跨簇链接**: [[20260623-0018-saldanha-space-after-deleuze-ingest]]（空间化进路与多重性）、[[complex-spatial-geography-essay]]（空间观念的变革历史）、[[20260622-0063-luzecky-smith-deleuze-time-intro]]（多重性概念的另一条线索）
+**跨簇链接**: [[20260623-0018-saldanha-space-after-deleuze-ingest]]（空间化进路与多重性）、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（空间观念的变革历史）、[[20260622-0063-luzecky-smith-deleuze-time-intro]]（多重性概念的另一条线索）

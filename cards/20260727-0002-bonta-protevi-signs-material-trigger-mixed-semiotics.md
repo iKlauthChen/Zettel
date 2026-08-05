@@ -70,6 +70,6 @@ Bonta-Protevi的符号论替代方案的意义是多重的：
 
 - [[20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity|Bonta-Protevi导论：地球哲学与复杂性理论]] — 本卡为该卡"符号作为物质触发器"命题的专门展开
 - [[20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual|Bonta-Protevi的DeLanda式本体论重构]] — 符号作为物质触发在本体论层面依赖"实际/强度/虚拟"三分法
-- [[20260621-0438|DG用复杂性理论消解结构与能动困境]] — 符号论的扩展是在消解后现代困境的框架内进行的
-- [[20260624-0073|欲望机器与国家]] — 符号态体制与国家权力的耦合
+- [[20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边|DG用复杂性理论消解结构与能动困境]] — 符号论的扩展是在消解后现代困境的框架内进行的
+- [[20260624-0073-original-batch3-desire-machine-state|欲望机器与国家]] — 符号态体制与国家权力的耦合
 - [[20260727-0005-bonta-protevi-geography-philosophy-impasse|Bonta-Protevi对1990年代地理学与哲学困境的诊断]] — "景观-文本 vs 朴素实在论"困境的本卡给出了D&G的替代方案

@@ -51,6 +51,6 @@ description: 希尔伯特公理化与二维流形邻域定义：集合论催生�
 
 **How to apply**: 用于说明数学严格化过程中"概念→公理"的转型路径。可将希尔伯特的公理方案类比为德勒兹"内在性平面"的建构——不是从外在给空间定义，而是从内在关系（邻域）编织出空间结构。
 
-**跨簇链接**: [[20260624-0046-liu-qu-manifold-evolution-card4-weyl]]（外尔的完成）、[[complex-spatial-geography-essay]]（作为拓扑构造的空间）
+**跨簇链接**: [[20260624-0046-liu-qu-manifold-evolution-card4-weyl]]（外尔的完成）、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（作为拓扑构造的空间）
 
 > 参见：豪斯道夫 1914 年《集论基础》以邻域公理第一次定义拓扑空间。

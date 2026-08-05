@@ -74,5 +74,5 @@ Bonta-Protevi特别强调以下几个关键限定，以防读者将D&G的政治�
 - [[20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity|Bonta-Protevi导论：地球哲学与复杂性理论]] — 身体政治的分析框架是导言纲领的政治维度
 - [[20260727-0003-bonta-protevi-striated-space-glacial-metaphor|条纹空间的冰川隐喻]] — 国家的层叠化=条纹化在空间维度的体现
 - [[20260630-0003-bonta-protevi-political-physiology-above-below-subject|Bonta-Protevi的政治生理学]] — 主体层级分析——层叠在不同尺度（主体之上/之下）中的表现
-- [[20260624-0138|战争机器与剩余安全的桥接]] — 一致性/战争机器及其被国家捕获的动态
+- [[20260624-0138-war-machine-bridge-surplus-security|战争机器与剩余安全的桥接]] — 一致性/战争机器及其被国家捕获的动态
 - [[20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual|Bonta-Protevi的DeLanda式本体论重构]] — 层叠=实际本体层面，一致性=强度层面

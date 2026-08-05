@@ -28,5 +28,5 @@ Mercer的论证独立于德勒兹、独立于Aion/Chronos，却精确地触及�
 
 ## 相关卡片
 
-- [[20260716-0002-strategic-qi-deterrence-strategic-ambiguity|战略奇案例]] — 威慑存在效果与战略模糊性
+- [[20260721-0009-Luttwak-paradoxical-logic-strategy|战略奇案例]] — 威慑存在效果与战略模糊性
 - [[20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan|战略模糊与台湾威慑]] — 战略模糊在延伸威慑中的应用

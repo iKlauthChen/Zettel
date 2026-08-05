@@ -34,5 +34,5 @@ Womack（2025）以"multinodal"描述冷战后全球秩序的结构特征，以�
 ## 相关卡片
 
 - [[20260721-0001-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
-- [[20260716-0048-地缘政治的时空维度探究-秦立志|地缘政治的时空维度探究（秦立志）]]
-- [[20260721-litmap|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260622-0076-wang-meng-time-space-world-politics-methodology|地缘政治的时空维度探究（秦立志）]]
+- [[20260721-当代战略理论代表性文献清单-论文配套映射|当代战略理论代表性文献清单-论文配套映射]]

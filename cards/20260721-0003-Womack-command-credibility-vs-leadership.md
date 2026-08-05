@@ -29,5 +29,5 @@ Womack（2025）区分了国际关系中的两种信誉。
 
 ## 相关卡片
 
-- [[20260721-0057-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
-- [[20260716-0049-安全困境、战略自主与风险偏好的惯性探究-秦立志|安全困境与战略自主（秦立志）]]
+- [[20260721-0001-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
+- [[20260622-0039-秦立志论大国博弈的螺旋模式安全困境的时空维度和有限理性|安全困境与战略自主（秦立志）]]

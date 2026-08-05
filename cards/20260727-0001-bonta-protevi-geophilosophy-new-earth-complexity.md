@@ -67,6 +67,6 @@ D&G超越了认知科学中的隐含方法论个体主义，允许**在主体层
 - [[20260623-0015-bonta-protevi-geophilosophy-ingest-2|Bonta-Protevi导言ingest卡]] — 本书核心纲领与复杂性理论进路的宏观概述
 - [[20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual|Bonta-Protevi的DeLanda式本体论重构]] — 实际/强度/虚拟三分法的系统展开，为本卡提供了本体论基础
 - [[20260630-0003-bonta-protevi-political-physiology-above-below-subject|Bonta-Protevi的政治生理学]] — "主体作为中间层级涌现结构"的系统论证，导言核心命题的深化
-- [[20260621-0438|DG用复杂性理论消解结构与能动困境]] — 同一问题的D&G原始文本视角
-- [[20260621-0440|德勒兹本体论以虚拟替代可能]] — 本卡"意义作为物质触发"命题的本体论基础
+- [[20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边|DG用复杂性理论消解结构与能动困境]] — 同一问题的D&G原始文本视角
+- [[20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性|德勒兹本体论以虚拟替代可能]] — 本卡"意义作为物质触发"命题的本体论基础
 - [[20260727-0002-bonta-protevi-signs-material-trigger-mixed-semiotics|意义作为物质触发与混合符号态]] — 本卡"符号作为物质触发器"论点的专门展开

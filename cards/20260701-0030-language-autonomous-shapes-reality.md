@@ -42,7 +42,7 @@ aliases: ["语言作为行动与边界", "语言的建构力"]
 ## 相关卡片
 
 - [[20260622-0081-zhu-ning-copenhagen-school-security|20260622-0081-zhu-ning-copenhagen-school-security]] — 安全化作为言语行为——说话即改变现实的直接理论例证
-- [[20260622-0041-xue-li-strategic-narrative-ontological-security|20260622-0041-xue-li-strategic-narrative-ontological-security]] — 战略叙事建构本体安全——语言塑造行为体的存在状态
-- [[20260622-1740-lacan-love-discourse-order|20260622-1740-lacan-love-discourse-order]] — 拉康话语理论——语言不是工具而是打结三个界域的操作
-- [[20260621-0439-dg-sign-material-critical-threshold|20260621-0439-dg-sign-material-critical-threshold]] — 德勒兹符号作为物质系统的临界阈值——语言连接物质与理念
+- [[20260622-0041-薛丽论战略叙事建构本体安全以美国对一带一路的叙事演变为例分析对外政策演化|20260622-0041-xue-li-strategic-narrative-ontological-security]] — 战略叙事建构本体安全——语言塑造行为体的存在状态
+- [[20260622-1740-实在界的爱作为打破主体秩序的力量而非情感|20260622-1740-lacan-love-discourse-order]] — 拉康话语理论——语言不是工具而是打结三个界域的操作
+- [[20260621-0439-DG将符号重新定义为物质系统感知到的临界阈值绕过了后索绪尔符号学的意义危机|20260621-0439-dg-sign-material-critical-threshold]] — 德勒兹符号作为物质系统的临界阈值——语言连接物质与理念
 - [[20260701-0023-jervis-perception-misperception-mechanisms|20260701-0023-jervis-perception-misperception-mechanisms]] — 预期同化信息——语言对认知的塑形与窄化

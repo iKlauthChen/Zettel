@@ -74,4 +74,4 @@ description: 复杂系统的定义、分类与六项基本特征——非线性/
 
 **How to apply**: 国际体系可以被视为复杂系统——非线性（小事件→大后果）、初值敏感性（历史偶然事件的放大效应）、奇怪吸引性（国际体系有长期极化趋势但无法精确预测何时转型）。这些特征直接挑战了IR中线性因果性的基本假设。
 
-**跨簇链接**: [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]（复杂系统与德勒兹的吸引子映射）、[[complex-spatial-geography-essay]]（空间系统的复杂性与涌现）、[[20260623-0019-shores-logic-deleuze-ingest]]（dialetheism与奇怪吸引子的逻辑类比——既稳定又不稳定）
+**跨簇链接**: [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]（复杂系统与德勒兹的吸引子映射）、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（空间系统的复杂性与涌现）、[[20260623-0019-shores-logic-deleuze-ingest]]（dialetheism与奇怪吸引子的逻辑类比——既稳定又不稳定）

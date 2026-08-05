@@ -32,4 +32,4 @@ Womack（2025）将Putin的乌克兰入侵分析为Schelling式强迫战略在�
 
 - [[20260721-0001-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
 - [[20260721-0003-Womack-command-credibility-vs-leadership|命令信誉vs领导信誉]]
-- [[20260721-litmap|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260721-当代战略理论代表性文献清单-论文配套映射|当代战略理论代表性文献清单-论文配套映射]]

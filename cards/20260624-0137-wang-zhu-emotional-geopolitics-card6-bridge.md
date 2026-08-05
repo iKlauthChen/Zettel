@@ -42,7 +42,7 @@ metadata:
 | 链接方向 | 链接点 |
 |----------|--------|
 | [[20260623-0018-saldanha-space-after-deleuze-ingest]] | Saldanha 论德勒兹"affect"中的情动力与本文的"情动氛围"直接对话——德勒兹的affect是"前个体"的强度，本文的情动氛围是"前个体"的空间化。情感国家主义（affective nationalism）中的"affective"与德勒兹的"affect"共享本体论基础 |
-| [[complex-spatial-geography-essay]] | 复杂空间地理学中的"空间作为事件"与本文的"具身邂逅"相呼应——空间不是容器，而是在身体与物体的情感邂逅中涌现的 |
+| [[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]] | 复杂空间地理学中的"空间作为事件"与本文的"具身邂逅"相呼应——空间不是容器，而是在身体与物体的情感邂逅中涌现的 |
 | [[20260624-0048-liu-qu-manifold-evolution-card6-bridge]] | 流形概念的"局部同胚/整体拓扑"结构可映射为情感的"局部生理机制/整体社会文化建构"——每个个体的情感生成是"局部欧氏"的（共享生理机制），但情感的意义是"整体拓扑"的（差异化的社会文化建构）|
 
 ### → 地缘位势群组
@@ -61,4 +61,4 @@ metadata:
 
 **How to apply**: 在整合"情感"维度到安全研究/地缘政治分析时，此文提供了一条避免还原论（纯粹心理学）和避免空泛论（纯粹话语分析）的路径——"意识-身体-环境"三元框架是跨学科研究的方法论模板。
 
-**跨簇链接**: [[20260623-0018-saldanha-space-after-deleuze-ingest]]、[[complex-spatial-geography-essay]]、[[20260622-0080-zhang-security-sense-neglected-dimension]]、[[20260622-0079-yin-liu-national-security-personality-foundations]]、[[20260622-0068-qin-tan-geostrategy-ingest]]、[[20260622-0081-zhu-ning-copenhagen-school-security]]
+**跨簇链接**: [[20260623-0018-saldanha-space-after-deleuze-ingest]]、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]、[[20260622-0080-zhang-security-sense-neglected-dimension]]、[[20260622-0079-yin-liu-national-security-personality-foundations]]、[[20260622-0068-qin-tan-geostrategy-ingest]]、[[20260622-0081-zhu-ning-copenhagen-school-security]]

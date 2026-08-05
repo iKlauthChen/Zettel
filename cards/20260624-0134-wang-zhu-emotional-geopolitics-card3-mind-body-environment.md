@@ -69,4 +69,4 @@ created: 2026-06-24T15:04:33+0800
 
 **How to apply**: 框架可直接映射到安全研究的"威胁感知"分析——威胁感知既不是客观威胁的函数（现实主义），也不是单纯的幻象（建构主义极端），而是生理唤醒与目标关联性合意度在特定地缘环境中的交互结果。"情动氛围"概念有助于解释安全的"情感氛围"如何传播与政治化。
 
-**跨簇链接**: [[20260623-0018-saldanha-space-after-deleuze-ingest]]（情动/affect与空间化）、[[complex-spatial-geography-essay]]（空间的具身维度）、[[20260622-0080-zhang-security-sense-neglected-dimension]]（安全感的心理-环境交互）
+**跨簇链接**: [[20260623-0018-saldanha-space-after-deleuze-ingest]]（情动/affect与空间化）、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（空间的具身维度）、[[20260622-0080-zhang-security-sense-neglected-dimension]]（安全感的心理-环境交互）

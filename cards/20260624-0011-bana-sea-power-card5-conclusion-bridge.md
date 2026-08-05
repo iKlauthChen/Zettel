@@ -28,7 +28,7 @@ Bana 提供了 Chao & Cho 所讨论的海上信号传递理论的**具体物质�
 ### → [[20260622-0060-hu-bo-chen-grey-zone-strategy]]
 灰色地带竞争的海上维度——中国海警船、东海ADIZ、南海岛礁建设都在挑战"什么构成军事攻击"的界限。Bana 文中提到的"科学训练任务"正是灰色地带的典型叙事策略。
 
-### → [[hulme-gartzke-tyranny-distance]] 
+### → [[20260624-0028-hulme-gartzke-tyranny-distance-card3-empirical-validation|link]] 
 "距离的暴政"与中国航母战略的张力——如果力量随距离衰减（Hulme & Gartzke），那么中国建造航母来保护远离大陆的海上利益时，也面临同样的距离困境。中国航母在印度洋/中东的力量投射会遇到与美国在亚太同样的问题：距离削弱了力量、衰减了利益、劣化了信息。
 
 ### → [[20260622-0056-dibb-brabin-deterrence-denial-warning]]

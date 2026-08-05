@@ -56,4 +56,4 @@ description: 外尔1913《黎曼面的思想》：流形现代形式定义的确
 
 **How to apply**: 对照德勒兹的"内在性平面"——空间不是先验容器，而是由邻域关系（即内在关系）构成的延展性结构。外尔的流形定义可视为"内在性平面"的数学对应物。也可用于说明"拓扑"意义上空间的柔性如何被严格数学化（对应复杂空间地理学中空间的"柔软"与"刚性"的辩证）。
 
-**跨簇链接**: [[20260624-0045-liu-qu-manifold-evolution-card3-hilbert]]（希尔伯特公理前提）、[[20260623-0018-saldanha-space-after-deleuze-ingest]]（空间化的拓扑层次）、[[complex-spatial-geography-essay]]（空间观念变革的数学基础）
+**跨簇链接**: [[20260624-0045-liu-qu-manifold-evolution-card3-hilbert]]（希尔伯特公理前提）、[[20260623-0018-saldanha-space-after-deleuze-ingest]]（空间化的拓扑层次）、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（空间观念变革的数学基础）

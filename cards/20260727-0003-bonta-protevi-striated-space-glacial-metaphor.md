@@ -75,5 +75,5 @@ Bonta-Protevi强调，对D&G而言，地理学术语在ATP中的使用"既不是
 - [[20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity|Bonta-Protevi导论：地球哲学与复杂性理论]] — 条纹空间是地球哲学对国家的空间分析工具
 - [[20260727-0002-bonta-protevi-signs-material-trigger-mixed-semiotics|意义作为物质触发与混合符号态]] — 能指符号态体制引入条纹空间
 - [[20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual|Bonta-Protevi的DeLanda式本体论重构]] — 条纹空间对应实际/分层层面，光滑空间对应强度形态发生
-- [[20260624-0076|国家的符号态体制]] — 条纹空间作为该体制的空间表达式
+- [[20260624-0076-original-batch4-void-ontology-security|国家的符号态体制]] — 条纹空间作为该体制的空间表达式
 - [[20260716-0055-Bennett2024-AlphaGo-nomadism|Bennett 2024 AlphaGo与游牧主义]] — 光滑空间在现代战争/战略行为中的表现

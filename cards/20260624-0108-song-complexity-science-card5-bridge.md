@@ -31,7 +31,7 @@ metadata:
 ### → [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]（Bonta & Protevi：德勒兹与地缘哲学）
 最直接链接。Bonta & Protevi 系统论述了德勒兹作为复杂性理论奠基者的角色——德勒兹的"虚拟↦吸引子映射"概念与复杂系统的**奇怪吸引子**直接对应。宋学锋文中"确定性系统产生类似随机行为"正是德勒兹"虚拟"领域在数学上的对应：系统是确定的（结构确定），但具体实现路径（实际化）不可预测。德勒兹的"内在性平面"可被理解为复杂系统的**相空间**——所有可能状态的集合。
 
-### → [[complex-spatial-geography-essay]]（复杂空间地理学）
+### → [[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（复杂空间地理学）
 复杂空间地理学的"五重批判+四个建构工程"所依赖的复杂性理论基础——空间不是线性叠加的容器，而是非线性交互作用产生的**突现结构**。宋学锋的非线性/不可叠加性/自相似性三项特征直接为复杂空间地理学中的"空间的涌现性"提供了自然科学基础。
 
 ### → [[20260622-0077-wu-quantum-turn-political-science]]（吴冠军：政治学的量子转向）
@@ -66,4 +66,4 @@ Shores讨论的"纯粹生成悖论"和dialetheism（真矛盾主义）在复杂�
 
 **How to apply**: 在跨领域写作（如将复杂性理论引入安全研究）中，此文可作为"复杂性科学导论"的引用来源——特别是复杂性的定义（非线性交互→无序性表象）、复杂系统的六项特征、以及复杂性作为"第三次科学革命"的定位。
 
-**跨簇链接**: [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]、[[complex-spatial-geography-essay]]、[[20260622-0077-wu-quantum-turn-political-science]]、[[20260623-0019-shores-logic-deleuze-ingest]]、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge]]
+**跨簇链接**: [[20260623-0015-bonta-protevi-geophilosophy-ingest-2]]、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]、[[20260622-0077-wu-quantum-turn-political-science]]、[[20260623-0019-shores-logic-deleuze-ingest]]、[[20260624-0048-liu-qu-manifold-evolution-card6-bridge]]

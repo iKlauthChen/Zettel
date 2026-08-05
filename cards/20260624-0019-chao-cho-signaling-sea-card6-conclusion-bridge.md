@@ -39,7 +39,7 @@ Chao & Cho 为延伸—即时威慑的信号传递维度提供了**领域特定�
 ### → [[20260622-0060-hu-bo-chen-grey-zone-strategy]]（灰色地带竞争）
 最直接链接。本文以信号传递理论解释了灰色地带策略的运作机制——特别是中国使用海警/民兵在南海和东海的行动如何改变升级逻辑。与胡-陈的"四路径策略"（议题关联/三轮驱动/寄生/浑水摸鱼）互补：从信号视角，灰色地带策略是一种"故意模糊化强制信号"的操作。
 
-### → [[hulme-gartzke-tyranny-distance]]（距离的暴政）
+### → [[20260624-0028-hulme-gartzke-tyranny-distance-card3-empirical-validation|link]]（距离的暴政）
 Hulme & Gartzke 关注**距离**对军事力量有效性的影响。Chao & Cho 则关注**领域**（海vs陆）对信号传递的影响。两者结合：美国在亚太（远距离）使用海军信号（海上信号）——产生双重效应：距离削弱了力量（Hulme & Gartzke），但领域特征（海上）可能部分补偿了信号的可信度（Chao & Cho）。
 
 ### → [[20260622-0056-dibb-brabin-deterrence-denial-warning]]（拒止威慑与预警时间）

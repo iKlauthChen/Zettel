@@ -36,6 +36,6 @@ Luttwak的五个层级按操作规模做了实用的划分，但这一划分缺�
 
 - [[20260721-0005-Biddle-modern-system-force-employment|Biddle现代系统理论]]
 - [[20260721-0001-Womack-multinodal-critique-Schelling-premises|Womack对Schelling三前提的批判]]
-- [[20260721-litmap|当代战略理论代表性文献清单-论文配套映射]]
+- [[20260721-当代战略理论代表性文献清单-论文配套映射|当代战略理论代表性文献清单-论文配套映射]]
 - [[20260721-0011-Luttwak-vertical-dimension-levels|Luttwak：战略五层级]] — 悖论逻辑的层级化展开
 - [[20260721-0012-Luttwak-armed-suasion-postheroic|Luttwak：武装说服]] — 后英雄时代的悖论操作

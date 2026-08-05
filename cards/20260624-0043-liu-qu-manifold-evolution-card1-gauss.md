@@ -40,4 +40,4 @@ description: 高斯内蕴几何与曲纹坐标系：流形概念雏形来自大�
 
 **How to apply**: 用于说明空间观念变革中"实践→理论"的路径（大地测量→曲面论→流形），反驳"纯数学脱离实际"的简单叙事；也可链接到复杂空间地理学中"局部平直/全局拓扑"的空间构造思路。
 
-**跨簇链接**: [[complex-spatial-geography-essay]]（局部-全局空间构造）、[[20260623-0018-saldanha-space-after-deleuze-ingest]]（空间化四进路中的Maps/Places）
+**跨簇链接**: [[20260624-0048-liu-qu-manifold-evolution-card6-bridge|link]]（局部-全局空间构造）、[[20260623-0018-saldanha-space-after-deleuze-ingest]]（空间化四进路中的Maps/Places）

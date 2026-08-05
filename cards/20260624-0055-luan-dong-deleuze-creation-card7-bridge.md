@@ -37,7 +37,7 @@ metadata:
 | 概念人物（卡2） | [[20260623-0019-shores-logic-deleuze-ingest]] | 概念创造的逻辑基础与"非全"哲学 |
 | 差异与重复（卡3） | [[20260622-0071-smith-pure-form-time-three-syntheses]] | 时间三种综合的不同解读 |
 | 根茎与游牧学（卡4） | [[20260623-0018-saldanha-space-after-deleuze-ingest]] | 平滑空间/条纹空间、层叠与机械圈 |
-| 分裂分析（卡5） | [[zevnik-lacan-deleuze-world-politics]] | "心内法西斯"与主权话语批判 |
+| 分裂分析（卡5） | [[20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限|link]] | "心内法西斯"与主权话语批判 |
 | 战争机械（卡4-5） | [[20260622-0069-reid-war-machine-ingest]] | 战争机器详论、克劳塞维茨绝对战争 |
 | 战争机械→安全 | [[20260624-0138-war-machine-bridge-surplus-security]] | 战争机器与剩余安全的桥接 |
 | 创造即冒险（卡6） | [[20260622-0073-stivale-deleuze-seminar-time-out-of-joint]] | 哲学思考的即兴时间性与生命代价 |
