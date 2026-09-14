@@ -4540,5 +4540,139 @@
     "kind": "manual",
     "status": "draft",
     "produced_article": "drafts/生成与补偿-裂缝本体论视野下的决策质量判别.md"
+  },
+  {
+    "cluster_id": "manual-bacon-inland-empire-crystal",
+    "view": "draft",
+    "tag": null,
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-08-28T18:46:08+08:00",
+    "members": [
+      "20260622-0018-时间晶体不是隐喻而是本体论Cisney的权力的虚假和Luzecky的电影时间论时间作为差异的持续生成",
+      "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
+      "20260623-1706-虚假的权力与创造性的虚假者",
+      "20260805-0008-crystal-cinema-tension-bridge"
+    ],
+    "core_tags": [
+      "德勒兹",
+      "时间",
+      "电影",
+      "影像",
+      "美学",
+      "艺术"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 4,
+    "kind": "manual",
+    "suggested_title": "内陆帝国的图像前史——培根、不可见之力与水晶影像",
+    "gaps": [],
+    "relations_present": [],
+    "status": "draft",
+    "already_seen": true,
+    "readiness": "draft",
+    "produced_article": "drafts/内陆帝国-培根-水晶影像-图像前史.md"
+  },
+  {
+    "cluster_id": "manual-mulholland-empty-signifier",
+    "view": "draft",
+    "tag": null,
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-08-28T18:46:08+08:00",
+    "members": [
+      "20260804-0004-spoke-wheel-tree-rhizome-three-states",
+      "20260810-0001-becoming-revolutionary-virtual-people-crack",
+      "20260808-0001-wolf-cry-repetition-same-belief",
+      "20260623-1706-虚假的权力与创造性的虚假者"
+    ],
+    "core_tags": [
+      "德勒兹",
+      "拉康",
+      "电影",
+      "欲望",
+      "主体"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 4,
+    "kind": "manual",
+    "suggested_title": "穆赫兰道：空能指的白日梦——好莱坞的占位练习",
+    "gaps": [],
+    "relations_present": [],
+    "status": "draft",
+    "already_seen": true,
+    "readiness": "draft",
+    "produced_article": "drafts/穆赫兰道-空能指的白日梦-好莱坞占位练习.md"
+  },
+  {
+    "cluster_id": "manual-blue-velvet-surface-crack",
+    "view": "draft",
+    "tag": null,
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-08-28T18:46:08+08:00",
+    "members": [
+      "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation",
+      "20260805-0004-fold-fractal-material-actualization",
+      "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
+      "20260810-0001-becoming-revolutionary-virtual-people-crack"
+    ],
+    "core_tags": [
+      "德勒兹",
+      "电影",
+      "裂缝本体论",
+      "时间",
+      "美学"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 4,
+    "kind": "manual",
+    "suggested_title": "蓝丝绒：白篱笆与裂缝——表面如何携带它的伤口",
+    "gaps": [],
+    "relations_present": [],
+    "status": "draft",
+    "already_seen": true,
+    "readiness": "draft",
+    "produced_article": "drafts/蓝丝绒-白篱笆与裂缝-表面本体论.md"
+  },
+  {
+    "cluster_id": "manual-lynch-crystal-trilogy",
+    "view": "draft",
+    "tag": null,
+    "entity": null,
+    "merged_views": [],
+    "published_overlap": null,
+    "detected_at": "2026-08-28T18:46:08+08:00",
+    "members": [
+      "20260622-0018-时间晶体不是隐喻而是本体论Cisney的权力的虚假和Luzecky的电影时间论时间作为差异的持续生成",
+      "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
+      "20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos",
+      "20260623-1706-虚假的权力与创造性的虚假者",
+      "20260805-0008-crystal-cinema-tension-bridge"
+    ],
+    "core_tags": [
+      "德勒兹",
+      "时间",
+      "电影",
+      "影像",
+      "美学"
+    ],
+    "density": 1.0,
+    "voice_ratio": 1.0,
+    "size": 5,
+    "kind": "manual",
+    "suggested_title": "林奇的时间晶体三部曲：环、折、增殖",
+    "gaps": [],
+    "relations_present": [],
+    "status": "draft",
+    "already_seen": true,
+    "readiness": "draft",
+    "produced_article": "drafts/林奇时间晶体三部曲-环折增殖.md"
   }
 ]
