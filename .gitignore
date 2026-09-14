@@ -4,3 +4,7 @@
 
 # macOS 系统文件
 .DS_Store
+
+# 工具配置（含API密钥，勿入库）
+opencode.jsonc
+provider-catalog.json
