@@ -3,7 +3,7 @@ id: 20260716-0054
 status: permanent
 created: 2026-07-17T06:00:00+0800
 source: {type: article, ref: "Smith, Daniel W. '\"The Noumena of History\": On the Status of Nomads in Deleuze's Thought.' Research in Phenomenology 46.1 (2016): 81–100."}
-tags: [德勒兹, 游牧, 历史本体, 战争机器, 游牧论]
+tags: [德勒兹, 游牧, 历史本体, 战争机器, 游牧学]
 links:
   - {id: 20260716-0009, reason: "Villani的游牧哲学——共享游牧概念，本文聚焦于'历史不能编码的剩余'即游牧的本体论定位"}
   - {id: 20260716-0014, reason: "Lundy的今天的游牧——Lundy的政治追问+Smith的历史本体论：游牧在社会条件和本体论两个层次都没被历史化"}
