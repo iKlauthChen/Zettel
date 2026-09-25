@@ -207,4 +207,4 @@ Saldanha自己提出且未充分回应的指控：德勒兹—加塔利的"即�
 - Saldanha, A. (2017). *Space After Deleuze*. Bloomsbury.
 - Unwin, T. (2000). "A Waste of Space? Towards a Critique of the Social Production of Space." *Transactions of the Institute of British Geographers*, 25(1), 11-29.
 - Westphal, B. (2007). *La Géocritique: réel, fiction, espace*. Minuit.
-- 高方、路斯琪 (2020). 从文本到世界：一种方法论的探索——韦斯特法尔《地理批评：真实、虚构、空间》评介.《文艺理论研究》, 2020(4), 21-28.
+- 高方、路斯琪 (2020). 从文本到世界：一种方法论的探索——韦斯特法尔《地理批评：真实、虚构、空间》评介.《文艺理论研究》, 40(4), 27-34.
