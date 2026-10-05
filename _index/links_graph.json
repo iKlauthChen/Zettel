@@ -5326,7 +5326,8 @@
     "in": [
       "20260626-1050-张能论平滑空间非解放性需要平滑抗争",
       "20260710-0003",
-      "20260804-0004"
+      "20260804-0004",
+      "20260928-0006-eun-becoming-rhizomatic-territory-codes"
     ]
   },
   "20260622-0004-COVID19不是单纯生物危机而是德勒兹式事件": {
@@ -5946,7 +5947,9 @@
       "20260621-0465-孙利天以高清海实践观点沟通德勒兹多元平面与黑格尔一元辩证为中国哲学自主创造概念奠基",
       "20260622-0081-zhu-ning-copenhagen-school-security"
     ],
-    "in": []
+    "in": [
+      "20260928-0007-eun-horizontal-pedagogy-open-knowledge"
+    ]
   },
   "20260622-0081-zhu-ning-copenhagen-school-security": {
     "out": [
@@ -7370,7 +7373,8 @@
     "in": [
       "20260623-1406-时间第三种综合的停顿是经验链条中的裂隙也",
       "20260703-0011",
-      "20260805-0009-capital-time-collective-time-bridge"
+      "20260805-0009-capital-time-collective-time-bridge",
+      "20260928-0002-hom-linearity-binary-heterolinearity"
     ]
   },
   "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支": {
@@ -9006,7 +9010,8 @@
       "20260624-0138-war-machine-bridge-surplus-security"
     ],
     "in": [
-      "20260804-0004"
+      "20260804-0004",
+      "20260928-0006-eun-becoming-rhizomatic-territory-codes"
     ]
   },
   "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis": {
@@ -11495,7 +11500,7 @@
       "20260703-0014",
       "20260703-0015",
       "20260715-0017-Hom2018-timing-theory",
-      "20260715-0018",
+      "20260715-0018-Hom2018-temporal-turn",
       "20260926-0046-hom-elias-timing-standard-active-passive-nominalisation"
     ]
   },
@@ -12193,7 +12198,8 @@
     "in": [
       "20260714-0010",
       "20260926-0034-amoureux-postcolonial-corrective-scholarly-reflexivity",
-      "20260926-0048-hom-heterotemporality-as-criterion-of-adequacy"
+      "20260926-0048-hom-heterotemporality-as-criterion-of-adequacy",
+      "20260928-0005-eun-ir-pluralism-representational-diversity"
     ]
   },
   "20260715-0001": {
@@ -12420,7 +12426,7 @@
       "20260926-0049-hom-war-as-timing-contest-identity-as-timing-project"
     ],
     "in": [
-      "20260715-0018",
+      "20260715-0018-Hom2018-temporal-turn",
       "20260715-0019-Solomon2014-time-subjectivity",
       "20260715-0021",
       "20260715-0022",
@@ -12435,7 +12441,10 @@
       "20260926-0046-hom-elias-timing-standard-active-passive-nominalisation",
       "20260926-0047-hom-will-to-time-positionality-imperial-timing",
       "20260926-0048-hom-heterotemporality-as-criterion-of-adequacy",
-      "20260926-0049-hom-war-as-timing-contest-identity-as-timing-project"
+      "20260926-0049-hom-war-as-timing-contest-identity-as-timing-project",
+      "20260928-0001-hom-timelessness-conceptual-blur",
+      "20260928-0002-hom-linearity-binary-heterolinearity",
+      "20260928-0004-hom-rupture-possibility-and-political-choice"
     ]
   },
   "20260715-0021-Cao-Dejun2023-strategic-rhythm": {
@@ -12512,23 +12521,85 @@
       "20260715-0017-Hom2018-timing-theory"
     ]
   },
-  "20260715-0018": {
+  "20260715-0018-Hom2018-temporal-turn": {
     "out": [
       "20260715-0017-Hom2018-timing-theory",
       "20260703-0011-Coward2024-IR-future-turn",
-      "20260715-0020-DunnCavelty2015-resilience"
+      "20260715-0020-DunnCavelty2015-resilience",
+      "20260928-0001-hom-timelessness-conceptual-blur",
+      "20260928-0002-hom-linearity-binary-heterolinearity",
+      "20260928-0003-hom-heterotemporality-needs-dialogue",
+      "20260928-0004-hom-rupture-possibility-and-political-choice"
     ],
-    "in": []
+    "in": [
+      "20260715-0020",
+      "20260716-0025",
+      "20260716-0036-McIntosh2020-quantum-entanglement",
+      "20260926-0036-mcintosh-quantum-temporality-mead-present-and-science-metaphor-defence",
+      "20260926-0043-solomon-multiple-conflicting-temporalities-vs-futurity",
+      "20260926-0045-hom-timing-instead-of-time-stovepipes-and-reification",
+      "20260928-0001-hom-timelessness-conceptual-blur",
+      "20260928-0002-hom-linearity-binary-heterolinearity",
+      "20260928-0003-hom-heterotemporality-needs-dialogue",
+      "20260928-0004-hom-rupture-possibility-and-political-choice"
+    ]
   },
   "20260715-0020-DunnCavelty2015-resilience": {
     "out": [],
     "in": [
-      "20260715-0018",
+      "20260715-0018-Hom2018-temporal-turn",
       "20260716-0005",
       "20260716-0031",
       "20260716-0043",
       "20260716-0045",
       "20260926-0048-hom-heterotemporality-as-criterion-of-adequacy"
+    ]
+  },
+  "20260928-0001-hom-timelessness-conceptual-blur": {
+    "out": [
+      "20260715-0018-Hom2018-temporal-turn",
+      "20260715-0017-Hom2018-timing-theory",
+      "20260928-0002-hom-linearity-binary-heterolinearity"
+    ],
+    "in": [
+      "20260715-0018-Hom2018-temporal-turn",
+      "20260928-0002-hom-linearity-binary-heterolinearity"
+    ]
+  },
+  "20260928-0002-hom-linearity-binary-heterolinearity": {
+    "out": [
+      "20260715-0018-Hom2018-temporal-turn",
+      "20260715-0017-Hom2018-timing-theory",
+      "20260928-0001-hom-timelessness-conceptual-blur",
+      "20260623-1409-革命的任务不是改变世界而是改变时间本身"
+    ],
+    "in": [
+      "20260715-0018-Hom2018-temporal-turn",
+      "20260928-0001-hom-timelessness-conceptual-blur"
+    ]
+  },
+  "20260928-0003-hom-heterotemporality-needs-dialogue": {
+    "out": [
+      "20260715-0018-Hom2018-temporal-turn",
+      "20260926-0034-amoureux-postcolonial-corrective-scholarly-reflexivity",
+      "20260926-0030-amoureux-space-time-frames-thicken-each-other",
+      "20260928-0004-hom-rupture-possibility-and-political-choice"
+    ],
+    "in": [
+      "20260715-0018-Hom2018-temporal-turn",
+      "20260928-0004-hom-rupture-possibility-and-political-choice"
+    ]
+  },
+  "20260928-0004-hom-rupture-possibility-and-political-choice": {
+    "out": [
+      "20260715-0018-Hom2018-temporal-turn",
+      "20260716-0025-Bell2008-DG-philosophy-history",
+      "20260715-0017-Hom2018-timing-theory",
+      "20260928-0003-hom-heterotemporality-needs-dialogue"
+    ],
+    "in": [
+      "20260715-0018-Hom2018-temporal-turn",
+      "20260928-0003-hom-heterotemporality-needs-dialogue"
     ]
   },
   "20260715-0019-Solomon2014-time-subjectivity": {
@@ -12617,17 +12688,6 @@
       "20260713-0009-Maher2023-free-market-fantasy"
     ],
     "in": []
-  },
-  "20260715-0018-Hom2018-temporal-turn": {
-    "out": [],
-    "in": [
-      "20260715-0020",
-      "20260716-0025",
-      "20260716-0036-McIntosh2020-quantum-entanglement",
-      "20260926-0036-mcintosh-quantum-temporality-mead-present-and-science-metaphor-defence",
-      "20260926-0043-solomon-multiple-conflicting-temporalities-vs-futurity",
-      "20260926-0045-hom-timing-instead-of-time-stovepipes-and-reification"
-    ]
   },
   "20260713-0009-Maher2023-free-market-fantasy": {
     "out": [],
@@ -13053,7 +13113,8 @@
     "in": [
       "20260716-0026",
       "20260716-0054",
-      "20260914-0001"
+      "20260914-0001",
+      "20260928-0004-hom-rupture-possibility-and-political-choice"
     ]
   },
   "20260716-0027": {
@@ -13294,7 +13355,10 @@
       "20260716-0047",
       "20260716-0052",
       "20260926-0034-amoureux-postcolonial-corrective-scholarly-reflexivity",
-      "20260926-0039-mcintosh-scholarly-humility-and-latent-structuralism"
+      "20260926-0039-mcintosh-scholarly-humility-and-latent-structuralism",
+      "20260928-0005-eun-ir-pluralism-representational-diversity",
+      "20260928-0007-eun-horizontal-pedagogy-open-knowledge",
+      "20260928-0008-eun-royal-nomad-science-public-knowledge"
     ]
   },
   "20260716-0039": {
@@ -14194,7 +14258,9 @@
     "in": [
       "20260804-0006",
       "20260805-0001",
-      "20260814-0001"
+      "20260814-0001",
+      "20260928-0006-eun-becoming-rhizomatic-territory-codes",
+      "20260928-0008-eun-royal-nomad-science-public-knowledge"
     ]
   },
   "20260805-0001": {
@@ -14227,7 +14293,8 @@
   "20260716-0047-Biswas2007-Said-IR-theorist": {
     "out": [],
     "in": [
-      "20260805-0002"
+      "20260805-0002",
+      "20260928-0008-eun-royal-nomad-science-public-knowledge"
     ]
   },
   "20260714-0010-Rosenberg2016-IR-prison-political-science": {
@@ -17044,7 +17111,8 @@
     ],
     "in": [
       "20260926-0036-mcintosh-quantum-temporality-mead-present-and-science-metaphor-defence",
-      "20260926-0045-hom-timing-instead-of-time-stovepipes-and-reification"
+      "20260926-0045-hom-timing-instead-of-time-stovepipes-and-reification",
+      "20260928-0003-hom-heterotemporality-needs-dialogue"
     ]
   },
   "20260926-0031-amoureux-strained-merger-liberations-strategics-racialized-speed": {
@@ -17087,7 +17155,58 @@
     ],
     "in": [
       "20260926-0039-mcintosh-scholarly-humility-and-latent-structuralism",
-      "20260926-0048-hom-heterotemporality-as-criterion-of-adequacy"
+      "20260926-0048-hom-heterotemporality-as-criterion-of-adequacy",
+      "20260928-0003-hom-heterotemporality-needs-dialogue"
+    ]
+  },
+  "20260928-0005-eun-ir-pluralism-representational-diversity": {
+    "out": [
+      "20260716-0042-Michel2013-one-world-not-enough",
+      "20260716-0037-Kamola2020-decolonising-university",
+      "20260928-0006-eun-becoming-rhizomatic-territory-codes"
+    ],
+    "in": [
+      "20260928-0006-eun-becoming-rhizomatic-territory-codes",
+      "20260928-0007-eun-horizontal-pedagogy-open-knowledge",
+      "20260928-0008-eun-royal-nomad-science-public-knowledge"
+    ]
+  },
+  "20260928-0006-eun-becoming-rhizomatic-territory-codes": {
+    "out": [
+      "20260928-0005-eun-ir-pluralism-representational-diversity",
+      "20260804-0005-tree-rhizome-dichotomy-self-handling-critiques",
+      "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
+      "20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区",
+      "20260928-0007-eun-horizontal-pedagogy-open-knowledge"
+    ],
+    "in": [
+      "20260928-0005-eun-ir-pluralism-representational-diversity",
+      "20260928-0007-eun-horizontal-pedagogy-open-knowledge"
+    ]
+  },
+  "20260928-0007-eun-horizontal-pedagogy-open-knowledge": {
+    "out": [
+      "20260928-0005-eun-ir-pluralism-representational-diversity",
+      "20260928-0006-eun-becoming-rhizomatic-territory-codes",
+      "20260928-0008-eun-royal-nomad-science-public-knowledge",
+      "20260716-0037-Kamola2020-decolonising-university",
+      "20260622-0028-Kullman的三型批判形象非事件性不驯服性非共通性补全德勒兹概念理论忽视了概念的不确定安排"
+    ],
+    "in": [
+      "20260928-0006-eun-becoming-rhizomatic-territory-codes",
+      "20260928-0008-eun-royal-nomad-science-public-knowledge"
+    ]
+  },
+  "20260928-0008-eun-royal-nomad-science-public-knowledge": {
+    "out": [
+      "20260928-0005-eun-ir-pluralism-representational-diversity",
+      "20260928-0007-eun-horizontal-pedagogy-open-knowledge",
+      "20260716-0047-Biswas2007-Said-IR-theorist",
+      "20260716-0037-Kamola2020-decolonising-university",
+      "20260804-0005-tree-rhizome-dichotomy-self-handling-critiques"
+    ],
+    "in": [
+      "20260928-0007-eun-horizontal-pedagogy-open-knowledge"
     ]
   }
 }
