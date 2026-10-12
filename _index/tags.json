@@ -172,6 +172,14 @@
     "20260928-0002-hom-linearity-binary-heterolinearity",
     "20260928-0003-hom-heterotemporality-needs-dialogue",
     "20260928-0004-hom-rupture-possibility-and-political-choice",
+    "20261007-0006-bacon-color-time",
+    "20261007-0011-fold-baroque-music-modulation",
+    "20261007-0020-dialogues-crystal-short-circuit",
+    "20261010-0015-time-form-three-moments-纯粹时间形式三环节",
+    "20261010-0020-repetition-power-singularity-重复的三种效果",
+    "20261010-0022-dynamics-differential-rhythm-微分节奏",
+    "20261010-0031-third-synthesis-effect-第三综合的爱欲效果",
+    "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前",
     "博士论文框架诊断-三个候选方向"
   ],
   "---": [
@@ -209,7 +217,8 @@
     "20260622-0030-abrahams-assemblage",
     "20260623-1611-重复段与界域化",
     "20260623-2203-地缘哲学核心术语的复杂性理论快照",
-    "20260713-0001-duree-vs-assemblage-relation-set"
+    "20260713-0001-duree-vs-assemblage-relation-set",
+    "20261007-0016-dialogues-desire-assemblage-plane"
   ],
   "Deleuze": [
     "20260620-1500-装置是安排的过程而非静态组织",
@@ -340,7 +349,8 @@
     "20260830-0148-德勒兹福柯尼采交汇与思想战争机器",
     "20260925-0001-Satoor以问题解答现实化反驳Hallward逃出世界读法",
     "20260925-0002-Satoor从单义性推导平等但本体到规范的论证未完成",
-    "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成"
+    "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "process-philosophy": [
     "20260620-1500-装置是安排的过程而非静态组织"
@@ -404,7 +414,8 @@
     "20260621-0441-事件与逃逸线是物质系统敏感性与多元相遇产生创造性的两种机制",
     "20260622-0052-王敏和朱竑论情感地缘政治的交叉逻辑提出意识-身体-环境的三维研究框架",
     "20260623-1612-无器官身体与面貌性",
-    "20260626-1312-两种衰落健康病理本能系统重构"
+    "20260626-1312-两种衰落健康病理本能系统重构",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "event": [
     "20260620-1503-事件决定空间和时间而非相反",
@@ -498,7 +509,10 @@
     "20260622-1720-身体通过享乐被法律铭写而内在生命在法律之外",
     "20260622-1730-关塔那摩微观实践展示了法律边界之外的替代存在形式",
     "20260623-2102-成为",
-    "20260627-0001"
+    "20260627-0001",
+    "20261007-0001-bacon-sensation-bwo-intensity",
+    "20261007-0008-fold-world-realization",
+    "20261007-0009-fold-monad-body-levels"
   ],
   "Stoicism": [
     "20260620-1505-斯多葛式二元论区分身体实存和事件生成",
@@ -557,7 +571,8 @@
   "control": [
     "20260620-1508-语言作为控制机器规定谁不属于社会",
     "20260620-1509-资本主义解域化只为更强大的再辖域化",
-    "20260623-1803-取向政治与后真相民粹"
+    "20260623-1803-取向政治与后真相民粹",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "social-exclusion": [
     "20260620-1508-语言作为控制机器规定谁不属于社会"
@@ -643,18 +658,34 @@
     "20260620-1511-生产是差异的重复而非同一的复现",
     "20260620-1514-情动是次个人的事件是激情的逃逸线",
     "20260620-1543-奇异性是事件的前个体元素",
-    "20260621-0504-恐怖作为虚空的病理化Zevnik的本体论虚空与DG的战争机器在暴力边缘汇合提出了政治创造性的门槛问题"
+    "20260621-0504-恐怖作为虚空的病理化Zevnik的本体论虚空与DG的战争机器在暴力边缘汇合提出了政治创造性的门槛问题",
+    "20261007-0013-fold-singularity-world-perspective"
   ],
   "sensation": [
-    "20260620-1512-感觉是被具体化的力存在于身体而非空气"
+    "20260620-1512-感觉是被具体化的力存在于身体而非空气",
+    "20261007-0001-bacon-sensation-bwo-intensity",
+    "20261007-0002-bacon-force-painting-music",
+    "20261007-0003-bacon-figure-sensation-not-narrative",
+    "20261007-0005-bacon-code-vs-sensation",
+    "20261007-0006-bacon-color-time",
+    "20261007-0007-bacon-haptic-vision"
   ],
   "force": [
-    "20260620-1512-感觉是被具体化的力存在于身体而非空气"
+    "20260620-1512-感觉是被具体化的力存在于身体而非空气",
+    "20261007-0002-bacon-force-painting-music",
+    "20261007-0009-fold-monad-body-levels"
   ],
   "aesthetics": [
     "20260620-1512-感觉是被具体化的力存在于身体而非空气",
     "20260622-0008-地图-图像德勒兹美学中的地图不是静态再现而是虚拟与现实之间的波动装置",
-    "20260622-1604-康德将时间从空间化运动中解放为纯粹形式"
+    "20260622-1604-康德将时间从空间化运动中解放为纯粹形式",
+    "20261007-0002-bacon-force-painting-music",
+    "20261007-0003-bacon-figure-sensation-not-narrative",
+    "20261007-0004-bacon-diagram-preloaded-cliches",
+    "20261007-0005-bacon-code-vs-sensation",
+    "20261007-0006-bacon-color-time",
+    "20261007-0007-bacon-haptic-vision",
+    "20261007-0011-fold-baroque-music-modulation"
   ],
   "lack": [
     "20260620-1513-拉康式对象a的缺失是解放而非悲剧"
@@ -681,7 +712,8 @@
     "20260623-1701-纯粹生成悖论的dialetheic解读",
     "20260623-2201-德勒兹本体论作为复杂性理论的形而上学",
     "20260626-1020-张小宁发掘Ingold反达尔文动机替换存在为生成",
-    "20260627-0019"
+    "20260627-0019",
+    "20261007-0014-dialogues-becoming-between"
   ],
   "body-without-organs": [
     "20260620-1515-无器官身体是强度中的生成和潜在能量而非空",
@@ -692,7 +724,8 @@
     "20260621-0446-无器官身体不是反对器官而是反对有机体去有机体化释放身体的创造性连接",
     "20260621-0498-恐怖是癌变的无器官身体而非革命性的无器官身体",
     "20260622-0046-张晨论德勒兹的空间艺术理论游牧空间无器官身体和欲望机器作为艺术解辖域化的三重装置",
-    "20260623-1612-无器官身体与面貌性"
+    "20260623-1612-无器官身体与面貌性",
+    "20261007-0001-bacon-sensation-bwo-intensity"
   ],
   "intensity": [
     "20260620-1515-无器官身体是强度中的生成和潜在能量而非空",
@@ -708,7 +741,9 @@
     "20260623-1619-高原与卵",
     "20260623-2201-德勒兹本体论作为复杂性理论的形而上学",
     "20260925-0001-Satoor以问题解答现实化反驳Hallward逃出世界读法",
-    "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成"
+    "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成",
+    "20261007-0001-bacon-sensation-bwo-intensity",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "potential": [
     "20260620-1515-无器官身体是强度中的生成和潜在能量而非空"
@@ -1037,7 +1072,44 @@
     "20260805-0008-crystal-cinema-tension-bridge",
     "20260807-0001",
     "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation",
-    "20260924-0002-adkins-intensive-extensive-social-investment"
+    "20260924-0002-adkins-intensive-extensive-social-investment",
+    "20261010-0001-deleuze-entropy-extension-内含的外展",
+    "20261010-0002-deleuze-time-arrow-difference-noumenon-差异是最接近现象的本体",
+    "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越",
+    "20261010-0004-darwin-individual-difference-个体差异的问题",
+    "20261010-0005-hegel-contradiction-dead-end-黑格尔矛盾的死胡同",
+    "20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽",
+    "20261010-0007-deleuze-multiplicity-variety-繁复体",
+    "20261010-0008-deleuze-learning-knowledge-学习与知识",
+    "20261010-0009-deleuze-philosophy-beginning-repetition-哲学无开端",
+    "20261010-0010-deleuze-repetition-pathos-重复的痛苦",
+    "20261010-0011-deleuze-metalanguage-second-order-元语言与二阶词",
+    "20261010-0012-deleuze-fixation-repression-重复与压抑",
+    "20261010-0013-deleuze-potential-object-partial-潜能对象",
+    "20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点",
+    "20261010-0015-time-form-three-moments-纯粹时间形式三环节",
+    "20261010-0016-contradiction-revolution-festival-革命的节日气氛",
+    "20261010-0017-eternal-return-no-identity-永恒回归不预设同一",
+    "20261010-0018-intensity-extensive-cancel-强度在广延中被取消",
+    "20261010-0019-conscience-time-synthesis-良知与第一综合",
+    "20261010-0020-repetition-power-singularity-重复的三种效果",
+    "20261010-0021-actualization-three-series-现实化与初级意识",
+    "20261010-0022-dynamics-differential-rhythm-微分节奏",
+    "20261010-0023-potential-not-opposed-actual-潜能不对立于实在",
+    "20261010-0024-differentiation-differentiation-微分与分化",
+    "20261010-0025-dice-chance-repetition-骰子",
+    "20261010-0026-structure-genesis-idea-意义在结构事件中",
+    "20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何",
+    "20261010-0028-interrogative-answer-as-instance-回答是解决实例",
+    "20261010-0029-plato-idol-simulacrum-柏拉图的两种影像",
+    "20261010-0030-eternal-return-multiplicity-肯定复多而非服从于一",
+    "20261010-0031-third-synthesis-effect-第三综合的爱欲效果",
+    "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前",
+    "20261010-0033-imagination-vis-repetiva-想象力与差复的力量",
+    "20261010-0034-here-now-differential-reality-此地此时的微分实在性",
+    "20261010-0035-genus-species-logos-属差与两种逻各斯",
+    "20261010-0036-experiment-closed-environment-实验与封闭环境",
+    "20261010-0037-science-fiction-knowledge-frontier-知识前沿"
   ],
   "sense": [
     "20260620-1541-意义是事件在命题与事物之间划出的边界",
@@ -1138,7 +1210,9 @@
     "20260621-0009-Guattari与Deleuze选择了截"
   ],
   "compossibility": [
-    "20260620-1550-莱布尼茨的共可能性先于同一性逻辑"
+    "20260620-1550-莱布尼茨的共可能性先于同一性逻辑",
+    "20261007-0010-fold-harmony-monads-communication",
+    "20261007-0012-fold-possible-world-sieve"
   ],
   "eternal-return": [
     "20260620-1551-永恒回归有两种形态",
@@ -1377,7 +1451,13 @@
     "20260830-0112-Hardt差异为存在奠基与内在差异",
     "20260923-0003-yang-kailin-difference-return-dynamic-time-space",
     "20260923-0005-yang-kailin-difference-of-natures-not-dualism",
-    "20260926-0040-solomon-retroactivity-button-ties-master-signifier"
+    "20260926-0040-solomon-retroactivity-button-ties-master-signifier",
+    "20261010-0002-deleuze-time-arrow-difference-noumenon-差异是最接近现象的本体",
+    "20261010-0004-darwin-individual-difference-个体差异的问题",
+    "20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点",
+    "20261010-0017-eternal-return-no-identity-永恒回归不预设同一",
+    "20261010-0025-dice-chance-repetition-骰子",
+    "20261010-0034-here-now-differential-reality-此地此时的微分实在性"
   ],
   "法西斯主义": [
     "20260620-1593-差异是一个被法西斯主义殖民了的贬义政治概"
@@ -1412,7 +1492,9 @@
     "20260703-0019",
     "20260703-0020",
     "20260715-0019-Solomon2014-time-subjectivity",
-    "20260830-0006-柄谷精神分析对话与移情"
+    "20260830-0006-柄谷精神分析对话与移情",
+    "20261007-0017-dialogues-semiotic-regimes-delirium",
+    "20261010-0012-deleuze-fixation-repression-重复与压抑"
   ],
   "核危机": [
     "20260620-1595-核危机摧毁的不是启蒙进步信念"
@@ -1588,7 +1670,27 @@
     "20260923-0009-yang-kailin-crystal-self-observer-action",
     "20260928-0005-eun-ir-pluralism-representational-diversity",
     "20260928-0006-eun-becoming-rhizomatic-territory-codes",
-    "20260928-0008-eun-royal-nomad-science-public-knowledge"
+    "20260928-0008-eun-royal-nomad-science-public-knowledge",
+    "20261007-0001-bacon-sensation-bwo-intensity",
+    "20261007-0002-bacon-force-painting-music",
+    "20261007-0003-bacon-figure-sensation-not-narrative",
+    "20261007-0004-bacon-diagram-preloaded-cliches",
+    "20261007-0005-bacon-code-vs-sensation",
+    "20261007-0006-bacon-color-time",
+    "20261007-0007-bacon-haptic-vision",
+    "20261007-0008-fold-world-realization",
+    "20261007-0009-fold-monad-body-levels",
+    "20261007-0010-fold-harmony-monads-communication",
+    "20261007-0011-fold-baroque-music-modulation",
+    "20261007-0012-fold-possible-world-sieve",
+    "20261007-0013-fold-singularity-world-perspective",
+    "20261007-0014-dialogues-becoming-between",
+    "20261007-0015-dialogues-flight-line-reality",
+    "20261007-0016-dialogues-desire-assemblage-plane",
+    "20261007-0017-dialogues-semiotic-regimes-delirium",
+    "20261007-0018-dialogues-state-lines-black-hole",
+    "20261007-0019-dialogues-revolution-not-future",
+    "20261007-0020-dialogues-crystal-short-circuit"
   ],
   "解域化": [
     "20260620-1596-生成",
@@ -1689,7 +1791,9 @@
     "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
     "20260805-0004",
     "20260814-0001",
-    "20260925-0001-Satoor以问题解答现实化反驳Hallward逃出世界读法"
+    "20260925-0001-Satoor以问题解答现实化反驳Hallward逃出世界读法",
+    "20261007-0008-fold-world-realization",
+    "20261007-0012-fold-possible-world-sieve"
   ],
   "duration": [
     "20260620-1601-绵延是通过改变本性而被划分的那种繁杂体",
@@ -1912,7 +2016,10 @@
     "20260830-0144-德勒兹永恒回归析取综合与强度",
     "20260923-0001-yang-kailin-becoming-molecular-between",
     "20260923-0003-yang-kailin-difference-return-dynamic-time-space",
-    "20260923-0008-yang-kailin-thought-violence-hatred-wisdom"
+    "20260923-0008-yang-kailin-thought-violence-hatred-wisdom",
+    "20261010-0001-deleuze-entropy-extension-内含的外展",
+    "20261010-0017-eternal-return-no-identity-永恒回归不预设同一",
+    "20261010-0018-intensity-extensive-cancel-强度在广延中被取消"
   ],
   "内在性": [
     "20260620-1646-内在性平面是思维的图像而非方法论",
@@ -1938,7 +2045,8 @@
     "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
     "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment",
     "20260716-0016",
-    "20260926-0022-gellwitzki-object-relations-subject-no-presocial-self"
+    "20260926-0022-gellwitzki-object-relations-subject-no-presocial-self",
+    "20261010-0008-deleuze-learning-knowledge-学习与知识"
   ],
   "欲望机器": [
     "20260620-1655-无意识不说任何话",
@@ -1967,7 +2075,9 @@
     "20260830-0133-Braidotti情动解放与身份回溯性",
     "20260830-0143-德勒兹反常与去主体化",
     "20260926-0041-solomon-temporal-decentering-future-anterior-lack",
-    "20260926-0043-solomon-multiple-conflicting-temporalities-vs-futurity"
+    "20260926-0043-solomon-multiple-conflicting-temporalities-vs-futurity",
+    "20261007-0016-dialogues-desire-assemblage-plane",
+    "20261007-0019-dialogues-revolution-not-future"
   ],
   "匮乏": [
     "20260620-1656-关于欲望的三个错误"
@@ -1989,12 +2099,15 @@
     "20260830-0027-Agamben幼年与历史改变时间革命",
     "20260830-0050-王琦陈琛分裂分析与欲望分子的不可计划性",
     "20260830-0065-Patton生成民主与解域政治",
-    "20260914-0002"
+    "20260914-0002",
+    "20261007-0019-dialogues-revolution-not-future",
+    "20261010-0016-contradiction-revolution-festival-革命的节日气氛"
   ],
   "政治": [
     "20260620-1657-欲望是革命性的而非乱伦的",
     "20260716-0046",
-    "20260830-0110-Hardt多样性到大众与动态民主"
+    "20260830-0110-Hardt多样性到大众与动态民主",
+    "20261010-0016-contradiction-revolution-festival-革命的节日气氛"
   ],
   "社会生产": [
     "20260620-1657-欲望是革命性的而非乱伦的"
@@ -2036,7 +2149,8 @@
     "20260620-1660-欲望机器生产无器官身体"
   ],
   "压抑": [
-    "20260620-1660-欲望机器生产无器官身体"
+    "20260620-1660-欲望机器生产无器官身体",
+    "20261010-0012-deleuze-fixation-repression-重复与压抑"
   ],
   "解码": [
     "20260620-1661-资本主义不是普遍真理",
@@ -2136,7 +2250,8 @@
     "20260622-0031-Hubbard论空间的本体论被回避在多元主义的对话中空间仍然是弱本体论概念",
     "20260623-1405-斯宾诺莎三种知识对应光的三种状态从阴影符",
     "20260627-0003",
-    "20260630-0002"
+    "20260630-0002",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "modernism": [
     "20260620-1687-后现代主义是现代主义内部危机在资本主义条"
@@ -2177,7 +2292,8 @@
     "20260620-1700-善",
     "20260622-0012-巴洛克结构主义Tomšič和Chiesa论拉康和德勒兹在拓扑学层面从缺乏转向虚空的汇合",
     "20260623-1615-折叠与制图学",
-    "20260805-0004"
+    "20260805-0004",
+    "20261007-0011-fold-baroque-music-modulation"
   ],
   "immanence": [
     "20260620-1700-善",
@@ -2201,7 +2317,11 @@
     "20260805-0004",
     "20260805-0005",
     "20260805-0006",
-    "20260806-0001"
+    "20260806-0001",
+    "20261007-0008-fold-world-realization",
+    "20261007-0009-fold-monad-body-levels",
+    "20261007-0010-fold-harmony-monads-communication",
+    "20261007-0013-fold-singularity-world-perspective"
   ],
   "fold": [
     "20260620-1701-单子的封闭性不是孤立的条件而是世界内含的",
@@ -2210,7 +2330,11 @@
     "20260805-0004",
     "20260805-0005",
     "20260805-0006",
-    "20260806-0001"
+    "20260806-0001",
+    "20261007-0008-fold-world-realization",
+    "20261007-0009-fold-monad-body-levels",
+    "20261007-0011-fold-baroque-music-modulation",
+    "20261007-0012-fold-possible-world-sieve"
   ],
   "science": [
     "20260620-1702-哲学艺术和科学作为互不隶属的旋律线的共振",
@@ -2276,7 +2400,8 @@
   "pedagogy": [
     "20260620-1716-学习不是在观念中模仿而是在异质物中遭遇符",
     "20260622-0027-Kullman论地理学中的概念制作概念不是语义单位而是思辨设计的多模态过程",
-    "20260622-0028-Kullman的三型批判形象非事件性不驯服性非共通性补全德勒兹概念理论忽视了概念的不确定安排"
+    "20260622-0028-Kullman的三型批判形象非事件性不驯服性非共通性补全德勒兹概念理论忽视了概念的不确定安排",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "concept": [
     "20260620-1720-哲学建构论的两种互补操作",
@@ -3914,7 +4039,8 @@
   ],
   "ethics": [
     "20260621-0503-Devji的伦理圣战论作为目的本身的圣战逾越了工具理性政治它对德勒兹式欲望政治学既是挑战也是边界测试",
-    "20260622-1740-实在界的爱作为打破主体秩序的力量而非情感"
+    "20260622-1740-实在界的爱作为打破主体秩序的力量而非情感",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "non-instrumental": [
     "20260621-0503-Devji的伦理圣战论作为目的本身的圣战逾越了工具理性政治它对德勒兹式欲望政治学既是挑战也是边界测试"
@@ -4075,11 +4201,15 @@
   ],
   "diagram": [
     "20260622-0008-地图-图像德勒兹美学中的地图不是静态再现而是虚拟与现实之间的波动装置",
-    "20260624-1035-谱系树的线把生命困在点中"
+    "20260624-1035-谱系树的线把生命困在点中",
+    "20261007-0004-bacon-diagram-preloaded-cliches",
+    "20261007-0005-bacon-code-vs-sensation",
+    "20261007-0007-bacon-haptic-vision"
   ],
   "information": [
     "20260622-0008-地图-图像德勒兹美学中的地图不是静态再现而是虚拟与现实之间的波动装置",
-    "20260622-0009-平板画面从幻觉之窗到信息桌面Steinberg的平板理论沟通了地图艺术与信息"
+    "20260622-0009-平板画面从幻觉之窗到信息桌面Steinberg的平板理论沟通了地图艺术与信息",
+    "20261007-0005-bacon-code-vs-sensation"
   ],
   "steinberg": [
     "20260622-0009-平板画面从幻觉之窗到信息桌面Steinberg的平板理论沟通了地图艺术与信息"
@@ -4199,7 +4329,8 @@
     "20260804-0005",
     "20260804-0006",
     "20260805-0001",
-    "20260814-0001"
+    "20260814-0001",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "postmodern": [
     "20260622-0016-詹金斯论证性差异能量通过Rococo凯恩斯主义繁荣和当代根茎经济的历史谱系被资本主义挪用或压抑"
@@ -4879,11 +5010,13 @@
     "20260624-0147-yang-complex-system-card5-false-as-true"
   ],
   "个体化": [
-    "20260622-0055-cisney-power-false-time-truth"
+    "20260622-0055-cisney-power-false-time-truth",
+    "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越"
   ],
   "艺术": [
     "20260622-0055-cisney-power-false-time-truth",
-    "20260830-0115-DG哲学科学与艺术对混沌"
+    "20260830-0115-DG哲学科学与艺术对混沌",
+    "20261007-0014-dialogues-becoming-between"
   ],
   "dibb": [
     "20260622-0056-dibb-brabin-deterrence-denial-warning"
@@ -4963,7 +5096,9 @@
     "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical",
     "20260623-0022-zizek-less-than-nothing-ingest",
     "20260624-0104-song-complexity-science-card1-definitions",
-    "20260830-0074-柄谷斯宾诺莎间隙与反总体性"
+    "20260830-0074-柄谷斯宾诺莎间隙与反总体性",
+    "20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点",
+    "20261010-0026-structure-genesis-idea-意义在结构事件中"
   ],
   "ingest": [
     "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical",
@@ -5010,7 +5145,8 @@
     "20260624-0142-xu-time-strategic-goal-card4-bridge",
     "20260624-0148-yang-complex-system-card6-productive-forces",
     "20260624-0152-ye-tang-case-selection-card3-advantages",
-    "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
+    "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom",
+    "20261010-0021-actualization-three-series-现实化与初级意识"
   ],
   "fang": [
     "20260622-0058-fang-guo-metaphor-scenario-nontraditional-security"
@@ -5231,7 +5367,8 @@
     "20260622-0071-smith-pure-form-time-three-syntheses",
     "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
     "20260624-0077-original-batch5-event-security-law",
-    "20260624-0107-song-complexity-science-card4-research-landscape"
+    "20260624-0107-song-complexity-science-card4-research-landscape",
+    "20261010-0033-imagination-vis-repetiva-想象力与差复的力量"
   ],
   "科林": [
     "20260622-0061-li-kelin-deleuze-time-ingest"
@@ -5279,7 +5416,8 @@
   ],
   "影像": [
     "20260622-0062-luzecky-cinema-time-bergson-film",
-    "20260923-0004-yang-kailin-image-material-real-time"
+    "20260923-0004-yang-kailin-image-material-real-time",
+    "20261007-0004-bacon-diagram-preloaded-cliches"
   ],
   "绵延": [
     "20260622-0062-luzecky-cinema-time-bergson-film",
@@ -5317,7 +5455,8 @@
   ],
   "回归": [
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
-    "20260716-0052"
+    "20260716-0052",
+    "20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点"
   ],
   "意志": [
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
@@ -5331,7 +5470,8 @@
     "20260830-0056-汪民安谱系学与话语排斥",
     "20260830-0111-Hardt力转伦理与永恒回归",
     "20260830-0148-德勒兹福柯尼采交汇与思想战争机器",
-    "20260926-0047-hom-will-to-time-positionality-imperial-timing"
+    "20260926-0047-hom-will-to-time-positionality-imperial-timing",
+    "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越"
   ],
   "重复": [
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
@@ -5341,7 +5481,14 @@
     "20260808-0003",
     "20260830-0034-齐泽克少于无伪原因与回溯性",
     "20260830-0130-德勒兹绵延潜能共存与心理重复",
-    "20260923-0003-yang-kailin-difference-return-dynamic-time-space"
+    "20260923-0003-yang-kailin-difference-return-dynamic-time-space",
+    "20261010-0009-deleuze-philosophy-beginning-repetition-哲学无开端",
+    "20261010-0010-deleuze-repetition-pathos-重复的痛苦",
+    "20261010-0012-deleuze-fixation-repression-重复与压抑",
+    "20261010-0015-time-form-three-moments-纯粹时间形式三环节",
+    "20261010-0020-repetition-power-singularity-重复的三种效果",
+    "20261010-0025-dice-chance-repetition-骰子",
+    "20261010-0033-imagination-vis-repetiva-想象力与差复的力量"
   ],
   "类型学": [
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche"
@@ -5419,7 +5566,8 @@
     "20260926-0025-ralph-international-society-as-os-provider-framework",
     "20260926-0026-ralph-pluralist-society-encircles-the-lack",
     "20260926-0040-solomon-retroactivity-button-ties-master-signifier",
-    "20260926-0041-solomon-temporal-decentering-future-anterior-lack"
+    "20260926-0041-solomon-temporal-decentering-future-anterior-lack",
+    "20261010-0013-deleuze-potential-object-partial-潜能对象"
   ],
   "驱力": [
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
@@ -5434,7 +5582,9 @@
     "20260830-0027-Agamben幼年与历史改变时间革命",
     "20260830-0083-Harman索卡尔行话与学科裂隙",
     "20260830-0088-Greyson濒死不可描述与文化隐喻",
-    "20260830-0119-Stivale克分子线与分子线"
+    "20260830-0119-Stivale克分子线与分子线",
+    "20261010-0010-deleuze-repetition-pathos-重复的痛苦",
+    "20261010-0011-deleuze-metalanguage-second-order-元语言与二阶词"
   ],
   "析取": [
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
@@ -5464,7 +5614,8 @@
   "可能性": [
     "20260622-0067-olkowski-time-real-chaos-complexity",
     "20260624-0077-original-batch5-event-security-law",
-    "20260721-0015-Zhao-Tingyang-negative-word-genesis-event"
+    "20260721-0015-Zhao-Tingyang-negative-word-genesis-event",
+    "20261010-0026-structure-genesis-idea-意义在结构事件中"
   ],
   "差异化": [
     "20260622-0067-olkowski-time-real-chaos-complexity"
@@ -5533,7 +5684,8 @@
   ],
   "否定性": [
     "20260622-0069-reid-war-machine-ingest",
-    "20260622-1526-块茎追求绝对异质性星丛坚持非同一性"
+    "20260622-1526-块茎追求绝对异质性星丛坚持非同一性",
+    "20261010-0005-hegel-contradiction-dead-end-黑格尔矛盾的死胡同"
   ],
   "毁灭": [
     "20260622-0069-reid-war-machine-ingest"
@@ -5791,7 +5943,8 @@
     "20260622-0076-wang-meng-time-space-world-politics-methodology"
   ],
   "辩证法": [
-    "20260622-0076-wang-meng-time-space-world-politics-methodology"
+    "20260622-0076-wang-meng-time-space-world-politics-methodology",
+    "20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽"
   ],
   "裂解": [
     "20260622-0076-wang-meng-time-space-world-politics-methodology"
@@ -5974,7 +6127,8 @@
     "20260716-0041",
     "20260727-0003",
     "20260804-0002",
-    "20260830-0040-温特量子心灵国家作为潜在实在"
+    "20260830-0040-温特量子心灵国家作为潜在实在",
+    "20261007-0018-dialogues-state-lines-black-hole"
   ],
   "zhu": [
     "20260622-0081-zhu-ning-copenhagen-school-security"
@@ -6013,7 +6167,10 @@
   ],
   "同一性": [
     "20260622-1517-块茎与星丛的共同点是反对同一性逻辑",
-    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition"
+    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition",
+    "20261010-0005-hegel-contradiction-dead-end-黑格尔矛盾的死胡同",
+    "20261010-0017-eternal-return-no-identity-永恒回归不预设同一",
+    "20261010-0029-plato-idol-simulacrum-柏拉图的两种影像"
   ],
   "关系哲学": [
     "20260622-1517-块茎与星丛的共同点是反对同一性逻辑"
@@ -6025,7 +6182,9 @@
     "20260716-0019",
     "20260726-0001",
     "20260830-0053-德勒兹战争机器逃逸线与平滑空间",
-    "20260830-0071-杨凯麟三层建构主义思想即影像"
+    "20260830-0071-杨凯麟三层建构主义思想即影像",
+    "20261007-0015-dialogues-flight-line-reality",
+    "20261007-0018-dialogues-state-lines-black-hole"
   ],
   "异质性": [
     "20260622-1520-块茎的核心机制是逃逸线",
@@ -6120,13 +6279,16 @@
     "20260830-0131-Braidotti游牧nomos与城邦",
     "20260923-0001-yang-kailin-becoming-molecular-between",
     "20260923-0003-yang-kailin-difference-return-dynamic-time-space",
-    "20260926-0030-amoureux-space-time-frames-thicken-each-other"
+    "20260926-0030-amoureux-space-time-frames-thicken-each-other",
+    "20261010-0020-repetition-power-singularity-重复的三种效果",
+    "20261010-0022-dynamics-differential-rhythm-微分节奏"
   ],
   "概念系": [
     "20260622-1540-德勒兹的空间概念是一个概念系而非单一概念"
   ],
   "分类": [
-    "20260622-1540-德勒兹的空间概念是一个概念系而非单一概念"
+    "20260622-1540-德勒兹的空间概念是一个概念系而非单一概念",
+    "20261010-0035-genus-species-logos-属差与两种逻各斯"
   ],
   "哲学方法": [
     "20260622-1540-德勒兹的空间概念是一个概念系而非单一概念"
@@ -6195,7 +6357,11 @@
     "20260830-0049-德勒兹荒岛少数生成与大脑微生物学",
     "20260830-0121-Stivale微观政治与事件响应",
     "20260830-0146-德勒兹少数与多数的类型生成",
-    "20260923-0001-yang-kailin-becoming-molecular-between"
+    "20260923-0001-yang-kailin-becoming-molecular-between",
+    "20261007-0014-dialogues-becoming-between",
+    "20261007-0015-dialogues-flight-line-reality",
+    "20261007-0017-dialogues-semiotic-regimes-delirium",
+    "20261007-0019-dialogues-revolution-not-future"
   ],
   "穷尽": [
     "20260622-1555-贝克特的穷尽策略将空间从事件场所还原为纯空间"
@@ -6539,7 +6705,8 @@
   "Spinoza": [
     "20260622-1710-斯宾诺莎的抗力与欲望作为内在力量而非匮乏",
     "20260623-1405-斯宾诺莎三种知识对应光的三种状态从阴影符",
-    "20260623-1612-无器官身体与面貌性"
+    "20260623-1612-无器官身体与面貌性",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "Negri": [
     "20260622-1710-斯宾诺莎的抗力与欲望作为内在力量而非匮乏"
@@ -6933,10 +7100,13 @@
     "20260623-1411-民主只有立足于自身的不可能性才能真正运作"
   ],
   "possible-world": [
-    "20260623-1412-别人不是另一个主体而是一个可能世界"
+    "20260623-1412-别人不是另一个主体而是一个可能世界",
+    "20261007-0012-fold-possible-world-sieve",
+    "20261007-0013-fold-singularity-world-perspective"
   ],
   "perception": [
-    "20260623-1412-别人不是另一个主体而是一个可能世界"
+    "20260623-1412-别人不是另一个主体而是一个可能世界",
+    "20261007-0013-fold-singularity-world-perspective"
   ],
   "schizophrenia": [
     "20260623-1413-精神分裂作为过程而不是疾病状态下临床诊断",
@@ -7102,7 +7272,12 @@
     "20260623-1804-游牧单子与自创生折叠",
     "20260805-0004",
     "20260805-0005",
-    "20260806-0001"
+    "20260806-0001",
+    "20261007-0008-fold-world-realization",
+    "20261007-0009-fold-monad-body-levels",
+    "20261007-0010-fold-harmony-monads-communication",
+    "20261007-0012-fold-possible-world-sieve",
+    "20261007-0013-fold-singularity-world-perspective"
   ],
   "expressionism": [
     "20260623-1615-折叠与制图学"
@@ -7151,7 +7326,8 @@
     "20260804-0006"
   ],
   "plateau": [
-    "20260623-1619-高原与卵"
+    "20260623-1619-高原与卵",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "egg": [
     "20260623-1619-高原与卵"
@@ -8412,7 +8588,8 @@
     "20260624-0034-liu-ge-extended-immediate-deterrence-card2-motivations"
   ],
   "动力": [
-    "20260624-0034-liu-ge-extended-immediate-deterrence-card2-motivations"
+    "20260624-0034-liu-ge-extended-immediate-deterrence-card2-motivations",
+    "20261010-0022-dynamics-differential-rhythm-微分节奏"
   ],
   "弱国": [
     "20260624-0034-liu-ge-extended-immediate-deterrence-card2-motivations"
@@ -8569,7 +8746,9 @@
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann",
     "20260624-0046-liu-qu-manifold-evolution-card4-weyl",
     "20260624-0047-liu-qu-manifold-evolution-card5-branches",
-    "20260624-0048-liu-qu-manifold-evolution-card6-bridge"
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
+    "20261010-0007-deleuze-multiplicity-variety-繁复体",
+    "20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何"
   ],
   "量块": [
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann"
@@ -8585,7 +8764,8 @@
   ],
   "几何": [
     "20260624-0044-liu-qu-manifold-evolution-card2-riemann",
-    "20260624-0047-liu-qu-manifold-evolution-card5-branches"
+    "20260624-0047-liu-qu-manifold-evolution-card5-branches",
+    "20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何"
   ],
   "公理": [
     "20260624-0045-liu-qu-manifold-evolution-card3-hilbert",
@@ -8620,7 +8800,8 @@
     "20260624-0046-liu-qu-manifold-evolution-card4-weyl"
   ],
   "微分": [
-    "20260624-0047-liu-qu-manifold-evolution-card5-branches"
+    "20260624-0047-liu-qu-manifold-evolution-card5-branches",
+    "20261010-0024-differentiation-differentiation-微分与分化"
   ],
   "辛几何": [
     "20260624-0047-liu-qu-manifold-evolution-card5-branches"
@@ -8913,7 +9094,9 @@
     "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation",
     "20260716-0008",
     "20260716-0029",
-    "20260716-0053"
+    "20260716-0053",
+    "20261010-0010-deleuze-repetition-pathos-重复的痛苦",
+    "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前"
   ],
   "可见": [
     "20260624-0064-original-batch1-carrier-paradox"
@@ -9006,7 +9189,8 @@
     "20260624-0070-original-batch2-geoposition-security-perception"
   ],
   "本体": [
-    "20260624-0071-original-batch2-ontological-security"
+    "20260624-0071-original-batch2-ontological-security",
+    "20261010-0002-deleuze-time-arrow-difference-noumenon-差异是最接近现象的本体"
   ],
   "Steele": [
     "20260624-0071-original-batch2-ontological-security",
@@ -9440,7 +9624,9 @@
     "20260624-0104-song-complexity-science-card1-definitions"
   ],
   "外延": [
-    "20260624-0104-song-complexity-science-card1-definitions"
+    "20260624-0104-song-complexity-science-card1-definitions",
+    "20261010-0001-deleuze-entropy-extension-内含的外展",
+    "20261010-0018-intensity-extensive-cancel-强度在广延中被取消"
   ],
   "非线性": [
     "20260624-0105-song-complexity-science-card2-complex-systems",
@@ -10107,7 +10293,8 @@
     "20260624-1010-远足与运输两种本体论层面的运动方式",
     "20260624-1020-线绳革命先于农业革命",
     "20260624-1035-谱系树的线把生命困在点中",
-    "20260624-1040-向前生活不是向上连接"
+    "20260624-1040-向前生活不是向上连接",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "thread": [
     "20260624-1005-线缕与痕迹的转换生成表面",
@@ -10152,13 +10339,15 @@
     "20260624-1020-线绳革命先于农业革命"
   ],
   "writing": [
-    "20260624-1025-纸页失去声音书写从手势痕迹到装配"
+    "20260624-1025-纸页失去声音书写从手势痕迹到装配",
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
   ],
   "orality": [
     "20260624-1025-纸页失去声音书写从手势痕迹到装配"
   ],
   "music": [
-    "20260624-1025-纸页失去声音书写从手势痕迹到装配"
+    "20260624-1025-纸页失去声音书写从手势痕迹到装配",
+    "20261007-0011-fold-baroque-music-modulation"
   ],
   "gesture": [
     "20260624-1025-纸页失去声音书写从手势痕迹到装配"
@@ -11018,7 +11207,8 @@
     "20260716-0004",
     "20260727-0002",
     "20260727-0003",
-    "20260727-0005"
+    "20260727-0005",
+    "20261007-0015-dialogues-flight-line-reality"
   ],
   "相互威慑": [
     "20260701-0003-gray-geography-grand-strategy"
@@ -11036,7 +11226,9 @@
     "20260701-0004-boggs-us-grand-strategy-contradictions"
   ],
   "矛盾": [
-    "20260701-0004-boggs-us-grand-strategy-contradictions"
+    "20260701-0004-boggs-us-grand-strategy-contradictions",
+    "20261010-0005-hegel-contradiction-dead-end-黑格尔矛盾的死胡同",
+    "20261010-0016-contradiction-revolution-festival-革命的节日气氛"
   ],
   "Boggs": [
     "20260701-0004-boggs-us-grand-strategy-contradictions"
@@ -11500,7 +11692,8 @@
   "意识": [
     "20260701-0036-wang-huaping-consciousness-mortal-computation",
     "20260830-0031-Greyson濒死体验过滤模型与时间感",
-    "20260830-0100-德勒兹意识光与影像运动二元克服"
+    "20260830-0100-德勒兹意识光与影像运动二元克服",
+    "20261010-0021-actualization-three-series-现实化与初级意识"
   ],
   "可朽计算": [
     "20260701-0036-wang-huaping-consciousness-mortal-computation",
@@ -11750,7 +11943,8 @@
     "20260923-0005-yang-kailin-difference-of-natures-not-dualism",
     "20260923-0006-yang-kailin-crystal-image-three-senses",
     "20260923-0007-yang-kailin-virtual-actual-dynamic-link",
-    "20260923-0009-yang-kailin-crystal-self-observer-action"
+    "20260923-0009-yang-kailin-crystal-self-observer-action",
+    "20261007-0020-dialogues-crystal-short-circuit"
   ],
   "生成式AI": [
     "20260706-0001"
@@ -11901,7 +12095,8 @@
   ],
   "抽象机器": [
     "20260709-0003",
-    "20260709-0004"
+    "20260709-0004",
+    "20261007-0018-dialogues-state-lines-black-hole"
   ],
   "计算机模拟": [
     "20260709-0004"
@@ -12074,7 +12269,8 @@
     "20260830-0012-沈志中对象a多余绝爽爱情",
     "20260830-0029-芬克拉康式主体分离与对象a",
     "20260830-0052-芬克阉割经济学剩余价值与享乐流通",
-    "20260830-0055-沈志中女人对象a与性关系不可能"
+    "20260830-0055-沈志中女人对象a与性关系不可能",
+    "20261010-0013-deleuze-potential-object-partial-潜能对象"
   ],
   "欲望原因": [
     "20260713-0002"
@@ -12358,7 +12554,8 @@
   ],
   "实验": [
     "20260715-0003",
-    "20260715-0010"
+    "20260715-0010",
+    "20261010-0036-experiment-closed-environment-实验与封闭环境"
   ],
   "系统信任": [
     "20260715-0004"
@@ -12589,7 +12786,10 @@
     "20260830-0048-柄谷规则黑暗一跃与综观",
     "20260830-0111-Hardt力转伦理与永恒回归",
     "20260830-0144-德勒兹永恒回归析取综合与强度",
-    "20260923-0003-yang-kailin-difference-return-dynamic-time-space"
+    "20260923-0003-yang-kailin-difference-return-dynamic-time-space",
+    "20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点",
+    "20261010-0017-eternal-return-no-identity-永恒回归不预设同一",
+    "20261010-0030-eternal-return-multiplicity-肯定复多而非服从于一"
   ],
   "美国陆军": [
     "20260715-0025"
@@ -12632,7 +12832,8 @@
   "意义": [
     "20260716-0002",
     "20260716-0008",
-    "20260727-0002"
+    "20260727-0002",
+    "20261010-0026-structure-genesis-idea-意义在结构事件中"
   ],
   "无意义": [
     "20260716-0002",
@@ -12731,7 +12932,8 @@
     "20260727-0006",
     "20260804-0001",
     "20260827-0001",
-    "20260830-0071-杨凯麟三层建构主义思想即影像"
+    "20260830-0071-杨凯麟三层建构主义思想即影像",
+    "20261007-0016-dialogues-desire-assemblage-plane"
   ],
   "抵抗": [
     "20260716-0009",
@@ -12739,7 +12941,9 @@
     "20260830-0124-Harvey福柯身体空间与异位"
   ],
   "触觉": [
-    "20260716-0010"
+    "20260716-0010",
+    "20261007-0002-bacon-force-painting-music",
+    "20261007-0007-bacon-haptic-vision"
   ],
   "非物体性": [
     "20260716-0010"
@@ -12754,13 +12958,51 @@
     "20260716-0011"
   ],
   "结构": [
-    "20260716-0012"
+    "20260716-0012",
+    "20261010-0026-structure-genesis-idea-意义在结构事件中"
   ],
   "差异与重复": [
     "20260716-0012",
     "20260716-0024",
     "20260808-0001",
-    "20260808-0003"
+    "20260808-0003",
+    "20261010-0001-deleuze-entropy-extension-内含的外展",
+    "20261010-0002-deleuze-time-arrow-difference-noumenon-差异是最接近现象的本体",
+    "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越",
+    "20261010-0004-darwin-individual-difference-个体差异的问题",
+    "20261010-0005-hegel-contradiction-dead-end-黑格尔矛盾的死胡同",
+    "20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽",
+    "20261010-0007-deleuze-multiplicity-variety-繁复体",
+    "20261010-0008-deleuze-learning-knowledge-学习与知识",
+    "20261010-0009-deleuze-philosophy-beginning-repetition-哲学无开端",
+    "20261010-0010-deleuze-repetition-pathos-重复的痛苦",
+    "20261010-0011-deleuze-metalanguage-second-order-元语言与二阶词",
+    "20261010-0012-deleuze-fixation-repression-重复与压抑",
+    "20261010-0013-deleuze-potential-object-partial-潜能对象",
+    "20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点",
+    "20261010-0015-time-form-three-moments-纯粹时间形式三环节",
+    "20261010-0016-contradiction-revolution-festival-革命的节日气氛",
+    "20261010-0017-eternal-return-no-identity-永恒回归不预设同一",
+    "20261010-0018-intensity-extensive-cancel-强度在广延中被取消",
+    "20261010-0019-conscience-time-synthesis-良知与第一综合",
+    "20261010-0020-repetition-power-singularity-重复的三种效果",
+    "20261010-0021-actualization-three-series-现实化与初级意识",
+    "20261010-0022-dynamics-differential-rhythm-微分节奏",
+    "20261010-0023-potential-not-opposed-actual-潜能不对立于实在",
+    "20261010-0024-differentiation-differentiation-微分与分化",
+    "20261010-0025-dice-chance-repetition-骰子",
+    "20261010-0026-structure-genesis-idea-意义在结构事件中",
+    "20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何",
+    "20261010-0028-interrogative-answer-as-instance-回答是解决实例",
+    "20261010-0029-plato-idol-simulacrum-柏拉图的两种影像",
+    "20261010-0030-eternal-return-multiplicity-肯定复多而非服从于一",
+    "20261010-0031-third-synthesis-effect-第三综合的爱欲效果",
+    "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前",
+    "20261010-0033-imagination-vis-repetiva-想象力与差复的力量",
+    "20261010-0034-here-now-differential-reality-此地此时的微分实在性",
+    "20261010-0035-genus-species-logos-属差与两种逻各斯",
+    "20261010-0036-experiment-closed-environment-实验与封闭环境",
+    "20261010-0037-science-fiction-knowledge-frontier-知识前沿"
   ],
   "政治本体论": [
     "20260716-0014"
@@ -12779,7 +13021,8 @@
     "20260830-0006-柄谷精神分析对话与移情",
     "20260830-0051-柄谷苏格拉底可证伪与弗洛伊德对话",
     "20260830-0076-柄谷移情摩西与狩猎农耕神经症",
-    "20260926-0014-cash-misrecognition-decentered-subject"
+    "20260926-0014-cash-misrecognition-decentered-subject",
+    "20261010-0012-deleuze-fixation-repression-重复与压抑"
   ],
   "岛": [
     "20260716-0017"
@@ -12941,7 +13184,8 @@
     "20260716-0038"
   ],
   "想象力": [
-    "20260716-0038"
+    "20260716-0038",
+    "20261010-0033-imagination-vis-repetiva-想象力与差复的力量"
   ],
   "世界化": [
     "20260716-0039"
@@ -13056,7 +13300,8 @@
     "20260716-0050"
   ],
   "良知": [
-    "20260716-0051"
+    "20260716-0051",
+    "20261010-0019-conscience-time-synthesis-良知与第一综合"
   ],
   "小说": [
     "20260716-0051"
@@ -13100,7 +13345,8 @@
     "20260716-0055"
   ],
   "自然选择": [
-    "20260716-0055"
+    "20260716-0055",
+    "20261010-0004-darwin-individual-difference-个体差异的问题"
   ],
   "围棋": [
     "20260716-0055"
@@ -13514,7 +13760,8 @@
     "20260727-0007",
     "20260827-0001",
     "20260830-0037-Badiou德勒兹单义性与大写的一",
-    "20260830-0144-德勒兹永恒回归析取综合与强度"
+    "20260830-0144-德勒兹永恒回归析取综合与强度",
+    "20261010-0035-genus-species-logos-属差与两种逻各斯"
   ],
   "descola": [
     "20260727-0006",
@@ -13528,7 +13775,8 @@
     "20260727-0006",
     "20260830-0034-齐泽克少于无伪原因与回溯性",
     "20260830-0085-Meillassoux休谟问题与巧合偶然性",
-    "20260830-0112-Hardt差异为存在奠基与内在差异"
+    "20260830-0112-Hardt差异为存在奠基与内在差异",
+    "20261010-0005-hegel-contradiction-dead-end-黑格尔矛盾的死胡同"
   ],
   "地质道德": [
     "20260727-0006"
@@ -13631,7 +13879,9 @@
     "20260805-0009-capital-time-collective-time-bridge"
   ],
   "和谐": [
-    "20260806-0001"
+    "20260806-0001",
+    "20261007-0010-fold-harmony-monads-communication",
+    "20261007-0011-fold-baroque-music-modulation"
   ],
   "思想形象": [
     "20260806-0001"
@@ -13792,7 +14042,9 @@
     "20260830-0011-沈志中四话语与大学话语"
   ],
   "知识": [
-    "20260830-0011-沈志中四话语与大学话语"
+    "20260830-0011-沈志中四话语与大学话语",
+    "20261010-0008-deleuze-learning-knowledge-学习与知识",
+    "20261010-0037-science-fiction-knowledge-frontier-知识前沿"
   ],
   "主人能指": [
     "20260830-0011-沈志中四话语与大学话语",
@@ -13826,7 +14078,8 @@
     "20260830-0013-Kusters疯癫时间与空间",
     "20260830-0030-Sokolowski现象学三大结构与意向性",
     "20260830-0033-Bachelard空间诗学家宅与压缩时间",
-    "20260830-0100-德勒兹意识光与影像运动二元克服"
+    "20260830-0100-德勒兹意识光与影像运动二元克服",
+    "20261010-0034-here-now-differential-reality-此地此时的微分实在性"
   ],
   "去思考化": [
     "20260830-0014-Kusters去思考化去语言化神圣性"
@@ -13887,7 +14140,8 @@
   "晶体": [
     "20260830-0021-德勒兹时间影像晶体与直接时间",
     "20260923-0006-yang-kailin-crystal-image-three-senses",
-    "20260923-0009-yang-kailin-crystal-self-observer-action"
+    "20260923-0009-yang-kailin-crystal-self-observer-action",
+    "20261007-0020-dialogues-crystal-short-circuit"
   ],
   "直接时间": [
     "20260830-0021-德勒兹时间影像晶体与直接时间",
@@ -14059,7 +14313,10 @@
     "20260830-0089-Greyson人生回溯与视角转换",
     "20260830-0129-德勒兹绵延记忆生命冲动三概念",
     "20260923-0007-yang-kailin-virtual-actual-dynamic-link",
-    "20260926-0037-mcintosh-retroactivity-of-violence-denaturalising-war"
+    "20260926-0037-mcintosh-retroactivity-of-violence-denaturalising-war",
+    "20261007-0003-bacon-figure-sensation-not-narrative",
+    "20261007-0020-dialogues-crystal-short-circuit",
+    "20261010-0031-third-synthesis-effect-第三综合的爱欲效果"
   ],
   "伪原因": [
     "20260830-0034-齐泽克少于无伪原因与回溯性"
@@ -14196,11 +14453,13 @@
   ],
   "潜能": [
     "20260830-0046-德勒兹柏格森主义潜能与可能",
-    "20260830-0109-Hardt潜能实现与可能真实"
+    "20260830-0109-Hardt潜能实现与可能真实",
+    "20261010-0023-potential-not-opposed-actual-潜能不对立于实在"
   ],
   "可能": [
     "20260830-0046-德勒兹柏格森主义潜能与可能",
-    "20260830-0109-Hardt潜能实现与可能真实"
+    "20260830-0109-Hardt潜能实现与可能真实",
+    "20261010-0023-potential-not-opposed-actual-潜能不对立于实在"
   ],
   "本性差异": [
     "20260830-0046-德勒兹柏格森主义潜能与可能"
@@ -14213,7 +14472,12 @@
     "20260923-0007-yang-kailin-virtual-actual-dynamic-link"
   ],
   "问题": [
-    "20260830-0047-德勒兹柏格森纯粹过去与直观问题论"
+    "20260830-0047-德勒兹柏格森纯粹过去与直观问题论",
+    "20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽",
+    "20261010-0008-deleuze-learning-knowledge-学习与知识",
+    "20261010-0024-differentiation-differentiation-微分与分化",
+    "20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何",
+    "20261010-0028-interrogative-answer-as-instance-回答是解决实例"
   ],
   "黑暗一跃": [
     "20260830-0048-柄谷规则黑暗一跃与综观"
@@ -14256,7 +14520,9 @@
     "20260830-0051-柄谷苏格拉底可证伪与弗洛伊德对话"
   ],
   "柏拉图": [
-    "20260830-0051-柄谷苏格拉底可证伪与弗洛伊德对话"
+    "20260830-0051-柄谷苏格拉底可证伪与弗洛伊德对话",
+    "20261010-0009-deleuze-philosophy-beginning-repetition-哲学无开端",
+    "20261010-0029-plato-idol-simulacrum-柏拉图的两种影像"
   ],
   "独白": [
     "20260830-0051-柄谷苏格拉底可证伪与弗洛伊德对话"
@@ -14442,7 +14708,11 @@
     "20260923-0005-yang-kailin-difference-of-natures-not-dualism",
     "20260923-0006-yang-kailin-crystal-image-three-senses",
     "20260923-0007-yang-kailin-virtual-actual-dynamic-link",
-    "20260923-0009-yang-kailin-crystal-self-observer-action"
+    "20260923-0009-yang-kailin-crystal-self-observer-action",
+    "20261007-0020-dialogues-crystal-short-circuit",
+    "20261010-0021-actualization-three-series-现实化与初级意识",
+    "20261010-0023-potential-not-opposed-actual-潜能不对立于实在",
+    "20261010-0024-differentiation-differentiation-微分与分化"
   ],
   "思想条件": [
     "20260830-0072-杨凯麟虚拟实际化三义与分裂分析"
@@ -14856,7 +15126,8 @@
     "20260830-0114-DG事件纯粹储备与间空"
   ],
   "潜在": [
-    "20260830-0114-DG事件纯粹储备与间空"
+    "20260830-0114-DG事件纯粹储备与间空",
+    "20261007-0020-dialogues-crystal-short-circuit"
   ],
   "地层学时间": [
     "20260830-0116-DG哲学时间与地层学叠置"
@@ -14928,7 +15199,14 @@
     "20260830-0122-Stivale生成女人与懂得去爱"
   ],
   "感觉逻辑": [
-    "20260830-0123-Stivale情动与感觉逻辑"
+    "20260830-0123-Stivale情动与感觉逻辑",
+    "20261007-0001-bacon-sensation-bwo-intensity",
+    "20261007-0002-bacon-force-painting-music",
+    "20261007-0003-bacon-figure-sensation-not-narrative",
+    "20261007-0004-bacon-diagram-preloaded-cliches",
+    "20261007-0005-bacon-code-vs-sensation",
+    "20261007-0006-bacon-color-time",
+    "20261007-0007-bacon-haptic-vision"
   ],
   "内在平面": [
     "20260830-0123-Stivale情动与感觉逻辑"
@@ -14959,7 +15237,8 @@
     "20260830-0126-Harvey时空客观性须经物质过程"
   ],
   "物理学": [
-    "20260830-0126-Harvey时空客观性须经物质过程"
+    "20260830-0126-Harvey时空客观性须经物质过程",
+    "20261010-0036-experiment-closed-environment-实验与封闭环境"
   ],
   "杰姆逊": [
     "20260830-0127-Harvey异化被分裂取代与元叙事"
@@ -15089,7 +15368,8 @@
     "20260830-0143-德勒兹反常与去主体化"
   ],
   "他人": [
-    "20260830-0143-德勒兹反常与去主体化"
+    "20260830-0143-德勒兹反常与去主体化",
+    "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越"
   ],
   "萨德": [
     "20260830-0143-德勒兹反常与去主体化"
@@ -15098,7 +15378,10 @@
     "20260830-0144-德勒兹永恒回归析取综合与强度"
   ],
   "奇异性": [
-    "20260830-0144-德勒兹永恒回归析取综合与强度"
+    "20260830-0144-德勒兹永恒回归析取综合与强度",
+    "20261010-0020-repetition-power-singularity-重复的三种效果",
+    "20261010-0021-actualization-three-series-现实化与初级意识",
+    "20261010-0034-here-now-differential-reality-此地此时的微分实在性"
   ],
   "伊壁鸠鲁": [
     "20260830-0145-德勒兹伊壁鸠鲁原子偏斜与类比"
@@ -15952,6 +16235,210 @@
   ],
   "教学": [
     "20260928-0007-eun-horizontal-pedagogy-open-knowledge"
+  ],
+  "熵": [
+    "20261010-0001-deleuze-entropy-extension-内含的外展"
+  ],
+  "热寂": [
+    "20261010-0001-deleuze-entropy-extension-内含的外展"
+  ],
+  "时间之矢": [
+    "20261010-0002-deleuze-time-arrow-difference-noumenon-差异是最接近现象的本体"
+  ],
+  "热力学": [
+    "20261010-0002-deleuze-time-arrow-difference-noumenon-差异是最接近现象的本体"
+  ],
+  "包含中心": [
+    "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越"
+  ],
+  "达尔文": [
+    "20261010-0004-darwin-individual-difference-个体差异的问题"
+  ],
+  "个体差异": [
+    "20261010-0004-darwin-individual-difference-个体差异的问题"
+  ],
+  "反讽": [
+    "20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽"
+  ],
+  "理念": [
+    "20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽",
+    "20261010-0007-deleuze-multiplicity-variety-繁复体",
+    "20261010-0008-deleuze-learning-knowledge-学习与知识",
+    "20261010-0024-differentiation-differentiation-微分与分化",
+    "20261010-0026-structure-genesis-idea-意义在结构事件中"
+  ],
+  "繁复体": [
+    "20261010-0007-deleuze-multiplicity-variety-繁复体"
+  ],
+  "多样体": [
+    "20261010-0007-deleuze-multiplicity-variety-繁复体"
+  ],
+  "社会理念": [
+    "20261010-0007-deleuze-multiplicity-variety-繁复体"
+  ],
+  "学习": [
+    "20261010-0008-deleuze-learning-knowledge-学习与知识"
+  ],
+  "哲学开端": [
+    "20261010-0009-deleuze-philosophy-beginning-repetition-哲学无开端"
+  ],
+  "拟像": [
+    "20261010-0009-deleuze-philosophy-beginning-repetition-哲学无开端",
+    "20261010-0029-plato-idol-simulacrum-柏拉图的两种影像"
+  ],
+  "痛苦": [
+    "20261010-0010-deleuze-repetition-pathos-重复的痛苦"
+  ],
+  "病理学": [
+    "20261010-0010-deleuze-repetition-pathos-重复的痛苦"
+  ],
+  "元语言": [
+    "20261010-0011-deleuze-metalanguage-second-order-元语言与二阶词"
+  ],
+  "二阶词语": [
+    "20261010-0011-deleuze-metalanguage-second-order-元语言与二阶词"
+  ],
+  "诗意": [
+    "20261010-0011-deleuze-metalanguage-second-order-元语言与二阶词"
+  ],
+  "固着": [
+    "20261010-0012-deleuze-fixation-repression-重复与压抑"
+  ],
+  "潜能对象": [
+    "20261010-0013-deleuze-potential-object-partial-潜能对象"
+  ],
+  "部分对象": [
+    "20261010-0013-deleuze-potential-object-partial-潜能对象"
+  ],
+  "被动综合": [
+    "20261010-0013-deleuze-potential-object-partial-潜能对象"
+  ],
+  "尖点": [
+    "20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点"
+  ],
+  "先验形式": [
+    "20261010-0015-time-form-three-moments-纯粹时间形式三环节"
+  ],
+  "系列": [
+    "20261010-0015-time-form-three-moments-纯粹时间形式三环节"
+  ],
+  "肯定": [
+    "20261010-0016-contradiction-revolution-festival-革命的节日气氛"
+  ],
+  "量": [
+    "20261010-0018-intensity-extensive-cancel-强度在广延中被取消"
+  ],
+  "均等化": [
+    "20261010-0018-intensity-extensive-cancel-强度在广延中被取消"
+  ],
+  "习惯": [
+    "20261010-0019-conscience-time-synthesis-良知与第一综合"
+  ],
+  "时间综合": [
+    "20261010-0019-conscience-time-synthesis-良知与第一综合"
+  ],
+  "Boltzmann": [
+    "20261010-0019-conscience-time-synthesis-良知与第一综合"
+  ],
+  "或然性": [
+    "20261010-0019-conscience-time-synthesis-良知与第一综合"
+  ],
+  "微分节奏": [
+    "20261010-0022-dynamics-differential-rhythm-微分节奏"
+  ],
+  "发育": [
+    "20261010-0022-dynamics-differential-rhythm-微分节奏"
+  ],
+  "实在化": [
+    "20261010-0023-potential-not-opposed-actual-潜能不对立于实在"
+  ],
+  "分化": [
+    "20261010-0024-differentiation-differentiation-微分与分化"
+  ],
+  "偶然": [
+    "20261010-0025-dice-chance-repetition-骰子",
+    "20261010-0030-eternal-return-multiplicity-肯定复多而非服从于一"
+  ],
+  "骰子": [
+    "20261010-0025-dice-chance-repetition-骰子"
+  ],
+  "潜能性": [
+    "20261010-0026-structure-genesis-idea-意义在结构事件中"
+  ],
+  "哥白尼革命": [
+    "20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何"
+  ],
+  "连续与间断": [
+    "20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何"
+  ],
+  "回答": [
+    "20261010-0028-interrogative-answer-as-instance-回答是解决实例"
+  ],
+  "疑问": [
+    "20261010-0028-interrogative-answer-as-instance-回答是解决实例"
+  ],
+  "解决": [
+    "20261010-0028-interrogative-answer-as-instance-回答是解决实例"
+  ],
+  "原型": [
+    "20261010-0029-plato-idol-simulacrum-柏拉图的两种影像"
+  ],
+  "复多": [
+    "20261010-0030-eternal-return-multiplicity-肯定复多而非服从于一"
+  ],
+  "必然": [
+    "20261010-0030-eternal-return-multiplicity-肯定复多而非服从于一"
+  ],
+  "第三综合": [
+    "20261010-0031-third-synthesis-effect-第三综合的爱欲效果"
+  ],
+  "幻相": [
+    "20261010-0031-third-synthesis-effect-第三综合的爱欲效果"
+  ],
+  "不等者": [
+    "20261010-0031-third-synthesis-effect-第三综合的爱欲效果"
+  ],
+  "第一综合": [
+    "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前"
+  ],
+  "活生生的当前": [
+    "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前"
+  ],
+  "差复": [
+    "20261010-0033-imagination-vis-repetiva-想象力与差复的力量"
+  ],
+  "此地此时": [
+    "20261010-0034-here-now-differential-reality-此地此时的微分实在性"
+  ],
+  "属种": [
+    "20261010-0035-genus-species-logos-属差与两种逻各斯"
+  ],
+  "属差": [
+    "20261010-0035-genus-species-logos-属差与两种逻各斯"
+  ],
+  "逻各斯": [
+    "20261010-0035-genus-species-logos-属差与两种逻各斯"
+  ],
+  "科学方法": [
+    "20261010-0036-experiment-closed-environment-实验与封闭环境"
+  ],
+  "封闭环境": [
+    "20261010-0036-experiment-closed-environment-实验与封闭环境"
+  ],
+  "数学": [
+    "20261010-0036-experiment-closed-environment-实验与封闭环境"
+  ],
+  "无知": [
+    "20261010-0037-science-fiction-knowledge-frontier-知识前沿"
+  ],
+  "书写": [
+    "20261010-0037-science-fiction-knowledge-frontier-知识前沿"
+  ],
+  "前沿": [
+    "20261010-0037-science-fiction-knowledge-frontier-知识前沿"
+  ],
+  "科幻": [
+    "20261010-0037-science-fiction-knowledge-frontier-知识前沿"
   ],
   "博士论文框架诊断": [
     "博士论文框架诊断-三个候选方向"
