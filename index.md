@@ -127,26 +127,26 @@
 <!-- hubs:start 由园丁每周重算：按入度取 top 20 -->
 | 入度 | 卡片 |
 |---|---|
-| 38 | [[20260622-0060-hu-bo-chen-grey-zone-strategy|胡波 (2024) + 陈相秒 (2024) ——"…]] |
-| 37 | [[20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架|虚空、实在界、内在性平面：一个三层本体论的辨析框架]] |
-| 36 | [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|世界秩序的最终本体论支撑是"虚空"——Zevnik以…]] |
+| 38 | [[20260622-0060-hu-bo-chen-grey-zone-strategy|胡波 (2024) + 陈相秒 (2024)]] |
+| 37 | [[20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架|虚空、实在界、内在性平面]] |
+| 36 | [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|世界秩序的最终本体论支撑是"虚空"]] |
 | 34 | [[20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性|Deleuze 的哲学工程与后现代反形而上学立场的根…]] |
 | 34 | [[20260622-0068-qin-tan-geostrategy-ingest|qin-tan-geostrategy-ingest]] |
-| 32 | [[20260622-0076-wang-meng-time-space-world-politics-methodology|王存刚 & 孟凯强 (2025) ——时空之维与世界…]] |
-| 32 | [[20260622-0056-dibb-brabin-deterrence-denial-warning|Dibb & Brabin-Smith (2021)…]] |
-| 28 | [[20260620-1544-德勒兹的两种时间模式|德勒兹的两种时间模式：柯罗诺斯的现在厚度与艾翁的事件…]] |
-| 28 | [[20260622-0081-zhu-ning-copenhagen-school-security|朱宁 (2003) ——安全与非安全化：哥本哈根学派…]] |
+| 32 | [[20260622-0076-wang-meng-time-space-world-politics-methodology|王存刚 & 孟凯强 (2025)]] |
+| 32 | [[20260622-0056-dibb-brabin-deterrence-denial-warning|Dibb & Brabin-Smith (2021)]] |
+| 28 | [[20260620-1544-德勒兹的两种时间模式|德勒兹的两种时间模式]] |
+| 28 | [[20260622-0081-zhu-ning-copenhagen-school-security|朱宁 (2003)]] |
 | 27 | [[20260622-0071-smith-pure-form-time-three-syntheses|smith-pure-form-time-three…]] |
 | 26 | [[20260623-0018-saldanha-space-after-deleuze-ingest|saldanha-space-after-deleu…]] |
-| 24 | [[20260622-0058-fang-guo-metaphor-scenario-nontraditional-security|方菁 & 郭继荣 (2021) ——非传统安全研究的…]] |
-| 22 | [[20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造|"分层"是同质化冻结，"一致性"是异质化创造——DG…]] |
-| 22 | [[20260622-0037-陆海复合型强国的战略选择不是地理宿命秦立志谭皓宇的地缘位势安全感知分析框架|陆海复合型强国的战略选择不是地理宿命——秦立志、谭皓…]] |
-| 22 | [[20260622-0080-zhang-security-sense-neglected-dimension|张清敏 (2024) ——安全感：国家安全研究中一个…]] |
-| 22 | [[20260622-0079-yin-liu-national-security-personality-foundations|尹继武 & 刘颖哲 (2025) ——国家安全的人格…]] |
+| 24 | [[20260622-0058-fang-guo-metaphor-scenario-nontraditional-security|方菁 & 郭继荣 (2021)]] |
+| 22 | [[20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造|"分层"是同质化冻结，"一致性"是异质化创造]] |
+| 22 | [[20260622-0037-陆海复合型强国的战略选择不是地理宿命秦立志谭皓宇的地缘位势安全感知分析框架|陆海复合型强国的战略选择不是地理宿命]] |
+| 22 | [[20260622-0080-zhang-security-sense-neglected-dimension|张清敏 (2024)]] |
+| 22 | [[20260622-0079-yin-liu-national-security-personality-foundations|尹继武 & 刘颖哲 (2025)]] |
 | 22 | [[20260623-0019-shores-logic-deleuze-ingest|shores-logic-deleuze-inges…]] |
 | 21 | [[20260620-1509-资本主义解域化只为更强大的再辖域化|资本主义解域化只为更强大的再辖域化]] |
-| 20 | [[20260623-1600-Saldanha|Saldanha：德勒兹空间化的四条进路]] |
-| 19 | [[20260623-1610-平滑空间与条纹化空间|平滑空间与条纹化空间：界域化的两种逻辑]] |
+| 20 | [[20260623-1600-Saldanha|Saldanha]] |
+| 19 | [[20260623-1610-平滑空间与条纹化空间|平滑空间与条纹化空间]] |
 <!-- hubs:end -->
 
 > 骨架卡集中在 2026-06 批次；此后新增的卡多为指向它们的叶节点。要为新卡补入边，见 `zettelkasten-maintenance` 的 1d 条：关系图只认正文 wikilink。
