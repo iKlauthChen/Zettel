@@ -8,166 +8,51 @@ metadata:
   tone: 学术书面语，直接
 ---
 
-## 我是谁
+## 这个库是什么
 
-- **姓名**：陈祖丰
-- **身份**：博士研究生 + 独立研究者
-- **研究领域**：欧陆哲学、安全理论（尤其"剩余安全"理论构建）、海权、国际关系本体论
-- **学术兴趣**：德勒兹与时间哲学、地缘战略、国际政治本体论
+`~/zettel` 是陈祖丰的 Obsidian 卡片盒（Zettelkasten），同时是一个 git 仓库。本文件是**仓库级的项目说明**——任何在 `~/zettel` 下启动的 AI 会话都会自动读到它（Hermes 与 Claude Code 及同类工具共用同一套「项目上下文文件」发现逻辑）。
 
-## 我的工作方式
+本文件只承担三件事：这个库是什么、不可违反的规则、细节去哪里查。**完整的卡片生产与维护流程在技能里，不在这里**（见文末「细节去哪里查」）。越短越不容易变得不实。
 
-- **交流风格**：直接，学术书面中文
-- **反馈偏好**：具体建议与开放讨论并重
-- **优势**：阅读量大、领域广泛、直觉判断准确
-- **劣势**：执行力不足；与抑郁症共存——需要小步骤、低启动阻力的工作方式
+## 库的主人
 
-## 今年目标
+- **陈祖丰**：博士研究生 + 独立研究者。欧陆哲学、安全理论（「剩余安全」surplus security）、海权与地缘战略、国际政治本体论。
+- **工作方式**：直接，学术书面中文；每次聚焦一个任务，拆成低启动阻力的小步骤；发现逻辑漏洞或薄弱环节请直接指出。
+- **今年目标**：发表若干篇论文；完成博士论文初稿。
+- **当前项目**：「剩余安全」理论构建；国际政治中的本体论研究。
+- 助手侧的运行时偏好（回答长度、语气、模型选择等）由助手自己的用户档案与记忆承担，本文件不重复。
 
-1. 发表若干篇论文
-2. 完成博士论文初稿
+## 目录
 
-## 当前项目
-
-- **"剩余安全"理论构建**（surplus security）
-- **国际政治中的本体论研究**
-- （其他项目见会话记录和笔记卡片）
-
-## 工作原则
-
-- 每次聚焦一个任务，拆解为可执行的小步骤
-- 利用 Zettelkasten 卡片系统（本 Obsidian Vault）积累和连接思想
-- 研究素材持续消化为原子卡，成熟时组织为论文
-- 直接指出逻辑漏洞或薄弱环节，不必顾虑
-
-## 数据总览
-
-| 维度 | 数值 |
+| 路径 | 用途 |
 |---|---|
-| 原子卡总数（~/zettel/cards/） | **1260**（其中 1259 张带行内 tags） |
-| — 时间戳编号卡（无英文描述） | 502 |
-| — 主题命名卡 | 753（另 5 张非标准命名） |
-| — 全量带 tags | ✅ 1259 张，标签引用共 8878 条（平均每卡约 7 个） |
-| — 总文本量 | 5.7 MB |
-| 草稿总数（~/zettel/drafts/） | **134** |
-| 桥接卡/Ingest/主题系列（~/zettel/cards/ 内） | 55 桥接/合成 + 12 Ingest + 154 主题系列（`-cardN-`）卡 |
-| 标签索引 | 3789 标签 / 8878 条引用 |
-| 全文倒排索引 | 29866 词条（jieba 中英分词） |
-| wikilink 关系图 | 1493 节点 / 4861 条边 |
-| 命名实体 | 2238 键（中文 589 + 非中文 1649；含明显分词噪声——`---`、截断短语等，待清洗） |
-| 语义向量 | 2146×384（711 真实 + 1435 零占位，intfloat/multilingual-e5-small 中英双语模型） |
+| `cards/` | 原子卡主库（zettel 格式 frontmatter） |
+| `drafts/` | 写作草稿（无 frontmatter，以 `# 标题` 开头） |
+| `_index/` | 搜索引擎索引：tags / links_graph / term_inverted / entities / embeddings（自动生成，勿手改） |
+| `_state/` | 聚类历史、就绪文章、发表追踪（`pending_articles.json`） |
+| `raw/`、`_ops/` | 素材原件与本地运维文件，未入库 |
+| `_add_tags.py`、`_rebuild_index.py` | 索引维护脚本 |
 
-> 上表口径为 2026-10-15 实测，非静态值；每次会话前从 `_index/` 与文件系统重新采集。
+## 铁律（违反即坏链或坏索引）
 
-## Zettel 目录结构
+1. **文件名必须含英文字母**：`YYYYMMDD-NNNN-简短描述.md`。纯数字或纯数字加符号的文件名（如 `20260622-0030.md`）在 macOS + Obsidian 下无法被索引，链接跳转失败。
+2. **正文 wikilink 用完整描述性 ID**（`[[20260624-0001-baldauff-card1-puzzle|显示文本]]`），纯数字前缀会提示「新建文件」；YAML `links.id` 则用数字前缀 `20260624-0001`。**关系图的入边只由正文 wikilink 产生**——只往 YAML `links` 补条目，卡片在图上仍是孤点。
+3. **YAML 三条硬约束**：`---` 首尾各一；`tags` 写成行内数组 `tags: [a, b]`（块式列表会被索引器静默跳过）；`id` 等于文件名 stem。值内不放中文全角引号，需标示引语时用英文单引号（`'块茎'`）或把整条值用双引号包住。
+4. **每张卡三段式**：论题展开 → 我的判断 → 相关卡片；YAML `links` 与正文「相关卡片」一一对应，链接面向整个卡片盒而非单一研究簇。
+5. **加卡后重建索引**：`cd ~/zettel && python3 _add_tags.py && python3 _rebuild_index.py --tags`（新卡的语义向量为零占位，属已知口径）。
 
+## 数据快照
+
+<!-- cardbox-stats:start 由园丁 Bot（每周一 09:00）自动重算，勿手改本区块 -->
+```text
+待园丁首次重算（本行为占位，验证 claude-stats 自动写入是否生效）
 ```
-~/zettel/
-├── cards/               # 原子卡主库（1260 个文件，1259 张为 zettel 格式 frontmatter）
-│   ├── 20260620-*.md    # 时间戳编号卡（原始原子卡）
-│   ├── 2026062x-*-cardN-* # 主题切卡（一书多卡批次，154 张）
-│   └── ...              # 桥接/合成卡 55 张、Ingest 卡 12 张
-├── drafts/              # 写作草稿（134 篇）
-├── raw/                 # 素材原件（东上地图图版等，未入库）
-├── _ops/                # 本地运维（hindsight 守护进程等，未入库）
-├── _index/              # 搜索引擎索引（自动生成，勿手动编辑）
-│   ├── tags.json        # 标签索引（3789 标签，1259 卡全覆盖）
-│   ├── links_graph.json # wikilink 关系图（1493 节点，4861 条边）
-│   ├── term_inverted.json # 全文倒排索引（29866 词条，jieba 分词）
-│   ├── entities.json    # 命名实体（2238 键，含分词噪声待清洗）
-│   ├── embeddings.npy   # 语义向量（711 真实 + 1435 零向量占位，2146×384）
-│   └── embeddings_meta.json
-├── _state/              # Zettel 系统状态（聚类/就绪文章等）
-│   ├── cluster_history.json
-│   ├── near_ready.json
-│   └── pending_articles.json
-├── CLAUDE.md            # 本文件
-├── _rebuild_index.py    # 重建所有索引（tags/links/terms/entities/embeddings）
-└── _add_tags.py         # 为缺 tags 的新卡自动补标签
-```
+<!-- cardbox-stats:end -->
 
-~/.claude/projects/-Users-iklauthchen/memory/ 现存 3 个文件（MEMORY.md 与两篇旧笔记，2026-10-15 实测）；桥接卡已全部移入 `cards/`。
+## 细节去哪里查
 
-## 卡片格式规范
-
-### 文件命名
-`YYYYMMDD-NNNN-简短描述.md`
-- `YYYYMMDD` = `created:` 字段中的日期
-- `NNNN` = 当天内的顺序号（0001 起，按字母序排列）
-- 描述取卡片标题或别名，中文不用 `":"` 和 `"`
-- **关键规则：文件名必须包含英文字母**（`id:` 和 wikilink 同理）。macOS + Obsidian 无法索引纯数字/纯数字+符号的文件名（如 `20260622-0030.md`），会导致链接跳转失败。**永远使用** `20260622-0030-abrahams-assemblage.md` 而非 `20260622-0030.md`。
-- wikilink 也须使用完整的描述性 ID（`[[20260622-0030-abrahams-assemblage]]`），而非仅数字前缀（`[[20260622-0030]]`）。
-
-### YAML 前置元数据模板
-```yaml
----
-id: YYYYMMDD-NNNN
-status: permanent
-created: 2026-06-24T15:23:59+0800
-source: {type: book|article|reading-note|external-url, ref: "完整引用", page: "页码"}
-tags: [tag1, tag2, concept]
-links:
-  - {id: YYYYMMDD-NNNN, reason: "关联原因——明确链接理由"}
-voice_passed: true
-aliases: ["卡片核心论题的简洁表述"]
----
-```
-
-### YAML 常见陷阱（必须避免）
-
-| 问题 | 错误示例 | 正确写法 |
-|---|---|---|
-| **缺开头 `---`** | `tags: [...]`（文件直接以 YAML 内容开头） | `---\ntags: [...]` |
-| **中文双引号嵌套** | `aliases: ["德勒兹的"块茎"概念"]` → YAML 将 `"块茎"` 的 `""` 视为字符串结束 | `aliases: ["德勒兹的'块茎'概念"]` 改用英文单引号 |
-| **ASCII `"` 在未引用值中** | `description: 情报机构"封住"安全化` → `"` 被 YAML 解析为特殊字符 | `description: "情报机构'封住'安全化"` 将整个值用 YAML 双引号包裹 |
-| **重复键** | `pages: "23-26; Deleuze...", pages: "114-216"` → 后一个覆盖前一个 | 合并到 `ref` 字段：`ref: "..., pp.23-26; ..., pp.114-216"` |
-| **冒号在未引用值中** | `description: Reid(2003) War Machine: Nomadism` → `: ` 被解析为映射分隔符 | `description: "Reid(2003) War Machine: Nomadism"` |
-| **缺尾部 `---`** | YAML 内容延伸至正文，`**bold**` 的 `*` 被解析为 YAML 别名 | 确保正文前有 `---\n` 关闭 YAML |
-
-### Wiki 链接格式
-
-```markdown
-<!-- 正确：使用时间戳 ID，无 .md 后缀 -->
-[[20260624-0001|显示文本]]
-
-<!-- 错误：使用描述性名称 -->
-[[baldauff-heng-japan-dcas-card1-puzzle]]
-
-<!-- 错误：带 .md 后缀 -->
-[[20260624-0001.md|显示文本]]
-```
-
-### 相关卡片 Section 格式
-
-```markdown
-## 相关卡片
-
-- [[20260624-0005|目标卡片别名]] — 关联原因说明
-- [[20260623-1400|概念创造]] — 与概念创造论的建构论前提一致
-```
-
-**关键：wikilink 必须使用完整描述性 ID**。例如 `[[20260624-0005-baldauff-card1-puzzle]]`，**不要**只用 `[[20260624-0005]]`（纯数字 ID 在 macOS Obsidian 中无法解析）。
-
-### 创建新卡的标准流程
-
-1. 确定 `created:` 时间戳（ISO 8601: `2026-06-24T15:23:59+0800`）
-2. 命名文件：`YYYYMMDD-NNNN-别名摘要.md`
-3. 写入 YAML frontmatter（参照模板）
-4. `tags` 从现有标签索引复用，避免发明不规范标签
-5. `links` 填写与本卡有直接关联的前件卡片
-6. 文末 `## 相关卡片` 填写跨簇链接
-7. 运行索引维护流程
-
-## 索引维护流程
-
-添加新卡后，运行以下命令重建索引：
-
-```bash
-cd ~/zettel
-python3 _rebuild_index.py          # 完整重建
-python3 _add_tags.py               # 新卡自动补 tags（先于 _rebuild_index.py 运行）
-python3 _rebuild_index.py --tags   # 快速：只重建 tags + links
-python3 _rebuild_index.py --terms  # 只重建全文索引
-```
-
-注意：新卡的 embedding 向量为全零占位，语义搜索对新卡无效。如需真正的向量索引，需用嵌入模型重新生成 embeddings.npy。
+| 要做什么 | 去哪里 |
+|---|---|
+| 建卡、切卡、草稿写作、发表追踪、卡盒就绪性检查 | 技能 `zettelkasten-leopold`（`~/.hermes/skills/note-taking/zettelkasten-leopold/`） |
+| 链接审计、死链与孤儿卡修复、索引重建、园丁 Bot 的维护范围 | 技能 `zettelkasten-maintenance`（同目录），园丁 Bot 每周一自动保养本库 |
+| 精读摘录原件 | Ulysses 的 ReadingNotes 分组（不在本库，与 zettel 分工不同） |
