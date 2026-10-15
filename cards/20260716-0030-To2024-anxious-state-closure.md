@@ -2,7 +2,7 @@
 id: 20260716-0030
 status: permanent
 created: 2026-07-16T22:00:00+0800
-source: {type: article, ref: "To, Minh Son. 'The Anxious State: Impossibility of Closure and State's Ontological (In-)security in Postcolonial and Post-Conflict Societies.' Millennium: Journal of International Studies 53.1 (2024): 59–85."}
+source: {type: article, ref: "To, Minh Son. 'The Anxious State: Impossibility of Closure and State's Ontological (In-)security in Postcolonial and Postrevolutionary Vietnam.' Millennium: Journal of International Studies 53.1 (2024): 59–85.", doi: "10.1177/03058298241278416"}
 tags: [本体论安全, 后殖民, 焦虑, 封闭, 国家, 冲突后]
 links:
   - {id: 20260715-0012, reason: "Markland的去地方化OSS——本文将同一批评推进到后殖民/冲突后国家的不可能封闭性"}

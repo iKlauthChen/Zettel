@@ -1,20 +1,24 @@
 ---
-id: 20260714-0002
+id: 20260714-0002-Gellwitzki2024-Kleinian-ontological-security
 status: permanent
 created: 2026-07-14T12:30:00+0800
-source: {type: article, ref: "Gellwitzki, C. Nicolai L. 'The positions of ontological (in)security in international relations: object relations, unconscious phantasies, and anxiety management.' European Journal of International Relations (2024)."}
+source: {type: article, ref: "Gellwitzki, C. Nicolai L. The positions of ontological (in)security in international relations: object relations, unconscious phantasies, and anxiety management. International Theory (2025): 1–33. doi:10.1017/S1752971924000125", page: "4, 13–14, 20–27"}
 tags: [本体论安全, 克莱因, 客体关系, 偏执-分裂位置, 抑郁位置, 焦虑管理, 幻象, 防御机制]
 links:
   - {id: 20260713-0003, reason: "Mitzen的Giddens式OSS——本文的Kleinian框架是对Giddens范式的替代"}
   - {id: 20260713-0002, reason: "Vulović-Ejdus的拉康式对象a——本文提供了与拉康式不同的精神分析入口"}
   - {id: 20260622-0035, reason: "Steele的本体论安全——本文对'羞愧'概念的Kleinian重新定位"}
+  - {id: 20260926-0021, reason: "同一篇文章的展开卡之一：回退本身就是不安全（与Cash/Houde的'位置之间'读法分歧）"}
+  - {id: 20260926-0024, reason: "同一篇文章的展开卡之二：抑郁位置的正面（修补、内疚/羞愧即安全、促进安全的实践）"}
 voice_passed: true
 aliases: ["Gellwitzki 2024 Kleinian ontological security", "本体论不安全的两个位置"]
 ---
 
+> 本卡为 2026-07-14 的早期简版；2026-09-26 依原文校订了出处（原文刊于 *International Theory* 2025，doi:10.1017/S1752971924000125；原卡误记为 *European Journal of International Relations* 2024），并补上页码与展开卡链接。**同一个 id 前缀处存在的短 id 已改为完整描述式 id**（原 `id: 20260714-0002` 导致该卡在 links 图中成幽灵节点）。该文的完整切卡见 `20260926-0020`–`0024`。
+
 ## 论题展开
 
-Gellwitzki（2024）将本体论安全研究从 Giddens-Laing 范式转向克莱因派（Kleinian）精神分析，提出了一个与 Mitzen 的例行化、Vulović-Ejdus 的拉康式幻象都不同的理论框架。
+Gellwitzki 将本体论安全研究从 Giddens-Laing 范式转向克莱因派（Kleinian）精神分析，提出了一个与 Mitzen 的例行化、Vulović-Ejdus 的拉康式幻象都不同的理论框架。
 
 **偏执-分裂位置与抑郁位置。** Melanie Klein 的概念核心是：主体处理焦虑的方式可以被区分为两种不同的心理位置（positions），而非心理发展阶段。**偏执-分裂位置**（paranoid-schizoid position）的特征是**分裂**（splitting）——将世界分为全好和全坏来管理焦虑，通过投射（projection）将坏的内部客体外置并攻击"敌人"。**抑郁位置**（depressive position）的特征是**整合**（integration）——主体能够容忍好和坏的矛盾共存，认识到"我恨的人也就是我爱的人"，由此产生修补冲动（reparation）而非攻击冲动。
 
@@ -28,10 +32,12 @@ Gellwitzki 的 Kleinian 框架解决了 OSS 中一个长期存在的理论紧张
 
 这与剩余安全理论有一个交叉点：如果偏执-分裂位置的本体论安全 = 通过排除来管理焦虑（"不安全来自他者"），抑郁位置的本体论安全 = 通过整合来管理焦虑（"我有不安是因为我包含矛盾"），那么剩余安全的概念可以被定位为**从偏执-分裂位置到抑郁位置的过渡标记**。剩余不是被"投射"为外部的敌人（那停留在偏执-分裂中），而是被承认为系统自身生产的不可能被自身消化的一部分。承认剩余的不可消除性 = 抑郁位置的操作。
 
-但这个框架也有局限：Klein 的二元位置虽然给出了一个清晰的区分，但它在 Klinian 分析中从来不是纯粹的——"抑郁位置永远只是部分的，偏执-分裂的防御从来没有完全消失"——这意味着这两个位置的区分在理论上是清楚的，但在经验的 IR 案例中几乎永远是混合体。Gellwitzki 对这一点只在结论中简要提及，没有给出分析混合状态的具体工具。
+但这个框架也有局限：Klein 的二元位置虽然给出了一个清晰的区分，但它在 Klinian 分析中从来不是纯粹的——"抑郁位置永远只是部分的，偏执-分裂的防御从来没有完全消失"——这意味着这两个位置的区分在理论上是清楚的，但在经验的 IR 案例中几乎永远是混合体。Gellwitzki 对这一点只在结论中简要提及，没有给出分析混合状态的具体工具。**（2026-09-26 补：全文版对此有回应——位置的强度谱与"同时处在两个位置"的表述，见 `20260926-0021`、`20260926-0024`。）**
 
 ## 相关卡片
 
 - [[20260713-0003-Mitzen2006-ontological-security-routines|Mitzen的OSS起源]] — Kleinian框架直接替代了Mitzen基础的Giddens
 - [[20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security|Vulović-Ejdus对象a]] — 拉康式 vs Kleinian，两个精神分析入口的不同
 - [[20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话|Steele的本体论安全]] — 羞愧概念的Kleinian重新定位
+- [[20260926-0021-gellwitzki-positions-security-insecurity-regression-is-insecurity|Gellwitzki：回退本身就是不安全]] — 同一篇文章的展开卡之一
+- [[20260926-0024-gellwitzki-depressive-position-reparation-guilt-as-security|Gellwitzki：抑郁位置的正面]] — 同一篇文章的展开卡之二
