@@ -9,7 +9,6 @@ links:
   - {id: 20260721-0002, reason: "本卡的衍生卡，详述multinodal概念"}
   - {id: 20260721-0003, reason: "命令信誉是Schelling强迫逻辑的信誉机制，与领导信誉的对比可对话"}
   - {id: 20260721-0004, reason: "Putin案例是Schelling式强迫战略失败的典型经验呈现"}
-  - {id: 博士论文框架诊断-三个候选方向, reason: "Womack对Schelling的批判可与论文中的因果闭合/因果不可闭合论证对接"}
 voice_passed: true
 aliases: ["Womack 2025 Contra Schelling", "Womack对Schelling三前提的批判", "多节点时代的强迫逻辑失效"]
 ---
@@ -34,4 +33,3 @@ Womack的核心贡献在于将Schelling的霸权前提条件暴露出来，而�
 
 - [[20260620-1501-装置创造界域而非只是占据空间|装置创造界域而非只是占据空间]]
 - [[20260721-0002-Womack-multinodal-era-characteristics|Womack多节点时代的特征]]
-- [[博士论文框架诊断-三个候选方向|博士论文框架诊断]]

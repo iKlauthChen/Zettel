@@ -13823,8 +13823,7 @@
   "20260721-0001": {
     "out": [
       "20260620-1501-装置创造界域而非只是占据空间",
-      "20260721-0002-Womack-multinodal-era-characteristics",
-      "博士论文框架诊断-三个候选方向"
+      "20260721-0002-Womack-multinodal-era-characteristics"
     ],
     "in": []
   },
@@ -13833,12 +13832,6 @@
     "in": [
       "20260721-0001",
       "20260721-0007"
-    ]
-  },
-  "博士论文框架诊断-三个候选方向": {
-    "out": [],
-    "in": [
-      "20260721-0001"
     ]
   },
   "20260721-0001-Womack-multinodal-critique-Schelling-premises": {
