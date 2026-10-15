@@ -3,6 +3,10 @@ tags: [smith, 时间, 德勒, Time, 运动, 综合, 康德, 形式, 虚假, 脱�
 id: 20260622-0071-smith-pure-form-time-three-syntheses
 status: permanent
 created: 2026-06-22T16:33:47+0800
+links:
+  - {id: 20261010-0031, reason: "原典细读回注——20261010 批细读卡补上与本二手概览的互链（自在幻相/不等者）"}
+  - {id: 20261010-0032, reason: "原典细读回注——第一综合的活生生的当前与本文'可变现在'一节对应"}
+  - {id: 20261015-0001, reason: "桥接卡：以本文的三综合为德勒兹一侧，与拉康的回退性并置"}
 description: Daniel W. Smith——纯粹空的时间形式：康德的革命与德勒兹的三重综合
 ---
 **Daniel W. Smith "The Pure Form of Time"** 提供德勒兹时间哲学最系统的概览。核心论题：时间从对运动的从属中解放的历史脉络。
@@ -35,3 +39,5 @@ description: Daniel W. Smith——纯粹空的时间形式：康德的革命与�
 **跨簇链接**:
 - 德勒兹的"时间脱节"（time is out of joint）与[[20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis]]中 Miller 论"真实界无律"（réel sans loi）形成共振——时间从秩序（对运动的从属）中解放出来，正是真实界不再有法则的时间性表达。这构成了"时间脱节"与"真实界无律"两条思想线索汇合点。
 - "纯粹空的时间形式"与[[20260622-0078-yang-objective-world-transcending-subjectivism]]杨立华的时空分析共享一个问题域（时间是否先天/先验），但路径相反：杨立华从经验世界出发论证时间是经验的伴随者而非先决条件；德勒兹则继承康德将时间提升为超验条件。两者之间的张力揭示了中国哲学"气化流行"进路与西方先验论的根本分野。
+
+**原典细读回注**: 20261010 批《差异与重复》细读卡（[[20261010-0031-third-synthesis-effect-第三综合的爱欲效果]] 的自在幻相与不等者、[[20261010-0032-first-synthesis-living-present-第一综合与活生生的当前]] 的活生生当前）此前与本二手概览无互链，现补齐；本卡另作为 [[20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge]] 的德勒兹一侧。

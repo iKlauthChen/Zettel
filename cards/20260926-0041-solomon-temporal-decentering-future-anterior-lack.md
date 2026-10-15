@@ -6,6 +6,7 @@ source: {type: article, ref: "Solomon, Ty. Time and Subjectivity in World Politi
 tags: [拉康, 时间性去中心化, 未来完成时, 缺乏, 欲望, 本体论安全, Steele, 主体性]
 links:
   - {id: 20260715-0019, reason: "旧卡（把本文读成'欲望永久延迟'）；本卡是展开之一"}
+  - {id: 20261015-0001, reason: "桥接卡：本卡判断(3)要求分清结构性 lack 与历史性 surplus，该卡补出德勒兹一侧的第三项——不等者"}
   - {id: 20260622-0035, reason: "Steele论本体论安全——本文脚注把desire接在羞愧/荣誉机制旁，两套情感解释未裁决"}
   - {id: 20260713-0003, reason: "Mitzen的例行实践与本体论安全——脚注5直接引用的OSS基座"}
   - {id: 20260620-1513, reason: "拉康式对象a的缺失是解放而非悲剧——同一'缺乏'的相反政治评价"}
@@ -50,3 +51,4 @@ aliases: ["时间性去中心化", "future anterior", "我将一直已是"]
 - [[20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话|Steele：本体论安全与虚空]] — 与 desire 构成竞争的情感解释
 - [[20260713-0003-Mitzen2006-ontological-security-routines|Mitzen：本体论安全与例行实践]] — 脚注直接引用的 OSS 基座
 - [[20260620-1513-拉康式对象a的缺失是解放而非悲剧|拉康式对象 a 的缺失是解放而非悲剧]] — 同一"缺乏"的相反政治评价
+- [[20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge|桥接卡：拉康回退性 × 德勒兹第三综合]] — 本卡判断(3)的 lack/surplus 之分在该卡获得第三项：不等者

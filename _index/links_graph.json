@@ -631,7 +631,8 @@
       "20260926-0014-cash-misrecognition-decentered-subject",
       "20260926-0041-solomon-temporal-decentering-future-anterior-lack",
       "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越",
-      "20261010-0013-deleuze-potential-object-partial-潜能对象"
+      "20261010-0013-deleuze-potential-object-partial-潜能对象",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ]
   },
   "20260621-0491-拉康与德勒兹的反笛卡尔联盟以斯宾诺莎式conatus作为欲望和快感的本体论桥梁": {
@@ -1604,7 +1605,8 @@
       "20260923-0005-yang-kailin-difference-of-natures-not-dualism",
       "20260926-0045-hom-timing-instead-of-time-stovepipes-and-reification",
       "20261010-0015-time-form-three-moments-纯粹时间形式三环节",
-      "20261010-0024-differentiation-differentiation-微分与分化"
+      "20261010-0024-differentiation-differentiation-微分与分化",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ]
   },
   "20260622-0071-smith-pure-form-time-three-syntheses": {
@@ -1612,7 +1614,10 @@
       "20260622-0065-nail-kinetic-theory-time-lucretius",
       "20260622-0061-li-kelin-deleuze-time-ingest",
       "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
-      "20260622-0078-yang-objective-world-transcending-subjectivism"
+      "20260622-0078-yang-objective-world-transcending-subjectivism",
+      "20261010-0031-third-synthesis-effect-第三综合的爱欲效果",
+      "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ],
     "in": [
       "20260620-1544-德勒兹的两种时间模式",
@@ -1640,7 +1645,8 @@
       "20260624-0165-zhao-time-temporality-card6-bridge",
       "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
       "20260805-0008-crystal-cinema-tension-bridge",
-      "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成"
+      "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ]
   },
   "20260716-0024-Olkowski2008-mathematical-time-limits": {
@@ -2253,7 +2259,8 @@
       "20261010-0019-conscience-time-synthesis-良知与第一综合",
       "20261010-0031-third-synthesis-effect-第三综合的爱欲效果",
       "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前",
-      "20261010-0033-imagination-vis-repetiva-想象力与差复的力量"
+      "20261010-0033-imagination-vis-repetiva-想象力与差复的力量",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ]
   },
   "20260622-1606-习惯是时间的第一种综合被动主观收缩": {
@@ -6368,6 +6375,53 @@
       "20260624-0048-liu-qu-manifold-evolution-card6-bridge"
     ]
   },
+  "20261010-0031-third-synthesis-effect-第三综合的爱欲效果": {
+    "out": [
+      "20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性",
+      "20260620-1603-纯粹过去不是心理性的而是存在论意义上的",
+      "20260622-1608-未来作为时间的空白形式断裂与创造",
+      "20260805-0008-crystal-cinema-tension-bridge",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
+    ],
+    "in": [
+      "20260622-0071-smith-pure-form-time-three-syntheses",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
+    ]
+  },
+  "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前": {
+    "out": [
+      "20260622-1606-习惯是时间的第一种综合被动主观收缩",
+      "20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性",
+      "20260620-1602-过去与它所是的现在同时共存是柏格森时间哲",
+      "20260805-0007-williams-li-kelin-two-readings"
+    ],
+    "in": [
+      "20260622-0071-smith-pure-form-time-three-syntheses",
+      "20261010-0033-imagination-vis-repetiva-想象力与差复的力量",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
+    ]
+  },
+  "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge": {
+    "out": [
+      "20260926-0040-solomon-retroactivity-button-ties-master-signifier",
+      "20260926-0041-solomon-temporal-decentering-future-anterior-lack",
+      "20261010-0031-third-synthesis-effect-第三综合的爱欲效果",
+      "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前",
+      "20261010-0019-conscience-time-synthesis-良知与第一综合",
+      "20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性",
+      "20260622-0071-smith-pure-form-time-three-syntheses",
+      "20260620-1544-德勒兹的两种时间模式",
+      "20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo",
+      "20260620-1513-拉康式对象a的缺失是解放而非悲剧",
+      "20260623-2302-拉康作为黑格尔的重复"
+    ],
+    "in": [
+      "20260622-0071-smith-pure-form-time-three-syntheses",
+      "20260926-0040-solomon-retroactivity-button-ties-master-signifier",
+      "20260926-0041-solomon-temporal-decentering-future-anterior-lack",
+      "20261010-0031-third-synthesis-effect-第三综合的爱欲效果"
+    ]
+  },
   "20260622-0074-tang-reputation-cult-international-conflict": {
     "out": [
       "20260622-0080-zhang-security-sense-neglected-dimension",
@@ -8199,7 +8253,8 @@
     "in": [
       "20260623-2301-Žižek的黑格尔",
       "20260623-2303-量子物理与两虚空论",
-      "20260926-0040-solomon-retroactivity-button-ties-master-signifier"
+      "20260926-0040-solomon-retroactivity-button-ties-master-signifier",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ]
   },
   "20260716-0036-McIntosh2020-quantum-entanglement": {
@@ -11780,7 +11835,8 @@
       "20260714-0006",
       "20260715-0019-Solomon2014-time-subjectivity",
       "20260716-0002",
-      "20260926-0040-solomon-retroactivity-button-ties-master-signifier"
+      "20260926-0040-solomon-retroactivity-button-ties-master-signifier",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ]
   },
   "20260703-0020": {
@@ -12771,10 +12827,12 @@
       "20260715-0019-Solomon2014-time-subjectivity",
       "20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo",
       "20260622-0029-拉康晚期对反俄狄浦斯的回应实在无意识lalangue和圣状是对结构无意识的非缺陷论突破",
-      "20260623-2302-拉康作为黑格尔的重复"
+      "20260623-2302-拉康作为黑格尔的重复",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ],
     "in": [
-      "20260715-0019-Solomon2014-time-subjectivity"
+      "20260715-0019-Solomon2014-time-subjectivity",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ]
   },
   "20260926-0041-solomon-temporal-decentering-future-anterior-lack": {
@@ -12782,10 +12840,12 @@
       "20260715-0019-Solomon2014-time-subjectivity",
       "20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话",
       "20260713-0003-Mitzen2006-ontological-security-routines",
-      "20260620-1513-拉康式对象a的缺失是解放而非悲剧"
+      "20260620-1513-拉康式对象a的缺失是解放而非悲剧",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ],
     "in": [
-      "20260715-0019-Solomon2014-time-subjectivity"
+      "20260715-0019-Solomon2014-time-subjectivity",
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
     ]
   },
   "20260926-0042-solomon-origin-fantasy-nation-thing-enjoyment": {
@@ -17783,7 +17843,9 @@
       "20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation",
       "20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos"
     ],
-    "in": []
+    "in": [
+      "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
+    ]
   },
   "20261010-0020-repetition-power-singularity-重复的三种效果": {
     "out": [
@@ -17895,26 +17957,6 @@
       "20260620-1554-永恒回归的秘密不是秩序战胜混沌"
     ],
     "in": []
-  },
-  "20261010-0031-third-synthesis-effect-第三综合的爱欲效果": {
-    "out": [
-      "20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性",
-      "20260620-1603-纯粹过去不是心理性的而是存在论意义上的",
-      "20260622-1608-未来作为时间的空白形式断裂与创造",
-      "20260805-0008-crystal-cinema-tension-bridge"
-    ],
-    "in": []
-  },
-  "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前": {
-    "out": [
-      "20260622-1606-习惯是时间的第一种综合被动主观收缩",
-      "20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性",
-      "20260620-1602-过去与它所是的现在同时共存是柏格森时间哲",
-      "20260805-0007-williams-li-kelin-two-readings"
-    ],
-    "in": [
-      "20261010-0033-imagination-vis-repetiva-想象力与差复的力量"
-    ]
   },
   "20261010-0033-imagination-vis-repetiva-想象力与差复的力量": {
     "out": [
