@@ -44,35 +44,38 @@ metadata:
 
 | 维度 | 数值 |
 |---|---|
-| 原子卡总数（~/zettel/cards/） | **711** |
-| — 时间戳编号卡 | 287 |
-| — 主题命名卡 | 424 |
-| — 全量带 tags | ✅ 711 张，平均每卡 6.5 个标签 |
-| — 总文本量 | 2.3 MB |
-| 草稿总数（~/zettel/drafts/） | **26** |
-| 桥接卡/Ingest/主题系列（~/zettel/cards/ 内） | 38 桥接 + 12 Ingest + 17 原始批 + 154 主题系列卡 |
-| 标签索引 | 2164 标签 / 4603 条引用 |
-| 全文倒排索引 | 20915 词条（jieba 中英分词） |
-| wikilink 关系图 | 737 节点 / 2050 条边 |
-| 命名实体 | 1156 个（英文 955 + 中文 198，jieba TextRank 增强管道） |
-| 语义向量 | 711×384（✅ 全量真实向量，intfloat/multilingual-e5-small 中英双语模型） |
+| 原子卡总数（~/zettel/cards/） | **1260**（其中 1259 张带行内 tags） |
+| — 时间戳编号卡（无英文描述） | 502 |
+| — 主题命名卡 | 753（另 5 张非标准命名） |
+| — 全量带 tags | ✅ 1259 张，标签引用共 8878 条（平均每卡约 7 个） |
+| — 总文本量 | 5.7 MB |
+| 草稿总数（~/zettel/drafts/） | **134** |
+| 桥接卡/Ingest/主题系列（~/zettel/cards/ 内） | 55 桥接/合成 + 12 Ingest + 154 主题系列（`-cardN-`）卡 |
+| 标签索引 | 3789 标签 / 8878 条引用 |
+| 全文倒排索引 | 29866 词条（jieba 中英分词） |
+| wikilink 关系图 | 1493 节点 / 4861 条边 |
+| 命名实体 | 2238 键（中文 589 + 非中文 1649；含明显分词噪声——`---`、截断短语等，待清洗） |
+| 语义向量 | 2146×384（711 真实 + 1435 零占位，intfloat/multilingual-e5-small 中英双语模型） |
+
+> 上表口径为 2026-10-15 实测，非静态值；每次会话前从 `_index/` 与文件系统重新采集。
 
 ## Zettel 目录结构
 
 ```
 ~/zettel/
-├── cards/               # 原子卡主库（652 张，全部 zettel 格式 frontmatter）
+├── cards/               # 原子卡主库（1260 个文件，1259 张为 zettel 格式 frontmatter）
 │   ├── 20260620-*.md    # 时间戳编号卡（原始原子卡）
-│   ├── bonta-protevi-*  # 主题切卡（从 memory/ 移入）
-│   ├── original-batch-* # 原始库提炼卡
-│   └── ...
-├── drafts/              # 写作草稿
+│   ├── 2026062x-*-cardN-* # 主题切卡（一书多卡批次，154 张）
+│   └── ...              # 桥接/合成卡 55 张、Ingest 卡 12 张
+├── drafts/              # 写作草稿（134 篇）
+├── raw/                 # 素材原件（东上地图图版等，未入库）
+├── _ops/                # 本地运维（hindsight 守护进程等，未入库）
 ├── _index/              # 搜索引擎索引（自动生成，勿手动编辑）
-│   ├── tags.json        # 标签索引（2065 标签，652 卡全覆盖）
-│   ├── links_graph.json # wikilink 关系图（639 节点，1213 条边）
-│   ├── term_inverted.json # 全文倒排索引（19829 词条，jieba 分词）
-│   ├── entities.json    # 命名实体（246 个）
-│   ├── embeddings.npy   # 语义向量（446 真实 + 206 零向量占位，652×512）
+│   ├── tags.json        # 标签索引（3789 标签，1259 卡全覆盖）
+│   ├── links_graph.json # wikilink 关系图（1493 节点，4861 条边）
+│   ├── term_inverted.json # 全文倒排索引（29866 词条，jieba 分词）
+│   ├── entities.json    # 命名实体（2238 键，含分词噪声待清洗）
+│   ├── embeddings.npy   # 语义向量（711 真实 + 1435 零向量占位，2146×384）
 │   └── embeddings_meta.json
 ├── _state/              # Zettel 系统状态（聚类/就绪文章等）
 │   ├── cluster_history.json
@@ -83,7 +86,7 @@ metadata:
 └── _add_tags.py         # 为缺 tags 的新卡自动补标签
 ```
 
-~/.claude/projects/-Users-iklauthchen/memory/ 存放桥接卡（34 张）和合成笔记（4 篇），由 MEMORY.md 索引加载到 Claude 会话上下文。
+~/.claude/projects/-Users-iklauthchen/memory/ 现存 3 个文件（MEMORY.md 与两篇旧笔记，2026-10-15 实测）；桥接卡已全部移入 `cards/`。
 
 ## 卡片格式规范
 
