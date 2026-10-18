@@ -8848,7 +8848,8 @@
       "20260624-0032-jiang-land-sea-strategy-card3-bridge",
       "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
       "20260624-0074-original-batch3-smooth-striated-ir",
-      "20260624-0158-zhang-regionalization-securitization-card2-bridge"
+      "20260624-0158-zhang-regionalization-securitization-card2-bridge",
+      "20260626-1230-西方式分析框架对非国家宗教行为体无效"
     ]
   },
   "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge": {
@@ -9524,6 +9525,7 @@
       "20260626-1134-lieberman-core-thesis-deterrence-failure",
       "20260626-1240-反几何学穿墙战术空间解读即战斗",
       "20260626-1252-拆墙作为法政解除主权民主物质基础",
+      "20260626-1255-人道主义重建共谋杰宁破坏设计",
       "20260626-1258-道格维尔效应边界概念表演性先于物质性",
       "20260713-0001-duree-vs-assemblage-relation-set",
       "20260726-0001-qin-over-reterritorialization-collapse-virtual-actualization",
@@ -9616,7 +9618,9 @@
       "20260623-0019-shores-logic-deleuze-ingest",
       "20260622-0055-cisney-power-false-time-truth"
     ],
-    "in": []
+    "in": [
+      "20260626-1227-同一情报机构三次安全化三次结果"
+    ]
   },
   "20260624-0078-original-ingold-ocean-line-card": {
     "out": [
@@ -10798,26 +10802,14 @@
   "20260626-1227-同一情报机构三次安全化三次结果": {
     "out": [
       "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
-      "20260624-0077-20260624-0077-original-batch5-event-security-law",
+      "20260624-0077-original-batch5-event-security-law",
       "20260626-1212-情报机构认识权威决定安全化成败"
     ],
     "in": []
   },
-  "20260624-0077-20260624-0077-original-batch5-event-security-law": {
-    "out": [],
-    "in": [
-      "20260626-1227-同一情报机构三次安全化三次结果"
-    ]
-  },
-  "20260624-0022-20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis": {
-    "out": [],
-    "in": [
-      "20260626-1230-西方式分析框架对非国家宗教行为体无效"
-    ]
-  },
   "20260626-1230-西方式分析框架对非国家宗教行为体无效": {
     "out": [
-      "20260624-0022-20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
+      "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
       "20260624-0073-original-batch3-desire-machine-state",
       "20260626-1218-哈马斯威慑假设情报概念自免疫",
       "20260626-1221-技术乐观主义加沙屏障作为概念陷阱"
@@ -10879,15 +10871,9 @@
     ],
     "in": []
   },
-  "20260624-0072-20260624-0072-original-batch3-assemblage-territory": {
-    "out": [],
-    "in": [
-      "20260626-1255-人道主义重建共谋杰宁破坏设计"
-    ]
-  },
   "20260626-1255-人道主义重建共谋杰宁破坏设计": {
     "out": [
-      "20260624-0072-20260624-0072-original-batch3-assemblage-territory",
+      "20260624-0072-original-batch3-assemblage-territory",
       "20260626-1249-不对等平滑以色列人流动巴勒斯坦人条纹化"
     ],
     "in": []
