@@ -1,13 +1,13 @@
 ---
-id: 20260716-0045
+id: 20260716-0045-Hagmann2017-society-control-urban-security
 status: permanent
 created: 2026-07-17T02:40:00+0800
 source: {type: article, ref: "Hagmann, Jonas. 'Security in the Society of Control: The Politics and Practices of Securing Urban Spaces.' International Political Sociology 11.4 (2017): 418–438."}
 tags: [德勒兹, 控制社会, 城市, 安全, 纪律, 网络]
 links:
-  - {id: 20260716-0041, reason: "Lenco的德勒兹IR——本文将德勒兹的控制社会直接经验化为城市安全分析"}
-  - {id: 20260715-0020, reason: "Dunn Cavelty的韧性——控制社会中的安全=韧性的网络版:在流动中调控而非在空间中防御"}
-  - {id: 20260716-0029, reason: "Jackson-Subotic的建筑OSS——建筑是纪律的固态空间;城市控制社会是液态的安全"}
+  - {id: 20260716-0041-Lenco2014-reintroducing-deleuze-IR, reason: "Lenco的德勒兹IR——本文将德勒兹的控制社会直接经验化为城市安全分析"}
+  - {id: 20260715-0020-DunnCavelty2015-resilience, reason: "Dunn Cavelty的韧性——控制社会中的安全=韧性的网络版:在流动中调控而非在空间中防御"}
+  - {id: 20260716-0029-Jackson-Subotic2024-architecture-OS-paradox, reason: "Jackson-Subotic的建筑OSS——建筑是纪律的固态空间;城市控制社会是液态的安全"}
 voice_passed: true
 aliases: ["Hagmann 2017 society of control urban security", "控制社会中的城市安全——从纪律到调控"]
 ---

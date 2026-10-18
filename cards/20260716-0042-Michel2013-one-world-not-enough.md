@@ -1,12 +1,12 @@
 ---
-id: 20260716-0042
+id: 20260716-0042-Michel2013-one-world-not-enough
 status: permanent
 created: 2026-07-17T01:40:00+0800
 source: {type: article, ref: "Michel, Torsten. 'When One World Is Not Enough: Patrick Jackson's The Conduct of Inquiry as a Narrative of IR Methodology.' Millennium: Journal of International Studies 41.2 (2013): 270–289."}
 tags: [方法论, 多元世界, 杰克逊, IR, 知识论, 本体论]
 links:
-  - {id: 20260716-0039, reason: "Blaney-Tickner的世界化——'多元世界'是Michel与BT之间共享的核心命题"}
-  - {id: 20260716-0037, reason: "Kamola的去殖民大学——方法论多元主义若不被去殖民化，也只是一个'多元主义的单一世界'"}
+  - {id: 20260716-0039-Blaney-Tickner2017-worlding-decolonial, reason: "Blaney-Tickner的世界化——'多元世界'是Michel与BT之间共享的核心命题"}
+  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola的去殖民大学——方法论多元主义若不被去殖民化，也只是一个'多元主义的单一世界'"}
 voice_passed: true
 aliases: ["Michel 2013 one world not enough", "一个世界不够——IR方法论的多元世界"]
 ---

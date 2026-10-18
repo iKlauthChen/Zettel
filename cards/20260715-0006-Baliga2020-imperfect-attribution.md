@@ -1,5 +1,5 @@
 ---
-id: 20260715-0006
+id: 20260715-0006-Baliga2020-imperfect-attribution
 status: permanent
 created: 2026-07-15T12:40:00+0800
 source: {type: article, ref: "Baliga, Sandeep, Ethan Bueno de Mesquita, and Alexander Wolitzky. 'Deterrence with Imperfect Attribution.' American Political Science Review 114.4 (2020): 1155–1169."}

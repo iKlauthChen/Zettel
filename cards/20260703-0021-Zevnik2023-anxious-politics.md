@@ -1,13 +1,13 @@
 ---
-id: 20260703-0021
+id: 20260703-0021-Zevnik2023-anxious-politics
 status: permanent
 created: 2026-07-03T17:15:00+0800
 source: {type: article, ref: "Zevnik, Andreja. 'Anxious Politics: Contesting Fantasies Surrounding the Removal of Statues of Slavery and the Confederacy.' International Studies Quarterly 67.3 (2023): sqad073."}
 tags: [Zevnik, 焦虑, 拉康, 主体, 幻象, 雕像, 种族, 纪念, 治理]
 links:
-  - {id: 20260703-0017, reason: "该ISQ特刊导言已概括本文论点，本文展开'anxious politics'概念"}
-  - {id: 20260703-0019, reason: "症候分析的方法论与本文焦虑分析互补——症候是断裂的模式，焦虑是断裂时刻的情感结构"}
-  - {id: 20260703-0020, reason: "面孔政治中的'anxious gaze'在本文中发展为系统的焦虑政治理论"}
+  - {id: 20260703-0017-Zevnik-Mandelbaum-ISQ2023-lacanian-IR, reason: "该ISQ特刊导言已概括本文论点，本文展开'anxious politics'概念"}
+  - {id: 20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo, reason: "症候分析的方法论与本文焦虑分析互补——症候是断裂的模式，焦虑是断裂时刻的情感结构"}
+  - {id: 20260703-0020-Zevnik2016-face-politics, reason: "面孔政治中的'anxious gaze'在本文中发展为系统的焦虑政治理论"}
 voice_passed: true
 aliases: ["Zevnik 2023 anxious politics statue removal"]
 ---

@@ -5,10 +5,10 @@ created: 2026-09-26T00:59:13+0800
 source: {type: article, ref: "Gellwitzki, C. Nicolai L. The positions of ontological (in)security in international relations: object relations, unconscious phantasies, and anxiety management. International Theory (2025): 1–33. doi:10.1017/S1752971924000125", page: "2–5, 9"}
 tags: [本体论安全, 元理论, giddens, oss, 概念混淆, 焦虑, 拉康, 存在主义, 回到根源]
 links:
-  - {id: 20260714-0002, reason: "同一篇文章的早期简版卡——本卡是其元理论诊断部分的展开"}
-  - {id: 20260715-0001, reason: "Eberle的拉康式幻象——'保留Giddens实质概念'的典型实例"}
-  - {id: 20260713-0002, reason: "Vulović-Ejdus：本体论安全不可达——四立场对照中的一支"}
-  - {id: 20260715-0012, reason: "Markland的'省的化'批判——同属'回到根源'但取径不同的元理论介入"}
+  - {id: 20260714-0002-Gellwitzki2024-Kleinian-ontological-security, reason: "同一篇文章的早期简版卡——本卡是其元理论诊断部分的展开"}
+  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle的拉康式幻象——'保留Giddens实质概念'的典型实例"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus：本体论安全不可达——四立场对照中的一支"}
+  - {id: 20260715-0012-Markland2026-provincialising-ontological-insecurity, reason: "Markland的'省的化'批判——同属'回到根源'但取径不同的元理论介入"}
 voice_passed: true
 aliases: ["后Giddens文献仍在用Giddens的概念", "本体论安全到底是什么"]
 ---

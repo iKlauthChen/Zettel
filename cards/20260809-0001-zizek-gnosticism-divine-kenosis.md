@@ -1,19 +1,19 @@
 ---
-id: 20260809-0001
+id: 20260809-0001-zizek-gnosticism-divine-kenosis
 status: permanent
 created: 2026-08-09T00:36:22+0800
 source: {type: external-url, ref: "Slavoj Žižek, 'From Gnosticism to Divine Kenosis', Substack, 2026-08-08, https://slavoj.substack.com/p/from-gnosticism-to-divine-kenosis", page: ""}
 tags: [齐泽克, 拉康, 裂缝本体论, 决策理论, 生成性, 补偿性, 事件, 宗教, 时间]
 links:
-  - {id: 20260808-0001, reason: "判据同构：神玩的游戏=同一性幻觉的终极形态；字面肯诺西斯=承认裂缝不愈合的重复观"}
-  - {id: 20260808-0002, reason: "本文引维里利奥《The Art of the Motor》1995：第四位置=技术创造物反噬的技术面展开"}
-  - {id: 20260808-0003, reason: "张力：十字架的绝对切断（Chronos式事件）vs 事件分布在整个系列（DR式）"}
+  - {id: 20260808-0001-wolf-cry-repetition-same-belief, reason: "判据同构：神玩的游戏=同一性幻觉的终极形态；字面肯诺西斯=承认裂缝不愈合的重复观"}
+  - {id: 20260808-0002-virilio-speed-politics-dromology-regen-criterion, reason: "本文引维里利奥《The Art of the Motor》1995：第四位置=技术创造物反噬的技术面展开"}
+  - {id: 20260808-0003-stonecutter-two-layer-actualization, reason: "张力：十字架的绝对切断（Chronos式事件）vs 事件分布在整个系列（DR式）"}
   - {id: 20260709-0001, reason: "新教路线'父退为超我式任性主宰'与AI王=超我的结构对应"}
-  - {id: 20260623-0022, reason: "齐泽克本体论簇锚点：肯诺西斯（神掏空自身）与'少于无'的虚空论同簇"}
-  - {id: 20260713-0005, reason: "第四位置=裂缝的本体论定位：裂缝不在主客体之间，在主体活动铭刻进实在的方式"}
-  - {id: 20260724-0001, reason: "约伯式上帝=中介不可跳过的神学版：创造者不能跳过自身活动的铭刻"}
-  - {id: 20260622-0015, reason: "结尾'牺牲的自我取消=普遍之爱'与Eros作为间隔同构：放弃位置保留实践"}
-  - {id: 20260621-0505, reason: "肯诺西斯=神学化的虚空进入实在界；Zevnik/Žižek虚空之争的神学延长线"}
+  - {id: 20260623-0022-zizek-less-than-nothing-ingest, reason: "齐泽克本体论簇锚点：肯诺西斯（神掏空自身）与'少于无'的虚空论同簇"}
+  - {id: 20260713-0005-formal-theorems-security-fissure, reason: "第四位置=裂缝的本体论定位：裂缝不在主客体之间，在主体活动铭刻进实在的方式"}
+  - {id: 20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation, reason: "约伯式上帝=中介不可跳过的神学版：创造者不能跳过自身活动的铭刻"}
+  - {id: 20260622-0015-Eros不是欲望而是间隔Jenkins将爱重新定义为政治行动中的容纳转化操作, reason: "结尾'牺牲的自我取消=普遍之爱'与Eros作为间隔同构：放弃位置保留实践"}
+  - {id: 20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架, reason: "肯诺西斯=神学化的虚空进入实在界；Zevnik/Žižek虚空之争的神学延长线"}
 voice_passed: true
 aliases: ["字面肯诺西斯判据：神并非与自己玩受控游戏的主宰", "第四位置：我们创造的世界反过来淹没我们"]
 ---

@@ -1,16 +1,16 @@
 ---
-id: 20260810-0001
+id: 20260810-0001-becoming-revolutionary-virtual-people-crack
 status: permanent
 created: 2026-08-10T11:59:20+0800
 source: {type: article, ref: "Reyes, Raniel S.M. (2020). Deleuze and Guattari's Geophilosophy: The Fabulation of a People-to-come and Becoming-Revolutionary. Philippiniana Sacra, Vol. LV, No. 164, pp. 75-100.", page: "75-100"}
 tags: [德勒兹-加塔利, geophilosophy, 虚构, 革命, 裂缝本体论, 能指, revolutionary-politics]
 links:
-  - {id: 20260623-1706, reason: "fabulation与虚假者谱系：Bergson虚构机制→Deleuze权力的虚假者"}
-  - {id: 20260727-0001, reason: "geophilosophy簇：新地球与新人民是Reyes结论的出处"}
-  - {id: 20260623-1602, reason: "地缘哲学作为概念创造：哲学=创造概念以召唤世界与人民-将来"}
-  - {id: 20260621-0496, reason: "回旋曲双重功能对照：自我技术（Guattari/Zevnik）vs政治审慎（Reyes/Mengue）"}
-  - {id: 20260621-0448, reason: "迭奏曲的本体论三极功能 vs Reyes的政治功能"}
-  - {id: 20260621-0484, reason: "虚拟人民永恒缺席与主体作为消失的中介：同构的缺席连接结构"}
+  - {id: 20260623-1706-虚假的权力与创造性的虚假者, reason: "fabulation与虚假者谱系：Bergson虚构机制→Deleuze权力的虚假者"}
+  - {id: 20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity, reason: "geophilosophy簇：新地球与新人民是Reyes结论的出处"}
+  - {id: 20260623-1602-地缘哲学作为概念创造, reason: "地缘哲学作为概念创造：哲学=创造概念以召唤世界与人民-将来"}
+  - {id: 20260621-0496-圣状与回旋Guattari的ritournelle和Zevnik的sinthome是两种绕过父法创造主体性的自我技术, reason: "回旋曲双重功能对照：自我技术（Guattari/Zevnik）vs政治审慎（Reyes/Mengue）"}
+  - {id: 20260621-0448-迭奏曲ritournelle是连接混沌地球宇宙三极的核心操作, reason: "迭奏曲的本体论三极功能 vs Reyes的政治功能"}
+  - {id: 20260621-0484-主体作为消失的中介意识形态质询永远无法完全成功总有创伤性剩余抵御征召, reason: "虚拟人民永恒缺席与主体作为消失的中介：同构的缺席连接结构"}
 voice_passed: true
 aliases: ["生成-革命与革命不可混淆：虚拟人民的永恒缺席与裂缝的审慎"]
 ---

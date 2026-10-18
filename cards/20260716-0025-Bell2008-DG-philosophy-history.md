@@ -1,13 +1,13 @@
 ---
-id: 20260716-0025
+id: 20260716-0025-Bell2008-DG-philosophy-history
 status: permanent
 created: 2026-07-16T20:20:00+0800
 source: {type: review-essay, ref: "Bell, Jeffrey A. Review of Jay Lampert, 'Deleuze and Guattari's Philosophy of History.' Deleuze Studies 2.1 (2008): 109–119."}
 tags: [德勒兹, 加塔利, 历史哲学, 事件, 生成, 时间]
 links:
-  - {id: 20260715-0023, reason: "Luzecky的Aion/Chronos——DG的历史哲学要求时间从Chronos(编年)转向Aion(事件)"}
-  - {id: 20260715-0018, reason: "Hom的时间转向陷阱——DG的历史哲学直接回应了'断裂时刻'陷阱：事件不是断裂而是生成"}
-  - {id: 20260716-0003, reason: "Mutabdžija的巴尔干——DG的历史哲学是地理哲学的互补：历史层=时间中的地层"}
+  - {id: 20260715-0023-Luzecky2022-Deleuze-eternity, reason: "Luzecky的Aion/Chronos——DG的历史哲学要求时间从Chronos(编年)转向Aion(事件)"}
+  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "Hom的时间转向陷阱——DG的历史哲学直接回应了'断裂时刻'陷阱：事件不是断裂而是生成"}
+  - {id: 20260716-0003-Mutabdzija2022-Balkan-geophilosophy, reason: "Mutabdžija的巴尔干——DG的历史哲学是地理哲学的互补：历史层=时间中的地层"}
 voice_passed: true
 aliases: ["Bell 2008 DG philosophy of history", "DG的历史哲学——历史被解构为事件的生成"]
 ---

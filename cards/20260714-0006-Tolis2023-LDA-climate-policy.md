@@ -1,12 +1,12 @@
 ---
-id: 20260714-0006
+id: 20260714-0006-Tolis2023-LDA-climate-policy
 status: permanent
 created: 2026-07-14T14:20:00+0800
 source: {type: article, ref: "Tolis, Valeria. 'A Method for Change. Lacanian Discourse Analysis: A Glimpse into Climate Policy.' International Studies Quarterly 67.3 (2023): sqad067."}
 tags: [拉康, 话语分析, 方法论, 四大话语, 气候政策, 主体, 欧盟]
 links:
-  - {id: 20260703-0017, reason: "Zevnik-Mandelbaum特刊导言概括了本文——这是特刊中唯一的方法论贡献"}
-  - {id: 20260703-0019, reason: "症候分析——Tolis的'断裂'与症候的形式断裂共享同一方法论逻辑"}
+  - {id: 20260703-0017-Zevnik-Mandelbaum-ISQ2023-lacanian-IR, reason: "Zevnik-Mandelbaum特刊导言概括了本文——这是特刊中唯一的方法论贡献"}
+  - {id: 20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo, reason: "症候分析——Tolis的'断裂'与症候的形式断裂共享同一方法论逻辑"}
 voice_passed: true
 aliases: ["Tolis 2023 Lacanian discourse analysis", "LDA气候政策方法论"]
 ---

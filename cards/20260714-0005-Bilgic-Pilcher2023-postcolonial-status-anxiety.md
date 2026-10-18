@@ -1,13 +1,13 @@
 ---
-id: 20260714-0005
+id: 20260714-0005-Bilgic-Pilcher2023-postcolonial-status-anxiety
 status: permanent
 created: 2026-07-14T14:00:00+0800
 source: {type: article, ref: "Bilgic, Ali, and Jordan Pilcher. 'Desires, Fantasies and Hierarchies: Postcolonial Status Anxiety through Ontological Security.' European Journal of International Relations 29.4 (2023): 978–1003."}
 tags: [后殖民, 地位焦虑, 本体论安全, 拉康, 主体性, 土耳其, 全球南方]
 links:
-  - {id: 20260713-0002, reason: "Vulović-Ejdus的拉康式OSS——本文将'完整性'概念插入后殖民地位分析"}
-  - {id: 20260713-0003, reason: "Mitzen的OSS——本文的'地位追求=本体论缺失的填充'是对例行化的新补充"}
-  - {id: 20260714-0003, reason: "土耳其分析——同为国家案例，关注地位追求中隐含的本体论不安全"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的拉康式OSS——本文将'完整性'概念插入后殖民地位分析"}
+  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——本文的'地位追求=本体论缺失的填充'是对例行化的新补充"}
+  - {id: 20260714-0003-Adisonmez-Oztig2025-jouissance-Turkey, reason: "土耳其分析——同为国家案例，关注地位追求中隐含的本体论不安全"}
 voice_passed: true
 aliases: ["Bilgic-Pilcher 2023 postcolonial status anxiety", "后殖民地位焦虑与本体论安全"]
 ---

@@ -5,11 +5,11 @@ created: 2026-09-26T00:50:22+0800
 source: {type: article, ref: "Cash, John. Psychoanalysis, cultures of anarchy, and ontological insecurity. International Theory 12:2 (2020): 306–321. Symposium contribution. doi:10.1017/S1752971920000147", page: "306–311"}
 tags: [cash, 本体论安全, 本体论不安全, giddens, mitzen, 文化组合, 再平衡, 拉因, 焦虑]
 links:
-  - {id: 20260713-0003, reason: "Mitzen的Giddens式OSS——本文的首要批判对象"}
-  - {id: 20260622-0035, reason: "Steele的国家身份动机——同样被指依赖Giddens的静态主体"}
-  - {id: 20260715-0001, reason: "Eberle：本体论安全不可达——与本文'通常总能维持'构成正面分歧"}
-  - {id: 20260622-0040, reason: "李格琴的OSS中文引介——同一套Giddens前提的另一种接受方式"}
-  - {id: 20260926-0011, reason: "同篇论文的下一步：文化形式并存与可变配重，即'then what'的具体答案"}
+  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的Giddens式OSS——本文的首要批判对象"}
+  - {id: 20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话, reason: "Steele的国家身份动机——同样被指依赖Giddens的静态主体"}
+  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle：本体论安全不可达——与本文'通常总能维持'构成正面分歧"}
+  - {id: 20260622-0040-李格琴论本体安全理论介入国际政治研究的基本信任存在焦虑与自我认同, reason: "李格琴的OSS中文引介——同一套Giddens前提的另一种接受方式"}
+  - {id: 20260926-0011-cash-cultures-of-anarchy-hybrid-repertoire, reason: "同篇论文的下一步：文化形式并存与可变配重，即'then what'的具体答案"}
 voice_passed: true
 aliases: ["本体论不安全优先", "what comes next", "文化组合的再配重"]
 ---

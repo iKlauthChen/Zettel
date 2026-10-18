@@ -1,15 +1,15 @@
 ---
-id: 20260721-0009
+id: 20260721-0009-Luttwak-paradoxical-logic-strategy
 status: permanent
 created: 2026-07-21T15:00:00+0800
 source: {type: book, ref: "Luttwak, Edward N. 2001. Strategy: The Logic of War and Peace. Rev. and enl. ed. Cambridge, MA: Belknap Press of Harvard University Press."}
 tags: [luttwak, strategy, paradox, linear-logic, logic-of-war, strategic-theory]
 links:
-  - {id: 20260721-0005, reason: "Biddle和Luttwak对战略运作的描述方式形成鲜明对比——Biddle用可操作化的现代系统，Luttwak用悖论逻辑这个不可操作化的总框架"}
-  - {id: 20260721-0011, reason: "Luttwak战略五层级——悖论逻辑的层级化展开"}
-  - {id: 20260721-0012, reason: "Luttwak武装说服——后英雄时代的悖论操作"}
-  - {id: 20260721-0001, reason: "Womack对Schelling霸权前提的批判与Luttwak的'线性逻辑在战略中失效'论断共享问题意识"}
-  - {id: 20260805-0003, reason: "Luttwak的悖论逻辑是论文奇正重述最直接的西方战略理论对话者"}
+  - {id: 20260721-0005-Biddle-modern-system-force-employment, reason: "Biddle和Luttwak对战略运作的描述方式形成鲜明对比——Biddle用可操作化的现代系统，Luttwak用悖论逻辑这个不可操作化的总框架"}
+  - {id: 20260721-0011-Luttwak-vertical-dimension-levels, reason: "Luttwak战略五层级——悖论逻辑的层级化展开"}
+  - {id: 20260721-0012-Luttwak-armed-suasion-postheroic, reason: "Luttwak武装说服——后英雄时代的悖论操作"}
+  - {id: 20260721-0001-Womack-multinodal-critique-Schelling-premises, reason: "Womack对Schelling霸权前提的批判与Luttwak的'线性逻辑在战略中失效'论断共享问题意识"}
+  - {id: 20260805-0003-strategic-theory-literature-map, reason: "Luttwak的悖论逻辑是论文奇正重述最直接的西方战略理论对话者"}
 voice_passed: true
 aliases: ["Luttwak paradoxical logic", "战略的悖论逻辑", "linear vs paradoxical logic"]
 ---

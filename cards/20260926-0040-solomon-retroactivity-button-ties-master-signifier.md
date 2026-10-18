@@ -5,11 +5,11 @@ created: 2026-09-26T09:41:32+0800
 source: {type: article, ref: "Solomon, Ty. Time and Subjectivity in World Politics. International Studies Quarterly 58, no. 4 (2014): 671–681. doi:10.1111/isqu.12091", page: "672–674"}
 tags: [拉康, 回退性, 纽结, 主人能指, 意义生产, 缝合, 齐泽克, 芬克, 差异]
 links:
-  - {id: 20260715-0019, reason: "旧卡（旧版把本文读成'欲望永远延迟'）；本卡是展开之一"}
-  - {id: 20261015-0001, reason: "桥接卡：本卡判断(3)标出的'拉康回退性 vs 德勒兹时间本体'边界，被推进为'形式同构、评价分歧'"}
-  - {id: 20260703-0019, reason: "Zevnik的症候与幻象——同一拉康式意义机制的关键词版本"}
-  - {id: 20260622-0029, reason: "拉康晚期对反俄狄浦斯的回应——圣状与lalangue是这一能指逻辑之后的转向"}
-  - {id: 20260623-2302, reason: "拉康作为黑格尔的重复——回溯性与'重复'的关系"}
+  - {id: 20260715-0019-Solomon2014-time-subjectivity, reason: "旧卡（旧版把本文读成'欲望永远延迟'）；本卡是展开之一"}
+  - {id: 20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge, reason: "桥接卡：本卡判断(3)标出的'拉康回退性 vs 德勒兹时间本体'边界，被推进为'形式同构、评价分歧'"}
+  - {id: 20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo, reason: "Zevnik的症候与幻象——同一拉康式意义机制的关键词版本"}
+  - {id: 20260622-0029-拉康晚期对反俄狄浦斯的回应实在无意识lalangue和圣状是对结构无意识的非缺陷论突破, reason: "拉康晚期对反俄狄浦斯的回应——圣状与lalangue是这一能指逻辑之后的转向"}
+  - {id: 20260623-2302-拉康作为黑格尔的重复, reason: "拉康作为黑格尔的重复——回溯性与'重复'的关系"}
 voice_passed: true
 aliases: ["回退性与纽结", "button tie", "主人能指的回溯投影"]
 ---

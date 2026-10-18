@@ -5,10 +5,10 @@ created: 2026-09-26T09:44:17+0800
 source: {type: article, ref: "Hom, Andrew R. Timing Is Everything: Toward a Better Understanding of Time and International Politics. International Studies Quarterly 62, no. 1 (2018): 69–79. doi:10.1093/isq/sqx090", page: "接受稿 pp.12–17"}
 tags: [异时间性, 判据, 主人概念, 启发式框架, chronos, kairos, aion, 反实体化, 时间等级制]
 links:
-  - {id: 20260715-0017, reason: "旧卡；本卡是展开之一"}
-  - {id: 20260715-0020, reason: "Dunn Cavelty的韧性——把时间性当批判对象的相邻研究"}
-  - {id: 20260926-0034, reason: "Amoureux的后殖民修正——把'复数时空经验'作为判据的同构操作"}
-  - {id: 20260716-0042, reason: "Michel的复数世界——多元性作为方法论要求的另一版本"}
+  - {id: 20260715-0017-Hom2018-timing-theory, reason: "旧卡；本卡是展开之一"}
+  - {id: 20260715-0020-DunnCavelty2015-resilience, reason: "Dunn Cavelty的韧性——把时间性当批判对象的相邻研究"}
+  - {id: 20260926-0034-amoureux-postcolonial-corrective-scholarly-reflexivity, reason: "Amoureux的后殖民修正——把'复数时空经验'作为判据的同构操作"}
+  - {id: 20260716-0042-Michel2013-one-world-not-enough, reason: "Michel的复数世界——多元性作为方法论要求的另一版本"}
 voice_passed: true
 aliases: ["异时间性作为判据", "chronos/kairos/aion的重新指派", "反实体化的三个收益"]
 ---

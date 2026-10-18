@@ -1,5 +1,5 @@
 ---
-id: 20260714-0009
+id: 20260714-0009-Barnett-Zarakol2023-essentialism-trap
 status: permanent
 created: 2026-07-14T15:40:00+0800
 source: {type: article, ref: "Barnett, Michael, and Ayşe Zarakol. 'Global international relations and the essentialism trap.' International Theory 15.3 (2023): 428–444."}

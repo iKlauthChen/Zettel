@@ -5,10 +5,10 @@ created: 2026-09-26T00:54:48+0800
 source: {type: article, ref: "Erskine, Toni. AI and the future of IR: Disentangling flesh-and-blood, institutional, and synthetic moral agency in world politics. Review of International Studies 50:3 (2024): 534–559. doi:10.1017/S0260210524000202", page: "543–547, 555"}
 tags: [erskine, 道德受动性, moral-patiency, 道德能动性, 制裁溢出, 机器人伦理, 康德, 互惠, 制度道德能动者]
 links:
-  - {id: 20260701-0025, reason: "温特与Lerner把国家当作道德受动者谈论而不自知"}
-  - {id: 20260830-0040, reason: "国家意识与受动性——'像当个国家是什么感觉'式提问的困难"}
-  - {id: 20260716-0031, reason: "Johnson论生物政治与自由战争——谁被算作受保护者、人道分割的技术前提"}
-  - {id: 20260926-0016, reason: "同篇论文的分类框架：受动性正是三类能动者的分离线"}
+  - {id: 20260701-0025-wendt-constructivist-ontology, reason: "温特与Lerner把国家当作道德受动者谈论而不自知"}
+  - {id: 20260830-0040-温特量子心灵国家作为潜在实在, reason: "国家意识与受动性——'像当个国家是什么感觉'式提问的困难"}
+  - {id: 20260716-0031-Johnson2024-biopolitics-liberal-war, reason: "Johnson论生物政治与自由战争——谁被算作受保护者、人道分割的技术前提"}
+  - {id: 20260926-0016-erskine-three-models-flesh-institutional-synthetic, reason: "同篇论文的分类框架：受动性正是三类能动者的分离线"}
 voice_passed: true
 aliases: ["道德施动与道德受动的不对称", "由受动者构成的能动者", "扫地机器人同情与折磨动物"]
 ---

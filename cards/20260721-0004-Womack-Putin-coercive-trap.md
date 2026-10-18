@@ -1,13 +1,13 @@
 ---
-id: 20260721-0004
+id: 20260721-0004-Womack-Putin-coercive-trap
 status: permanent
 created: 2026-07-21T13:45:00+0800
 source: {type: article, ref: "Womack, Brantly. 2025. 'Contra Schelling: The Trap of Coercive Strategy in a Multinodal Era.' Perspectives on Politics 23(2): 1–17."}
 tags: [putin, ukraine, coercion, schelling, case-study, multinodal, strategic-theory]
 links:
-  - {id: 20260721-0001, reason: "案例分析的理论框架——Putin失败的直接原因是应用了Schelling的强迫逻辑"}
-  - {id: 20260721-0003, reason: "Putin失败的实质是牺牲了领导信誉来追逐不可达的命令信誉"}
-  - {id: 20260805-0003, reason: "可作为'动力有限性'的经验支撑——Putin的战略意图与手段-环境的结构性错位"}
+  - {id: 20260721-0001-Womack-multinodal-critique-Schelling-premises, reason: "案例分析的理论框架——Putin失败的直接原因是应用了Schelling的强迫逻辑"}
+  - {id: 20260721-0003-Womack-command-credibility-vs-leadership, reason: "Putin失败的实质是牺牲了领导信誉来追逐不可达的命令信誉"}
+  - {id: 20260805-0003-strategic-theory-literature-map, reason: "可作为'动力有限性'的经验支撑——Putin的战略意图与手段-环境的结构性错位"}
 voice_passed: true
 aliases: ["Womack Putin analysis", "Putin coercive trap案例", "乌克兰战争与强迫逻辑失败"]
 ---

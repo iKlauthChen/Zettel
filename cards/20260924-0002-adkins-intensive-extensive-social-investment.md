@@ -5,9 +5,9 @@ created: 2026-09-24T23:02:34+0800
 source: {type: article, ref: "Adkins, Brent. ‘Anti-Oedipus: Metaphysics and method.’ In Analysis 7 (2023), article 100363. DOI: 10.1016/j.inan.2023.100363", page: "7–8"}
 tags: [adkins, deleuze, schizoanalysis, desire, molecular-politics]
 links:
-  - {id: 20260620-1523, reason: "利益投注与欲望投注的差异——本文补入强度/广延的分析尺度"}
-  - {id: 20260620-1527, reason: "欲望投注与社会技术机器同处物质社会场"}
-  - {id: 20260621-0501, reason: "全球社会谵妄是群体层面力比多投注的政治案例"}
+  - {id: 20260620-1523-利益机器从不适合欲望机器, reason: "利益投注与欲望投注的差异——本文补入强度/广延的分析尺度"}
+  - {id: 20260620-1527-欲望机器是社会技术机器的元意识且欲望必须, reason: "欲望投注与社会技术机器同处物质社会场"}
+  - {id: 20260621-0501-全球社会谵妄不是个体精神病理而是社会场的全体性欲望投注Akil对ISIS视频的德勒兹式解读, reason: "全球社会谵妄是群体层面力比多投注的政治案例"}
 voice_passed: true
 aliases: ["群体力比多投注与阶级利益属于强度和广延的不同尺度"]
 ---

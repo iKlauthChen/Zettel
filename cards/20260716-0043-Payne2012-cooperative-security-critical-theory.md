@@ -1,11 +1,11 @@
 ---
-id: 20260716-0043
+id: 20260716-0043-Payne2012-cooperative-security-critical-theory
 status: permanent
 created: 2026-07-17T02:00:00+0800
 source: {type: article, ref: "Payne, Rodger A. 'Cooperative Security: Grand Strategy Meets Critical Theory?' Millennium: Journal of International Studies 40.3 (2012): 605–624."}
 tags: [合作安全, 大战略, 批判理论, 多边主义, 人类安全, 解放]
 links:
-  - {id: 20260624-0159, reason: "张景全的区域化与安全化悖论——Payne提供了悖论层面上的出路:从'安全合作'到'对合作的安全效应的批判性自反'"}
+  - {id: 20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation, reason: "张景全的区域化与安全化悖论——Payne提供了悖论层面上的出路:从'安全合作'到'对合作的安全效应的批判性自反'"}
 voice_passed: true
 aliases: ["Payne 2012 cooperative security critical theory", "合作安全——大战略与批判理论的对话"]
 ---

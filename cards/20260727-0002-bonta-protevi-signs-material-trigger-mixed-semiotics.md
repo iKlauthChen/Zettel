@@ -1,13 +1,13 @@
 ---
-id: 20260727-0002
+id: 20260727-0002-bonta-protevi-signs-material-trigger-mixed-semiotics
 status: permanent
 created: 2026-07-27T09:20:00+0800
 source: {type: article, ref: "Bonta, Mark & John Protevi. 2004. 'Introduction.' In Deleuze and Geophilosophy: A Guide and Glossary. APERÇU extract, pp.3-7.", page: "3-7"}
 tags: [bonta, protevi, 符号, 物质触发, 意义, 混合符号态, enredo, 缠绕, 能指帝国, 符号态体制, 国家符号态, 后现代主义, 地理学]
 links:
-  - {id: 20260727-0001, reason: "导言纲领——符号作为物质触发器是地球哲学项目的核心预设"}
-  - {id: 20260623-0015, reason: "Bonta-Protevi复杂性理论进路——符号/意义的物质化是复杂性理论对接的核心环节"}
-  - {id: 20260624-0073, reason: "欲望机器与国家——符号态体制/国家符号化的原始文本关联"}
+  - {id: 20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity, reason: "导言纲领——符号作为物质触发器是地球哲学项目的核心预设"}
+  - {id: 20260623-0015-bonta-protevi-geophilosophy-ingest-2, reason: "Bonta-Protevi复杂性理论进路——符号/意义的物质化是复杂性理论对接的核心环节"}
+  - {id: 20260624-0073-original-batch3-desire-machine-state, reason: "欲望机器与国家——符号态体制/国家符号化的原始文本关联"}
 voice_passed: true
 aliases: ["Bonta-Protevi：意义作为物质触发与混合符号态"]
 ---

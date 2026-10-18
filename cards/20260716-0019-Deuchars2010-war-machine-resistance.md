@@ -1,11 +1,11 @@
 ---
-id: 20260716-0019
+id: 20260716-0019-Deuchars2010-war-machine-resistance
 status: permanent
 created: 2026-07-16T16:20:00+0800
 source: {type: article, ref: "Deuchars, Robert. 'Creating Lines of Flight and Activating Resistance: Deleuze and Guattari's War Machine.' Antithesis: Postgraduate Journal of the School of Culture and Communication, University of Melbourne 20 (2010): 161–178."}
 tags: [德勒兹, 加塔利, 战争机器, 逃逸线, 抵抗, 生成]
 links:
-  - {id: 20260716-0007, reason: "Thornton的逃逸线——本文聚焦于如何激活逃逸线作为抵抗实践"}
+  - {id: 20260716-0007-Thornton2020-line-of-flight, reason: "Thornton的逃逸线——本文聚焦于如何激活逃逸线作为抵抗实践"}
 voice_passed: true
 aliases: ["Deuchars 2010 war machine resistance", "战争机器——激活抵抗的逃逸线"]
 ---

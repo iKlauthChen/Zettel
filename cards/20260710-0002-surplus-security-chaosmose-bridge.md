@@ -1,13 +1,13 @@
 ---
-id: 20260710-0002
+id: 20260710-0002-surplus-security-chaosmose-bridge
 status: permanent
 created: 2026-07-10T17:00:00+0800
 source: {type: conversation, ref: "Hermes Agent与利奥波德对话，2026-07-10；Guattari, Chaosmose (1992)"}
 tags: [剩余安全, 加塔利, 混沌互渗, 自创生, 机器, 三重生态, 异质发生, 桥接卡]
 links:
-  - {id: 20260709-0003, reason: "机械圈谱系——从机器圈到Chaosmose的演变"}
-  - {id: 20260710-0001, reason: "俄狄浦斯/树状批判的同构——反层化操作在不同域的延伸"}
-  - {id: 20260703-0022, reason: "替代吸引子——剩余安全的一种动力学表述"}
+  - {id: 20260709-0003-Dukes2016-mechanosphere-genealogy, reason: "机械圈谱系——从机器圈到Chaosmose的演变"}
+  - {id: 20260710-0001-Oedipus-vs-tree-critique-isomorphism, reason: "俄狄浦斯/树状批判的同构——反层化操作在不同域的延伸"}
+  - {id: 20260703-0022-sustainable-alternative-attractor-bridge, reason: "替代吸引子——剩余安全的一种动力学表述"}
 voice_passed: true
 aliases: ["剩余安全的Chaosmose桥接", "安全理论的机器论转向"]
 ---

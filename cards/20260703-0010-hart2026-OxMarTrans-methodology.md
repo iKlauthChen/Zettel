@@ -1,12 +1,12 @@
 ---
-id: 20260703-0010
+id: 20260703-0010-hart2026-OxMarTrans-methodology
 status: permanent
 created: 2026-07-03T14:45:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, Appendix I, p.13."}
 tags: [CSIS, trade, chokepoint, maritime, methodology, empirical-research]
 links:
-  - {id: 20260624-0041, reason: "反事实方法——与本卡的实证路径推理在认识论上互补（演绎vs归纳）"}
-  - {id: 20260703-0001, reason: "本卡为批次总览卡提供方法论基础"}
+  - {id: 20260624-0041-liu-micro-events-card3-counterfactual-method, reason: "反事实方法——与本卡的实证路径推理在认识论上互补（演绎vs归纳）"}
+  - {id: 20260703-0001-hart2026-scs-trade-overview, reason: "本卡为批次总览卡提供方法论基础"}
 voice_passed: true
 aliases: ["Verschuur-OxMarTrans海运追踪方法论"]
 ---

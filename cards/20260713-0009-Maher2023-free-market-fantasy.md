@@ -1,14 +1,14 @@
 ---
-id: 20260713-0009
+id: 20260713-0009-Maher2023-free-market-fantasy
 status: permanent
 created: 2026-07-13T11:30:00+0800
 source: {type: article, ref: "Maher, Henry. 'The Free Market as Fantasy: A Lacanian Approach to the Problem of Neoliberal Resilience.' International Studies Quarterly 67.3 (2023): sqad050."}
 tags: [新自由主义, 幻象, 拉康, 自由市场, 欲望, 意识形态, G20, 金融危机]
 links:
-  - {id: 20260703-0017, reason: "Zevnik-Mandelbaum特刊导言已概括本文论点——本文是特刊中的独立论文"}
-  - {id: 20260703-0018, reason: "穿越幻象——本文的伦理结论：需要穿越自由市场的幻象，承认本体论虚空"}
-  - {id: 20260703-0019, reason: "社会幻象即治理策略——Maher展示了一个更具体的社会幻象运作案例"}
-  - {id: 20260714-0001, reason: "吴冠军的结构性溢出——与Maher的内置失败机制共享同一形式结构"}
+  - {id: 20260703-0017-Zevnik-Mandelbaum-ISQ2023-lacanian-IR, reason: "Zevnik-Mandelbaum特刊导言已概括本文论点——本文是特刊中的独立论文"}
+  - {id: 20260703-0018-Zevnik-Mandelbaum-ISQ2023-emancipation, reason: "穿越幻象——本文的伦理结论：需要穿越自由市场的幻象，承认本体论虚空"}
+  - {id: 20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo, reason: "社会幻象即治理策略——Maher展示了一个更具体的社会幻象运作案例"}
+  - {id: 20260714-0001-wu-structural-overflow-marxism, reason: "吴冠军的结构性溢出——与Maher的内置失败机制共享同一形式结构"}
 voice_passed: true
 aliases: ["Maher 2023 free market fantasy", "自由市场作为幻象——新自由主义的韧性"]
 ---

@@ -1,13 +1,13 @@
 ---
-id: 20260630-0003
+id: 20260630-0003-bonta-protevi-political-physiology-above-below-subject
 status: permanent
 created: 2026-06-30T15:34:00+0800
 source: {type: book, ref: "Bonta, Mark & John Protevi. 2004. *Deleuze and Geophilosophy: A Guide and Glossary*. Edinburgh: Edinburgh University Press, pp.33-35.", page: "33-35"}
 tags: [bonta, protevi, deleuze, guattari, emergence, subject, agency, structure-agency, complexity-theory, neuroscience, methodological-individualism, political-physiology]
 links:
-  - {id: 20260621-0438, reason: "DG 用复杂性理论消解结构/能动困境——本卡为其提供了'主体作为中间层级'的具体论证"}
-  - {id: 20260630-0002, reason: "同一章节——涌现的证明难题转向了主体层级的定位问题"}
-  - {id: 20260623-2201, reason: "德勒兹本体论与复杂性理论的对接——本卡是这一对接在主体性问题上的应用"}
+  - {id: 20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边, reason: "DG 用复杂性理论消解结构/能动困境——本卡为其提供了'主体作为中间层级'的具体论证"}
+  - {id: 20260630-0002-bonta-protevi-emergence-epistemic-ontological, reason: "同一章节——涌现的证明难题转向了主体层级的定位问题"}
+  - {id: 20260623-2201-德勒兹本体论作为复杂性理论的形而上学, reason: "德勒兹本体论与复杂性理论的对接——本卡是这一对接在主体性问题上的应用"}
 voice_passed: true
 aliases: ["Bonta-Protevi 的政治生理学：主体之上与主体之下", "主体作为中间涌现层级"]
 ---

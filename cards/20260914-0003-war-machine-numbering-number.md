@@ -1,14 +1,14 @@
 ---
-id: 20260914-0003
+id: 20260914-0003-war-machine-numbering-number
 status: permanent
 created: 2026-09-14T10:08:00+0800
 source: {type: article, ref: "Smith, Daniel W. 'The Noumena of History: On the Status of Nomads in Deleuze's Thought.' IAPL 2008年会论文（会议版，Melbourne）；期刊版见 Research in Phenomenology 46.1 (2016): 81-100."}
 tags: [德勒兹, 战争机器, 平滑空间, 生命政治, 游牧, biopolitics]
 links:
-  - {id: 20260621-0470, reason: "游牧科学vs皇家科学——认识论组件（追踪物质流）；与数目跟随运动同构"}
-  - {id: 20260623-1610, reason: "平滑空间与条纹化空间——几何组件；数目作为平滑空间的移动占据者"}
-  - {id: 20260627-0001, reason: "现代战争=管理群体存活——生命政治：国家数目对人口的终极应用（后勤算术）"}
-  - {id: 20260914-0001, reason: "批次内——理念的组件性：算术组件是'可思理念'的构成内容之一"}
+  - {id: 20260621-0470-游牧科学vs皇家科学BontaProtevi制图学属于追踪物质流的游牧科学而非演绎的大科学, reason: "游牧科学vs皇家科学——认识论组件（追踪物质流）；与数目跟随运动同构"}
+  - {id: 20260623-1610-平滑空间与条纹化空间, reason: "平滑空间与条纹化空间——几何组件；数目作为平滑空间的移动占据者"}
+  - {id: 20260627-0001-现代战争管理群体存活而非消灭个体, reason: "现代战争=管理群体存活——生命政治：国家数目对人口的终极应用（后勤算术）"}
+  - {id: 20260914-0001-nomads-noumena-of-history, reason: "批次内——理念的组件性：算术组件是'可思理念'的构成内容之一"}
 voice_passed: true
 aliases: ["战争机器的算术组件：数目成为平滑空间的自治主体"]
 ---

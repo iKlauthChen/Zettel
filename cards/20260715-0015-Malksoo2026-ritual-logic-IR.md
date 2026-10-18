@@ -1,11 +1,11 @@
 ---
-id: 20260715-0015
+id: 20260715-0015-Malksoo2026-ritual-logic-IR
 status: permanent
 created: 2026-07-15T15:40:00+0800
 source: {type: article, ref: "Mälksoo, Maria. 'The Logic of Ritual Action in International Relations.' Global Studies Quarterly 6.1 (2026): ksag014."}
 tags: [仪式, 国际关系理论, 符号, 情感, 互动仪式链]
 links:
-  - {id: 20260715-0008, reason: "仪式威慑——本文是仪式逻辑的一般化展开，威慑是其一个应用"}
+  - {id: 20260715-0008-Malksoo2021-ritual-deterrence, reason: "仪式威慑——本文是仪式逻辑的一般化展开，威慑是其一个应用"}
 voice_passed: true
 aliases: ["Mälksoo 2026 ritual action", "国际关系中的仪式行动逻辑"]
 ---

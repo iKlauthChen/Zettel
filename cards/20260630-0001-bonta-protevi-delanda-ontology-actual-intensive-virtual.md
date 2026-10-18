@@ -1,14 +1,14 @@
 ---
-id: 20260630-0001
+id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual
 status: permanent
 created: 2026-06-30T15:30:00+0800
 source: {type: book, ref: "Bonta, Mark & John Protevi. 2004. *Deleuze and Geophilosophy: A Guide and Glossary*. Edinburgh: Edinburgh University Press, pp.12-19, 2nd edn 2006.", page: "12-19"}
 tags: [bonta, protevi, deleuze, ontology, actual, virtual, intensive, morphogenesis, complexity-theory, complexity, science, strata, delanda]
 links:
-  - {id: 20260621-0440, reason: "Deleuze 的本体论以虚拟替代可能——本卡为 DeLanda 版本的 actual/intensive/virtual 三分法提供了更系统的重构"}
-  - {id: 20260623-2200, reason: "Bonta-Protevi 核心论题：德勒兹作为当代的康德——本卡为其本体论部分（actual/intensive/virtual）的展开"}
-  - {id: 20260623-2201, reason: "德勒兹本体论与复杂性理论的映射——DeLanda 重构将虚拟复数性、强度形态发生与非线性系统的吸引子结构对接"}
-  - {id: 20260621-0437, reason: "DG 的地缘哲学是用复杂性理论重新锚定哲学与地理学——本卡为这一工程提供本体论基础"}
+  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "Deleuze 的本体论以虚拟替代可能——本卡为 DeLanda 版本的 actual/intensive/virtual 三分法提供了更系统的重构"}
+  - {id: 20260623-2200-Bonta, reason: "Bonta-Protevi 核心论题：德勒兹作为当代的康德——本卡为其本体论部分（actual/intensive/virtual）的展开"}
+  - {id: 20260623-2201-德勒兹本体论作为复杂性理论的形而上学, reason: "德勒兹本体论与复杂性理论的映射——DeLanda 重构将虚拟复数性、强度形态发生与非线性系统的吸引子结构对接"}
+  - {id: 20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学, reason: "DG 的地缘哲学是用复杂性理论重新锚定哲学与地理学——本卡为这一工程提供本体论基础"}
 voice_passed: true
 aliases: ["Bonta-Protevi 对德勒兹本体论的 DeLanda 式三分重构", "德勒兹本体论的实际-强度-虚拟"]
 ---

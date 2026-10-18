@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P351"}
 tags: [deleuze, 差异与重复, 微分, 分化, 理念, 问题, 现实化]
 links:
-  - {id: 20261010-0006, reason: "问题的辩证秩序"}
-  - {id: 20260620-1544, reason: "微分与分化的时间性"}
-  - {id: 20260621-0463, reason: "问题的客观性"}
-  - {id: 20261010-0023, reason: "潜能的现实化"}
+  - {id: 20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽, reason: "问题的辩证秩序"}
+  - {id: 20260620-1544-德勒兹的两种时间模式, reason: "微分与分化的时间性"}
+  - {id: 20260621-0463-马克思辩证法为概念创造提供了三条原则客观性对立统一和理想性, reason: "问题的客观性"}
+  - {id: 20261010-0023-potential-not-opposed-actual-潜能不对立于实在, reason: "潜能的现实化"}
 voice_passed: true
 aliases: ["微分与分化"]
 ---

@@ -1,13 +1,13 @@
 ---
-id: 20260713-0007
+id: 20260713-0007-paranoid-repetition-coding-reshaping
 status: permanent
 created: 2026-07-13T14:00:00+0800
 source: {type: synthesis, ref: "综合德勒兹&加塔利《千高原》再辖域化概念与拉康式对象a分析框架，为剩余安全理论的操作化区分"}
 tags: [偏执型重复, 编码重塑, 解域化, 再辖域化, 对象a, 操作化, 剩余安全, 方法论]
 links:
-  - {id: 20260624-0075, reason: "剩余安全核心框架——偏执型重复与编码重塑是该框架中安全编码的两个方向"}
-  - {id: 20260713-0002, reason: "Vulović-Ejdus的对象a识别三步法——本文的五指标标准借鉴了该方法的操作化思路"}
-  - {id: 20260621-0505, reason: "三层本体论框架——偏执型重复属于L3的结构固化，编码重塑涉及L2虚拟吸引子的重组"}
+  - {id: 20260624-0075-original-batch4-surplus-security, reason: "剩余安全核心框架——偏执型重复与编码重塑是该框架中安全编码的两个方向"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的对象a识别三步法——本文的五指标标准借鉴了该方法的操作化思路"}
+  - {id: 20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架, reason: "三层本体论框架——偏执型重复属于L3的结构固化，编码重塑涉及L2虚拟吸引子的重组"}
 voice_passed: true
 aliases: ["偏执型重新领域化vs解域化式编码重塑", "安全实践的两种编码方向"]
 ---

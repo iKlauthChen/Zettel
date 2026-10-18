@@ -1,11 +1,11 @@
 ---
-id: 20260716-0007
+id: 20260716-0007-Thornton2020-line-of-flight
 status: permanent
 created: 2026-07-16T12:00:00+0800
 source: {type: article, ref: "Thornton, Edward. 'On Lines of Flight: The Theory of Political Transformation in A Thousand Plateaus.' Deleuze and Guattari Studies 14.3 (2020): 433–456."}
 tags: [德勒兹, 加塔利, 逃逸线, 政治变革, 装配, 机器, 后资本主义]
 links:
-  - {id: 20260716-0004, reason: "Abrahams的装配地理学——逃逸线是装配的三种状态(形成/流变/消散)与机器跨界之间的桥梁"}
+  - {id: 20260716-0004-Abrahams2025-assemblage-geography, reason: "Abrahams的装配地理学——逃逸线是装配的三种状态(形成/流变/消散)与机器跨界之间的桥梁"}
 voice_passed: true
 aliases: ["Thornton 2020 line of flight", "逃逸线——ATP政治变革理论"]
 ---

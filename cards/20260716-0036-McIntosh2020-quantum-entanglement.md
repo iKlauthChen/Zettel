@@ -5,14 +5,14 @@ created: 2026-07-17T00:00:00+0800
 source: {type: article, ref: "McIntosh, Chris. 'Writing Quantum Entanglement into International Relations: Temporality, Positionality, and the Ontology of War.' Millennium: Journal of International Studies 49.1 (2020): 162–174. doi:10.1177/0305829820971688", page: "162–174"}
 tags: [量子, 纠缠, 时间性, 位置性, 战争, 本体论, 赞诺蒂, 实质主义]
 links:
-  - {id: 20260716-0027, reason: "Svitych的量子IR——McIntosh是更早的一个版本，重心在隐喻而非物理实在"}
-  - {id: 20260715-0017, reason: "Hom的时机理论——量子纠缠要求放弃线性的时间方向"}
-  - {id: 20260715-0018, reason: "Hom的时间转向——量子时间性是其四种陷阱之外的另一种'时间不能被同化'的结构"}
-  - {id: 20260926-0035, reason: "展开卡：牛顿式沉睡、实质主义批判与'没有丝的网'"}
-  - {id: 20260926-0036, reason: "展开卡：量子时间性与米德的现在哲学、为何仍用科学隐喻"}
-  - {id: 20260926-0037, reason: "展开卡：暴力的回溯性与战争的非自然化"}
-  - {id: 20260926-0038, reason: "展开卡：后向因果与战争的不可分解性"}
-  - {id: 20260926-0039, reason: "展开卡：学术谦逊、位置性与批判IR的潜在结构主义"}
+  - {id: 20260716-0027-Svitych2025-algorithms-quantum-IR, reason: "Svitych的量子IR——McIntosh是更早的一个版本，重心在隐喻而非物理实在"}
+  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——量子纠缠要求放弃线性的时间方向"}
+  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "Hom的时间转向——量子时间性是其四种陷阱之外的另一种'时间不能被同化'的结构"}
+  - {id: 20260926-0035-mcintosh-newtonian-slumber-metaphor-not-mimesis, reason: "展开卡：牛顿式沉睡、实质主义批判与'没有丝的网'"}
+  - {id: 20260926-0036-mcintosh-quantum-temporality-mead-present-and-science-metaphor-defence, reason: "展开卡：量子时间性与米德的现在哲学、为何仍用科学隐喻"}
+  - {id: 20260926-0037-mcintosh-retroactivity-of-violence-denaturalising-war, reason: "展开卡：暴力的回溯性与战争的非自然化"}
+  - {id: 20260926-0038-mcintosh-backwards-causation-war-not-decomposable, reason: "展开卡：后向因果与战争的不可分解性"}
+  - {id: 20260926-0039-mcintosh-scholarly-humility-and-latent-structuralism, reason: "展开卡：学术谦逊、位置性与批判IR的潜在结构主义"}
 voice_passed: true
 aliases: ["McIntosh 2020 quantum entanglement IR", "量子纠缠——时间性、位置性与战争本体论"]
 ---

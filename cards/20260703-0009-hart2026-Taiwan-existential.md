@@ -1,14 +1,14 @@
 ---
-id: 20260703-0009
+id: 20260703-0009-hart2026-Taiwan-existential
 status: permanent
 created: 2026-07-03T14:40:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, pp.8-9."}
 tags: [CSIS, trade, chokepoint, strait, taiwan, security, energy-security, maritime-security]
 links:
-  - {id: 20260620-1795, reason: "中国航母象征性力量——台湾海峡的战略脆弱性与中国航母的威慑叙事形成张力"}
-  - {id: 20260623-0003, reason: "航母作为本体论安全装置——台湾海峽对台湾的本体论安全（生存）意义超过物质层面"}
-  - {id: 20260623-0002, reason: "海洋本体论不安全——台湾的岛屿属性使其处于本体论不安全的原初状态"}
-  - {id: 20260703-0003, reason: "中国台湾海峡困境——镜像对比：中国依赖台湾海峡但不是生存依赖，台湾是"}
+  - {id: 20260620-1795-中国航母定位为必要的象征性力量而非对抗美, reason: "中国航母象征性力量——台湾海峡的战略脆弱性与中国航母的威慑叙事形成张力"}
+  - {id: 20260623-0003-航母作为本体论安全装置国家的海洋大国身份叙事通过航母的物质化展演來修补, reason: "航母作为本体论安全装置——台湾海峽对台湾的本体论安全（生存）意义超过物质层面"}
+  - {id: 20260623-0002-海洋作为本体论不安全的空间对应在陆地条纹化叙事和海洋平滑性之间的存在焦虑, reason: "海洋本体论不安全——台湾的岛屿属性使其处于本体论不安全的原初状态"}
+  - {id: 20260703-0003-hart2026-china-Taiwan-dilemma, reason: "中国台湾海峡困境——镜像对比：中国依赖台湾海峡但不是生存依赖，台湾是"}
 voice_passed: true
 aliases: ["台湾对台湾海峡的生存级依赖"]
 ---

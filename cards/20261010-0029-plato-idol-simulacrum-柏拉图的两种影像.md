@@ -5,9 +5,9 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P222"}
 tags: [deleuze, 差异与重复, 柏拉图, 拟像, 同一性, 原型]
 links:
-  - {id: 20260620-1540, reason: "拟像的正面意义"}
-  - {id: 20261010-0009, reason: "柏拉图的复制与拟像"}
-  - {id: 20261010-0014, reason: "回归与拟像的关系"}
+  - {id: 20260620-1540-拟像不是摹本的退化而是柏拉图主义自我颠覆, reason: "拟像的正面意义"}
+  - {id: 20261010-0009-deleuze-philosophy-beginning-repetition-哲学无开端, reason: "柏拉图的复制与拟像"}
+  - {id: 20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点, reason: "回归与拟像的关系"}
 voice_passed: true
 aliases: ["柏拉图的两种影像"]
 ---

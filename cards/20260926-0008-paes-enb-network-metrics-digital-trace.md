@@ -5,9 +5,9 @@ created: 2026-09-26T00:42:32+0800
 source: {type: article, ref: "Paes, Lucas de Oliveira. Networked territoriality: A processual–relational view on the making (and makings) of regions in world politics. Review of International Studies 49:1 (2023): 53–82. DOI: 10.1017/S0260210522000249.", page: "68–73"}
 tags: [paes, 方法论, ENB, 数字痕迹, 网络分析, 中心度, 同质性, 模块度, 操作化, 文本挖掘]
 links:
-  - {id: 20260926-0002, reason: "网络分析把过程冻结为位置——位置/过程之争的正面案例"}
-  - {id: 20260926-0003, reason: "本体论不携带方法论含义：与操作化路线的正面张力"}
-  - {id: 20260707-0001, reason: "方法论选择与本体论承诺的分层处理"}
+  - {id: 20260926-0002-jackson-nexon-fractal-position-process, reason: "网络分析把过程冻结为位置——位置/过程之争的正面案例"}
+  - {id: 20260926-0003-jackson-nexon-ontology-no-method, reason: "本体论不携带方法论含义：与操作化路线的正面张力"}
+  - {id: 20260707-0001-methodology-seed-practices-attractor-basin, reason: "方法论选择与本体论承诺的分层处理"}
 voice_passed: true
 aliases: ["ENB作为外交互动的数字痕迹", "领土性的网络操作化", "assortativity与modularity检验"]
 ---

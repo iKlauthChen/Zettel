@@ -1,13 +1,13 @@
 ---
-id: 20260727-0006
+id: 20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture
 status: permanent
 created: 2026-07-27T10:20:00+0800
 source: {type: article, ref: "Jacques, Vincent & Jérôme Rosanvallon. 2021. 'To Begin With: Deleuze & Guattari's Metaphysics: Already \"beyond nature and culture\".' Journal of the CIPH 99(1): 1-9.", page: "1-6"}
 tags: [德勒兹, 加塔利, 形而上学, 自然与文化, 单义性, 内在性平面, descola, 豪德里古, 马克思, 黑格尔, 地质道德]
 links:
-  - {id: 20260630-0001, reason: "Bonta-Protevi的DeLanda式本体论重构——实际/强度/虚拟是D&G超越自然/文化二元论的DeLanda版本"}
-  - {id: 20260727-0001, reason: "BP地球哲学——'新大地'建构与Jacques-Rosanvallon的'自然哲学'解读相互呼应"}
-  - {id: 20260623-0015, reason: "BP复杂性理论进路——'地质的道德'作为超越自然的案例"}
+  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "Bonta-Protevi的DeLanda式本体论重构——实际/强度/虚拟是D&G超越自然/文化二元论的DeLanda版本"}
+  - {id: 20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity, reason: "BP地球哲学——'新大地'建构与Jacques-Rosanvallon的'自然哲学'解读相互呼应"}
+  - {id: 20260623-0015-bonta-protevi-geophilosophy-ingest-2, reason: "BP复杂性理论进路——'地质的道德'作为超越自然的案例"}
 voice_passed: true
 aliases: ["D&G形而上学已超越自然/文化二元论", "D&G unified metaphysics beyond nature and culture"]
 ---

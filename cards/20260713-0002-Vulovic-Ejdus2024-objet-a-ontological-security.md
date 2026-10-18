@@ -1,14 +1,14 @@
 ---
-id: 20260713-0002
+id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security
 status: permanent
 created: 2026-07-09T15:00:00+0800
 source: {type: article, ref: "Vulović, Marina, and Filip Ejdus. 'Object-cause of desire and ontological security: evidence from Serbia's opposition to Kosovo's membership in UNESCO.' European Journal of International Relations 30.1 (2024): 1–26."}
 tags: [本体论安全, 拉康, 对象a, 欲望原因, 幻象, 塞尔维亚, 科索沃, 国际关系理论]
 links:
-  - {id: 20260622-0035, reason: "Steele的本体论安全经典——本文的Laing-Giddens范式正是对Steele框架的拉康式批判"}
-  - {id: 20260621-0481, reason: "剩余快感与对象a——本文的objet petit a是剩余快感的理论根基"}
-  - {id: 20260703-0017, reason: "Zevnik-Mandelbaum特刊的拉康式主体性框架——本文将此框架移入本体论安全研究"}
-  - {id: 20260623-0003, reason: "航母作为本体论安全装置——本文的objet petit a提供了与航母装置平行的分析工具"}
+  - {id: 20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话, reason: "Steele的本体论安全经典——本文的Laing-Giddens范式正是对Steele框架的拉康式批判"}
+  - {id: 20260621-0481-剩余快感不是快感的剩余而是通过认同和接受象征秩序所获得的痛苦欢乐, reason: "剩余快感与对象a——本文的objet petit a是剩余快感的理论根基"}
+  - {id: 20260703-0017-Zevnik-Mandelbaum-ISQ2023-lacanian-IR, reason: "Zevnik-Mandelbaum特刊的拉康式主体性框架——本文将此框架移入本体论安全研究"}
+  - {id: 20260623-0003-航母作为本体论安全装置国家的海洋大国身份叙事通过航母的物质化展演來修补, reason: "航母作为本体论安全装置——本文的objet petit a提供了与航母装置平行的分析工具"}
 voice_passed: true
 aliases: ["Vulović-Ejdus 2024 object-cause ontological security", "对象a与本体论安全——科索沃案例"]
 ---

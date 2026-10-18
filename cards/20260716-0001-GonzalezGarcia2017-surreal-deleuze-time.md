@@ -5,8 +5,8 @@ created: 2026-07-16T10:00:00+0800
 source: {type: article, ref: "González García, Ignacio. 'Formalización de la ontología del tiempo en Deleuze.' ÉNDOXA: Series Filosóficas 40 (2017): 311–334."}
 tags: [德勒兹, 时间, 康威, 超现实数, 三种综合, 拉康, 西田, 京都学派]
 links:
-  - {id: 20260715-0024, reason: "李科林的三种综合——本文用超现实数证明其不完备，并提出第四种综合"}
-  - {id: 20260715-0023, reason: "Luzecky的Aion/Chronos——本文从形式化角度补充了时间本体论"}
+  - {id: 20260715-0024-Li-Kelin2012-Deleuze-time, reason: "李科林的三种综合——本文用超现实数证明其不完备，并提出第四种综合"}
+  - {id: 20260715-0023-Luzecky2022-Deleuze-eternity, reason: "Luzecky的Aion/Chronos——本文从形式化角度补充了时间本体论"}
 voice_passed: true
 aliases: ["González García 2017 surreal time", "德勒兹时间本体论的形式化——超现实数"]
 ---

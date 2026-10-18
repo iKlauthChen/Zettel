@@ -1,5 +1,5 @@
 ---
-id: 20260716-0002
+id: 20260716-0002-Smith2022-Deleuze-sense
 status: permanent
 created: 2026-07-16T10:20:00+0800
 source: {type: article, ref: "Smith, Daniel W. 'The Concept of Sense in Gilles Deleuze's Logic of Sense.' Deleuze and Guattari Studies 16.1 (2022): 30–53."}

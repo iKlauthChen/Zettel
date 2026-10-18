@@ -5,11 +5,11 @@ created: 2026-09-26T00:59:13+0800
 source: {type: article, ref: "Gellwitzki, C. Nicolai L. The positions of ontological (in)security in international relations: object relations, unconscious phantasies, and anxiety management. International Theory (2025): 1–33. doi:10.1017/S1752971924000125", page: "16–19"}
 tags: [焦虑, 存在焦虑, 神经性焦虑, 迫害性焦虑, 行动能力, 乌克兰, 话语分析, 判据]
 links:
-  - {id: 20260713-0003, reason: "Mitzen：冲突与安全化的记忆可以提供本体论安全——被本卡颠倒的读法"}
-  - {id: 20260715-0013, reason: "Vaha：AUKUS作为本体论不安全——同一框架的经验应用样本"}
-  - {id: 20260703-0009, reason: "hart：台湾的存在论维度——存在焦虑的经验案例"}
-  - {id: 20260624-0071, reason: "早期OSS综述卡——本卡所批评的'焦虑到处都在'倾向的来源"}
-  - {id: 20260926-0021, reason: "同篇论文的位置定义：本卡是其判据层的展开"}
+  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen：冲突与安全化的记忆可以提供本体论安全——被本卡颠倒的读法"}
+  - {id: 20260715-0013-Vaha2025-AUKUS-ontological-insecurity, reason: "Vaha：AUKUS作为本体论不安全——同一框架的经验应用样本"}
+  - {id: 20260703-0009-hart2026-Taiwan-existential, reason: "hart：台湾的存在论维度——存在焦虑的经验案例"}
+  - {id: 20260624-0071-original-batch2-ontological-security, reason: "早期OSS综述卡——本卡所批评的'焦虑到处都在'倾向的来源"}
+  - {id: 20260926-0021-gellwitzki-positions-security-insecurity-regression-is-insecurity, reason: "同篇论文的位置定义：本卡是其判据层的展开"}
 voice_passed: true
 aliases: ["焦虑总是存在性的", "行动能力来自退行位置", "正常焦虑与存在焦虑的区分错在哪"]
 ---

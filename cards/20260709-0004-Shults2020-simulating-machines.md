@@ -1,13 +1,13 @@
 ---
-id: 20260709-0004
+id: 20260709-0004-Shults2020-simulating-machines
 status: permanent
 created: 2026-07-09T14:30:00+0800
 source: {type: article, ref: "Shults, F. LeRon. 'Simulating Machines: Modelling, Metaphysics and the Mechanosphere.' Deleuze and Guattari Studies 14.3 (2020): 349–374."}
 tags: [德勒兹, 加塔利, 机械圈, 计算机模拟, 扁平本体论, 装配理论, 抽象机器, 虚拟, 现实]
 links:
-  - {id: 20260709-0003, reason: "Dukes的机械圈谱系——Shults将机械圈连接到计算模拟"}
-  - {id: 20260621-0453, reason: "Bonta/Protevi的地球哲学——DeLanda的装配理论是本文的桥梁"}
-  - {id: 20260621-0440, reason: "虚拟/现实——计算机模拟是虚拟吸引子的实际化实验"}
+  - {id: 20260709-0003-Dukes2016-mechanosphere-genealogy, reason: "Dukes的机械圈谱系——Shults将机械圈连接到计算模拟"}
+  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "Bonta/Protevi的地球哲学——DeLanda的装配理论是本文的桥梁"}
+  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "虚拟/现实——计算机模拟是虚拟吸引子的实际化实验"}
 voice_passed: true
 aliases: ["Shults 2020 mechanosphere simulation", "计算机模拟作为平坦本体论的验证"]
 ---

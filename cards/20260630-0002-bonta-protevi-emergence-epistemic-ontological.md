@@ -1,12 +1,12 @@
 ---
-id: 20260630-0002
+id: 20260630-0002-bonta-protevi-emergence-epistemic-ontological
 status: permanent
 created: 2026-06-30T15:32:00+0800
 source: {type: book, ref: "Bonta, Mark & John Protevi. 2004. *Deleuze and Geophilosophy: A Guide and Glossary*. Edinburgh: Edinburgh University Press, pp.32-35.", page: "32-35"}
 tags: [bonta, protevi, emergence, ontology, complexity-theory, complexity, complex-system, epistemology, attractor, self-organization, reciprocal-causality]
 links:
-  - {id: 20260621-0443, reason: "涌现系统的互反因果性——本卡补充了巴塔-普罗特维对涌现证明难题的具体讨论"}
-  - {id: 20260630-0001, reason: "同一本书的本体论基础——涌现是实际/强度/虚拟三分法中强度过程的核心产物"}
+  - {id: 20260621-0443-涌现系统的互反因果性下向因果约束局部与上向因果产生全局秩序, reason: "涌现系统的互反因果性——本卡补充了巴塔-普罗特维对涌现证明难题的具体讨论"}
+  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "同一本书的本体论基础——涌现是实际/强度/虚拟三分法中强度过程的核心产物"}
 voice_passed: true
 aliases: ["Bonta-Protevi 论涌现的认识论-本体论证明难题", "涌现的本体论证明条件"]
 ---

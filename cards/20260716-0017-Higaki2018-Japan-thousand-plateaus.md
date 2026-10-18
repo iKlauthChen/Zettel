@@ -1,5 +1,5 @@
 ---
-id: 20260716-0017
+id: 20260716-0017-Higaki2018-Japan-thousand-plateaus
 status: permanent
 created: 2026-07-16T15:40:00+0800
 source: {type: article, ref: "Higaki, Tatsuya. 'Japan as Thousand Plateaus.' Deleuze and Guattari Studies 12.4 (2018): 529–540."}

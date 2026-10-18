@@ -5,10 +5,10 @@ created: 2026-09-26T00:54:48+0800
 source: {type: article, ref: "Erskine, Toni. AI and the future of IR: Disentangling flesh-and-blood, institutional, and synthetic moral agency in world politics. Review of International Studies 50:3 (2024): 534–559. doi:10.1017/S0260210524000202", page: "535–540"}
 tags: [erskine, 能动性, 道德能动性, 道德责任, 国家作为人, igo, 人工智能, 门槛能力]
 links:
-  - {id: 20260701-0025, reason: "温特的国家作为人——本文批评其把能动性辩护与'像人到什么程度'绑在一起"}
-  - {id: 20260703-0014, reason: "Coward同一专辑的主题图——其中已点出Erskine论AI的道德能动性"}
-  - {id: 20260830-0040, reason: "温特的量子心灵与集体意识——本文相关的'意识是否为能动性必要条件'之争"}
-  - {id: 20260716-0027, reason: "算法与量子IR——同属把新计算性行动者引入IR理论的尝试"}
+  - {id: 20260701-0025-wendt-constructivist-ontology, reason: "温特的国家作为人——本文批评其把能动性辩护与'像人到什么程度'绑在一起"}
+  - {id: 20260703-0014-Coward2024-four-themes-IR, reason: "Coward同一专辑的主题图——其中已点出Erskine论AI的道德能动性"}
+  - {id: 20260830-0040-温特量子心灵国家作为潜在实在, reason: "温特的量子心灵与集体意识——本文相关的'意识是否为能动性必要条件'之争"}
+  - {id: 20260716-0027-Svitych2025-algorithms-quantum-IR, reason: "算法与量子IR——同属把新计算性行动者引入IR理论的尝试"}
 voice_passed: true
 aliases: ["IR的能动性欠理论化", "道德能动性的门槛能力", "AI暴露了理性行动者模型的虚构性"]
 ---

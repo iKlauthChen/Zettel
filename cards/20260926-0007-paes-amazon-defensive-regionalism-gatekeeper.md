@@ -5,10 +5,10 @@ created: 2026-09-26T00:42:32+0800
 source: {type: article, ref: "Paes, Lucas de Oliveira. Networked territoriality: A processual–relational view on the making (and makings) of regions in world politics. Review of International Studies 49:1 (2023): 53–82. DOI: 10.1017/S0260210522000249.", page: "63–73, 76–82"}
 tags: [paes, 亚马逊, ACTO, 防御性区域主义, 守门, 生态政治, 主权, 网络指标, 同质性, 模块度]
 links:
-  - {id: 20260624-0159, reason: "区域化的后果不是整合而是安全议题增多——同一结构的另一面"}
-  - {id: 20260701-0029, reason: "区域秩序的理想与现实：整合叙事的落空"}
-  - {id: 20260622-0081, reason: "生态系统被编码为主权与安全议题的机制"}
-  - {id: 20260716-0003, reason: "另一处非欧洲中心的区域构成研究：区域由冲突与再现过程生产"}
+  - {id: 20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation, reason: "区域化的后果不是整合而是安全议题增多——同一结构的另一面"}
+  - {id: 20260701-0029-zhang-yunling-ideal-reality-regional-order, reason: "区域秩序的理想与现实：整合叙事的落空"}
+  - {id: 20260622-0081-zhu-ning-copenhagen-school-security, reason: "生态系统被编码为主权与安全议题的机制"}
+  - {id: 20260716-0003-Mutabdzija2022-Balkan-geophilosophy, reason: "另一处非欧洲中心的区域构成研究：区域由冲突与再现过程生产"}
 voice_passed: true
 aliases: ["亚马逊区域主义的成功标准是守门人地位", "防御性区域主义", "ACTO重估"]
 ---

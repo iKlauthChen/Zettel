@@ -1,14 +1,14 @@
 ---
-id: 20260721-0002
+id: 20260721-0002-Womack-multinodal-era-characteristics
 status: permanent
 created: 2026-07-21T13:35:00+0800
 source: {type: article, ref: "Womack, Brantly. 2025. 'Contra Schelling: The Trap of Coercive Strategy in a Multinodal Era.' Perspectives on Politics 23(2): 1–17."}
 tags: [multinodal, global-order, connectivity, uncertainty, womack, strategic-theory]
 links:
-  - {id: 20260721-0001, reason: "本卡的母卡——multinodal概念是Womack批判Schelling三前提的经验基础"}
-  - {id: 20260716-0048, reason: "秦立志的地缘时空维度与Womack的多节点可以对比——一个从本体论出发，一个从经验观察出发"}
-  - {id: 20260805-0003, reason: "此概念在论文中可定位于'强迫逻辑vs剩余安全'的对比位置"}
-  - {id: 20260620-1501, reason: "多节点世界的节点概念与D&G的界域/装置概念有理论接口"}
+  - {id: 20260721-0001-Womack-multinodal-critique-Schelling-premises, reason: "本卡的母卡——multinodal概念是Womack批判Schelling三前提的经验基础"}
+  - {id: 20260716-0048-Buckley-Zistel2006-in-between-war-peace, reason: "秦立志的地缘时空维度与Womack的多节点可以对比——一个从本体论出发，一个从经验观察出发"}
+  - {id: 20260805-0003-strategic-theory-literature-map, reason: "此概念在论文中可定位于'强迫逻辑vs剩余安全'的对比位置"}
+  - {id: 20260620-1501-装置创造界域而非只是占据空间, reason: "多节点世界的节点概念与D&G的界域/装置概念有理论接口"}
 voice_passed: true
 aliases: ["Womack multinodal era", "多节点时代概念", "不确定性与连通性"]
 ---

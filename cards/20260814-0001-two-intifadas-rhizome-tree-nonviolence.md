@@ -1,18 +1,18 @@
 ---
-id: 20260814-0001
+id: 20260814-0001-two-intifadas-rhizome-tree-nonviolence
 status: permanent
 created: 2026-08-14T10:45:00+0800
 source: {type: book, ref: "May, T. 'Deleuze and the Tale of Two Intifadas', in Hickey-Moody, A. & Malins, P. (eds) Deleuzian Encounters: Studies in Contemporary Social Issues (Palgrave, 2007), pp. 212-222", page: "212-222"}
 tags: [rhizome, tree, violence, virtual-actual, revolutionary-politics, Palestine]
 links:
-  - {id: 20260804-0004, reason: "第二次起义=树状回归的经验实例;轮辐卡'断裂性不携带结构工程'的暴力侧补充"}
-  - {id: 20260804-0005, reason: "树/根茎二分的理论地基;May章是其'应用层'正面案例"}
-  - {id: 20260713-0005, reason: "'革命后暴力留存'的制度形态=清洗螺旋"}
-  - {id: 20260726-0001, reason: "虚拟-现实化本体论;May引DR'虚拟替代可能体'是此区的原典锚"}
-  - {id: 20260626-1249, reason: "巴勒斯坦空间议题同域:平滑/条纹不对称的另一角度"}
-  - {id: 20260620-1518, reason: "第二次起义'欲望欲望自己的压抑'(引AO)是微观法西斯问题的起义实例"}
+  - {id: 20260804-0004-spoke-wheel-tree-rhizome-three-states, reason: "第二次起义=树状回归的经验实例;轮辐卡'断裂性不携带结构工程'的暴力侧补充"}
+  - {id: 20260804-0005-tree-rhizome-dichotomy-self-handling-critiques, reason: "树/根茎二分的理论地基;May章是其'应用层'正面案例"}
+  - {id: 20260713-0005-formal-theorems-security-fissure, reason: "'革命后暴力留存'的制度形态=清洗螺旋"}
+  - {id: 20260726-0001-qin-over-reterritorialization-collapse-virtual-actualization, reason: "虚拟-现实化本体论;May引DR'虚拟替代可能体'是此区的原典锚"}
+  - {id: 20260626-1249-不对等平滑以色列人流动巴勒斯坦人条纹化, reason: "巴勒斯坦空间议题同域:平滑/条纹不对称的另一角度"}
+  - {id: 20260620-1518-人是如何欲望自己所受的压迫, reason: "第二次起义'欲望欲望自己的压抑'(引AO)是微观法西斯问题的起义实例"}
   - {id: 20260624-war-machine-bridge-surplus-security, reason: "战争机器概念桥;May用战争机器引文支撑'德勒兹政治常带暴力锋芒'的反面预设"}
-  - {id: 20260623-1610, reason: "平滑/条纹经典卡;May的根茎/树状对照与之同构于形态学诊断"}
+  - {id: 20260623-1610-平滑空间与条纹化空间, reason: "平滑/条纹经典卡;May的根茎/树状对照与之同构于形态学诊断"}
 voice_passed: true
 aliases: ["两次起义:根茎与树状的经验检验,过程即结果"]
 ---

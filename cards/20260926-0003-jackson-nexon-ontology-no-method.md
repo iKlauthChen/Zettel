@@ -5,10 +5,10 @@ created: 2026-09-26T00:36:53+0800
 source: {type: article, ref: "Jackson, Patrick Thaddeus, and Daniel H. Nexon. 'Reclaiming the social: relationalism in anglophone international studies.' Cambridge Review of International Affairs 32.5 (2019): 582–600.", page: "595–596"}
 tags: [relationalism, 关系主义, methodology, 社会本体论, 科学本体论, IR-theory, ontology]
 links:
-  - {id: 20260621-0449, reason: "复杂性理论涉及本体论承诺而非仅认识论建模——与'本体论无方法论含义'构成正面对照"}
-  - {id: 20260707-0001, reason: "种子点识别方法——本体论立场如何部分约束方法选择的实例"}
-  - {id: 20260701-0025, reason: "温特：本体论层面论证构成性作用，经验层面无法解释观念胜出"}
-  - {id: 20260621-0490, reason: "本体论追问作为政治实践——本体论并非惰性产物的另一立场"}
+  - {id: 20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模, reason: "复杂性理论涉及本体论承诺而非仅认识论建模——与'本体论无方法论含义'构成正面对照"}
+  - {id: 20260707-0001-methodology-seed-practices-attractor-basin, reason: "种子点识别方法——本体论立场如何部分约束方法选择的实例"}
+  - {id: 20260701-0025-wendt-constructivist-ontology, reason: "温特：本体论层面论证构成性作用，经验层面无法解释观念胜出"}
+  - {id: 20260621-0490-本体论作为政治实践通过质疑政治二元性的暴力前提将存在论追问本身转化为政治行动, reason: "本体论追问作为政治实践——本体论并非惰性产物的另一立场"}
 voice_passed: true
 aliases: ["关系主义的社会本体论不携带方法论含义"]
 ---

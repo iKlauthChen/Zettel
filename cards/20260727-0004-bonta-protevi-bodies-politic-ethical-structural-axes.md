@@ -1,14 +1,14 @@
 ---
-id: 20260727-0004
+id: 20260727-0004-bonta-protevi-bodies-politic-ethical-structural-axes
 status: permanent
 created: 2026-07-27T09:40:00+0800
 source: {type: article, ref: "Bonta, Mark & John Protevi. 2004. 'Introduction.' In Deleuze and Geophilosophy: A Guide and Glossary. APERÇU extract, pp.3-7.", page: "7"}
 tags: [bonta, protevi, 身体政治, 装配, 层叠, 一致性, 伦理轴, 结构轴, 微观法西斯, 战争机器, 编码与领地, 新大地]
 links:
-  - {id: 20260727-0001, reason: "导言纲领——身体政治的伦理-结构分析是地球哲学的政治维度"}
-  - {id: 20260727-0003, reason: "条纹空间是身体政治中'层叠'的空间表达式——国家的条纹化=层叠化的空间维度"}
-  - {id: 20260630-0001, reason: "实际/强度/虚拟——层叠对应实际、一致性对应强度形态发生"}
-  - {id: 20260624-0138, reason: "战争机器与剩余安全——战争机器=一致性，被国家捕获=层叠化"}
+  - {id: 20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity, reason: "导言纲领——身体政治的伦理-结构分析是地球哲学的政治维度"}
+  - {id: 20260727-0003-bonta-protevi-striated-space-glacial-metaphor, reason: "条纹空间是身体政治中'层叠'的空间表达式——国家的条纹化=层叠化的空间维度"}
+  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "实际/强度/虚拟——层叠对应实际、一致性对应强度形态发生"}
+  - {id: 20260624-0138-war-machine-bridge-surplus-security, reason: "战争机器与剩余安全——战争机器=一致性，被国家捕获=层叠化"}
 voice_passed: true
 aliases: ["Bonta-Protevi论身体政治：分析构架与伦理评估"]
 ---

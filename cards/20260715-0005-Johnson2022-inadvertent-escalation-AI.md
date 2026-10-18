@@ -1,5 +1,5 @@
 ---
-id: 20260715-0005
+id: 20260715-0005-Johnson2022-inadvertent-escalation-AI
 status: permanent
 created: 2026-07-15T12:20:00+0800
 source: {type: article, ref: "Johnson, James. 'Inadvertent escalation in the age of intelligence machines: A new model for nuclear risk in the digital age.' European Journal of International Security 7.3 (2022): 337–359."}

@@ -1,5 +1,5 @@
 ---
-id: 20260715-0014
+id: 20260715-0014-Adamsky2025-Russian-deterrence
 status: permanent
 created: 2026-07-15T15:20:00+0800
 source: {type: article, ref: "Adamsky, Dmitry (Dima). 'Quo Vadis, Russian Deterrence? Strategic Culture and Coercion Innovations.' International Security 49.4 (2025): 49–99."}

@@ -5,10 +5,10 @@ created: 2026-09-26T09:41:32+0800
 source: {type: article, ref: "Solomon, Ty. Time and Subjectivity in World Politics. International Studies Quarterly 58, no. 4 (2014): 671–681. doi:10.1111/isqu.12091", page: "674–679"}
 tags: [幻象, 起源, 民族之物, 齐泽克, 民族主义, 享受, 传统, 本体论安全]
 links:
-  - {id: 20260715-0019, reason: "旧卡；本卡是展开之一"}
-  - {id: 20260715-0001, reason: "Eberle的幻象与本体论安全——同一'幻象＝叙事框架'的OSS版本"}
-  - {id: 20260713-0002, reason: "Vulović-Ejdus的对象a与本体论安全——欲望对象如何被回溯地设定"}
-  - {id: 20260622-0041, reason: "薛丽的战略叙事与本体安全——'起源叙事'在中国案例中的经验对应"}
+  - {id: 20260715-0019-Solomon2014-time-subjectivity, reason: "旧卡；本卡是展开之一"}
+  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle的幻象与本体论安全——同一'幻象＝叙事框架'的OSS版本"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的对象a与本体论安全——欲望对象如何被回溯地设定"}
+  - {id: 20260622-0041-薛丽论战略叙事建构本体安全以美国对一带一路的叙事演变为例分析对外政策演化, reason: "薛丽的战略叙事与本体安全——'起源叙事'在中国案例中的经验对应"}
 voice_passed: true
 aliases: ["起源的幻象", "民族之物 Nation-Thing", "传统之为传统"]
 ---

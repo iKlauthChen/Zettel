@@ -1,11 +1,11 @@
 ---
-id: 20260715-0021
+id: 20260715-0021-Cao-Dejun2023-strategic-rhythm
 status: permanent
 created: 2026-07-15T17:40:00+0800
 source: {type: article, ref: "曹德军. '战略节奏的间断均衡演化——印太变局下的中美印时间视野分析.' 世界经济与政治 2023(5): 104–132."}
 tags: [战略节奏, 间断均衡, 印太, 中美印, 时间视野, 大国竞争]
 links:
-  - {id: 20260715-0017, reason: "Hom的时机理论——战略节奏是时机理论在大国竞争层面的经验操作化"}
+  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——战略节奏是时机理论在大国竞争层面的经验操作化"}
 voice_passed: true
 aliases: ["曹德军 2023 战略节奏", "战略节奏的四种类型"]
 ---

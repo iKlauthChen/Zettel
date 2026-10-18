@@ -5,10 +5,10 @@ created: 2026-09-26T09:06:49+0800
 source: {type: article, ref: "McIntosh, Chris. Writing Quantum Entanglement into International Relations: Temporality, Positionality, and the Ontology of War. Millennium: Journal of International Studies 49, no. 1 (2020): 162–174. doi:10.1177/0305829820971688", page: "170–172"}
 tags: [后向因果, 时间对称, 战争本体论, 不可分解性, 位置性, 潜在性, 事件, 拉宾]
 links:
-  - {id: 20260716-0036, reason: "本卡是旧卡的展开之一；旧卡把书评误读为McIntosh本人的原创论证"}
-  - {id: 20260624-0110, reason: "国家叠加态的概念痕迹——同一'潜在性vs已关闭现实性'的结构"}
-  - {id: 20260622-0020, reason: "齐泽克的量子本体论与虚空——不确定性是本体论而非认识论的另一种表述"}
-  - {id: 20260926-0033, reason: "Amoureux的阿伦特'非时间'——时间性作为场所而非序列的对照路线"}
+  - {id: 20260716-0036-McIntosh2020-quantum-entanglement, reason: "本卡是旧卡的展开之一；旧卡把书评误读为McIntosh本人的原创论证"}
+  - {id: 20260624-0110-state-superposition-concept-trace, reason: "国家叠加态的概念痕迹——同一'潜在性vs已关闭现实性'的结构"}
+  - {id: 20260622-0020-Zizek的量子物理学本体论将实在界重新定义为虚空而非物质不确定性是本体论的而非认识论的, reason: "齐泽克的量子本体论与虚空——不确定性是本体论而非认识论的另一种表述"}
+  - {id: 20260926-0033-amoureux-reflexivities-arendt-non-time-non-space, reason: "Amoureux的阿伦特'非时间'——时间性作为场所而非序列的对照路线"}
 voice_passed: true
 aliases: ["后向因果与时间对称", "战争不可分解", "第一次开枪与拉宾之死"]
 ---

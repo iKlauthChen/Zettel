@@ -1,15 +1,15 @@
 ---
-id: 20260703-0007
+id: 20260703-0007-hart2026-disruption-scenarios
 status: permanent
 created: 2026-07-03T14:30:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, pp.3-4."}
 tags: [CSIS, trade, chokepoint, strait, security, maritime-conflict, blockade, deterrence]
 links:
-  - {id: 20260620-1781, reason: "1996台海危机——危机升级的先例场景"}
-  - {id: 20260624-0041, reason: "反事实方法——本卡提供了危机推演的具体场景素材"}
-  - {id: 20260624-0033, reason: "延伸威慑——台海冲突场景的威慑与反威慑逻辑"}
-  - {id: 20260624-0017, reason: "有限冲突——灰色地带升级到热战的临界条件"}
-  - {id: 20260624-0036, reason: "延伸威慑结果——封锁作为战争形态的四种可能性"}
+  - {id: 20260620-1781-1996年台海危机成为催生中国航母计划和, reason: "1996台海危机——危机升级的先例场景"}
+  - {id: 20260624-0041-liu-micro-events-card3-counterfactual-method, reason: "反事实方法——本卡提供了危机推演的具体场景素材"}
+  - {id: 20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept, reason: "延伸威慑——台海冲突场景的威慑与反威慑逻辑"}
+  - {id: 20260624-0017-chao-cho-signaling-sea-card4-limited-conflict, reason: "有限冲突——灰色地带升级到热战的临界条件"}
+  - {id: 20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes, reason: "延伸威慑结果——封锁作为战争形态的四种可能性"}
 voice_passed: true
 aliases: ["南海咽喉要道的五种中断场景"]
 ---

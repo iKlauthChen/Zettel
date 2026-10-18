@@ -1,13 +1,13 @@
 ---
-id: 20260716-0029
+id: 20260716-0029-Jackson-Subotic2024-architecture-OS-paradox
 status: permanent
 created: 2026-07-16T21:40:00+0800
 source: {type: article, ref: "Jackson, Michael, and Jelena Subotić. 'The Ontological Security-Seeking Paradox: Domestic and International Effects of Public Architecture.' Millennium: Journal of International Studies 53.1 (2024): 3–30."}
 tags: [本体论安全, 建筑, 公共空间, 悖论, 身份, 纪念碑]
 links:
-  - {id: 20260713-0003, reason: "Mitzen的OSS——公共建筑是例行化在物理空间的凝固：纪念碑=国家身份的例行化生产"}
-  - {id: 20260716-0026, reason: "Shani的记忆场所——公共建筑与记忆场所是同一问题的两端：物质化 vs 去辖域化"}
-  - {id: 20260715-0001, reason: "Eberle的幻象OS——建筑是幻象的物质化：通过空间投射国家欲望的完整叙事"}
+  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——公共建筑是例行化在物理空间的凝固：纪念碑=国家身份的例行化生产"}
+  - {id: 20260716-0026-Shani2025-deterritorialising-memory, reason: "Shani的记忆场所——公共建筑与记忆场所是同一问题的两端：物质化 vs 去辖域化"}
+  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle的幻象OS——建筑是幻象的物质化：通过空间投射国家欲望的完整叙事"}
 voice_passed: true
 aliases: ["Jackson-Subotic 2024 architecture OS paradox", "公共建筑的本体论安全寻求悖论"]
 ---

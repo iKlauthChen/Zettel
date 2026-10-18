@@ -1,13 +1,13 @@
 ---
-id: 20260721-0012
+id: 20260721-0012-Luttwak-armed-suasion-postheroic
 status: permanent
 created: 2026-07-21T15:15:00+0800
 source: {type: book, ref: "Luttwak, Edward N. 2001. Strategy: The Logic of War and Peace. Rev. and enl. ed. Cambridge, MA: Belknap Press of Harvard University Press."}
 tags: [luttwak, armed-suasion, postheroic, credibility, deterrence, civilians, casualties]
 links:
-  - {id: 20260721-0009, reason: "武装说服是悖论逻辑在大战略层面的运作形态"}
-  - {id: 20260721-0003, reason: "Womack的'命令信誉vs领导信誉'与Luttwak的武装说服概念可对话——Luttwak更早意识到说服效果取决于对方感知而非己方投射"}
-  - {id: 20260721-0001, reason: "Womack对Schelling的批判与Luttwak的大战略分析共享'效果由对方决定'的视角"}
+  - {id: 20260721-0009-Luttwak-paradoxical-logic-strategy, reason: "武装说服是悖论逻辑在大战略层面的运作形态"}
+  - {id: 20260721-0003-Womack-command-credibility-vs-leadership, reason: "Womack的'命令信誉vs领导信誉'与Luttwak的武装说服概念可对话——Luttwak更早意识到说服效果取决于对方感知而非己方投射"}
+  - {id: 20260721-0001-Womack-multinodal-critique-Schelling-premises, reason: "Womack对Schelling的批判与Luttwak的大战略分析共享'效果由对方决定'的视角"}
 voice_passed: true
 aliases: ["Luttwak armed suasion", "武装说服", "postheroic warfare", "后英雄式战争"]
 ---

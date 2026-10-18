@@ -5,10 +5,10 @@ created: 2026-09-26T09:44:17+0800
 source: {type: article, ref: "Hom, Andrew R. Timing Is Everything: Toward a Better Understanding of Time and International Politics. International Studies Quarterly 62, no. 1 (2018): 69–79. doi:10.1093/isq/sqx090", page: "接受稿 pp.17–24"}
 tags: [战争, 胜利, 越战, 反恐战争, 身份, 创伤, 羞愧, 埃德金斯, 例行化]
 links:
-  - {id: 20260715-0017, reason: "旧卡；本卡是展开之一"}
-  - {id: 20260715-0019, reason: "Solomon的时间-主体性——Hom直接改写其'交叉缝合'为timing项目"}
-  - {id: 20260622-0035, reason: "Steele的本体论安全与羞愧——'羞愧/关键情境＝timing崩溃'的对话者"}
-  - {id: 20260926-0044, reason: "Solomon的反恐战争案例——胜利定义缺失与缺失客体的正面交锋"}
+  - {id: 20260715-0017-Hom2018-timing-theory, reason: "旧卡；本卡是展开之一"}
+  - {id: 20260715-0019-Solomon2014-time-subjectivity, reason: "Solomon的时间-主体性——Hom直接改写其'交叉缝合'为timing项目"}
+  - {id: 20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话, reason: "Steele的本体论安全与羞愧——'羞愧/关键情境＝timing崩溃'的对话者"}
+  - {id: 20260926-0044-solomon-war-on-terror-bush-speech-lost-object, reason: "Solomon的反恐战争案例——胜利定义缺失与缺失客体的正面交锋"}
 voice_passed: true
 aliases: ["战争作为timing竞赛", "身份作为timing项目", "Royal Wootton Bassett与创伤例行化"]
 ---

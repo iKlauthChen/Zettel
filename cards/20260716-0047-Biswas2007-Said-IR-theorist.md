@@ -1,13 +1,13 @@
 ---
-id: 20260716-0047
+id: 20260716-0047-Biswas2007-Said-IR-theorist
 status: permanent
 created: 2026-07-17T03:20:00+0800
 source: {type: article, ref: "Biswas, Shampa. 'Empire and Global Public Intellectuals: Reading Edward Said as an International Relations Theorist.' Millennium: Journal of International Studies 36.1 (2007): 117–133."}
 tags: [萨义德, 帝国, 公共知识分子, IR, 后殖民, 东方主义]
 links:
-  - {id: 20260716-0039, reason: "Blaney-Tickner的世界化——Said的东方主义批判是该本体论方案的直接先驱"}
-  - {id: 20260716-0037, reason: "Kamola的去殖民大学——Said的'公共知识分子'是比大学知识生产更早的去殖民模型"}
-  - {id: 20260716-0033, reason: "Niang的空间去殖民——Said对空间/地理的'想象性'的分析与Niang的去殖民空间分析直接对应"}
+  - {id: 20260716-0039-Blaney-Tickner2017-worlding-decolonial, reason: "Blaney-Tickner的世界化——Said的东方主义批判是该本体论方案的直接先驱"}
+  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola的去殖民大学——Said的'公共知识分子'是比大学知识生产更早的去殖民模型"}
+  - {id: 20260716-0033-Niang2022-space-geopolitical, reason: "Niang的空间去殖民——Said对空间/地理的'想象性'的分析与Niang的去殖民空间分析直接对应"}
 voice_passed: true
 aliases: ["Biswas 2007 Said IR theorist", "帝国与公共知识分子——将萨义德读进IR"]
 ---

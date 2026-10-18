@@ -1,13 +1,13 @@
 ---
-id: 20260727-0007
+id: 20260727-0007-jacques-rosanvallon-dg-nature-plane-immanence
 status: permanent
 created: 2026-07-27T10:35:00+0800
 source: {type: article, ref: "Jacques, Vincent & Jérôme Rosanvallon. 2021. 'To Begin With: Deleuze & Guattari's Metaphysics: Already \"beyond nature and culture\".' Journal of the CIPH 99(1): 1-9.", page: "5-6"}
 tags: [德勒兹, 加塔利, 自然, 内在性, 单义性, 蒙特贝洛, 拉图尔, 加西亚, 梅亚苏, 巴迪欧, 思辨实在论, 平面本体论]
 links:
-  - {id: 20260727-0006, reason: "本卡为该卡论点的形而上学深化——单义性自然平面与当代竞争者区分的理由"}
-  - {id: 20260630-0001, reason: "Bonta-Protevi的DeLanda式本体论重构——'实际/强度/虚拟'是D&G单义性本体论在复杂性理论中的等价表达"}
-  - {id: 20260727-0001, reason: "BP地球哲学——BP的'新大地'建构与Montebello的'包纳性自然'共享同一单义性预设"}
+  - {id: 20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture, reason: "本卡为该卡论点的形而上学深化——单义性自然平面与当代竞争者区分的理由"}
+  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "Bonta-Protevi的DeLanda式本体论重构——'实际/强度/虚拟'是D&G单义性本体论在复杂性理论中的等价表达"}
+  - {id: 20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity, reason: "BP地球哲学——BP的'新大地'建构与Montebello的'包纳性自然'共享同一单义性预设"}
 voice_passed: true
 aliases: ["D&G单义性自然平面 vs 当代形而上学"]
 ---

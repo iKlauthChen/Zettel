@@ -1,13 +1,13 @@
 ---
-id: 20260716-0037
+id: 20260716-0037-Kamola2020-decolonising-university
 status: permanent
 created: 2026-07-16T23:55:00+0800
 source: {type: article, ref: "Kamola, Isaac. 'IR, the Critic, and the World: From Reifying the Discipline to Decolonising the University.' Millennium: Journal of International Studies 48.3 (2020): 245–270."}
 tags: [批判IR, 去殖民, 大学, 学科, 知识生产]
 links:
-  - {id: 20260714-0009, reason: "Barnett-Zarakol的本质主义陷阱——Kamola将陷阱分析扩展到对学科本身的再生产结构"}
-  - {id: 20260715-0012, reason: "Markland的去地方化——共享去殖民策略：从'去地方化概念'到'去殖民大学'"}
-  - {id: 20260716-0033, reason: "Niang的空间地缘——本文是对安全的去殖民，Niang是对空间的去殖民"}
+  - {id: 20260714-0009-Barnett-Zarakol2023-essentialism-trap, reason: "Barnett-Zarakol的本质主义陷阱——Kamola将陷阱分析扩展到对学科本身的再生产结构"}
+  - {id: 20260715-0012-Markland2026-provincialising-ontological-insecurity, reason: "Markland的去地方化——共享去殖民策略：从'去地方化概念'到'去殖民大学'"}
+  - {id: 20260716-0033-Niang2022-space-geopolitical, reason: "Niang的空间地缘——本文是对安全的去殖民，Niang是对空间的去殖民"}
 voice_passed: true
 aliases: ["Kamola 2020 decolonising university", "批判与去殖民——从学科实体化到大学的去殖民"]
 ---

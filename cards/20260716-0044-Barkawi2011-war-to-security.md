@@ -1,15 +1,15 @@
 ---
-id: 20260716-0044
+id: 20260716-0044-Barkawi2011-war-to-security
 status: permanent
 created: 2026-07-17T02:20:00+0800
 source: {type: article, ref: "Barkawi, Tarak. 'From War to Security: Security Studies, the Wider Agenda and the Fate of the Study of War.' Millennium: Journal of International Studies 39.3 (2011): 701–716."}
 tags: [安全研究, 战争, 安全, 学科史, 宽泛议程, 沃弗斯]
 links:
-  - {id: 20260624-0159, reason: "张景全的区域化与安全化悖论——Barkawi分析了'从战争到安全'这一史转本身如何掩盖了悖论的根源"}
-  - {id: 20260716-0048, reason: "Buckley-Zistel战争和平之间——安全/战争二分的中间态"}
-  - {id: 20260716-0053, reason: "Howells寄生物悖论——输者赢了的安全转译"}
-  - {id: 20260716-0040, reason: "Nordin-Öberg的战争本体论——Barkawi的先驱论文：战争消失于安全的扩张之中"}
-  - {id: 20260716-0031, reason: "Johnson的自由战争——Barkawi的诊断预见了自由战争的一切：安全取代了战争作为组织范畴"}
+  - {id: 20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation, reason: "张景全的区域化与安全化悖论——Barkawi分析了'从战争到安全'这一史转本身如何掩盖了悖论的根源"}
+  - {id: 20260716-0048-Buckley-Zistel2006-in-between-war-peace, reason: "Buckley-Zistel战争和平之间——安全/战争二分的中间态"}
+  - {id: 20260716-0053-Howells2024-parasite-paradox, reason: "Howells寄生物悖论——输者赢了的安全转译"}
+  - {id: 20260716-0040-Nordin-Oberg2015-targeting-ontology-war, reason: "Nordin-Öberg的战争本体论——Barkawi的先驱论文：战争消失于安全的扩张之中"}
+  - {id: 20260716-0031-Johnson2024-biopolitics-liberal-war, reason: "Johnson的自由战争——Barkawi的诊断预见了自由战争的一切：安全取代了战争作为组织范畴"}
 voice_passed: true
 aliases: ["Barkawi 2011 from war to security", "从战争到安全——安全研究如何失去了战争"]
 ---

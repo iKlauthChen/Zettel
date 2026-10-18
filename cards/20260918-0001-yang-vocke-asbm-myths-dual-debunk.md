@@ -1,19 +1,19 @@
 ---
-id: 20260918-0001
+id: 20260918-0001-yang-vocke-asbm-myths-dual-debunk
 status: literature
 created: 2026-09-18T19:30:00+08:00
 source: {type: article, ref: "楊仕樂 (Yang, Shih-yueh) & Vocke, William C. Jr. 'Myths about Anti-Ship Ballistic Missiles.' Issues & Studies 47, no. 4 (December 2011): 43-62."}
 tags: [ASBM, aircraft-carrier, deterrence, targeting-chain, Taiwan-strait, escalation-control, myth-debunking, naval-strategy]
 entities: [Shih-yueh Yang, William C. Vocke, DF-21D, Erickson, Kraske, Shlapak, RAND, BMD, SM-3]
 links:
-  - {id: 20260623-0005, reason: "同一论证族的对手方——Hendrix从平台经济学论证航母过时，本文用双向去魅的存在论/意志结构消解其前提"}
-  - {id: 20260620-1819, reason: "可见性-脆弱性矛盾——本文核心论点'有用必被发现'正是该矛盾在ASBM场的操作表述"}
-  - {id: 20260623-0006, reason: "Erickson-Wilson的'中国航母困境'是本文批驳的game-changer论最系统的版本"}
-  - {id: 20260620-1771, reason: "A2AD改变航母作战环境——本文给出该改变的具体参数（targeting chain的民航混淆与时间窗口）"}
-  - {id: 20260620-1757, reason: "航母动机=地位象征，本文扩展：被打掉的航母也是一个大 interest，象征性precisely地成为升级触发器"}
-  - {id: 20260715-0006, reason: "不完美归因威慑——本文对title图案/民船的混淆分析具现了imperfect attribution在海上战场的物理形式"}
-  - {id: 20260715-0005, reason: "AI时代的无意升级——本文的'误击民航/渔船'风险是前AI时代对同一结构性问题的手写版"}
-  - {id: 20260620-1784, reason: "军事技术炒作周期——本文的框架是炒作周期的历史实例（ASBM的hype与反hype双方都是myths）"}
+  - {id: 20260623-0005-Hendrix论航母的代价在反舰导弹和卫星时代航母正在重蹈战列舰的覆辙昂贵脆弱且过时, reason: "同一论证族的对手方——Hendrix从平台经济学论证航母过时，本文用双向去魅的存在论/意志结构消解其前提"}
+  - {id: 20260620-1819-航母的可见性与脆弱性矛盾是平滑空间中秩序, reason: "可见性-脆弱性矛盾——本文核心论点'有用必被发现'正是该矛盾在ASBM场的操作表述"}
+  - {id: 20260623-0006-Erickson和Wilson论中国的航母困境在反舰导弹和卫星监视时代中国面临航母还是潜艇的战略抉择, reason: "Erickson-Wilson的'中国航母困境'是本文批驳的game-changer论最系统的版本"}
+  - {id: 20260620-1771-A2AD能力正在根本性改变航母在西太平洋, reason: "A2AD改变航母作战环境——本文给出该改变的具体参数（targeting chain的民航混淆与时间窗口）"}
+  - {id: 20260620-1757-国家获取航母的首要动机往往是地位象征而非, reason: "航母动机=地位象征，本文扩展：被打掉的航母也是一个大 interest，象征性precisely地成为升级触发器"}
+  - {id: 20260715-0006-Baliga2020-imperfect-attribution, reason: "不完美归因威慑——本文对title图案/民船的混淆分析具现了imperfect attribution在海上战场的物理形式"}
+  - {id: 20260715-0005-Johnson2022-inadvertent-escalation-AI, reason: "AI时代的无意升级——本文的'误击民航/渔船'风险是前AI时代对同一结构性问题的手写版"}
+  - {id: 20260620-1784-军事技术的炒作周期在推高期望的同时也为长, reason: "军事技术炒作周期——本文的框架是炒作周期的历史实例（ASBM的hype与反hype双方都是myths）"}
 voice_passed: true
 aliases: ["ASBM双方都是迷思：反舰弹道导弹改变不了游戏，因为航母本来就不是干预的关键、击沉只会escalate"]
 ---

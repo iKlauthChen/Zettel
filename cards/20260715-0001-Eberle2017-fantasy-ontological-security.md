@@ -1,12 +1,12 @@
 ---
-id: 20260715-0001
+id: 20260715-0001-Eberle2017-fantasy-ontological-security
 status: permanent
 created: 2026-07-15T11:00:00+0800
 source: {type: article, ref: "Eberle, Jakub. 'Narrative, desire, ontological security, transgression: fantasy as a factor in international politics.' Journal of International Relations and Development 22 (2019): 243–268 (online 2017)."}
 tags: [本体论安全, 幻象, 欲望, 叙事, 拉康, 越界, 德国]
 links:
-  - {id: 20260713-0003, reason: "Mitzen的OSS——本文是首个将幻想系统引入OSS的作品，预见了Mitzen的例行化逻辑的反转"}
-  - {id: 20260713-0002, reason: "Vulović-Ejdus的对象a——本文从欲望和幻象角度预示了这一方向"}
+  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——本文是首个将幻想系统引入OSS的作品，预见了Mitzen的例行化逻辑的反转"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的对象a——本文从欲望和幻象角度预示了这一方向"}
 voice_passed: true
 aliases: ["Eberle 2017 fantasy ontological security", "幻象作为国际政治因素"]
 ---

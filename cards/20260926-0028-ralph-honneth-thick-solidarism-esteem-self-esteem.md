@@ -5,10 +5,10 @@ created: 2026-09-26T01:06:54+0800
 source: {type: article, ref: "Ralph, Jason. International society as an ontological security provider: a framework for analysis. International Theory 18, no. 1 (2026): 135–157. doi:10.1017/S1752971925100146", page: "147–150"}
 tags: [霍耐特, 承认理论, 温尼科特, 自尊, 尊敬, 团结主义, 共同价值, 华沙之跪, 人权, 承认共同体]
 links:
-  - {id: 20260714-0004, reason: "Bilgic的酷儿化本体论安全——承认与身份政治的权力面"}
-  - {id: 20260622-0035, reason: "Steele：羞愧与本体论安全——羞愧作为社会承认失败的信号"}
-  - {id: 20260715-0013, reason: "Vaha：AUKUS与本体论不安全——地位/承认焦虑的经验案例"}
-  - {id: 20260926-0024, reason: "Gellwitzki：抑郁位置的正面——内疚与修补与本文的'社会承认'相邻"}
+  - {id: 20260714-0004-Bilgic2025-queering-ontological-security, reason: "Bilgic的酷儿化本体论安全——承认与身份政治的权力面"}
+  - {id: 20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话, reason: "Steele：羞愧与本体论安全——羞愧作为社会承认失败的信号"}
+  - {id: 20260715-0013-Vaha2025-AUKUS-ontological-insecurity, reason: "Vaha：AUKUS与本体论不安全——地位/承认焦虑的经验案例"}
+  - {id: 20260926-0024-gellwitzki-depressive-position-reparation-guilt-as-security, reason: "Gellwitzki：抑郁位置的正面——内疚与修补与本文的'社会承认'相邻"}
 voice_passed: true
 aliases: ["厚团结主义与自我估值", "法律承认只给自尊不给自尊感", "本体论安全共同体"]
 ---

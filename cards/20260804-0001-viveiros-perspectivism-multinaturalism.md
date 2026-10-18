@@ -1,17 +1,17 @@
 ---
-id: 20260804-0001
+id: 20260804-0001-viveiros-perspectivism-multinaturalism
 status: permanent
 created: 2026-08-04T11:05:00+0800
 source: {type: article, ref: "Jacques, Vincent. 2021. 'Deleuze and Guattari: Transcending Nature/Culture in Anthropology?' Journal of the CIPH 99(1): 27-38. Trans. Allyn Hardyck.", page: "29-33"}
 tags: [德勒兹, 加塔利, 生成, 内在性平面, 符号, 自然与文化, 宇宙论, descola]
 links:
-  - {id: 20260727-0006, reason: "同一专号导言——路径一的人类学线索直接预告本文：Haudricourt→Descola→VdC借用生成"}
-  - {id: 20260727-0007, reason: "导言卡2的内在性平面/单义性定位——本文的'亚马逊内在性平面'是其人类学例证"}
-  - {id: 20260621-0439, reason: "符号=物质临界阈值——VdC的'符号不意指而生产'与之共享同一物质符号学"}
-  - {id: 20260621-0472, reason: "四种符号制度——透视主义的'半物理攫取'是原始前符号制度的宇宙论化变体"}
-  - {id: 20260620-1621, reason: "生成概念卡——本文是'生成'概念在人类学中的一次原初应用"}
-  - {id: 20260621-0468, reason: "泛灵论/共可能性政治——Segovia的非现代宇宙论抵抗与VdC多自然主义共享非人类中心政治预设"}
-  - {id: 20260620-1539, reason: "欲望的符号不是能指——与'符号不意指'一致的物质符号学立场"}
+  - {id: 20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture, reason: "同一专号导言——路径一的人类学线索直接预告本文：Haudricourt→Descola→VdC借用生成"}
+  - {id: 20260727-0007-jacques-rosanvallon-dg-nature-plane-immanence, reason: "导言卡2的内在性平面/单义性定位——本文的'亚马逊内在性平面'是其人类学例证"}
+  - {id: 20260621-0439-DG将符号重新定义为物质系统感知到的临界阈值绕过了后索绪尔符号学的意义危机, reason: "符号=物质临界阈值——VdC的'符号不意指而生产'与之共享同一物质符号学"}
+  - {id: 20260621-0472-DG的四种符号制度从原始领域的前符号到专制国家的符号表意再到游牧的激情主体性和资本主义的反符号, reason: "四种符号制度——透视主义的'半物理攫取'是原始前符号制度的宇宙论化变体"}
+  - {id: 20260620-1621-生成, reason: "生成概念卡——本文是'生成'概念在人类学中的一次原初应用"}
+  - {id: 20260621-0468-Segovia指出在Guattari框架下身份政治应转向共可能性政治泛灵论作为对资本主义的宇宙论抵抗, reason: "泛灵论/共可能性政治——Segovia的非现代宇宙论抵抗与VdC多自然主义共享非人类中心政治预设"}
+  - {id: 20260620-1539-欲望的符号不是能指它只在表象中才变成匮乏, reason: "欲望的符号不是能指——与'符号不意指'一致的物质符号学立场"}
 voice_passed: true
 aliases: ["透视主义：观点创造主体", "多自然主义", "亚马逊内在性平面"]
 ---

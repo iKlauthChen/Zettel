@@ -1,11 +1,11 @@
 ---
-id: 20260715-0020
+id: 20260715-0020-DunnCavelty2015-resilience
 status: permanent
 created: 2026-07-15T17:20:00+0800
 source: {type: article, ref: "Dunn Cavelty, Myriam, Mareile Kaufmann, and Kristian Søby Kristensen. 'Resilience and (in)security: Practices, subjects, temporalities.' Security Dialogue 46.1 (2015): 3–14."}
 tags: [韧性, 不安全, 主体性, 时间性, 安全实践, 批判安全研究]
 links:
-  - {id: 20260715-0019, reason: "Solomon的时间-主体性——本文以韧性的时间维度为案例展开"}
+  - {id: 20260715-0019-Solomon2014-time-subjectivity, reason: "Solomon的时间-主体性——本文以韧性的时间维度为案例展开"}
 voice_passed: true
 aliases: ["Dunn Cavelty 2015 resilience temporality", "韧性——安全的时间与主体"]
 ---

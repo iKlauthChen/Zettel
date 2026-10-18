@@ -1,15 +1,15 @@
 ---
-id: 20260703-0019
+id: 20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo
 status: permanent
 created: 2026-07-03T16:45:00+0800
 source: {type: article, ref: "Zevnik, Andreja. 'A return of the repressed: Symptom, fantasy and campaigns for justice for Guantánamo detainees post-2010.' The British Journal of Politics and International Relations 20.1 (2018): 206–222."}
 tags: [Zevnik, 精神分析, 症候, 幻象, 关塔那摩, 例外状态, 法律, 主权, 拉康, 方法论, IR-theory]
 links:
-  - {id: 20260703-0016, reason: "Molloy书评批评Zevnik低估俄狄浦斯法再铭写能力——本文以社会幻象理论正面回应此问题"}
-  - {id: 20260703-0012, reason: "本文'幻象即治理策略'与预象传统的'在当下做未来'形成张力的对比"}
-  - {id: 20260703-0018, reason: "本文的悲观结论——社会幻象支撑所有政治斗争——与'穿越幻象'的解放路径形成对照"}
-  - {id: 20260621-0492, reason: "Guantánamo微观抵抗——本文用幻象理论补充了Zevnik此前对关塔那摩的分析"}
-  - {id: 20260703-0013, reason: "时间框架的本体政治——'例外即内在'的论断扩展了本体政治的边界"}
+  - {id: 20260703-0016-Molloy-review-Zevnik-2016, reason: "Molloy书评批评Zevnik低估俄狄浦斯法再铭写能力——本文以社会幻象理论正面回应此问题"}
+  - {id: 20260703-0012-Coward2024-four-traditions-future, reason: "本文'幻象即治理策略'与预象传统的'在当下做未来'形成张力的对比"}
+  - {id: 20260703-0018-Zevnik-Mandelbaum-ISQ2023-emancipation, reason: "本文的悲观结论——社会幻象支撑所有政治斗争——与'穿越幻象'的解放路径形成对照"}
+  - {id: 20260621-0492-关塔那摩的微观抵抗实践不是例外而是另一种世界秩序的本体论展演, reason: "Guantánamo微观抵抗——本文用幻象理论补充了Zevnik此前对关塔那摩的分析"}
+  - {id: 20260703-0013-Coward2024-ontopolitics-temporal-frames, reason: "时间框架的本体政治——'例外即内在'的论断扩展了本体政治的边界"}
 voice_passed: true
 aliases: ["症候分析作为IR方法论", "Zevnik 2018 symptom fantasy Guantánamo"]
 ---

@@ -1,11 +1,11 @@
 ---
-id: 20260715-0016
+id: 20260715-0016-Biegon2026-imaginary-turn
 status: permanent
 created: 2026-07-15T16:00:00+0800
 source: {type: article, ref: "Biegon, Rubrick, et al. 'Interrogating the imaginary turn: Technology, war, and world politics in an era of great power competition.' European Journal of International Security 11.1 (2026): 1–20."}
 tags: [想象, 技术, 战争, 安全, 大国竞争, 社会技术, 方法论]
 links:
-  - {id: 20260703-0017, reason: "Zevnik-Mandelbaum的'虚空'转向——本文是平行的'想象'转向，构成双特刊对话"}
+  - {id: 20260703-0017-Zevnik-Mandelbaum-ISQ2023-lacanian-IR, reason: "Zevnik-Mandelbaum的'虚空'转向——本文是平行的'想象'转向，构成双特刊对话"}
 voice_passed: true
 aliases: ["Biegon 2026 imaginary turn", "想象的转向——技术与战争"]
 ---

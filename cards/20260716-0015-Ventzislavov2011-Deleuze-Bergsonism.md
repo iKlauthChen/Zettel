@@ -1,11 +1,11 @@
 ---
-id: 20260716-0015
+id: 20260716-0015-Ventzislavov2011-Deleuze-Bergsonism
 status: permanent
 created: 2026-07-16T15:00:00+0800
 source: {type: article, ref: "Ventzislavov, Rossen. 'One of Deleuze's Bergsonisms.' Deleuze Studies 5.3 (2011): 340–357."}
 tags: [德勒兹, 柏格森, 绵延, 多重性, 虚拟]
 links:
-  - {id: 20260621-0440, reason: "虚拟/现实——柏格森的绵延是该区分的哲学来源之一"}
+  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "虚拟/现实——柏格森的绵延是该区分的哲学来源之一"}
 voice_passed: true
 aliases: ["Ventzislavov 2011 Deleuze Bergsonism", "德勒兹的一个柏格森主义"]
 ---

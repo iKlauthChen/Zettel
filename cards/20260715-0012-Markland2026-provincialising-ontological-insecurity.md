@@ -1,13 +1,13 @@
 ---
-id: 20260715-0012
+id: 20260715-0012-Markland2026-provincialising-ontological-insecurity
 status: permanent
 created: 2026-07-15T14:40:00+0800
 source: {type: article, ref: "Markland, Alistair. 'Whose age of anxiety? Provincialising ontological insecurity.' European Journal of International Relations 32.1 (2026): 1–28."}
 tags: [本体论安全, 焦虑, 后殖民, 欧洲中心主义, 情感, 去地方化]
 links:
-  - {id: 20260714-0004, reason: "Bilgic的酷儿OSS——本文从后殖民方向补充了OSS的权力盲区批评"}
-  - {id: 20260714-0005, reason: "Bilgic-Pilcher的后殖民地位焦虑——本文从情感多样性角度强化了同一批评"}
-  - {id: 20260714-0009, reason: "Barnett-Zarakol的本质主义陷阱——Markland的诊断是本陷阱在OSS领域的具体表现"}
+  - {id: 20260714-0004-Bilgic2025-queering-ontological-security, reason: "Bilgic的酷儿OSS——本文从后殖民方向补充了OSS的权力盲区批评"}
+  - {id: 20260714-0005-Bilgic-Pilcher2023-postcolonial-status-anxiety, reason: "Bilgic-Pilcher的后殖民地位焦虑——本文从情感多样性角度强化了同一批评"}
+  - {id: 20260714-0009-Barnett-Zarakol2023-essentialism-trap, reason: "Barnett-Zarakol的本质主义陷阱——Markland的诊断是本陷阱在OSS领域的具体表现"}
 voice_passed: true
 aliases: ["Markland 2026 provincialising ontological insecurity", "谁的焦虑时代——去地方化本体论不安全"]
 ---

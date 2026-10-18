@@ -4,6 +4,13 @@ id: 20260624-0112-tang-idea-action-outcome-card1-core-thesis
 status: permanent
 created: 2026-06-24T16:17:12+0800
 description: 唐世平2018观念行动和结果核心论题——社会科学的三大客体及其本体论差异
+source: {type: article, ref: "唐世平：《观念、行动和结果：社会科学的客体和任务》，《世界经济与政治》2018年第5期，第33—59页。", page: "33–59"}
+links:
+  - {id: 20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism, reason: "本卡的批判实在论与机制/因素定义，被用作与德勒兹准原因对置的深度本体论一端"}
+  - {id: 20260624-0115-tang-idea-action-outcome-card4-bridge, reason: "同一批切卡的桥接卡：本卡的元方法论定位与三部曲层级"}
+  - {id: 20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis, reason: "左希迎、唐世平的战略行为四阶段：正文以此为例说明「行动」客体的方法论匹配"}
+voice_passed: true
+aliases: ["唐世平 2018 观念行动结果", "三类客体及其本体论差异"]
 ---
 # 观念、行动和结果——核心论题
 
@@ -65,3 +72,9 @@ description: 唐世平2018观念行动和结果核心论题——社会科学的
 **Why:** 本文是唐世平方法论体系中最根本的哲学声明——它回答的不是"怎么研究"，而是"研究的是什么"。在实证研究之前先澄清本体论，才能避免认识论和方法论上的根本性错误。这是你记忆库中所有IR/安全/战略理论论文的**元方法论框架**。
 
 **How to apply:** 在设计任何研究时，先问三个问题：（1）我的研究对象（因变量）是观念、行动还是结果？（2）我的解释变量处于哪个层次？（3）我选择的认识论和方法论是否匹配这一本体论层级？与[[20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis]]（战略行为四阶段）交叉——左希迎唐世平研究的"战略行为"属于"行动"这一客体，而"安全环境的变化"属于"结果"——两者在本体论上的差异意味着需要不同的方法论工具来解释它们。
+
+## 相关卡片
+
+- [[20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism|准原因是表面诊断，机制解释是深度因果]] — 本卡的巴斯卡式深度本体论与机制定义，是与德勒兹准原因不可通约的一端；对方只能作诊断，不能作机制产出
+- [[20260624-0115-tang-idea-action-outcome-card4-bridge|唐世平框架的元方法论定位]] — 同一批切卡的桥接卡，安置本卡在三部曲中的位置
+- [[20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis|左希迎、唐世平：战略行为四阶段]] — 正文已引作「行动」客体的方法匹配实例，此处补为正式链接

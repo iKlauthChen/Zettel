@@ -5,9 +5,9 @@ created: 2026-10-07T12:50:51+0800
 source: {type: book, ref: "Deleuze，《褶子：莱布尼茨与巴洛克风格》，1988；杨洁译修订本，上海人民出版社，2021", page: "P153、P160-161"}
 tags: [德勒兹, Leibniz, monad, possible-world, perception, singularity]
 links:
-  - {id: 20261007-0010, reason: "前定和谐说明单子表达同一世界——本卡细化视点如何组织其知觉"}
-  - {id: 20261007-0008, reason: "世界在灵魂中现实化——视点说明世界如何在单子中取得差异性清晰度"}
-  - {id: 20260623-1412, reason: "'别人作为可能世界'与单子视点都涉及可能性的表达，但二者概念不可混同"}
+  - {id: 20261007-0010-fold-harmony-monads-communication, reason: "前定和谐说明单子表达同一世界——本卡细化视点如何组织其知觉"}
+  - {id: 20261007-0008-fold-world-realization, reason: "世界在灵魂中现实化——视点说明世界如何在单子中取得差异性清晰度"}
+  - {id: 20260623-1412-别人不是另一个主体而是一个可能世界, reason: "'别人作为可能世界'与单子视点都涉及可能性的表达，但二者概念不可混同"}
 voice_passed: true
 aliases: ["单子视点由奇点组织，感知相似是自然符号而非摹写"]
 ---

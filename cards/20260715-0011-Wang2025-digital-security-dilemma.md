@@ -1,5 +1,5 @@
 ---
-id: 20260715-0011
+id: 20260715-0011-Wang2025-digital-security-dilemma
 status: permanent
 created: 2026-07-15T14:20:00+0800
 source: {type: article, ref: "Wang, William Zhengdong. 'Data Flows Meet Great Power Politics: The Emerging Digital Security Dilemma Between China and the US.' Journal of Cybersecurity 11.1 (2025): 1–19."}

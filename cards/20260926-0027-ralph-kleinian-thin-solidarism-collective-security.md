@@ -5,10 +5,10 @@ created: 2026-09-26T01:06:54+0800
 source: {type: article, ref: "Ralph, Jason. International society as an ontological security provider: a framework for analysis. International Theory 18, no. 1 (2026): 135–157. doi:10.1017/S1752971925100146", page: "144–147"}
 tags: [克莱因, 团结主义, 主权平等, 集体安全, 抑郁位置, 内摄, 投射, 自决, 联合国宪章, 巴勒斯坦]
 links:
-  - {id: 20260926-0011, reason: "Cash的文化剧目与再配重——本文直接引用其北爱尔兰读法"}
-  - {id: 20260926-0012, reason: "Cash把位置映射到无政府状态文化——薄团结＝洛克式再配重的另一种表述"}
-  - {id: 20260714-0007, reason: "Gellwitzki与Houde的德国-欧盟内摄/投射——本文的核心经验例证"}
-  - {id: 20260926-0024, reason: "Gellwitzki：抑郁位置的正面——薄团结所依赖的位置理论"}
+  - {id: 20260926-0011-cash-cultures-of-anarchy-hybrid-repertoire, reason: "Cash的文化剧目与再配重——本文直接引用其北爱尔兰读法"}
+  - {id: 20260926-0012-cash-kleinian-positions-anarchy-cultures, reason: "Cash把位置映射到无政府状态文化——薄团结＝洛克式再配重的另一种表述"}
+  - {id: 20260714-0007-Gellwitzki-Houde2023-German-EU-myth, reason: "Gellwitzki与Houde的德国-欧盟内摄/投射——本文的核心经验例证"}
+  - {id: 20260926-0024-gellwitzki-depressive-position-reparation-guilt-as-security, reason: "Gellwitzki：抑郁位置的正面——薄团结所依赖的位置理论"}
 voice_passed: true
 aliases: ["薄团结主义与主权平等", "克莱因式国际社会", "集体安全作为本体论安全提供者"]
 ---

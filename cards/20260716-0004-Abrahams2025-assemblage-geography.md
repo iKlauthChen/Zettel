@@ -1,12 +1,12 @@
 ---
-id: 20260716-0004
+id: 20260716-0004-Abrahams2025-assemblage-geography
 status: permanent
 created: 2026-07-16T11:00:00+0800
 source: {type: article, ref: "Abrahams, Gareth. 'Drawing Out Deleuze and Guattari's Assemblage: New Insights for Geography.' Deleuze and Guattari Studies 19.3 (2025): 341–375."}
 tags: [德勒兹, 加塔利, 装配, 环境, 辖域, 机器, 重复, 地理学]
 links:
-  - {id: 20260621-0453, reason: "Bonta-Protevi的地球哲学——本文从装配角度补充了被忽略的节段"}
-  - {id: 20260716-0003, reason: "Mutabdžija的巴尔干地理哲学——共享DG概念但聚焦不同的理论节段"}
+  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "Bonta-Protevi的地球哲学——本文从装配角度补充了被忽略的节段"}
+  - {id: 20260716-0003-Mutabdzija2022-Balkan-geophilosophy, reason: "Mutabdžija的巴尔干地理哲学——共享DG概念但聚焦不同的理论节段"}
 voice_passed: true
 aliases: ["Abrahams 2025 assemblage geography", "装配的新地理学洞见"]
 ---

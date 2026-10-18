@@ -5,9 +5,9 @@ created: 2026-10-07T12:37:06+0800
 source: {type: book, ref: "Deleuze，《褶子：莱布尼茨与巴洛克风格》，1988；杨洁译修订本，上海人民出版社，2021", page: "P174、P181、P185、P190、P196-198"}
 tags: [德勒兹, Leibniz, monad, body, force, fold]
 links:
-  - {id: 20260806-0001, reason: "无窗单子的封闭不意味着互相影响——本卡聚焦单子与身体的层级包含"}
-  - {id: 20260805-0004, reason: "分形与物质褶子——本卡补充物质身体及派生力的组织层次"}
-  - {id: 20261007-0008, reason: "身体褶子是世界实现的物质层，本卡展开其单子构成"}
+  - {id: 20260806-0001-fold-not-interconnection-windowless-monads, reason: "无窗单子的封闭不意味着互相影响——本卡聚焦单子与身体的层级包含"}
+  - {id: 20260805-0004-fold-fractal-material-actualization, reason: "分形与物质褶子——本卡补充物质身体及派生力的组织层次"}
+  - {id: 20261007-0008-fold-world-realization, reason: "身体褶子是世界实现的物质层，本卡展开其单子构成"}
 voice_passed: true
 aliases: ["身体由统治单子与层层包含的身体单子构成"]
 ---

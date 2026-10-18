@@ -1,17 +1,17 @@
 ---
-id: 20260709-0003
+id: 20260709-0003-Dukes2016-mechanosphere-genealogy
 status: permanent
 created: 2026-07-09T14:00:00+0800
 source: {type: article, ref: "Dukes, Hunter. 'Assembling the Mechanosphere: Monod, Althusser, Deleuze and Guattari.' Deleuze Studies 10.3 (2016): 355–374."}
 tags: [德勒兹, 加塔利, 机械圈, 智慧圈, 德日进, 阿尔都塞, 地球哲学, 人类世, 非有机生命, 层, 抽象机器]
 links:
-  - {id: 20260621-0453, reason: "Bonta/Protevi的地球哲学——mechanosphere是本书未充分展开但关键的DG概念"}
-  - {id: 20260706-0001, reason: "欧陆哲学×复杂科学×AI——机械圈的前沿延伸"}
-  - {id: 20260709-0004, reason: "Shults模拟机器——机械圈的计算机模拟验证"}
-  - {id: 20260731-0001, reason: "Orbis 1610——机械圈的地质学标记"}
-  - {id: 20260623-1603, reason: "层叠与双重分节——mechanosphere吸收所有层但不等同于去层化"}
+  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "Bonta/Protevi的地球哲学——mechanosphere是本书未充分展开但关键的DG概念"}
+  - {id: 20260706-0001-continental-philosophy-complex-science-AI-bridge-prospects, reason: "欧陆哲学×复杂科学×AI——机械圈的前沿延伸"}
+  - {id: 20260709-0004-Shults2020-simulating-machines, reason: "Shults模拟机器——机械圈的计算机模拟验证"}
+  - {id: 20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker, reason: "Orbis 1610——机械圈的地质学标记"}
+  - {id: 20260623-1603-层叠与双重分节, reason: "层叠与双重分节——mechanosphere吸收所有层但不等同于去层化"}
   - {id: 20260623-1600-Saldanha, reason: "Saldanha引用本文的mechanosphere概念"}
-  - {id: 20260703-0019, reason: "症候分析——人类世的'reverse transcription'是一种症候断裂"}
+  - {id: 20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo, reason: "症候分析——人类世的'reverse transcription'是一种症候断裂"}
 voice_passed: true
 aliases: ["Dukes 2016 mechanosphere", "机械圈概念谱系：德日进-莫诺-阿尔都塞-德勒兹"]
 ---

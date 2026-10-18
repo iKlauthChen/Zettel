@@ -1,16 +1,16 @@
 ---
-id: 20260703-0011
+id: 20260703-0011-Coward2024-IR-future-turn
 status: permanent
 created: 2026-07-03T14:30:00+0800
 source: {type: article, ref: "Coward, Martin, et al. 'On the horizon: The futures of IR.' Review of International Studies 50.3 (2024): 415-424."}
 tags: [国际关系理论, IR, IR-theory, 未来, 时间性, 方法论, 批判理论]
 links:
-  - {id: 20260703-0012, reason: "四种未来取向的传统是对本卡未来转向论的具体化"}
-  - {id: 20260716-0052, reason: "Rengger宗教永恒回归——IR未来的宗教时间性"}
-  - {id: 20260703-0013, reason: "时间框架的本体政治维度与本卡的未来诊断功能互补"}
-  - {id: 20260703-0014, reason: "四主题展开构成对IR未来议程的具体诊断"}
-  - {id: 20260703-0015, reason: "Zevnik作为合作者的理论在场——虚空本体论是本卡未来转向的最深层哲学基础"}
-  - {id: 20260621-0464, reason: "概念创造中的未来取向理论想象与本卡未来转向共享建构论前提"}
+  - {id: 20260703-0012-Coward2024-four-traditions-future, reason: "四种未来取向的传统是对本卡未来转向论的具体化"}
+  - {id: 20260716-0052-Rengger2003-eternal-return-religion-IR, reason: "Rengger宗教永恒回归——IR未来的宗教时间性"}
+  - {id: 20260703-0013-Coward2024-ontopolitics-temporal-frames, reason: "时间框架的本体政治维度与本卡的未来诊断功能互补"}
+  - {id: 20260703-0014-Coward2024-four-themes-IR, reason: "四主题展开构成对IR未来议程的具体诊断"}
+  - {id: 20260703-0015-Zevnik-RIS2024-future-IR-perspective, reason: "Zevnik作为合作者的理论在场——虚空本体论是本卡未来转向的最深层哲学基础"}
+  - {id: 20260621-0464-概念创造的思想资源来自语言反思科学史的思维关系演进和面向未来的理论想象, reason: "概念创造中的未来取向理论想象与本卡未来转向共享建构论前提"}
 voice_passed: true
 aliases: ["IR的未来转向：从回顾过去到展望未来", "Coward et al. RIS 2024 special issue introduction"]
 ---

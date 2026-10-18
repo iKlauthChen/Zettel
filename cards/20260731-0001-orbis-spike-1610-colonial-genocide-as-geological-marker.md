@@ -1,14 +1,14 @@
 ---
-id: 20260731-0001
+id: 20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker
 status: permanent
 created: 2026-07-31T08:32:45+0800
 source: {type: article, ref: "Saldanha, Arun & Hannah Stark. 'A New Earth: Deleuze and Guattari in the Anthropocene.' Deleuze Studies 10.4 (2016): 427–439。——汇总Lewis & Maslin (2015) 'Defining the Anthropocene' Nature 519的Orbis spike论", page: "429-430"}
 tags: [人类世, Anthropocene, 殖民, capitalism, strata, 地理哲学, 后殖民, 环境]
 links:
-  - {id: 20260623-1604, reason: "机械种系与机械圈——同篇介绍中的Anthropocene唯物主义框架"}
-  - {id: 20260703-0013, reason: "人类世起始时间选择的政治含义——Orbis spike是periodization-as-political的典型案例"}
-  - {id: 20260622-0021, reason: "Saldanha论Anthropocene打破知识-政治断裂——Orbis spike是其最尖锐案例"}
-  - {id: 20260709-0003, reason: "机械圈概念谱系——人类世的反向转录与Orbis spike共享地质-政治双重操作"}
+  - {id: 20260623-1604-机械种系与机械圈的唯物主义, reason: "机械种系与机械圈——同篇介绍中的Anthropocene唯物主义框架"}
+  - {id: 20260703-0013-Coward2024-ontopolitics-temporal-frames, reason: "人类世起始时间选择的政治含义——Orbis spike是periodization-as-political的典型案例"}
+  - {id: 20260622-0021-空间不是康德的先验范畴而是差异本身德勒兹重新引入物质的时间和空间维度Saldanha, reason: "Saldanha论Anthropocene打破知识-政治断裂——Orbis spike是其最尖锐案例"}
+  - {id: 20260709-0003-Dukes2016-mechanosphere-genealogy, reason: "机械圈概念谱系——人类世的反向转录与Orbis spike共享地质-政治双重操作"}
 voice_passed: true
 aliases: ["Orbis spike 1610", "殖民种族灭绝作为人类世的地质标记"]
 ---

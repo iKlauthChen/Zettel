@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P367"}
 tags: [deleuze, 差异与重复, 动力, 微分节奏, 发育, 时间, 空间]
 links:
-  - {id: 20260621-0440, reason: "吸引子与动力的关系"}
-  - {id: 20260630-0001, reason: "动力在三层中的位置"}
-  - {id: 20260716-0024, reason: "微分与时间的关系"}
-  - {id: 20260620-1549, reason: "时间节奏的结构"}
+  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "吸引子与动力的关系"}
+  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "动力在三层中的位置"}
+  - {id: 20260716-0024-Olkowski2008-mathematical-time-limits, reason: "微分与时间的关系"}
+  - {id: 20260620-1549-柯罗诺斯时间不是三维的, reason: "时间节奏的结构"}
 voice_passed: true
 aliases: ["动力既是空间的也是时间的"]
 ---

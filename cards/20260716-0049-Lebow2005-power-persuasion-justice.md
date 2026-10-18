@@ -1,11 +1,11 @@
 ---
-id: 20260716-0049
+id: 20260716-0049-Lebow2005-power-persuasion-justice
 status: permanent
 created: 2026-07-17T04:00:00+0800
 source: {type: article, ref: "Lebow, Richard Ned. 'Power, Persuasion and Justice.' Millennium: Journal of International Studies 33.3 (2005): 551–582."}
 tags: [权力, 说服, 正义, 希腊, 伦理, 影响力]
 links:
-  - {id: 20260716-0046, reason: "Behnke的Kant批判——Lebow以希腊替代Kant：权力的伦理基础不是在普遍理性中，而是在特定共同体的说服和正义的实践中"}
+  - {id: 20260716-0046-Behnke2008-eternal-peace-graveyard, reason: "Behnke的Kant批判——Lebow以希腊替代Kant：权力的伦理基础不是在普遍理性中，而是在特定共同体的说服和正义的实践中"}
 voice_passed: true
 aliases: ["Lebow 2005 power persuasion justice", "权力、说服与正义——从希腊视角重建权力概念"]
 ---

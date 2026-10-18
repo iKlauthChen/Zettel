@@ -1,12 +1,12 @@
 ---
-id: 20260721-0005
+id: 20260721-0005-Biddle-modern-system-force-employment
 status: permanent
 created: 2026-07-21T14:30:00+0800
 source: {type: book, ref: "Biddle, Stephen. 2004. Military Power: Explaining Victory and Defeat in Modern Battle. Princeton: Princeton University Press."}
 tags: [biddle, military-power, force-employment, modern-system, capability, strategic-theory, doctrine]
 links:
-  - {id: 20260805-0003, reason: "Biddle是现代系统理论的代表，与论文'组织有限性'直接对话"}
-  - {id: 20260620-1501, reason: "Biddle的现代系统与D&G的装置概念——前者是操作层面的约束规则，后者是本体论层面的界域生产"}
+  - {id: 20260805-0003-strategic-theory-literature-map, reason: "Biddle是现代系统理论的代表，与论文'组织有限性'直接对话"}
+  - {id: 20260620-1501-装置创造界域而非只是占据空间, reason: "Biddle的现代系统与D&G的装置概念——前者是操作层面的约束规则，后者是本体论层面的界域生产"}
 voice_passed: true
 aliases: ["Biddle modern system", "现代系统理论", "force employment theory", "Biddle Military Power"]
 ---

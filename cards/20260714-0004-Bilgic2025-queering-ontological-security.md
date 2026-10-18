@@ -1,13 +1,13 @@
 ---
-id: 20260714-0004
+id: 20260714-0004-Bilgic2025-queering-ontological-security
 status: permanent
 created: 2026-07-14T13:30:00+0800
 source: {type: article, ref: "Bilgic, Ali. 'Queering ontological (in)security: a psychoanalysis of political homophobia.' International Relations (2025)."}
 tags: [本体论安全, 酷儿, 拉康, 权力, 情感, 恐同, 土耳其, 他者化]
 links:
-  - {id: 20260713-0002, reason: "Vulović-Ejdus的拉康式OSS——本文批评其缺乏权力分析维度"}
-  - {id: 20260714-0002, reason: "Gellwitzki的Kleinian OSS——本文从酷儿角度补充了二元位置的权力运作"}
-  - {id: 20260714-0003, reason: "土耳其享乐分析——同为国家案例，本文聚焦被国家情绪他者化的群体"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的拉康式OSS——本文批评其缺乏权力分析维度"}
+  - {id: 20260714-0002-Gellwitzki2024-Kleinian-ontological-security, reason: "Gellwitzki的Kleinian OSS——本文从酷儿角度补充了二元位置的权力运作"}
+  - {id: 20260714-0003-Adisonmez-Oztig2025-jouissance-Turkey, reason: "土耳其享乐分析——同为国家案例，本文聚焦被国家情绪他者化的群体"}
 voice_passed: true
 aliases: ["Bilgic 2025 queering ontological security", "酷儿本体论安全——恐同的权力分析"]
 ---

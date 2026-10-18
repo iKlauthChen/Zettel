@@ -1,13 +1,13 @@
 ---
-id: 20260716-0048
+id: 20260716-0048-Buckley-Zistel2006-in-between-war-peace
 status: permanent
 created: 2026-07-17T03:40:00+0800
 source: {type: article, ref: "Buckley-Zistel, Susanne. 'In-Between War and Peace: Identities, Boundaries and Change after Violent Conflict.' Millennium: Journal of International Studies 35.1 (2006): 3–23."}
 tags: [战争, 和平, 身份, 边界, 暴力冲突, 冲突后, 过渡]
 links:
-  - {id: 20260716-0030, reason: "To的焦虑国家——战后国家在身份过渡中的'不可封闭'与Buckley-Zistel的'在战争与和平之间'一致"}
-  - {id: 20260716-0038, reason: "Vieira的巴西——身份重构在暴力后的双重运动：不能完全回到'战前'也不能停留在'战争中'"}
-  - {id: 20260716-0046, reason: "Behnke的永久和平——'战争与和平之间'是对'康德的和平'的另一层回应：和平不是战争的终止，而是持续的不确定状态"}
+  - {id: 20260716-0030-To2024-anxious-state-closure, reason: "To的焦虑国家——战后国家在身份过渡中的'不可封闭'与Buckley-Zistel的'在战争与和平之间'一致"}
+  - {id: 20260716-0038-Vieira2018-Brazil-ontological-security, reason: "Vieira的巴西——身份重构在暴力后的双重运动：不能完全回到'战前'也不能停留在'战争中'"}
+  - {id: 20260716-0046-Behnke2008-eternal-peace-graveyard, reason: "Behnke的永久和平——'战争与和平之间'是对'康德的和平'的另一层回应：和平不是战争的终止，而是持续的不确定状态"}
 voice_passed: true
 aliases: ["Buckley-Zistel 2006 in-between war peace", "战争与和平之间——冲突后身份的重构"]
 ---

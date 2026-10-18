@@ -5,10 +5,10 @@ created: 2026-09-26T00:50:22+0800
 source: {type: article, ref: "Cash, John. Psychoanalysis, cultures of anarchy, and ontological insecurity. International Theory 12:2 (2020): 306–321. doi:10.1017/S1752971920000147", page: "307–309, 316–318"}
 tags: [cash, wendt, 无政府状态文化, 文化组合, 再配重, 混杂性, 内化, 北爱尔兰, 特朗普]
 links:
-  - {id: 20260701-0025, reason: "温特的建构主义本体论与三种无政府文化——本文的直接再概念化对象"}
-  - {id: 20260624-0096, reason: "秦用霍布斯-洛克-康德作阶梯并主张战略稳定先于康德文化——与并存模型正面冲突"}
-  - {id: 20260624-0084, reason: "中国路径卡主张体系文化已由霍布斯主导进化为洛克主导——本文否认霍布斯形式会退场"}
-  - {id: 20260830-0040, reason: "温特的量子心灵——本文承认量子转向的'激进不确定性'与自己立场重叠"}
+  - {id: 20260701-0025-wendt-constructivist-ontology, reason: "温特的建构主义本体论与三种无政府文化——本文的直接再概念化对象"}
+  - {id: 20260624-0096-qin-strategic-uncertainty-card6-strategic-stability, reason: "秦用霍布斯-洛克-康德作阶梯并主张战略稳定先于康德文化——与并存模型正面冲突"}
+  - {id: 20260624-0084-qin-dynamic-mechanism-card4-china-path, reason: "中国路径卡主张体系文化已由霍布斯主导进化为洛克主导——本文否认霍布斯形式会退场"}
+  - {id: 20260830-0040-温特量子心灵国家作为潜在实在, reason: "温特的量子心灵——本文承认量子转向的'激进不确定性'与自己立场重叠"}
 voice_passed: true
 aliases: ["无政府状态文化的并存与可变配重", "混杂文化组合", "对温特的再概念化"]
 ---

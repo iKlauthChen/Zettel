@@ -5,10 +5,10 @@ created: 2026-09-26T09:06:49+0800
 source: {type: article, ref: "McIntosh, Chris. Writing Quantum Entanglement into International Relations: Temporality, Positionality, and the Ontology of War. Millennium: Journal of International Studies 49, no. 1 (2020): 162–174. doi:10.1177/0305829820971688", page: "166, 172–174"}
 tags: [位置性, 学术谦逊, 反身性, 累积知识, 潜在结构主义, 批判IR, 伦理, 装置]
 links:
-  - {id: 20260917-0002, reason: "Braidotti的发言位置批判——位置性问题的理论母本"}
-  - {id: 20260926-0034, reason: "Amoureux的收尾：学者反身性的承诺未兑现——与本卡互为印证"}
-  - {id: 20260715-0012, reason: "Markland把本体论不安全'省的化'——同一反身性要求在OSS领域的版本"}
-  - {id: 20260716-0037, reason: "Kamola的去殖民大学——学术位置性的体制面"}
+  - {id: 20260917-0002-Braidotti发言位置批判1996, reason: "Braidotti的发言位置批判——位置性问题的理论母本"}
+  - {id: 20260926-0034-amoureux-postcolonial-corrective-scholarly-reflexivity, reason: "Amoureux的收尾：学者反身性的承诺未兑现——与本卡互为印证"}
+  - {id: 20260715-0012-Markland2026-provincialising-ontological-insecurity, reason: "Markland把本体论不安全'省的化'——同一反身性要求在OSS领域的版本"}
+  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola的去殖民大学——学术位置性的体制面"}
 voice_passed: true
 aliases: ["学术谦逊与位置性", "批判IR的潜在结构主义", "更多知识对谁更好"]
 ---

@@ -1,13 +1,13 @@
 ---
-id: 20260716-0055
+id: 20260716-0055-Bennett2024-AlphaGo-nomadism
 status: permanent
 created: 2026-07-17T06:20:00+0800
 source: {type: article, ref: "Bennett, Michael. 'Go Nomadism, Evolutionary Computation and Natural Selection: A Reply to Jay Lampert.' Deleuze and Guattari Studies 18.3 (2024): 457–468."}
 tags: [德勒兹, 加塔利, AlphaGo, 演化计算, 自然选择, 游牧, 围棋]
 links:
-  - {id: 20260716-0054, reason: "Smith的游牧本体论——AlphaGo的运作方式=游牧：不按预设路径，在平滑空间中持续重算"}
-  - {id: 20260716-0014, reason: "Lundy的今天的游牧——AlphaGo是今天游牧者的一种技术形态：无主体的去中心化生成"}
-  - {id: 20260716-0032, reason: "Jacobsen-Nørgaard的XAI幻象——本文与Bennett共享对AI运作的'不可解释性'的关注"}
+  - {id: 20260716-0054-Smith2016-noumena-nomads, reason: "Smith的游牧本体论——AlphaGo的运作方式=游牧：不按预设路径，在平滑空间中持续重算"}
+  - {id: 20260716-0014-Lundy2013-nomads-today, reason: "Lundy的今天的游牧——AlphaGo是今天游牧者的一种技术形态：无主体的去中心化生成"}
+  - {id: 20260716-0032-Jacobsen-Norgaard2024-fantasies-explainable-AI, reason: "Jacobsen-Nørgaard的XAI幻象——本文与Bennett共享对AI运作的'不可解释性'的关注"}
 voice_passed: true
 aliases: ["Bennett 2024 AlphaGo nomadism", "围棋游牧——AlphaGo、演化计算与DG"]
 ---

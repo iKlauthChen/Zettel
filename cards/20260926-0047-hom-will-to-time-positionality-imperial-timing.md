@@ -5,10 +5,10 @@ created: 2026-09-26T09:44:17+0800
 source: {type: article, ref: "Hom, Andrew R. Timing Is Everything: Toward a Better Understanding of Time and International Politics. International Studies Quarterly 62, no. 1 (2018): 69–79. doi:10.1093/isq/sqx090", page: "接受稿 pp.9–12"}
 tags: [timing的意志, 位置性, 帝国式时间, 无主过程, 权力, 建制化, 尼采]
 links:
-  - {id: 20260715-0017, reason: "旧卡；本卡是展开之一"}
-  - {id: 20260715-0021, reason: "曹德军的战略节奏——will to time在大国竞争层面的经验操作"}
-  - {id: 20260715-0022, reason: "胡键的战略时间差——timing位置性在中国战略中的运用"}
-  - {id: 20260713-0003, reason: "Mitzen的例行实践——'被动timing'与OSS例行机制的同构面"}
+  - {id: 20260715-0017-Hom2018-timing-theory, reason: "旧卡；本卡是展开之一"}
+  - {id: 20260715-0021-Cao-Dejun2023-strategic-rhythm, reason: "曹德军的战略节奏——will to time在大国竞争层面的经验操作"}
+  - {id: 20260715-0022-Hu-Jian2022-strategic-time-differential, reason: "胡键的战略时间差——timing位置性在中国战略中的运用"}
+  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的例行实践——'被动timing'与OSS例行机制的同构面"}
 voice_passed: true
 aliases: ["timing的意志", "will to time", "位置性与帝国式时间"]
 ---

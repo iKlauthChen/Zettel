@@ -1,20 +1,20 @@
 ---
-id: 20260804-0002
+id: 20260804-0002-viveiros-clastres-politics-multiplicity
 status: permanent
 created: 2026-08-04T11:15:00+0800
 source: {type: article, ref: "Jacques, Vincent. 2021. 'Deleuze and Guattari: Transcending Nature/Culture in Anthropology?' Journal of the CIPH 99(1): 27-38. Trans. Allyn Hardyck.", page: "33-38, nn.23/27/30"}
 tags: [德勒兹, 加塔利, clastres, 国家, 战争机器, 宇宙论, 后结构主义, 生成]
 links:
-  - {id: 20260727-0006, reason: "同一专号导言——'反国家社会'的宇宙政治化正是导言'超越自然与文化'论题的政治完成"}
-  - {id: 20260713-0001, reason: "绵延作为关系集合——VdC'关系与生成优先于存在与实体'是德勒兹两套关系逻辑的人类学版"}
-  - {id: 20260805-0002, reason: "实验形而上学与腹语判据——本卡边界(1)的未决问题在该桥接卡中获得操作化回应"}
-  - {id: 20260621-0013, reason: "Guattari通过Clastres/Sebag的民族志定义领域——Clastres线索在Guattari框架中的另一个入口"}
-  - {id: 20260624-0138, reason: "战争机器七型连续谱——'II反国家'类型在VdC的多元性政治中获得内部动力学说明"}
-  - {id: 20260622-0036, reason: "战争机器=反抗国家捕获——VdC的'水平分裂'为捕获-抵抗关系补充了机制说明"}
-  - {id: 20260716-0051, reason: "对照：D&G/VdC说国家靠坏良心与记忆运作，Zehfuss说战争靠好良知自证——良心作为国家装置的两面"}
-  - {id: 20260621-0505, reason: "'异质性=社会可能性的条件'与'虚空作为具象化条件'共享结构亲缘"}
-  - {id: 20260622-1630, reason: "D&G人类学'神话是前乱伦的，联盟是社会的原则'对拉康'乱伦禁令构成社会'的倒转"}
-  - {id: 20260804-0001, reason: "同批卡——透视主义卡为多元性政治的宇宙论前提"}
+  - {id: 20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture, reason: "同一专号导言——'反国家社会'的宇宙政治化正是导言'超越自然与文化'论题的政治完成"}
+  - {id: 20260713-0001-duree-vs-assemblage-relation-set, reason: "绵延作为关系集合——VdC'关系与生成优先于存在与实体'是德勒兹两套关系逻辑的人类学版"}
+  - {id: 20260805-0002-experimental-metaphysics-ventriloquism-criterion, reason: "实验形而上学与腹语判据——本卡边界(1)的未决问题在该桥接卡中获得操作化回应"}
+  - {id: 20260621-0013-Guattari通过Clastres和S, reason: "Guattari通过Clastres/Sebag的民族志定义领域——Clastres线索在Guattari框架中的另一个入口"}
+  - {id: 20260624-0138-war-machine-bridge-surplus-security, reason: "战争机器七型连续谱——'II反国家'类型在VdC的多元性政治中获得内部动力学说明"}
+  - {id: 20260622-0036-Reid论德勒兹的战争机器不是军队而是一种反抗国家捕获的思维和存在的游牧形式, reason: "战争机器=反抗国家捕获——VdC的'水平分裂'为捕获-抵抗关系补充了机制说明"}
+  - {id: 20260716-0051-Zehfuss2004-writing-war-conscience, reason: "对照：D&G/VdC说国家靠坏良心与记忆运作，Zehfuss说战争靠好良知自证——良心作为国家装置的两面"}
+  - {id: 20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架, reason: "'异质性=社会可能性的条件'与'虚空作为具象化条件'共享结构亲缘"}
+  - {id: 20260622-1630-俄狄浦斯法与图腾禁忌奠定了现代主体性的基础, reason: "D&G人类学'神话是前乱伦的，联盟是社会的原则'对拉康'乱伦禁令构成社会'的倒转"}
+  - {id: 20260804-0001-viveiros-perspectivism-multinaturalism, reason: "同批卡——透视主义卡为多元性政治的宇宙论前提"}
 voice_passed: true
 aliases: ["多元性政治", "反国家的宇宙论", "水平分裂与异质性条件"]
 ---

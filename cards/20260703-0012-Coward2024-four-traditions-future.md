@@ -1,13 +1,13 @@
 ---
-id: 20260703-0012
+id: 20260703-0012-Coward2024-four-traditions-future
 status: permanent
 created: 2026-07-03T14:35:00+0800
 source: {type: article, ref: "Coward, Martin, et al. 'On the horizon: The futures of IR.' Review of International Studies 50.3 (2024): 415-424."}
 tags: [IR, IR-theory, 国际关系理论, 未来, 时间性, 批判理论, 方法论, 预期, 乌托邦]
 links:
-  - {id: 20260703-0011, reason: "此四种传统是Coward等人未来转向论的具体内容"}
-  - {id: 20260703-0013, reason: "四种传统各自蕴含不同的本体政治"}
-  - {id: 20260621-0464, reason: "概念创造的传统与未来想象相关"}
+  - {id: 20260703-0011-Coward2024-IR-future-turn, reason: "此四种传统是Coward等人未来转向论的具体内容"}
+  - {id: 20260703-0013-Coward2024-ontopolitics-temporal-frames, reason: "四种传统各自蕴含不同的本体政治"}
+  - {id: 20260621-0464-概念创造的思想资源来自语言反思科学史的思维关系演进和面向未来的理论想象, reason: "概念创造的传统与未来想象相关"}
 voice_passed: true
 aliases: ["国际关系未来思考的四种传统", "四种未来取向的思想类型"]
 ---

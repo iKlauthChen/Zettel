@@ -1,20 +1,20 @@
 ---
-id: 20260827-0001
+id: 20260827-0001-jacques-rosanvallon-cursus-four-ways
 status: permanent
 created: 2026-08-27T10:45:00+0800
 source: {type: article, ref: "Jacques, Vincent & Jérôme Rosanvallon. 2021. 'To Begin With: Deleuze & Guattari's Metaphysics: Already \"beyond nature and culture\".' Journal of the CIPH 99(1): 1-9.", page: "5-6"}
 tags: [德勒兹, 加塔利, 德勒兹-加塔利, 自然与文化, descola, 块茎, 混沌, 生成, 内在性平面, 单义性, 本体生成]
 links:
-  - {id: 20260727-0006, reason: "本卡为该卡'两条消除路径'纲领的具体执行地图——四篇文章分属两向运动"}
-  - {id: 20260727-0007, reason: "Montebello的单义性平面是四篇文章共享的形而上学地平线；Ruyer三重本体论与其同构"}
-  - {id: 20260804-0001, reason: "VdC透视主义/多自然主义卡——Jacques路线的人类学执行，与VdC原著卡互证"}
-  - {id: 20260804-0002, reason: "VdC-克洛斯特政治与复多卡——'社会对抗国家'的去社会中心论重读"}
-  - {id: 20260622-1520, reason: "块茎核心机制卡——Haudricourt假说为块茎概念谱系提供的生成条件"}
-  - {id: 20260620-1582, reason: "德勒兹思想图像完整性问题——Bénit路线'图像/无图像'的历史-本体论加重的对接"}
-  - {id: 20260621-0505, reason: "三层本体论框架卡——D&G'不可还原的三重本体论'（本体生成/宇宙生成/生物生成）与三层框架的结构对应"}
-  - {id: 20260710-0002, reason: "混沌互渗桥接卡——混沌作为'无图像之思'的终极形象，与剩余安全的混沌互渗操作衔接"}
-  - {id: 20260623-1400, reason: "概念创造论与Haudricourt经验依赖之间的张力——块茎概念谱系的两端"}
-  - {id: 20260621-0471, reason: "三平面框架与'不可还原的三重本体论'共享以三分拒绝二分的结构"}
+  - {id: 20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture, reason: "本卡为该卡'两条消除路径'纲领的具体执行地图——四篇文章分属两向运动"}
+  - {id: 20260727-0007-jacques-rosanvallon-dg-nature-plane-immanence, reason: "Montebello的单义性平面是四篇文章共享的形而上学地平线；Ruyer三重本体论与其同构"}
+  - {id: 20260804-0001-viveiros-perspectivism-multinaturalism, reason: "VdC透视主义/多自然主义卡——Jacques路线的人类学执行，与VdC原著卡互证"}
+  - {id: 20260804-0002-viveiros-clastres-politics-multiplicity, reason: "VdC-克洛斯特政治与复多卡——'社会对抗国家'的去社会中心论重读"}
+  - {id: 20260622-1520-块茎的核心机制是逃逸线, reason: "块茎核心机制卡——Haudricourt假说为块茎概念谱系提供的生成条件"}
+  - {id: 20260620-1582-德勒兹的思想图像不完整, reason: "德勒兹思想图像完整性问题——Bénit路线'图像/无图像'的历史-本体论加重的对接"}
+  - {id: 20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架, reason: "三层本体论框架卡——D&G'不可还原的三重本体论'（本体生成/宇宙生成/生物生成）与三层框架的结构对应"}
+  - {id: 20260710-0002-surplus-security-chaosmose-bridge, reason: "混沌互渗桥接卡——混沌作为'无图像之思'的终极形象，与剩余安全的混沌互渗操作衔接"}
+  - {id: 20260623-1400-概念是被创造出来的而非被给定的, reason: "概念创造论与Haudricourt经验依赖之间的张力——块茎概念谱系的两端"}
+  - {id: 20260621-0471-什么是哲学中的三平面框架艺术创造感知物科学创造函项哲学创造概念是三种平等的思想操作, reason: "三平面框架与'不可还原的三重本体论'共享以三分拒绝二分的结构"}
 voice_passed: true
 aliases: ["专号四路线作为超越自然/文化纲领的执行地图", "Ruyer自我飞越与D&G三重本体论"]
 ---

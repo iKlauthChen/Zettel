@@ -5,10 +5,10 @@ created: 2026-09-28T11:54:24+0800
 source: {type: article, ref: "Hom, Andrew R. 'Silent Order: The Temporal Turn in Critical International Relations.' Millennium: Journal of International Studies 46.3 (2018): 303–330. doi:10.1177/0305829818771349. 本地 PDF 为 Edinburgh Research Explorer 的同行评审版本，正文页码 1–30。", page: "同行评审版本 pp. 8–15"}
 tags: [时间, 时间性, 批判IR, 方法论, 线性时间]
 links:
-  - {id: 20260715-0018, reason: "本文总卡：本卡展开对线性／非线性二分的批判"}
-  - {id: 20260715-0017, reason: "timing 理论提供由抽象时间概念转向实践分析的邻接路径"}
-  - {id: 20260928-0001, reason: "并读：笼统'无时间'与笼统'线性时间'均把异质现象压进单一标签"}
-  - {id: 20260623-1409, reason: "阿甘本将现代线性时间历史化；与 Hom 要求拆分具体线性形态相互补充"}
+  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "本文总卡：本卡展开对线性／非线性二分的批判"}
+  - {id: 20260715-0017-Hom2018-timing-theory, reason: "timing 理论提供由抽象时间概念转向实践分析的邻接路径"}
+  - {id: 20260928-0001-hom-timelessness-conceptual-blur, reason: "并读：笼统'无时间'与笼统'线性时间'均把异质现象压进单一标签"}
+  - {id: 20260623-1409-革命的任务不是改变世界而是改变时间本身, reason: "阿甘本将现代线性时间历史化；与 Hom 要求拆分具体线性形态相互补充"}
 voice_passed: true
 aliases: ["线性／非线性二分复制了新实证主义线性观", "把线性时间拆成复数的政治形态"]
 ---

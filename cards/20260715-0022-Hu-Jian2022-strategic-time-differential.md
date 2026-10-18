@@ -1,12 +1,12 @@
 ---
-id: 20260715-0022
+id: 20260715-0022-Hu-Jian2022-strategic-time-differential
 status: permanent
 created: 2026-07-15T18:00:00+0800
 source: {type: article, ref: "胡键. '“战略时间差”与中国的战略安全.' 国际安全研究 2022(3): 57–78."}
 tags: [战略时间差, 战略安全, 战略机遇期, 时间换空间, 中国]
 links:
-  - {id: 20260715-0021, reason: "曹德军的战略节奏——互补概念：战略时间差=用时间差异塑造战略机遇"}
-  - {id: 20260715-0017, reason: "Hom的时机理论——战略时间差就是时机权力的中国版"}
+  - {id: 20260715-0021-Cao-Dejun2023-strategic-rhythm, reason: "曹德军的战略节奏——互补概念：战略时间差=用时间差异塑造战略机遇"}
+  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——战略时间差就是时机权力的中国版"}
 voice_passed: true
 aliases: ["胡键 2022 战略时间差", "strategic time differential"]
 ---

@@ -1,14 +1,14 @@
 ---
-id: 20260703-0020
+id: 20260703-0020-Zevnik2016-face-politics
 status: permanent
 created: 2026-07-03T17:00:00+0800
 source: {type: article, ref: "Zevnik, Andreja. 'The politics of the face: the scopic regime and the (un-)masking of the political subject.' Journal for Cultural Research 20.2 (2016): 122–136."}
 tags: [Zevnik, 拉康, 面孔, 观视, 主体性, 知识生产, 治理, 凝视, 精神分析, 德勒兹]
 links:
-  - {id: 20260703-0019, reason: "2018症候分析是对本卡'面孔作为治理策略'的后续方法论展开"}
-  - {id: 20260703-0015, reason: "RIS导言中'谁被遮蔽'与本卡'哪些面孔算数哪些不算'对接"}
-  - {id: 20260621-0491, reason: "拉康-德勒兹联盟——本卡引用D&G的'物也被赋予面孔'扩展了分析范围"}
-  - {id: 20260703-0018, reason: "拉康式解放伦理与本卡'面孔作为社会幻象的能指'构成批判闭环"}
+  - {id: 20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo, reason: "2018症候分析是对本卡'面孔作为治理策略'的后续方法论展开"}
+  - {id: 20260703-0015-Zevnik-RIS2024-future-IR-perspective, reason: "RIS导言中'谁被遮蔽'与本卡'哪些面孔算数哪些不算'对接"}
+  - {id: 20260621-0491-拉康与德勒兹的反笛卡尔联盟以斯宾诺莎式conatus作为欲望和快感的本体论桥梁, reason: "拉康-德勒兹联盟——本卡引用D&G的'物也被赋予面孔'扩展了分析范围"}
+  - {id: 20260703-0018-Zevnik-Mandelbaum-ISQ2023-emancipation, reason: "拉康式解放伦理与本卡'面孔作为社会幻象的能指'构成批判闭环"}
 voice_passed: true
 aliases: ["面孔政治：观视体制与主体", "Zevnik 2016 face politics"]
 ---

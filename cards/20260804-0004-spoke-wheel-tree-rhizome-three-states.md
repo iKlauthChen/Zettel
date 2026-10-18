@@ -1,19 +1,19 @@
 ---
-id: 20260804-0004
+id: 20260804-0004-spoke-wheel-tree-rhizome-three-states
 status: permanent
 created: 2026-08-04T15:29:00+0800
 source: {type: reading-note, ref: "用户原创概念(2026-08-02对话);锚点原文:德勒兹-瓜塔里《千高原》(修订译本,上海人民出版社2023)第一座高原'任意两点之间皆可连接'、第九座高原'微观-法西斯主义就等着形成结晶';《反俄狄浦斯》(夏莹译,南京大学出版社2026)第一章约p.65、第二章约p.78", page: ""}
 tags: [rhizome, tree, microfascism, reterritorialization, desire-politics, lacan, revolution, love]
 links:
-  - {id: 20260804-0003, reason: "'二'的关系本体论义的落点——彼卡短板(2)所指的待切概念"}
-  - {id: 20260710-0001, reason: "树形编码与俄狄浦斯化同构;轮辐是去树化之后的再中心化形态"}
-  - {id: 20260620-1518, reason: "辐条自愿插入的欲望机制——反俄狄浦斯原问题"}
-  - {id: 20260726-0001, reason: "自愿再辖域化、笼子是家;轮辐作为再辖域化的结构形态"}
-  - {id: 20260622-0003, reason: "国家反根茎的两条路径:模仿根茎(洞穴)与自然回落(轮辐)"}
-  - {id: 20260624-0052, reason: "根茎第一原则的文献基础;轮辐作为其否定项"}
-  - {id: 20260620-1537, reason: "'爱是共产主义的最小单位'政治判据与爱的社会场域界定对话"}
-  - {id: 20260713-0005, reason: "清洗螺旋=补偿性链条的制度形态——形式定理证'裂隙必然'是轮辐保养的数学底座"}
-  - {id: 20260713-0007, reason: "清洗=偏执型重复的制度化——P1-P5/D1-D5编码方向给出轮辐保养的操作指标"}
+  - {id: 20260804-0003-structural-reality-unseen-electron-two, reason: "'二'的关系本体论义的落点——彼卡短板(2)所指的待切概念"}
+  - {id: 20260710-0001-Oedipus-vs-tree-critique-isomorphism, reason: "树形编码与俄狄浦斯化同构;轮辐是去树化之后的再中心化形态"}
+  - {id: 20260620-1518-人是如何欲望自己所受的压迫, reason: "辐条自愿插入的欲望机制——反俄狄浦斯原问题"}
+  - {id: 20260726-0001-qin-over-reterritorialization-collapse-virtual-actualization, reason: "自愿再辖域化、笼子是家;轮辐作为再辖域化的结构形态"}
+  - {id: 20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区, reason: "国家反根茎的两条路径:模仿根茎(洞穴)与自然回落(轮辐)"}
+  - {id: 20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology, reason: "根茎第一原则的文献基础;轮辐作为其否定项"}
+  - {id: 20260620-1537-爱不能通过其对象界定只能通过其社会场域的, reason: "'爱是共产主义的最小单位'政治判据与爱的社会场域界定对话"}
+  - {id: 20260713-0005-formal-theorems-security-fissure, reason: "清洗螺旋=补偿性链条的制度形态——形式定理证'裂隙必然'是轮辐保养的数学底座"}
+  - {id: 20260713-0007-paranoid-repetition-coding-reshaping, reason: "清洗=偏执型重复的制度化——P1-P5/D1-D5编码方向给出轮辐保养的操作指标"}
 voice_passed: true
 aliases: ["轮辐-树-根茎三态:反层级的势能最低结局"]
 ---

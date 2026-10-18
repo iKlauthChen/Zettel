@@ -1,5 +1,5 @@
 ---
-id: 20260715-0009
+id: 20260715-0009-Coe-Vaynman2020-rare-arms-control
 status: permanent
 created: 2026-07-15T13:40:00+0800
 source: {type: article, ref: "Coe, Andrew J., and Jane Vaynman. 'Why Arms Control Is So Rare.' American Political Science Review 114.2 (2020): 342–355."}

@@ -5,9 +5,9 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P11"}
 tags: [deleuze, 差异与重复, 实验, 科学方法, 封闭环境, 物理学, 数学]
 links:
-  - {id: 20261010-0027, reason: "数学坐标系"}
-  - {id: 20260716-0024, reason: "物理学与数学时间"}
-  - {id: 20260620-1549, reason: "时间的结构性"}
+  - {id: 20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何, reason: "数学坐标系"}
+  - {id: 20260716-0024-Olkowski2008-mathematical-time-limits, reason: "物理学与数学时间"}
+  - {id: 20260620-1549-柯罗诺斯时间不是三维的, reason: "时间的结构性"}
 voice_passed: true
 aliases: ["实验"]
 ---

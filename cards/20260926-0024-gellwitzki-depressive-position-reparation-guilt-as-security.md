@@ -5,11 +5,11 @@ created: 2026-09-26T00:59:13+0800
 source: {type: article, ref: "Gellwitzki, C. Nicolai L. The positions of ontological (in)security in international relations: object relations, unconscious phantasies, and anxiety management. International Theory (2025): 1–33. doi:10.1017/S1752971924000125", page: "19–26, 28"}
 tags: [抑郁位置, 修补, 内疚, 羞愧, 促进本体论安全的实践, 德国, 俄罗斯, 规范纲领, 现状偏好]
 links:
-  - {id: 20260713-0002, reason: "Vulović与Ejdus的德国-俄罗斯论述——本卡直接回应其拉康式解法"}
-  - {id: 20260715-0001, reason: "Eberle的幻象读法——与'羞愧即安全'相反的诊断方向"}
-  - {id: 20260926-0012, reason: "Cash：敌友到对手-邻居的转变——北爱尔兰案例的同源读法"}
-  - {id: 20260714-0007, reason: "Gellwitzki与Houde：德国的神话与欧洲安全——本卡德国案例的前期工作"}
-  - {id: 20260926-0021, reason: "同篇论文的位置定义——本卡是其抑郁位置一侧的展开"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović与Ejdus的德国-俄罗斯论述——本卡直接回应其拉康式解法"}
+  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle的幻象读法——与'羞愧即安全'相反的诊断方向"}
+  - {id: 20260926-0012-cash-kleinian-positions-anarchy-cultures, reason: "Cash：敌友到对手-邻居的转变——北爱尔兰案例的同源读法"}
+  - {id: 20260714-0007-Gellwitzki-Houde2023-German-EU-myth, reason: "Gellwitzki与Houde：德国的神话与欧洲安全——本卡德国案例的前期工作"}
+  - {id: 20260926-0021-gellwitzki-positions-security-insecurity-regression-is-insecurity, reason: "同篇论文的位置定义——本卡是其抑郁位置一侧的展开"}
 voice_passed: true
 aliases: ["内疚与羞愧是安全的指标", "促进本体论安全的实践", "修补与假修补"]
 ---

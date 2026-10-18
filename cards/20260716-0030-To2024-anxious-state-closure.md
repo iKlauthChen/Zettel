@@ -1,13 +1,13 @@
 ---
-id: 20260716-0030
+id: 20260716-0030-To2024-anxious-state-closure
 status: permanent
 created: 2026-07-16T22:00:00+0800
 source: {type: article, ref: "To, Minh Son. 'The Anxious State: Impossibility of Closure and State's Ontological (In-)security in Postcolonial and Postrevolutionary Vietnam.' Millennium: Journal of International Studies 53.1 (2024): 59–85.", doi: "10.1177/03058298241278416"}
 tags: [本体论安全, 后殖民, 焦虑, 封闭, 国家, 冲突后]
 links:
-  - {id: 20260715-0012, reason: "Markland的去地方化OSS——本文将同一批评推进到后殖民/冲突后国家的不可能封闭性"}
-  - {id: 20260714-0005, reason: "Bilgic-Pilcher的后殖民地位焦虑——后殖民国家不仅有地位焦虑，还有封闭本体论的不可实现性"}
-  - {id: 20260713-0003, reason: "Mitzen的OSS——本文挑战了OSS的核心前提：有些国家在本体论上不可能'封闭'"}
+  - {id: 20260715-0012-Markland2026-provincialising-ontological-insecurity, reason: "Markland的去地方化OSS——本文将同一批评推进到后殖民/冲突后国家的不可能封闭性"}
+  - {id: 20260714-0005-Bilgic-Pilcher2023-postcolonial-status-anxiety, reason: "Bilgic-Pilcher的后殖民地位焦虑——后殖民国家不仅有地位焦虑，还有封闭本体论的不可实现性"}
+  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——本文挑战了OSS的核心前提：有些国家在本体论上不可能'封闭'"}
 voice_passed: true
 aliases: ["To 2024 anxious state closure", "焦虑国家——后殖民国家的封闭不可能性"]
 ---

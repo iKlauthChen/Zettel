@@ -1,13 +1,13 @@
 ---
-id: 20260721-0006
+id: 20260721-0006-Biddle-three-case-studies
 status: permanent
 created: 2026-07-21T14:35:00+0800
 source: {type: book, ref: "Biddle, Stephen. 2004. Military Power: Explaining Victory and Defeat in Modern Battle. Princeton: Princeton University Press."}
 tags: [biddle, case-study, Michael, goodwood, desert-storm, modern-system, trench-stalemate]
 links:
-  - {id: 20260721-0005, reason: "此卡的母卡——Biddle现代系统理论的三案例检验"}
-  - {id: 20260721-0007, reason: "Biddle技术×兵力运用——技术放大效应的案例检验"}
-  - {id: 20260805-0003, reason: "三个案例分别对应论文中六国检验的某一维度"}
+  - {id: 20260721-0005-Biddle-modern-system-force-employment, reason: "此卡的母卡——Biddle现代系统理论的三案例检验"}
+  - {id: 20260721-0007-Biddle-technology-employment-interaction, reason: "Biddle技术×兵力运用——技术放大效应的案例检验"}
+  - {id: 20260805-0003-strategic-theory-literature-map, reason: "三个案例分别对应论文中六国检验的某一维度"}
 voice_passed: true
 aliases: ["Biddle three case studies", "Michael 1918", "Goodwood 1944", "Desert Storm 1991", "Biddle案例研究"]
 ---

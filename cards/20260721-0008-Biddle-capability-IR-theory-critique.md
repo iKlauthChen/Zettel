@@ -1,12 +1,12 @@
 ---
-id: 20260721-0008
+id: 20260721-0008-Biddle-capability-IR-theory-critique
 status: permanent
 created: 2026-07-21T14:45:00+0800
 source: {type: book, ref: "Biddle, Stephen. 2004. Military Power: Explaining Victory and Defeat in Modern Battle. Princeton: Princeton University Press."}
 tags: [biddle, IR-theory, capability, material-preponderance, realism, power]
 links:
-  - {id: 20260721-0005, reason: "Biddle的核心结论——物质主义能力观的根本错误——直接影响IR理论的基础假设"}
-  - {id: 20260805-0003, reason: "论文可以与Biddle对IR物质主义能力观的批判对话"}
+  - {id: 20260721-0005-Biddle-modern-system-force-employment, reason: "Biddle的核心结论——物质主义能力观的根本错误——直接影响IR理论的基础假设"}
+  - {id: 20260805-0003-strategic-theory-literature-map, reason: "论文可以与Biddle对IR物质主义能力观的批判对话"}
 voice_passed: true
 aliases: ["Biddle IR theory critique", "Biddle material preponderance critique", "Biddle capability critique"]
 ---

@@ -1,14 +1,14 @@
 ---
-id: 20260716-0032
+id: 20260716-0032-Jacobsen-Norgaard2024-fantasies-explainable-AI
 status: permanent
 created: 2026-07-16T22:40:00+0800
 source: {type: article, ref: "Jacobsen, Katrine, and Kristian Nørgaard. 'Reading Security Imaginaries as Fantasies – Loss, Desire, and Enjoyment in the Military Quest for Explainable AI.' Millennium: Journal of International Studies 52.2 (2024): 408–433."}
 tags: [幻象, 安全想象, 可解释AI, 欲望, 享乐, 军事, 拉康]
 links:
-  - {id: 20260715-0016, reason: "Biegon的想象转向——安全想象就是被欲望浸渍的幻象叙事"}
-  - {id: 20260715-0001, reason: "Eberle的幻象OS——共享拉康式幻象分析：本文将其应用到AI军事话语"}
-  - {id: 20260713-0009, reason: "Maher的自由市场幻象——相同的幻象逻辑：可解释AI↔自由市场"}
-  - {id: 20260715-0005, reason: "Johnson的AI升级——本文补充了AI叙事中未被识别的幻想维度"}
+  - {id: 20260715-0016-Biegon2026-imaginary-turn, reason: "Biegon的想象转向——安全想象就是被欲望浸渍的幻象叙事"}
+  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle的幻象OS——共享拉康式幻象分析：本文将其应用到AI军事话语"}
+  - {id: 20260713-0009-Maher2023-free-market-fantasy, reason: "Maher的自由市场幻象——相同的幻象逻辑：可解释AI↔自由市场"}
+  - {id: 20260715-0005-Johnson2022-inadvertent-escalation-AI, reason: "Johnson的AI升级——本文补充了AI叙事中未被识别的幻想维度"}
 voice_passed: true
 aliases: ["Jacobsen-Nørgaard 2024 fantasies explainable AI", "军事AI的幻象——损失、欲望与享乐"]
 ---

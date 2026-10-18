@@ -1,12 +1,12 @@
 ---
-id: 20260703-0005
+id: 20260703-0005-hart2026-Australia-Oceania-straits
 status: permanent
 created: 2026-07-03T14:20:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, pp.9-10."}
 tags: [CSIS, trade, chokepoint, strait, maritime, Australia, ocean]
 links:
-  - {id: 20260624-0089, reason: "陆海复合型战略——澳大利亚的'海洋大国'身份与贸易路径选择"}
-  - {id: 20260703-0001, reason: "总览卡——本卡是贸易依赖地理差异的一个极端案例"}
+  - {id: 20260624-0089-qin-land-maritime-card4-soviet-china, reason: "陆海复合型战略——澳大利亚的'海洋大国'身份与贸易路径选择"}
+  - {id: 20260703-0001-hart2026-scs-trade-overview, reason: "总览卡——本卡是贸易依赖地理差异的一个极端案例"}
 voice_passed: true
 aliases: ["澳大利亚和大洋洲是南海海峡依赖格局中的异类"]
 ---

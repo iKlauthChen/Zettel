@@ -1,5 +1,5 @@
 ---
-id: 20260716-0006
+id: 20260716-0006-Laberge2024-transversality
 status: permanent
 created: 2026-07-16T11:40:00+0800
 source: {type: article, ref: "Laberge, Yves. 'Transversality, or How Not to Reproduce the Organisations You Fight.' Deleuze and Guattari Studies 18.3 (2024): 398–420."}

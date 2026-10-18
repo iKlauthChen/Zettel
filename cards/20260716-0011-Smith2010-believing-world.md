@@ -1,11 +1,11 @@
 ---
-id: 20260716-0011
+id: 20260716-0011-Smith2010-believing-world
 status: permanent
 created: 2026-07-16T13:30:00+0800
 source: {type: article, ref: "Smith, Anthony Paul. 'Believing in this World for the Making of Gods: Ecology of the Virtual and the Actual.' SubStance 39.1 (2010): 103–114."}
 tags: [德勒兹, 虚拟, 现实, 内在性, 精神哲学, 造神]
 links:
-  - {id: 20260621-0440, reason: "Deleuze的虚拟/现实——本文论证了虚拟不是去物质化而是断裂与新现实性的生产"}
+  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "Deleuze的虚拟/现实——本文论证了虚拟不是去物质化而是断裂与新现实性的生产"}
 voice_passed: true
 aliases: ["Smith 2010 believing in this world", "虚拟与现实的生态学"]
 ---

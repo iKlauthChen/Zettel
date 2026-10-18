@@ -1,14 +1,14 @@
 ---
-id: 20260703-0001
+id: 20260703-0001-hart2026-scs-trade-overview
 status: permanent
 created: 2026-07-03T14:00:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026."}
 tags: [CSIS, trade, chokepoint, strait, south-china-sea, maritime, empirical-research]
 links:
-  - {id: 20260620-1782, reason: "海洋陆地的本体论差异——本卡提供海权贸易的实证数据底座"}
-  - {id: 20260701-0026, reason: "科普兰贸易预期理论——贸易结构决定战争预期，与南海贸易数据互补"}
-  - {id: 20260624-0089, reason: "中国海陆转型的战略分析——贸易数据揭示中国海权需求的物质基础"}
-  - {id: 20260624-0067, reason: "海军政治学的一般框架——本卡补充海权竞争的经济维度"}
+  - {id: 20260620-1782-海洋与陆地的本体论差异要求国际关系理论做, reason: "海洋陆地的本体论差异——本卡提供海权贸易的实证数据底座"}
+  - {id: 20260701-0026-copeland-trade-expectations-theory, reason: "科普兰贸易预期理论——贸易结构决定战争预期，与南海贸易数据互补"}
+  - {id: 20260624-0089-qin-land-maritime-card4-soviet-china, reason: "中国海陆转型的战略分析——贸易数据揭示中国海权需求的物质基础"}
+  - {id: 20260624-0067-original-batch1-naval-politics, reason: "海军政治学的一般框架——本卡补充海权竞争的经济维度"}
 voice_passed: true
 aliases: ["CSIS南海咽喉要道贸易分析总览"]
 ---

@@ -5,10 +5,10 @@ created: 2026-10-07T12:55:55+0800
 source: {type: book, ref: "Deleuze & Parnet，《对话》（Dialogues），1977（2026年中译本）", page: "P134、P203"}
 tags: [德勒兹, 革命, 生成, 欲望]
 links:
-  - {id: 20260914-0002, reason: "革命机器的组织问题——本卡聚焦革命性生成如何摆脱未来结果的预设"}
-  - {id: 20260830-0065, reason: "生成-民主也不等同于未来现存制度——与本卡共享事件性时间"}
-  - {id: 20261007-0014, reason: "生成发生在关系中——革命性生成不是等待未来兑现的身份"}
-  - {id: 20261007-0015, reason: "逃逸线以现实生产而非远期目标界定行动"}
+  - {id: 20260914-0002-nomadology-genesis-organization, reason: "革命机器的组织问题——本卡聚焦革命性生成如何摆脱未来结果的预设"}
+  - {id: 20260830-0065-Patton生成民主与解域政治, reason: "生成-民主也不等同于未来现存制度——与本卡共享事件性时间"}
+  - {id: 20261007-0014-dialogues-becoming-between, reason: "生成发生在关系中——革命性生成不是等待未来兑现的身份"}
+  - {id: 20261007-0015-dialogues-flight-line-reality, reason: "逃逸线以现实生产而非远期目标界定行动"}
 voice_passed: true
 aliases: ["革命不由未来预言，问题在当下能否生成革命者"]
 ---

@@ -1,11 +1,11 @@
 ---
-id: 20260716-0021
+id: 20260716-0021-Choat2009-Deleuze-Marx-politicisation
 status: permanent
 created: 2026-07-16T17:00:00+0800
 source: {type: article, ref: "Choat, Simon. 'Deleuze, Marx and the Politicisation of Philosophy.' Deleuze Studies 3, supplement (2009): 8–27."}
 tags: [德勒兹, 马克思, 哲学政治化, 革命]
 links:
-  - {id: 20260621-0440, reason: "虚拟/现实——Marx为Deleuze的差异本体论提供社会历史内容"}
+  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "虚拟/现实——Marx为Deleuze的差异本体论提供社会历史内容"}
 voice_passed: true
 aliases: ["Choat 2009 Deleuze Marx politicisation", "德勒兹与马克思——哲学政治化"]
 ---

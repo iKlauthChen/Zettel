@@ -5,7 +5,7 @@ created: 2026-07-16T12:00:00+0800
 source: {type: book, ref: "Mercer, J. (1996). Reputation and International Politics. Ithaca: Cornell University Press."}
 tags: [Mercer, reputation, deterrence, irreducibility, causal-closure, strategic-qi]
 links:
-  - {id: 20260716-0002, reason: "战略奇——声誉效应作为因果结构永不闭合的案例"}
+  - {id: 20260716-0002-Smith2022-Deleuze-sense, reason: "战略奇——声誉效应作为因果结构永不闭合的案例"}
 voice_passed: true
 aliases: ["Mercer声誉不可归因论证"]
 ---

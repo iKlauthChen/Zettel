@@ -1,12 +1,12 @@
 ---
-id: 20260714-0010
+id: 20260714-0010-Rosenberg2016-IR-prison-political-science
 status: permanent
 created: 2026-07-14T16:00:00+0800
 source: {type: article, ref: "Rosenberg, Justin. 'International Relations in the prison of Political Science.' International Relations 30.2 (2016): 127–153."}
 tags: [国际关系理论, 学科批判, 不均衡与组合发展, 社会多重性, 政治学]
 links:
-  - {id: 20260714-0008, reason: "UCD论坛——本文是Rosenberg'IR作为独立学科'的后续延续"}
-  - {id: 20260716-0042, reason: "Michel一个世界不够——IR多元世界方法论"}
+  - {id: 20260714-0008-Rosenberg2022-UCD-forum, reason: "UCD论坛——本文是Rosenberg'IR作为独立学科'的后续延续"}
+  - {id: 20260716-0042-Michel2013-one-world-not-enough, reason: "Michel一个世界不够——IR多元世界方法论"}
 voice_passed: true
 aliases: ["Rosenberg 2016 IR prison of political science", "IR在政治学的监狱中"]
 ---

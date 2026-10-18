@@ -1,13 +1,13 @@
 ---
-id: 20260721-0007
+id: 20260721-0007-Biddle-technology-employment-interaction
 status: permanent
 created: 2026-07-21T14:40:00+0800
 source: {type: book, ref: "Biddle, Stephen. 2004. Military Power: Explaining Victory and Defeat in Modern Battle. Princeton: Princeton University Press."}
 tags: [biddle, technology, preponderance, force-employment, interaction, capability, military-power, methodology]
 links:
-  - {id: 20260721-0005, reason: "此卡聚焦Biddle理论中技术-兵力运用的非线性互动，是现代系统理论的核心机制"}
-  - {id: 20260721-0006, reason: "Desert Storm案例是技术×兵力运用互动的最直接支撑"}
-  - {id: 20260721-0002, reason: "Womack的多节点连通性概念与Biddle的技术-兵力运用互动都强调'非线性效应'，可做方法论对比"}
+  - {id: 20260721-0005-Biddle-modern-system-force-employment, reason: "此卡聚焦Biddle理论中技术-兵力运用的非线性互动，是现代系统理论的核心机制"}
+  - {id: 20260721-0006-Biddle-three-case-studies, reason: "Desert Storm案例是技术×兵力运用互动的最直接支撑"}
+  - {id: 20260721-0002-Womack-multinodal-era-characteristics, reason: "Womack的多节点连通性概念与Biddle的技术-兵力运用互动都强调'非线性效应'，可做方法论对比"}
 voice_passed: true
 aliases: ["Biddle technology-force-employment interaction", "技术×兵力运用非线性互动", "技术放大效应"]
 ---

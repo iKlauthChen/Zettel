@@ -1,5 +1,5 @@
 ---
-id: 20260715-0010
+id: 20260715-0010-Bell-Quek2026-intractable-dilemma
 status: permanent
 created: 2026-07-15T14:00:00+0800
 source: {type: article, ref: "Bell, Mark S., and Kai Quek. 'How Intractable is Security Dilemma Thinking?' International Organization 80.1 (2026): 1–36."}

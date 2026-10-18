@@ -6,7 +6,7 @@ source: {type: article, ref: "Popescu, Ionut C. 'Grand Strategy vs. Emergent Str
 tags: [大战略, 紧急战略, 战略学派, 短期, 长期, 外交政策, Popescu]
 links:
   - {id: 20260624-0020-gibbs-ussr-grand-strategy-card1-core, reason: "Gibbs质疑大战略作为分析概念的适用性——Popescu为大战略辩护提供了补充维度"}
-  - {id: 20260627-0020, reason: "德勒兹生成哲学弥合战略规划与实施的裂隙——与emergent strategy共享理论直觉"}
+  - {id: 20260627-0020-生成哲学弥合战略规划实施裂隙非消除而是重新定义, reason: "德勒兹生成哲学弥合战略规划与实施的裂隙——与emergent strategy共享理论直觉"}
   - {id: 20260701-0002-friedman-logan-why-washington-no-grand-strategy, reason: "primacy共识抑制辩论——属于grand strategy学派在政治实践中的固化"}
   - {id: 20260701-0004-boggs-us-grand-strategy-contradictions, reason: "US大战略的内在矛盾——grand strategy的失败案例支持emergent strategy的论证"}
 voice_passed: true

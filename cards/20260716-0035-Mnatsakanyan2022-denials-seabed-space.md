@@ -1,13 +1,13 @@
 ---
-id: 20260716-0035
+id: 20260716-0035-Mnatsakanyan2022-denials-seabed-space
 status: permanent
 created: 2026-07-16T23:40:00+0800
 source: {type: article, ref: "Mnatsakanyan, Anna. 'Denials \"From Seabed to Space\": Assemblages of (In)Security and Denial in the Politics of Security.' Millennium: Journal of International Studies 50.2 (2022): 352–378."}
 tags: [装配, 安全, 否认, 海底, 太空, 批判安全]
 links:
-  - {id: 20260716-0004, reason: "Abrahams的装配地理学——DG装配在安全领域的直接应用"}
-  - {id: 20260715-0025, reason: "CSIS陆权——从海底到太空的否认操作 = '全领域拒止'的DG版本"}
-  - {id: 20260716-0033, reason: "Niang的空间地缘——否认装配重新编码了被安全投影覆盖的空间"}
+  - {id: 20260716-0004-Abrahams2025-assemblage-geography, reason: "Abrahams的装配地理学——DG装配在安全领域的直接应用"}
+  - {id: 20260715-0025-CSIS2026-value-land-power, reason: "CSIS陆权——从海底到太空的否认操作 = '全领域拒止'的DG版本"}
+  - {id: 20260716-0033-Niang2022-space-geopolitical, reason: "Niang的空间地缘——否认装配重新编码了被安全投影覆盖的空间"}
 voice_passed: true
 aliases: ["Mnatsakanyan 2022 denials seabed space", "从海底到太空的否认——安全的装配"]
 ---

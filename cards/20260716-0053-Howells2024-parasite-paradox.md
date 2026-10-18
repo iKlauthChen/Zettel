@@ -1,13 +1,13 @@
 ---
-id: 20260716-0053
+id: 20260716-0053-Howells2024-parasite-paradox
 status: permanent
 created: 2026-07-17T05:20:00+0800
 source: {type: article, ref: "Howells, Christina. 'The paradoxes of the parasite. The qui perd gagne of the human (revisited).' Modern & Contemporary France 32.2 (2024): 307–318."}
 tags: [寄生物, 悖论, 人类, 塞雷, 拉康, 输赢]
 links:
-  - {id: 20260716-0008, reason: "Sholtz的悖论准因果——寄生物的悖论与准因果共享同一个'不解决矛盾而让其在张力中运作'的逻辑"}
-  - {id: 20260701-0028, reason: "唐世平的进攻性现实主义自我毁灭——征服越成功、下一次征服越不可能：赢=输"}
-  - {id: 20260716-0044, reason: "Barkawi的安全空洞性——安全=寄生物：必须不断从外部提取'威胁'来存活"}
+  - {id: 20260716-0008-Sholtz2020-paradox-quasi-cause, reason: "Sholtz的悖论准因果——寄生物的悖论与准因果共享同一个'不解决矛盾而让其在张力中运作'的逻辑"}
+  - {id: 20260701-0028-tang-shiping-social-evolution-key-concepts, reason: "唐世平的进攻性现实主义自我毁灭——征服越成功、下一次征服越不可能：赢=输"}
+  - {id: 20260716-0044-Barkawi2011-war-to-security, reason: "Barkawi的安全空洞性——安全=寄生物：必须不断从外部提取'威胁'来存活"}
 voiced_passed: true
 aliases: ["Howells 2024 parasite paradoxes", "寄生物的悖论——输者赢了"]
 ---

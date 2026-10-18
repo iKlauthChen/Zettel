@@ -1,14 +1,14 @@
 ---
-id: 20260727-0003
+id: 20260727-0003-bonta-protevi-striated-space-glacial-metaphor
 status: permanent
 created: 2026-07-27T09:30:00+0800
 source: {type: article, ref: "Bonta, Mark & John Protevi. 2004. 'Introduction.' In Deleuze and Geophilosophy: A Guide and Glossary. APERÇU extract, pp.3-7.", page: "6-7"}
 tags: [bonta, protevi, 条纹空间, 冰川, 阿加西, 国家, 层叠, 光滑空间, 千高原, 地理学, 国家空间效应]
 links:
-  - {id: 20260727-0001, reason: "导言纲领——条纹空间是国家空间效应的术语，与地球哲学的核心论证紧密相关"}
-  - {id: 20260630-0001, reason: "实际/强度/虚拟——条纹空间对应实际的层面（分层系统的空间形式）"}
-  - {id: 20260623-0015, reason: "BP复杂性理论进路——条纹/光滑对立是本书复杂性-空间对接的一部分"}
-  - {id: 20260624-0076, reason: "国家的符号态体制——条纹空间是该体制的空间表达式"}
+  - {id: 20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity, reason: "导言纲领——条纹空间是国家空间效应的术语，与地球哲学的核心论证紧密相关"}
+  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "实际/强度/虚拟——条纹空间对应实际的层面（分层系统的空间形式）"}
+  - {id: 20260623-0015-bonta-protevi-geophilosophy-ingest-2, reason: "BP复杂性理论进路——条纹/光滑对立是本书复杂性-空间对接的一部分"}
+  - {id: 20260624-0076-original-batch4-void-ontology-security, reason: "国家的符号态体制——条纹空间是该体制的空间表达式"}
 voice_passed: true
 aliases: ["Bonta-Protevi论条纹空间的冰川隐喻"]
 ---

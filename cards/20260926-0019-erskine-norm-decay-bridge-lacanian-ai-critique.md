@@ -5,10 +5,10 @@ created: 2026-09-26T00:54:48+0800
 source: {type: article, ref: "Erskine, Toni. AI and the future of IR: Disentangling flesh-and-blood, institutional, and synthetic moral agency in world politics. Review of International Studies 50:3 (2024): 534–559. doi:10.1017/S0260210524000202", page: "557–559"}
 tags: [erskine, 规范衰退, 桥接卡, 错置责任, 拉康, 幻象, 剩余, 算法权威, 批判ir]
 links:
-  - {id: 20260716-0032, reason: "幻象层：可解释AI的欲动结构与本卡的规范结构互为两层"}
-  - {id: 20260703-0015, reason: "同一专辑：Zevnik论IR未来的视角，专辑语境的另一支"}
-  - {id: 20260623-0010, reason: "剩余安全——被错置的责任并不消失，而是累积为不可归因的剩余（假设性接合）"}
-  - {id: 20260926-0018, reason: "同篇论文的机制卡：错置责任的两形态与缓解"}
+  - {id: 20260716-0032-Jacobsen-Norgaard2024-fantasies-explainable-AI, reason: "幻象层：可解释AI的欲动结构与本卡的规范结构互为两层"}
+  - {id: 20260703-0015-Zevnik-RIS2024-future-IR-perspective, reason: "同一专辑：Zevnik论IR未来的视角，专辑语境的另一支"}
+  - {id: 20260623-0010-剩余安全的多重本体论基础少于无非全与剩余, reason: "剩余安全——被错置的责任并不消失，而是累积为不可归因的剩余（假设性接合）"}
+  - {id: 20260926-0018-erskine-misplaced-responsibility-war-ai, reason: "同篇论文的机制卡：错置责任的两形态与缓解"}
 voice_passed: true
 aliases: ["规范衰退的新来源", "算法权威的斗篷", "错置责任作为规范侵蚀机制"]
 ---

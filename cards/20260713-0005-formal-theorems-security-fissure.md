@@ -1,13 +1,13 @@
 ---
-id: 20260713-0005
+id: 20260713-0005-formal-theorems-security-fissure
 status: permanent
 created: 2026-07-13T14:00:00+0800
 source: {type: synthesis, ref: "哥德尔(1931)不完备定理; 塔斯基(1936)真理不可定义定理; Lawvere(1969)不动点定理. 综合论述见Yanofsky(2003) 'A Universal Approach to Self-Referential Paradoxes'."}
 tags: [自指, 形式定理, 哥德尔, 塔斯基, Lawvere, 裂隙, 本体论必然性, 剩余安全, 数学哲学]
 links:
-  - {id: 20260624-0075, reason: "剩余安全的形式必然性——形式定理谱系提供了'裂隙具有数学必然性'的论证资源"}
-  - {id: 20260713-0006, reason: "Quine本体论相对性——翻译不确定性的本体论后果：'第三方裁决位置'缺席的认识论版本"}
-  - {id: 20260621-0505, reason: "三层本体论框架——形式定理的'自指产生裂隙'逻辑对应L1虚空的非全条件"}
+  - {id: 20260624-0075-original-batch4-surplus-security, reason: "剩余安全的形式必然性——形式定理谱系提供了'裂隙具有数学必然性'的论证资源"}
+  - {id: 20260713-0006-quine-ontological-relativity, reason: "Quine本体论相对性——翻译不确定性的本体论后果：'第三方裁决位置'缺席的认识论版本"}
+  - {id: 20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架, reason: "三层本体论框架——形式定理的'自指产生裂隙'逻辑对应L1虚空的非全条件"}
 voice_passed: true
 aliases: ["形式定理谱系与安全裂隙", "Gödel-Tarski-Lawvere自指裂隙"]
 ---

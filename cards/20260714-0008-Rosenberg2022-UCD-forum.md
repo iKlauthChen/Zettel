@@ -1,5 +1,5 @@
 ---
-id: 20260714-0008
+id: 20260714-0008-Rosenberg2022-UCD-forum
 status: permanent
 created: 2026-07-14T15:20:00+0800
 source: {type: article, ref: "Rosenberg, Justin, et al. 'Debating Uneven and Combined Development / Debating International Relations: A Forum.' Millennium: Journal of International Studies 50.2 (2022): 292–322."}

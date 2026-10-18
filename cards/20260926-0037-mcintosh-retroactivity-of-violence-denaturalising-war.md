@@ -5,10 +5,10 @@ created: 2026-09-26T09:06:49+0800
 source: {type: article, ref: "McIntosh, Chris. Writing Quantum Entanglement into International Relations: Temporality, Positionality, and the Ontology of War. Millennium: Journal of International Studies 49, no. 1 (2020): 162–174. doi:10.1177/0305829820971688", page: "162–163, 169–170"}
 tags: [战争本体论, 回溯性, 本体论切口, 记忆, 非自然化, 反殖民, 命名战争, 批判战争研究]
 links:
-  - {id: 20260716-0040, reason: "Nordin与Öberg：从克劳塞维茨到鲍德里亚的战争本体论——同一'战争由什么构成'的追问"}
-  - {id: 20260715-0007, reason: "Bolton的瞄准与本体论安全——谁被算作可打击对象的切口机制"}
-  - {id: 20260926-0031, reason: "Amoureux的战争框架与空间豁免——哪些暴力被命名为战争，哪些被豁免"}
-  - {id: 20260716-0028, reason: "Reynolds的速度与战争AI——战争范畴在技术加速下的重新配置"}
+  - {id: 20260716-0040-Nordin-Oberg2015-targeting-ontology-war, reason: "Nordin与Öberg：从克劳塞维茨到鲍德里亚的战争本体论——同一'战争由什么构成'的追问"}
+  - {id: 20260715-0007-Bolton2021-targeting-ontological-security, reason: "Bolton的瞄准与本体论安全——谁被算作可打击对象的切口机制"}
+  - {id: 20260926-0031-amoureux-strained-merger-liberations-strategics-racialized-speed, reason: "Amoureux的战争框架与空间豁免——哪些暴力被命名为战争，哪些被豁免"}
+  - {id: 20260716-0028-Reynolds2025-speed-war-AI, reason: "Reynolds的速度与战争AI——战争范畴在技术加速下的重新配置"}
 voice_passed: true
 aliases: ["暴力的奇特时间性", "本体论切口与战争的命名", "战争的非自然化与反殖民"]
 ---

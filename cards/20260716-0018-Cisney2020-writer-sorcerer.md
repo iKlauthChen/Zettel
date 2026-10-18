@@ -1,5 +1,5 @@
 ---
-id: 20260716-0018
+id: 20260716-0018-Cisney2020-writer-sorcerer
 status: permanent
 created: 2026-07-16T16:00:00+0800
 source: {type: article, ref: "Cisney, Vernon W. 'The Writer is a Sorcerer: Literature and the Becomings of A Thousand Plateaus.' Deleuze and Guattari Studies 14.3 (2020): 421–444."}

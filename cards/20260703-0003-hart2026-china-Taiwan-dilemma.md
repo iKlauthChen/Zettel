@@ -1,14 +1,14 @@
 ---
-id: 20260703-0003
+id: 20260703-0003-hart2026-china-Taiwan-dilemma
 status: permanent
 created: 2026-07-03T14:10:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, pp.6-7."}
 tags: [CSIS, trade, chokepoint, strait, china, taiwan, maritime, security]
 links:
-  - {id: 20260620-1781, reason: "1996台海危机——历史先例与本卡的数据形成纵贯比较"}
-  - {id: 20260623-0002, reason: "海洋本体论不安全——中国的台湾海峡困境不仅是物质依赖也是本体论焦虑"}
-  - {id: 20260624-0033, reason: "延伸/立即威慑理论——台海威慑的结构性条件"}
-  - {id: 20260622-0060, reason: "灰色地带战略——中国在南海/台海的渐进式施压与台湾海峡贸易依赖的张力"}
+  - {id: 20260620-1781-1996年台海危机成为催生中国航母计划和, reason: "1996台海危机——历史先例与本卡的数据形成纵贯比较"}
+  - {id: 20260623-0002-海洋作为本体论不安全的空间对应在陆地条纹化叙事和海洋平滑性之间的存在焦虑, reason: "海洋本体论不安全——中国的台湾海峡困境不仅是物质依赖也是本体论焦虑"}
+  - {id: 20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept, reason: "延伸/立即威慑理论——台海威慑的结构性条件"}
+  - {id: 20260622-0060-hu-bo-chen-grey-zone-strategy, reason: "灰色地带战略——中国在南海/台海的渐进式施压与台湾海峡贸易依赖的张力"}
 voice_passed: true
 aliases: ["中国的'台湾海峡困境'超越'马六甲困境'"]
 ---

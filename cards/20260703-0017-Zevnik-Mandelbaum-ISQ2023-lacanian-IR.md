@@ -1,16 +1,16 @@
 ---
-id: 20260703-0017
+id: 20260703-0017-Zevnik-Mandelbaum-ISQ2023-lacanian-IR
 status: permanent
 created: 2026-07-03T16:10:00+0800
 source: {type: article, ref: "Zevnik, Andreja, and Moran M. Mandelbaum. 'Introduction to Special Issue: Interrogating the Void: Lacanian Psychoanalysis in International Relations.' International Studies Quarterly 67.3 (2023): sqad062."}
 tags: [Lacan, IR-theory, 拉康, 精神分析, 国际关系理论, 虚空, 方法论, 主体性, 解放]
 links:
-  - {id: 20260621-0493, reason: "Zevnik虚空本体论的IR应用——由此文扩展至学科方法论层面"}
-  - {id: 20260714-0006, reason: "Tolis拉康话语分析气候政策——拉康方法论的气候应用案例"}
-  - {id: 20260621-0487, reason: "虚空本体论——本文的哲学起点：《虚空/缺失》作为主客体两层面的出发点"}
-  - {id: 20260621-0505, reason: "虚空的三层框架辨析——本文呼应的'虚空作为前本体论'概念"}
-  - {id: 20260703-0015, reason: "Zevnik在RIS导言中的立场——两篇导言构成拉康式IR的一对文本"}
-  - {id: 20260703-0018, reason: "下卡详述拉康式解放伦理学"}
+  - {id: 20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限, reason: "Zevnik虚空本体论的IR应用——由此文扩展至学科方法论层面"}
+  - {id: 20260714-0006-Tolis2023-LDA-climate-policy, reason: "Tolis拉康话语分析气候政策——拉康方法论的气候应用案例"}
+  - {id: 20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的, reason: "虚空本体论——本文的哲学起点：《虚空/缺失》作为主客体两层面的出发点"}
+  - {id: 20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架, reason: "虚空的三层框架辨析——本文呼应的'虚空作为前本体论'概念"}
+  - {id: 20260703-0015-Zevnik-RIS2024-future-IR-perspective, reason: "Zevnik在RIS导言中的立场——两篇导言构成拉康式IR的一对文本"}
+  - {id: 20260703-0018-Zevnik-Mandelbaum-ISQ2023-emancipation, reason: "下卡详述拉康式解放伦理学"}
 voice_passed: true
 aliases: ["拉康在IR中的缺席与回归", "Zevnik-Mandelbaum ISQ 2023 introduction"]
 ---

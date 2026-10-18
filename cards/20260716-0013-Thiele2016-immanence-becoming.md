@@ -1,11 +1,11 @@
 ---
-id: 20260716-0013
+id: 20260716-0013-Thiele2016-immanence-becoming
 status: permanent
 created: 2026-07-16T14:20:00+0800
 source: {type: article, ref: "Thiele, Kathrin. 'Of Immanence and Becoming: Deleuze and Guattari's Philosophy and/as Relational Ontology.' Deleuze Studies 10.1 (2016): 117–134."}
 tags: [德勒兹, 加塔利, 内在性, 生成, 关系本体论]
 links:
-  - {id: 20260621-0440, reason: "虚拟/现实——内在性是关系性本体论的根基平面"}
+  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "虚拟/现实——内在性是关系性本体论的根基平面"}
 voice_passed: true
 aliases: ["Thiele 2016 immanence becoming", "内在性与生成——非关系性的关系本体论"]
 ---

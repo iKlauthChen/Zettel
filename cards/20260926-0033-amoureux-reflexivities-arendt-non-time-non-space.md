@@ -5,10 +5,10 @@ created: 2026-09-26T01:13:08+0800
 source: {type: article, ref: "Amoureux, Jack L. Is faster better? Political and ethical framings of pace and space. International Theory 12.2 (2020): 189–219. doi:10.1017/S1752971919000228", page: "13–15"}
 tags: [阿伦特, 思维, 反身性, 减速, 协商民主, 判断力, social-acceleration, 伦理, 抽离]
 links:
-  - {id: 20260623-1406, reason: "德勒兹第三种综合的'停顿'——时间中的裂隙与本卡的'非时间'可对照"}
-  - {id: 20260805-0007, reason: "Williams的时间哲学与IR——判断力与时间性的另一条处理"}
-  - {id: 20260622-0076, reason: "王萌的时空方法论——反身性作为方法的一支"}
-  - {id: 20260716-0028, reason: "Reynolds：速度与战争AI——反身性框的反面（速度律令的极致）"}
+  - {id: 20260623-1406-时间第三种综合的停顿是经验链条中的裂隙也, reason: "德勒兹第三种综合的'停顿'——时间中的裂隙与本卡的'非时间'可对照"}
+  - {id: 20260805-0007-williams-li-kelin-two-readings, reason: "Williams的时间哲学与IR——判断力与时间性的另一条处理"}
+  - {id: 20260622-0076-wang-meng-time-space-world-politics-methodology, reason: "王萌的时空方法论——反身性作为方法的一支"}
+  - {id: 20260716-0028-Reynolds2025-speed-war-AI, reason: "Reynolds：速度与战争AI——反身性框的反面（速度律令的极致）"}
 voice_passed: true
 aliases: ["时空反身性框", "阿伦特的非时间与非空间", "减速作为伦理条件"]
 ---

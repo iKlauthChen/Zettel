@@ -5,12 +5,12 @@ created: 2026-09-26T00:50:22+0800
 source: {type: article, ref: "Cash, John. Psychoanalysis, cultures of anarchy, and ontological insecurity. International Theory 12:2 (2020): 306–321. doi:10.1017/S1752971920000147", page: "316–319"}
 tags: [cash, 误认, 去中心化主体, 拉康, 想象界, 克莱因, 弗洛伊德, 身份连续性, 巴以, 剩余]
 links:
-  - {id: 20260715-0001, reason: "Eberle：幻象使本体论安全不可达——与本文'误认使安全可达'构成直接对立"}
-  - {id: 20260713-0002, reason: "Vulović-Ejdus的拉康式对象a——拉康资源在OSS中更完整的用法"}
-  - {id: 20260620-1513, reason: "对象a的缺失是解放而非悲剧——缺失的地位之争正是本卡的争点"}
-  - {id: 20260623-0010, reason: "剩余安全的多重本体论基础——提供本文所缺的'再配重吸收不掉的剩余'这一判据"}
-  - {id: 20260713-0007, reason: "偏执式重复与编码重塑——再配重退化为强迫重复的形态"}
-  - {id: 20260926-0011, reason: "同篇论文的文化并存与再配重：误认正是再配重不被察觉的原因"}
+  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle：幻象使本体论安全不可达——与本文'误认使安全可达'构成直接对立"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的拉康式对象a——拉康资源在OSS中更完整的用法"}
+  - {id: 20260620-1513-拉康式对象a的缺失是解放而非悲剧, reason: "对象a的缺失是解放而非悲剧——缺失的地位之争正是本卡的争点"}
+  - {id: 20260623-0010-剩余安全的多重本体论基础少于无非全与剩余, reason: "剩余安全的多重本体论基础——提供本文所缺的'再配重吸收不掉的剩余'这一判据"}
+  - {id: 20260713-0007-paranoid-repetition-coding-reshaping, reason: "偏执式重复与编码重塑——再配重退化为强迫重复的形态"}
+  - {id: 20260926-0011-cash-cultures-of-anarchy-hybrid-repertoire, reason: "同篇论文的文化并存与再配重：误认正是再配重不被察觉的原因"}
 voice_passed: true
 aliases: ["误认支撑身份连续性", "去中心化主体与本体论安全", "想象界的自反镜像"]
 ---

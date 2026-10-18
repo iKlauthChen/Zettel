@@ -5,10 +5,10 @@ created: 2026-09-26T00:36:53+0800
 source: {type: article, ref: "Jackson, Patrick Thaddeus, and Daniel H. Nexon. 'Reclaiming the social: relationalism in anglophone international studies.' Cambridge Review of International Affairs 32.5 (2019): 582–600.", page: "590–594"}
 tags: [relationalism, 关系主义, fractal, 位置与过程, IR-theory, 学科地图, Abbott]
 links:
-  - {id: 20260805-0004, reason: "分形一词的德勒兹语义——与本文的学科社会学语义不可互引"}
-  - {id: 20260626-1246, reason: "分形在军事组织中的操作形态——同一词的另一用法"}
-  - {id: 20260620-1500, reason: "装置是过程而非静态组织——过程优先立场的德勒兹版本"}
-  - {id: 20260714-0009, reason: "同为学科自我绘制问题：本质主义陷阱与分形分化是两种诊断"}
+  - {id: 20260805-0004-fold-fractal-material-actualization, reason: "分形一词的德勒兹语义——与本文的学科社会学语义不可互引"}
+  - {id: 20260626-1246-蜂群战术非线性分形去中心化战斗, reason: "分形在军事组织中的操作形态——同一词的另一用法"}
+  - {id: 20260620-1500-装置是安排的过程而非静态组织, reason: "装置是过程而非静态组织——过程优先立场的德勒兹版本"}
+  - {id: 20260714-0009-Barnett-Zarakol2023-essentialism-trap, reason: "同为学科自我绘制问题：本质主义陷阱与分形分化是两种诊断"}
 voice_passed: true
 aliases: ["关系主义内部的分形分化：位置与过程的复现性对偶"]
 ---

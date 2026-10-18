@@ -1,11 +1,11 @@
 ---
-id: 20260715-0024
+id: 20260715-0024-Li-Kelin2012-Deleuze-time
 status: permanent
 created: 2026-07-15T18:40:00+0800
 source: {type: article, ref: "李科林. '时间的生命内涵——德勒兹的时间概念.' 哲学动态 2012(4): 99–105."}
 tags: [德勒兹, 时间, 三种综合, 永恒回归, 绵延, 康德]
 links:
-  - {id: 20260715-0023, reason: "Luzecky的Aion/Chronos——李科林提供了'三种综合'的互补角度"}
+  - {id: 20260715-0023-Luzecky2022-Deleuze-eternity, reason: "Luzecky的Aion/Chronos——李科林提供了'三种综合'的互补角度"}
 voice_passed: true
 aliases: ["李科林 2012 德勒兹时间", "Deleuze three syntheses of time"]
 ---

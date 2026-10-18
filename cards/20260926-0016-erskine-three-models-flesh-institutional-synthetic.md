@@ -5,10 +5,10 @@ created: 2026-09-26T00:54:48+0800
 source: {type: article, ref: "Erskine, Toni. AI and the future of IR: Disentangling flesh-and-blood, institutional, and synthetic moral agency in world politics. Review of International Studies 50:3 (2024): 534–559. doi:10.1017/S0260210524000202", page: "540–546"}
 tags: [erskine, 道德能动性, 制度道德能动者, 法团能动性, 人工与自然, 反思性自主, o'neill, 韦伯, 算法]
 links:
-  - {id: 20260701-0025, reason: "温特的国家作为人——制度道德能动者的主要对手读法"}
-  - {id: 20260926-0015, reason: "同篇论文的上一步：门槛能力与能动性欠理论化"}
-  - {id: 20260709-0004, reason: "Shults论模拟机器——机器能动性在另一条理论脉络中的处理"}
-  - {id: 20260706-0001, reason: "大陆哲学与复杂科学、AI的交汇——合成能动性概念的邻近讨论"}
+  - {id: 20260701-0025-wendt-constructivist-ontology, reason: "温特的国家作为人——制度道德能动者的主要对手读法"}
+  - {id: 20260926-0015-erskine-ir-agency-under-theorised-moral-threshold, reason: "同篇论文的上一步：门槛能力与能动性欠理论化"}
+  - {id: 20260709-0004-Shults2020-simulating-machines, reason: "Shults论模拟机器——机器能动性在另一条理论脉络中的处理"}
+  - {id: 20260706-0001-continental-philosophy-complex-science-AI-bridge-prospects, reason: "大陆哲学与复杂科学、AI的交汇——合成能动性概念的邻近讨论"}
 voice_passed: true
 aliases: ["三类道德能动者", "血肉-制度-合成", "反思性自主门槛"]
 ---

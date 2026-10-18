@@ -1,12 +1,12 @@
 ---
-id: 20260703-0008
+id: 20260703-0008-hart2026-rerouting-costs
 status: permanent
 created: 2026-07-03T14:35:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, pp.4-5."}
 tags: [CSIS, trade, chokepoint, strait, maritime, supply-chain, security]
 links:
-  - {id: 20260624-0030, reason: "距离困境——绕行成本取决于距离的军事和经济效应——与本卡的绕行路线分析互补"}
-  - {id: 20260703-0007, reason: "中断场景——本卡是中断场景卡的后果展开"}
+  - {id: 20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge, reason: "距离困境——绕行成本取决于距离的军事和经济效应——与本卡的绕行路线分析互补"}
+  - {id: 20260703-0007-hart2026-disruption-scenarios, reason: "中断场景——本卡是中断场景卡的后果展开"}
 voice_passed: true
 aliases: ["南海咽喉中断后的绕行路线与成本"]
 ---

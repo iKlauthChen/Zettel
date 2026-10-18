@@ -1,13 +1,13 @@
 ---
-id: 20260721-0011
+id: 20260721-0011-Luttwak-vertical-dimension-levels
 status: permanent
 created: 2026-07-21T15:10:00+0800
 source: {type: book, ref: "Luttwak, Edward N. 2001. Strategy: The Logic of War and Peace. Rev. and enl. ed. Cambridge, MA: Belknap Press of Harvard University Press."}
 tags: [luttwak, vertical-dimension, strategy-levels, disharmony, friction, strategy]
 links:
-  - {id: 20260721-0009, reason: "纵向维度是Luttwak悖论逻辑的结构性支柱之一——它解释了为什么战略不能简化为一个层面的最优化"}
-  - {id: 20260721-0005, reason: "Biddle的现代系统在战术和战役层面操作，Luttwak的五层级提供了更完整的嵌套框架"}
-  - {id: 20260721-0010, reason: "纵向维度的层级间不和谐与横向维度的悖论动态共同构成了Luttwak的战略整体图景"}
+  - {id: 20260721-0009-Luttwak-paradoxical-logic-strategy, reason: "纵向维度是Luttwak悖论逻辑的结构性支柱之一——它解释了为什么战略不能简化为一个层面的最优化"}
+  - {id: 20260721-0005-Biddle-modern-system-force-employment, reason: "Biddle的现代系统在战术和战役层面操作，Luttwak的五层级提供了更完整的嵌套框架"}
+  - {id: 20260721-0010-Luttwak-culminating-point-reversal, reason: "纵向维度的层级间不和谐与横向维度的悖论动态共同构成了Luttwak的战略整体图景"}
 voice_passed: true
 aliases: ["Luttwak vertical dimension", "战略五层级", "层级间不和谐", "strategy levels"]
 ---

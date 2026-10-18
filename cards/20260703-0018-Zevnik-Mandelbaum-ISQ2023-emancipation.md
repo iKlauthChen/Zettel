@@ -1,14 +1,14 @@
 ---
-id: 20260703-0018
+id: 20260703-0018-Zevnik-Mandelbaum-ISQ2023-emancipation
 status: permanent
 created: 2026-07-03T16:20:00+0800
 source: {type: article, ref: "Zevnik, Andreja, and Moran M. Mandelbaum. 'Introduction to Special Issue: Interrogating the Void: Lacanian Psychoanalysis in International Relations.' International Studies Quarterly 67.3 (2023): sqad062."}
 tags: [拉康, 精神分析, 伦理, 解放, 幻象, 虚空, IR-theory, 焦虑, 主体性]
 links:
-  - {id: 20260703-0017, reason: "上卡详述拉康框架的三个贡献，本卡聚焦第三贡献"}
-  - {id: 20260703-0015, reason: "RIS导言中'谁被遮蔽'问题与本卡的'以虚空为起点'对接"}
-  - {id: 20260621-0487, reason: "虚空作为本体论支撑——穿越幻象的前提"}
-  - {id: 20260623-1412, reason: "拉康-德勒兹框架下的可能性保持与本卡解放路径平行"}
+  - {id: 20260703-0017-Zevnik-Mandelbaum-ISQ2023-lacanian-IR, reason: "上卡详述拉康框架的三个贡献，本卡聚焦第三贡献"}
+  - {id: 20260703-0015-Zevnik-RIS2024-future-IR-perspective, reason: "RIS导言中'谁被遮蔽'问题与本卡的'以虚空为起点'对接"}
+  - {id: 20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的, reason: "虚空作为本体论支撑——穿越幻象的前提"}
+  - {id: 20260623-1412-别人不是另一个主体而是一个可能世界, reason: "拉康-德勒兹框架下的可能性保持与本卡解放路径平行"}
 voice_passed: true
 aliases: ["拉康式解放：不引入新幻象的伦理路径", "Traversing the fantasy without a new master"]
 ---

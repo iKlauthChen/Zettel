@@ -5,10 +5,10 @@ created: 2026-09-26T00:59:13+0800
 source: {type: article, ref: "Gellwitzki, C. Nicolai L. The positions of ontological (in)security in international relations: object relations, unconscious phantasies, and anxiety management. International Theory (2025): 1–33. doi:10.1017/S1752971924000125", page: "10–12, 25"}
 tags: [客体关系, 克莱因, 拉康, 无意识, 层次分析, 群体心理学, bion, alford, 去中心化主体]
 links:
-  - {id: 20260714-0007, reason: "Gellwitzki与Houde：欧盟作为防御机制的提供者——本文的群体一支"}
-  - {id: 20260714-0004, reason: "Bilgic：酷儿化本体论安全——同属对主体与去中心化的处理"}
-  - {id: 20260713-0002, reason: "拉康式主体：缺乏与不可修补的不完整——本文以'镜像对立'方式对照"}
-  - {id: 20260926-0014, reason: "Cash的去中心主体与误认——另一条'无前社会自我'的论证路线"}
+  - {id: 20260714-0007-Gellwitzki-Houde2023-German-EU-myth, reason: "Gellwitzki与Houde：欧盟作为防御机制的提供者——本文的群体一支"}
+  - {id: 20260714-0004-Bilgic2025-queering-ontological-security, reason: "Bilgic：酷儿化本体论安全——同属对主体与去中心化的处理"}
+  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "拉康式主体：缺乏与不可修补的不完整——本文以'镜像对立'方式对照"}
+  - {id: 20260926-0014-cash-misrecognition-decentered-subject, reason: "Cash的去中心主体与误认——另一条'无前社会自我'的论证路线"}
 voice_passed: true
 aliases: ["对象关系的主体", "没有前社会的自我", "群体作为焦虑容器与提供者"]
 ---

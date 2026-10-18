@@ -1,13 +1,13 @@
 ---
-id: 20260716-0026
+id: 20260716-0026-Shani2025-deterritorialising-memory
 status: permanent
 created: 2026-07-16T20:40:00+0800
 source: {type: article, ref: "Shani, Giorgia. 'De/territorialising Les Lieux de Mémoire: Trauma, Nation and Diaspora.' Millennium: Journal of International Studies 53.3 (2025): 759–783."}
 tags: [记忆场所, 创伤, 民族, 离散, 辖域化, 解域化, 诺拉]
 links:
-  - {id: 20260716-0003, reason: "Mutabdžija的巴尔干地理哲学——共享辖域化/解域化框架，应用于记忆和政治创伤"}
-  - {id: 20260715-0012, reason: "Markland的去地方化本体论不安全——共享创伤的去地方化/再地方化逻辑"}
-  - {id: 20260716-0025, reason: "Bell的DG历史哲学——记忆场所是'历史作为事件'在空间中的具体化：记忆=过去在现在的再辖域化"}
+  - {id: 20260716-0003-Mutabdzija2022-Balkan-geophilosophy, reason: "Mutabdžija的巴尔干地理哲学——共享辖域化/解域化框架，应用于记忆和政治创伤"}
+  - {id: 20260715-0012-Markland2026-provincialising-ontological-insecurity, reason: "Markland的去地方化本体论不安全——共享创伤的去地方化/再地方化逻辑"}
+  - {id: 20260716-0025-Bell2008-DG-philosophy-history, reason: "Bell的DG历史哲学——记忆场所是'历史作为事件'在空间中的具体化：记忆=过去在现在的再辖域化"}
 voice_passed: true
 aliases: ["Shani 2025 deterritorialising lieux de memoire", "去辖域化记忆场所——创伤、民族与离散"]
 ---

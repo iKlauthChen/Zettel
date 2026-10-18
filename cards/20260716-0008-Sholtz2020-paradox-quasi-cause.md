@@ -1,11 +1,11 @@
 ---
-id: 20260716-0008
+id: 20260716-0008-Sholtz2020-paradox-quasi-cause
 status: permanent
 created: 2026-07-16T12:20:00+0800
 source: {type: article, ref: "Sholtz, Janae. 'The Genetic Power of Paradox: From Dark Precursor to Quasi-Causality.' Deleuze and Guattari Studies 14.4 (2020): 548–568."}
 tags: [德勒兹, 悖论, 黑暗前兆, 准因果, 无意义, 意义, 激情]
 links:
-  - {id: 20260716-0002, reason: "Smith的意义——本文从悖论和准因果角度补充了sense/nonsense区分的生成机制"}
+  - {id: 20260716-0002-Smith2022-Deleuze-sense, reason: "Smith的意义——本文从悖论和准因果角度补充了sense/nonsense区分的生成机制"}
 voice_passed: true
 aliases: ["Sholtz 2020 paradox quasi-cause", "悖论的生成威力——从黑暗前兆到准因果"]
 ---

@@ -1,14 +1,14 @@
 ---
-id: 20260703-0004
+id: 20260703-0004-hart2026-allies-strait-dependence
 status: permanent
 created: 2026-07-03T14:15:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, pp.7-8."}
 tags: [CSIS, trade, chokepoint, strait, taiwan, Japan, maritime, security, deterrence]
 links:
-  - {id: 20260624-0033, reason: "延伸威慑——美国盟友对台湾海峡的深度依赖是延伸威慑可信度的物质基础"}
-  - {id: 20260624-0061, reason: "权力四维框架——盟友依赖度影响权力分布的感知"}
-  - {id: 20260624-0124, reason: "系统安全性质——盟友依赖度影响地区系统的稳定性和脆弱性"}
-  - {id: 20260703-0003, reason: "中国台湾海峡困境——与盟友依赖度构成镜像对比"}
+  - {id: 20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept, reason: "延伸威慑——美国盟友对台湾海峡的深度依赖是延伸威慑可信度的物质基础"}
+  - {id: 20260624-0061-nathan-scobell-globalization-security-card4-power-gains, reason: "权力四维框架——盟友依赖度影响权力分布的感知"}
+  - {id: 20260624-0124-tang-system-security-card5-system-properties, reason: "系统安全性质——盟友依赖度影响地区系统的稳定性和脆弱性"}
+  - {id: 20260703-0003-hart2026-china-Taiwan-dilemma, reason: "中国台湾海峡困境——与盟友依赖度构成镜像对比"}
 voice_passed: true
 aliases: ["美国低依赖度与盟友高依赖度的不对称格局"]
 ---
