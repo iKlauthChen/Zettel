@@ -24,7 +24,7 @@
 关键词：虚空 / void / 三层本体论 / 实在界 / 内在性平面 / 虚空与剩余
 入口卡：[[20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架|三层本体论辨析框架]] · [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|虚空作为本体论支撑]] · [[20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧|虚空论 × 复杂性吸引子]] · [[20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略|剩余与虚空：两张面孔]] · [[20260623-2100-Zevnik核心论题|Zevnik 核心论题]] · [[20260623-2300-Žižek核心论题|Žižek 核心论题]]
 
-### 3 德勒兹时间哲学 · ≈92 张
+### 3 德勒兹时间哲学 · ≈93 张
 <!-- cluster: 差异与重复,三种综合,永恒回归,时间本体论,纯粹过去,Chronos,aion,绵延,时间性 -->
 
 关键词：时间 / 差异与重复 / 三种综合 / 永恒回归 / 时间性 / 时间本体论 / 虚拟与实际 / 纯粹过去 / Chronos / Aion / 柏格森 / 绵延
@@ -66,13 +66,13 @@
 关键词：威慑 / deterrence / 核威慑 / 情报失败 / 战役 / 军事 / 决策 / 间接路线 / 信号
 入口卡：[[20260622-0060-hu-bo-chen-grey-zone-strategy|胡波-陈：灰色地带]] · [[20260622-0056-dibb-brabin-deterrence-denial-warning|Dibb-Brabin：拒止与预警]] · [[20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept|刘-葛：延伸即时威慑]] · [[20260622-0079-yin-liu-national-security-personality-foundations|国家安全的人格基础]] · [[20260622-0069-reid-war-machine-ingest|Reid：战争机器（ingest）]] · [[20260715-0017-Hom2018-timing-theory|Hom：时机即时间]] · [[20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan|延伸即时威慑：案例与台海]]
 
-### 10 中国 IR 与区域研究 · ≈68 张
+### 10 中国 IR 与区域研究 · ≈69 张
 <!-- cluster: 唐世平,tang,张景全,秦,qin,赵汀阳,zhao,区域化与安全化悖论,国际关系理论,台海,南海 -->
 
 关键词：唐世平 / 张景全 / 秦立志 / 赵汀阳 / 区域化与安全化悖论 / 国际关系理论 / 台海 / 南海 / 日本
 入口卡：[[20260622-0039-秦立志论大国博弈的螺旋模式安全困境的时空维度和有限理性|秦：螺旋模式与安全困境]] · [[20260624-0116-tang-social-evolution-card1-core-thesis|唐世平：社会演化]] · [[20260622-0076-wang-meng-time-space-world-politics-methodology|汪-孟：时空与世界政治方法论]] · [[20260624-0048-liu-qu-manifold-evolution-card6-bridge|刘-屈：流形演化]] · [[20260926-0009-paes-bridge-brokerage-rent-zhang-paradox|Paes × 张景全悖论]] · [[20260622-0059-gao-lu-westphal-geocriticism-review|高-陆：地理批评]] · [[20260716-0024-Olkowski2008-mathematical-time-limits|Olkowski：数学时间的极限]]
 
-### 11 方法论与概念创造 · ≈64 张
+### 11 方法论与概念创造 · ≈66 张
 <!-- cluster: 方法论,methodology,概念创造,concept-creation,谱系学,案例,case-study,概念性人物,批判IR -->
 
 关键词：方法论 / 概念创造 / 谱系学 / 案例选择 / 本体论承诺 / 批判 IR
@@ -128,13 +128,13 @@
 | 入度 | 卡片 |
 |---|---|
 | 38 | [[20260622-0060-hu-bo-chen-grey-zone-strategy|胡波 (2024) + 陈相秒 (2024)]] |
+| 37 | [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|世界秩序的最终本体论支撑是"虚空"]] |
 | 37 | [[20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架|虚空、实在界、内在性平面]] |
-| 36 | [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|世界秩序的最终本体论支撑是"虚空"]] |
-| 34 | [[20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性|Deleuze 的哲学工程与后现代反形而上学立场的根…]] |
+| 35 | [[20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性|Deleuze以虚拟/现实区分取代可能/现实]] |
 | 34 | [[20260622-0068-qin-tan-geostrategy-ingest|qin-tan-geostrategy-ingest]] |
+| 33 | [[20260622-0056-dibb-brabin-deterrence-denial-warning|Dibb & Brabin-Smith (2021)]] |
 | 32 | [[20260622-0076-wang-meng-time-space-world-politics-methodology|王存刚 & 孟凯强 (2025)]] |
-| 32 | [[20260622-0056-dibb-brabin-deterrence-denial-warning|Dibb & Brabin-Smith (2021)]] |
-| 28 | [[20260620-1544-德勒兹的两种时间模式|德勒兹的两种时间模式]] |
+| 30 | [[20260620-1544-德勒兹的两种时间模式|德勒兹的两种时间模式]] |
 | 28 | [[20260622-0081-zhu-ning-copenhagen-school-security|朱宁 (2003)]] |
 | 27 | [[20260622-0071-smith-pure-form-time-three-syntheses|smith-pure-form-time-three…]] |
 | 26 | [[20260623-0018-saldanha-space-after-deleuze-ingest|saldanha-space-after-deleu…]] |
@@ -160,7 +160,7 @@
 | 2026-07 | 205 | 本体论安全（OSS）与批判 IR 文献：Mitzen、Steele、Vulovic-Ejdus、Markland、Zevnik、Hom、Solomon、To、McIntosh |
 | 2026-08 | 175 | 德勒兹-柏格森线（纯粹过去、直观）、齐泽克、Stivale、柄谷行人、杨凯麟、Ulysses 摘录消化 |
 | 2026-09 | 79 | Jackson-Nexon 关系主义、Paes、Cash（克莱因位置）、Erskine、Amoureux、Ralph、McIntosh 量子时间、Solomon 展开、Hom 时机 |
-| 2026-10 | 59 | Bacon《感觉的逻辑》20 张、《对话》20 张、《差异与重复》细读 37 张、plateau 概念卡 |
+| 2026-10 | 61 | Bacon《感觉的逻辑》20 张、《对话》20 张、《差异与重复》细读 37 张、plateau 概念卡 |
 <!-- batches:end -->
 
 ## 卡片系列
