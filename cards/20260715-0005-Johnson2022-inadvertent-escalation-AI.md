@@ -4,7 +4,9 @@ status: permanent
 created: 2026-07-15T12:20:00+0800
 source: {type: article, ref: "Johnson, James. 'Inadvertent escalation in the age of intelligence machines: A new model for nuclear risk in the digital age.' European Journal of International Security 7.3 (2022): 337–359."}
 tags: [AI, 核风险, 无意升级, 安全困境, 技术, 战争迷雾]
-links: []
+links: [
+  {id: 20260918-0001-yang-vocke-asbm-myths-dual-debunk, reason: "AI时代的无意升级——本文的'误击民航/渔船'风险是前AI时代对同一结构性问题的手写版"}
+]
 voice_passed: true
 aliases: ["Johnson 2022 inadvertent escalation AI", "AI时代的无意升级"]
 ---
@@ -25,3 +27,4 @@ Johnson 的分析包含了安全困境理论的一个 AI 时代的变形——�
 
 - [[20260715-0011-Wang2025-digital-security-dilemma|Wang的数字安全困境]] — 共享的"技术改变安全困境"逻辑：AI眩光↔数字螺旋
 - [[20260715-0006-Baliga2020-imperfect-attribution|Baliga的归因困境]] — 归因不可完美性同样源于中介层的不可还原性
+- [[20260918-0001-yang-vocke-asbm-myths-dual-debunk|ASBM 双方都是迷思]] — AI时代的无意升级——本文的'误击民航/渔船'风险是前AI时代对同一结构性问题的手写版
