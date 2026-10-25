@@ -5,9 +5,9 @@ created: 2026-07-16T17:40:00+0800
 source: {type: article, ref: "Hill, Rebecca. 'Phallocentrism in Bergson: Life and Matter.' Deleuze Studies 2, supplement (2008): 123–136."}
 tags: [柏格森, 德勒兹, 菲勒斯中心主义, 性别, 生命, 物质]
 links:
-  - {id: 20260715-0024-Li-Kelin2012-Deleuze-time, reason: "李科林的三种综合——Bergson的去性别化=绵延的去主观化，同一步操作"}
-  - {id: 20260716-0015-Ventzislavov2011-Deleuze-Bergsonism, reason: "Ventzislavov的柏格森主义——去主观化/去性别化是同一操作"}
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机——时间性别的政治维度"}
+  - {id: 20260715-0024, reason: "李科林的三种综合——Bergson的去性别化=绵延的去主观化，同一步操作"}
+  - {id: 20260716-0015, reason: "Ventzislavov的柏格森主义——去主观化/去性别化是同一操作"}
+  - {id: 20260715-0017, reason: "Hom的时机——时间性别的政治维度"}
 voice_passed: true
 aliases: ["Hill 2008 Bergson phallocentrism"]
 ---

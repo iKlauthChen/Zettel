@@ -1,14 +1,14 @@
 ---
 id: 20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧
 status: permanent
-created: 2026-06-21T20:30:00Z
+created: 2026-06-21T20:30:00+0800
 source: {type: book, ref: "Synthesis: Zevnik (2016) × Bonta/Protevi (2004)"}
 tags: [zevnik, bonta-protevi, ontology, emergence, void, attractor, complexity, deleuze, novelty]
 links:
-  - {id: 20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的, reason: "Zevnik的虚空本体论是涌现的本体论基础——世界从无中涌现"}
-  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "DeLanda/BontaProtevi的吸引子理论是涌现的机制论基础——结构从混沌中自组织"}
-  - {id: 20260621-0443-涌现系统的互反因果性下向因果约束局部与上向因果产生全局秩序, reason: "互反因果性作为涌现系统的运作机制架起了虚空到生成的桥梁"}
-  - {id: 20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造, reason: "分层与一致性两种模态对应俄狄浦斯法与圣状法的系统论解读"}
+  - {id: 20260621-0487, reason: "Zevnik的虚空本体论是涌现的本体论基础——世界从无中涌现"}
+  - {id: 20260621-0440, reason: "DeLanda/BontaProtevi的吸引子理论是涌现的机制论基础——结构从混沌中自组织"}
+  - {id: 20260621-0443, reason: "互反因果性作为涌现系统的运作机制架起了虚空到生成的桥梁"}
+  - {id: 20260621-0444, reason: "分层与一致性两种模态对应俄狄浦斯法与圣状法的系统论解读"}
 voice_passed: true
 ---
 

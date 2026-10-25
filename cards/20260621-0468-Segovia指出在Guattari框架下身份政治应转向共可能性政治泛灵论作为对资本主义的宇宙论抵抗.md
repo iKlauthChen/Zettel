@@ -1,13 +1,13 @@
 ---
 id: 20260621-0468-Segovia指出在Guattari框架下身份政治应转向共可能性政治泛灵论作为对资本主义的宇宙论抵抗
 status: permanent
-created: 2026-06-21T15:08:00Z
+created: 2026-06-21T15:08:00+0800
 source: {type: book, ref: "Segovia (2024). Guattari Beyond Deleuze, Ch.5 §5.2: Identity Politics, Accelerationism, and Animism's Retro-futurist Allure"}
 tags: [guattari, identity-politics, accelerationism, animism, schizoanalysis, capitalism, politics]
 links:
-  - {id: 20260621-0010-Guattari的哲学同时超越了思辨实在, reason: "Ch.5 §5.1 对思辨实在论和新唯物论的批判是本节的理论前置"}
-  - {id: 20260621-0012-Guattari的精神分裂分析应被重新理, reason: "能动精神病学（enactive psychiatry）与本节能动政治学同属一个更大的'应用谱系'"}
-  - {id: 20260621-0467-Guattari在结构主义和现象学之间走了一条中间道路即机器-结构主义, reason: "酒神结构主义的政治版本：结构-机器双重视角下的政治选择"}
+  - {id: 20260621-0010, reason: "Ch.5 §5.1 对思辨实在论和新唯物论的批判是本节的理论前置"}
+  - {id: 20260621-0012, reason: "能动精神病学（enactive psychiatry）与本节能动政治学同属一个更大的'应用谱系'"}
+  - {id: 20260621-0467, reason: "酒神结构主义的政治版本：结构-机器双重视角下的政治选择"}
 voice_passed: true
 ---
 

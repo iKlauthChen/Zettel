@@ -5,8 +5,8 @@ created: 2026-07-17T04:40:00+0800
 source: {type: article, ref: "Zehfuss, Maja. 'Writing War, Against Good Conscience.' Millennium: Journal of International Studies 33.1 (2004): 91–121."}
 tags: [战争, 写作, 良知, 伦理, 德里达, 德国, 小说]
 links:
-  - {id: 20260716-0046-Behnke2008-eternal-peace-graveyard, reason: "Behnke的Kant批判——Kant的'好良知'是道德律的无条件的遵从；Zehfuss要打破的正是这个'好良知'对战争行动的正当化操作"}
-  - {id: 20260716-0040-Nordin-Oberg2015-targeting-ontology-war, reason: "Nordin-Öberg的战争本体论——如何'写'战争决定了战争被如何理解：Zehfuss与Nordin-Öberg共享'战争的语言决定了战争的本体'这一前提"}
+  - {id: 20260716-0046, reason: "Behnke的Kant批判——Kant的'好良知'是道德律的无条件的遵从；Zehfuss要打破的正是这个'好良知'对战争行动的正当化操作"}
+  - {id: 20260716-0040, reason: "Nordin-Öberg的战争本体论——如何'写'战争决定了战争被如何理解：Zehfuss与Nordin-Öberg共享'战争的语言决定了战争的本体'这一前提"}
 voice_passed: true
 aliases: ["Zehfuss 2004 writing war", "战争写作——反好良知"]
 ---

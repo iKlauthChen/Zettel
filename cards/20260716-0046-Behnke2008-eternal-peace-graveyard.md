@@ -5,9 +5,9 @@ created: 2026-07-17T03:00:00+0800
 source: {type: article, ref: "Behnke, Andreas. 'Eternal Peace as the Graveyard of the Political: A Critique of Kant's Zum Ewigen Frieden.' Millennium: Journal of International Studies 36.3 (2008): 513–531."}
 tags: [康德, 永久和平, 政治, 施密特, 形而上学, 自由主义]
 links:
-  - {id: 20260716-0043-Payne2012-cooperative-security-critical-theory, reason: "Payne的合作安全批判——Kant的永久和平=合作安全的形而上学源头；两者都面临'和平消灭了政治'的指责"}
-  - {id: 20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation, reason: "张景全的区域化悖论——Kant的永久和平是悖论的最远哲学血源：企图消除冲突的合作产生了自身的反合作效果"}
-  - {id: 20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis, reason: "Kant-Sade-Masoch——道德律的淫秽底色：求和平的意志=被萨德困扰的康德"}
+  - {id: 20260716-0043, reason: "Payne的合作安全批判——Kant的永久和平=合作安全的形而上学源头；两者都面临'和平消灭了政治'的指责"}
+  - {id: 20260624-0159, reason: "张景全的区域化悖论——Kant的永久和平是悖论的最远哲学血源：企图消除冲突的合作产生了自身的反合作效果"}
+  - {id: 20260622-0066, reason: "Kant-Sade-Masoch——道德律的淫秽底色：求和平的意志=被萨德困扰的康德"}
 voice_passed: true
 aliases: ["Behnke 2008 eternal peace graveyard", "永久和平是政治的坟场——对康德永久和平论的批判"]
 ---

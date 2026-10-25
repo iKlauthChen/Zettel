@@ -5,9 +5,9 @@ created: 2026-10-07T12:29:16+0800
 source: {type: book, ref: "Deleuze，《感觉的逻辑》，1981（2022年中译本）", page: "P176"}
 tags: [德勒兹, 感觉逻辑, aesthetics, 时间, sensation]
 links:
-  - {id: 20260923-0004-yang-kailin-image-material-real-time, reason: "线条、笔触、颜色显出影像中的力量——本卡聚焦颜色关系如何显出时间"}
-  - {id: 20261007-0007-bacon-haptic-vision, reason: "色彩关系与触觉视觉共同拓展绘画超越单纯形象再现的方式"}
-  - {id: 20261007-0002-bacon-force-painting-music, reason: "绘画使力量获得可见性，色彩是其媒介之一"}
+  - {id: 20260923-0004, reason: "线条、笔触、颜色显出影像中的力量——本卡聚焦颜色关系如何显出时间"}
+  - {id: 20261007-0007, reason: "色彩关系与触觉视觉共同拓展绘画超越单纯形象再现的方式"}
+  - {id: 20261007-0002, reason: "绘画使力量获得可见性，色彩是其媒介之一"}
 voice_passed: true
 aliases: ["色彩关系使绘画表现时间"]
 ---

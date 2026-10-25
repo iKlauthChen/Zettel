@@ -5,10 +5,10 @@ created: 2026-09-26T00:59:13+0800
 source: {type: article, ref: "Gellwitzki, C. Nicolai L. The positions of ontological (in)security in international relations: object relations, unconscious phantasies, and anxiety management. International Theory (2025): 1–33. doi:10.1017/S1752971924000125", page: "4–5, 13–14, 27"}
 tags: [本体论安全, 本体论不安全, 克莱因, 偏执-分裂位置, 抑郁位置, 焦虑管理, 位置与阶段, 概念重定义]
 links:
-  - {id: 20260714-0002-Gellwitzki2024-Kleinian-ontological-security, reason: "同一篇文章的早期简版卡——两位置的基本表述"}
-  - {id: 20260926-0012-cash-kleinian-positions-anarchy-cultures, reason: "Cash把两个位置映射到无政府状态文化——与本文的归属不同，构成正面分歧"}
-  - {id: 20260926-0010-cash-ontological-insecurity-what-comes-next, reason: "Cash的本体论不安全优先——位置上相近、命名上不同"}
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的例行化路径——被本文重定义所针对的Giddens式阈值观"}
+  - {id: 20260714-0002, reason: "同一篇文章的早期简版卡——两位置的基本表述"}
+  - {id: 20260926-0012, reason: "Cash把两个位置映射到无政府状态文化——与本文的归属不同，构成正面分歧"}
+  - {id: 20260926-0010, reason: "Cash的本体论不安全优先——位置上相近、命名上不同"}
+  - {id: 20260713-0003, reason: "Mitzen的例行化路径——被本文重定义所针对的Giddens式阈值观"}
 voice_passed: true
 aliases: ["(不)安全即两个克莱因位置", "退行本身就是本体论不安全", "位置之间还是位置本身"]
 ---

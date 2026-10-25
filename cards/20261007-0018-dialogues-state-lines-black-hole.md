@@ -5,10 +5,10 @@ created: 2026-10-07T12:55:55+0800
 source: {type: book, ref: "Deleuze & Parnet，《对话》（Dialogues），1977（2026年中译本）", page: "P189-192"}
 tags: [德勒兹, 国家, 抽象机器, 逃逸线]
 links:
-  - {id: 20260804-0006-three-lines-molar-supple-flight, reason: "三种线的区分——本卡聚焦它们与国家、黑洞的关系"}
-  - {id: 20260804-0005-tree-rhizome-dichotomy-self-handling-critiques, reason: "三线危险——柔顺线与微观法西斯的政治后果"}
-  - {id: 20260622-1613-法西斯是自杀式国家战争机器接管国家后的毁灭线, reason: "战争机器、毁灭线与法西斯国家的关系"}
-  - {id: 20261007-0015-dialogues-flight-line-reality, reason: "逃逸线可与节段线共同进入回路，国家并非唯一收编位置"}
+  - {id: 20260804-0006, reason: "三种线的区分——本卡聚焦它们与国家、黑洞的关系"}
+  - {id: 20260804-0005, reason: "三线危险——柔顺线与微观法西斯的政治后果"}
+  - {id: 20260622-1613, reason: "战争机器、毁灭线与法西斯国家的关系"}
+  - {id: 20261007-0015, reason: "逃逸线可与节段线共同进入回路，国家并非唯一收编位置"}
 voice_passed: true
 aliases: ["国家可在指导或吞并抽象机器之间摆动，微观法西斯潜入黑洞"]
 ---

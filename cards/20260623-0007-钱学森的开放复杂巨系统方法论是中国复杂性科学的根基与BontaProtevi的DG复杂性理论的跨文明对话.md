@@ -1,12 +1,12 @@
 ---
 id: 20260623-0007-钱学森的开放复杂巨系统方法论是中国复杂性科学的根基与BontaProtevi的DG复杂性理论的跨文明对话
 status: permanent
-created: 2026-06-23T02:00:00Z
-source: {type: journalArticle, ref: "钱学森, 于景元, 戴汝为 (1990). 一个科学新领域——开放的复杂巨系统及其方法论. 自然杂志, 13(1): 3-10."}
+created: 2026-06-23T02:00:00+0800
+source: {type: article, ref: "钱学森, 于景元, 戴汝为 (1990). 一个科学新领域——开放的复杂巨系统及其方法论. 自然杂志, 13(1): 3-10."}
 tags: [qian-xuesen, open-complex-giant-system, metasynthesis, complexity, systems-engineering, china]
 links:
-  - {id: 20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模, reason: "复杂性理论不是混沌理论——钱学森的OCGS与Bonta/Protevi的复杂性本体论共享反还原论前提"}
-  - {id: 20260621-0443-涌现系统的互反因果性下向因果约束局部与上向因果产生全局秩序, reason: "互反因果性——OCGS的'从定性到定量综合集成法'是互反因果性在方法论层面的对应"}
+  - {id: 20260621-0449, reason: "复杂性理论不是混沌理论——钱学森的OCGS与Bonta/Protevi的复杂性本体论共享反还原论前提"}
+  - {id: 20260621-0443, reason: "互反因果性——OCGS的'从定性到定量综合集成法'是互反因果性在方法论层面的对应"}
 voice_passed: true
 ---
 

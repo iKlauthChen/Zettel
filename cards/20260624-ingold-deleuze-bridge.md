@@ -1,36 +1,36 @@
 ---
 id: 20260624-ingold-deleuze-bridge
 status: permanent
-created: 2026-06-24T11:00:00+08:00
+created: 2026-06-24T11:00:00+0800
 updated: 2026-06-24T11:00:00+08:00
 source:
-  type: synthesis
+  type: multiple
   ref: "Ingold, Lines (2007/2023) × D&G, A Thousand Plateaus (1980/1987) × Saldanha, Space after Deleuze (2017) × Bonta-Protevi, Deleuze and Geophilosophy (2004)"
 tags: [synthesis, Ingold, Deleuze, bridge, lines, space, smooth, rhizome, mycelium, wayfaring, transport]
 entities: [Ingold, Deleuze, Guattari, Saldanha, Klee, Bergson]
 links:
-  - id: 20260624-1005-线缕与痕迹的转换生成表面
+  - id: 20260624-1005
     relation: parent
     reason: "桥接卡以线缕/痕迹区分为锚点，将其映射到德勒兹的刚性/弹性/逃逸线三分法中"
-  - id: 20260624-1010-远足与运输两种本体论层面的运动方式
+  - id: 20260624-1010
     relation: parent
     reason: "远足/运输与平滑/条纹的对偶构成了桥接卡最直接的拓扑同构关系"
-  - id: 20260624-1015-菌丝体作为线的本体论隐喻
+  - id: 20260624-1015
     relation: parent
     reason: "菌丝体与块茎的异同是两条思想传统最醒目的分岔口——共享反树状但路径根本不同"
-  - id: 20260624-1030-现代性如何使线变直
+  - id: 20260624-1030
     relation: parent
     reason: "线变直=思想被捕获——Ingold的'直线批判'与德勒兹'教条式思想意象'批判在结构上同构但入口不同"
-  - id: 20260624-1040-向前生活不是向上连接
+  - id: 20260624-1040
     relation: parent
     reason: "向前生活/向上连接区分是英戈尔德最接近哲学命题的判断——桥接卡以此为核心航标"
-  - id: 20260623-1618-线的三类型与四种危险
+  - id: 20260623-1618
     relation: extend
     reason: "德勒兹三种线（刚性/弹性/逃逸）是桥接卡的另一锚点——Saldanha对此的解读提供了最清晰的对照文本"
-  - id: 20260620-1703-战争机器以创造平滑空间为目的而非以战争为
+  - id: 20260620-1703
     relation: extend
     reason: "战争机器/平滑空间提供了德勒兹'线的政治学'的完整入口——Ingold缺少的正是线的政治维度"
-  - id: 20260620-1565-平滑空间中理性无力
+  - id: 20260620-1565
     relation: extend
     reason: "平滑空间中'主体性破碎，生命随感觉蔓延'与Ingold的远足者状态直接呼应——但德勒兹的版本有更强的政治经济分析"
 voice_passed: true

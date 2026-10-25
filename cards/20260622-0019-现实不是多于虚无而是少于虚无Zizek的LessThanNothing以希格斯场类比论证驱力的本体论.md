@@ -1,14 +1,14 @@
 ---
 id: 20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论
 status: permanent
-created: 2026-06-22T13:30:00Z
+created: 2026-06-22T13:30:00+0800
 source: {type: book, ref: "Žižek, S. (2012/2013). Less Than Nothing: Hegel and the Shadow of Dialectical Materialism. Verso."}
 tags: [zizek, void, less-than-nothing, drive, higgs-field, ontology, hegel, lacan, dialectical-materialism]
 links:
-  - {id: 20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的, reason: "Zevnik的虚空是'肯定性的无'——Zizek的Less Than Nothing是'比无更少'——两者互补但张力大"}
-  - {id: 20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略, reason: "虚空vs剩余——Less Than Nothing为虚空增加了'负能'维度(希格斯场类比)"}
-  - {id: 20260621-0480-剩余作为可跨域迁移的理论模型从剩余价值到剩余快感构成同一枚硬币的两面, reason: "剩余价值/剩余快感——可跨域迁移的剩余模型与'比无更少'共享'系统误差'结构"}
-  - {id: 20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架, reason: "三层框架中虚空层的Zizek版本——不是肯定性的可能性海洋，而是驱力的'少于无'的负能"}
+  - {id: 20260621-0487, reason: "Zevnik的虚空是'肯定性的无'——Zizek的Less Than Nothing是'比无更少'——两者互补但张力大"}
+  - {id: 20260621-0495, reason: "虚空vs剩余——Less Than Nothing为虚空增加了'负能'维度(希格斯场类比)"}
+  - {id: 20260621-0480, reason: "剩余价值/剩余快感——可跨域迁移的剩余模型与'比无更少'共享'系统误差'结构"}
+  - {id: 20260621-0505, reason: "三层框架中虚空层的Zizek版本——不是肯定性的可能性海洋，而是驱力的'少于无'的负能"}
 voice_passed: true
 ---
 

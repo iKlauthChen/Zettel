@@ -1,8 +1,8 @@
 ---
 id: 20260721-0019-Hart-et-al-SCS-trade-chokepoints
 status: seedling
-created: 2026-07-21
-source: "Brian Hart, Matthew P. Funaiole, David Peng, Jasper Verschuur, Bonny Lin, Leon Li, \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea,\" CSIS Brief, July 2026"
+created: 2026-07-21T00:00:00+0800
+source: {ref: 'Brian Hart, Matthew P. Funaiole, David Peng, Jasper Verschuur, Bonny Lin, Leon Li, "Troubled Straits: Analyzing Trade Chokepoints in the South China Sea," CSIS Brief, July 2026', type: article}
 tags: [CSIS, 南海, 贸易咽喉点, 马六甲海峡, 台湾海峡, 供应链, 定量分析]
 links: [20260721-0017, 20260721-0018, 20260720-0002]
 ---

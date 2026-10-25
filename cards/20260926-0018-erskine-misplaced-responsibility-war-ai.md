@@ -5,10 +5,10 @@ created: 2026-09-26T00:54:48+0800
 source: {type: article, ref: "Erskine, Toni. AI and the future of IR: Disentangling flesh-and-blood, institutional, and synthetic moral agency in world politics. Review of International Studies 50:3 (2024): 534–559. doi:10.1017/S0260210524000202", page: "550–557"}
 tags: [erskine, 错置责任, 自动化偏误, 道德缓冲, 自主武器, 人类在环, 正义战争, 责任增强, 设计责任]
 links:
-  - {id: 20260716-0032-Jacobsen-Norgaard2024-fantasies-explainable-AI, reason: "Jacobsen与Nørgaard论可解释AI作为幻象——与道德缓冲是同一条链的两层"}
-  - {id: 20260716-0040-Nordin-Oberg2015-targeting-ontology-war, reason: "Nordin与Öberg：瞄准本体论，从战斗到处理的转变"}
-  - {id: 20260626-1221-技术乐观主义加沙屏障作为概念陷阱, reason: "加沙屏障与技术乐观主义的概念陷阱——对机器的过度信任结构"}
-  - {id: 20260715-0005-Johnson2022-inadvertent-escalation-AI, reason: "Johnson论AI与意外升级——人机耦合的决策风险"}
+  - {id: 20260716-0032, reason: "Jacobsen与Nørgaard论可解释AI作为幻象——与道德缓冲是同一条链的两层"}
+  - {id: 20260716-0040, reason: "Nordin与Öberg：瞄准本体论，从战斗到处理的转变"}
+  - {id: 20260626-1221, reason: "加沙屏障与技术乐观主义的概念陷阱——对机器的过度信任结构"}
+  - {id: 20260715-0005, reason: "Johnson论AI与意外升级——人机耦合的决策风险"}
 voice_passed: true
 aliases: ["错置责任", "道德缓冲与自动化偏误", "AI增强能力即责任增强", "克制义务的道德能动者"]
 ---

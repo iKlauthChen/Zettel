@@ -5,9 +5,9 @@ created: 2026-07-14T13:00:00+0800
 source: {type: article, ref: "Adısönmez, Umut Can, and Laçin Idil Öztiğ. 'A Psychoanalytic Approach to Turkish Foreign Policy: Crisis, Disorder, and Disorientation.' Critical Studies on Security (2025): 1–16."}
 tags: [土耳其, 本体论安全, 享乐, 拉康, 外交政策, 神经症, 认知, 危机]
 links:
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——本文用享乐补充例行化，解释了'无序'何以提供满足"}
-  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的对象a——享乐是对象a的主体面向"}
-  - {id: 20260621-0481-剩余快感不是快感的剩余而是通过认同和接受象征秩序所获得的痛苦欢乐, reason: "剩余快感——本文的jouissance即剩余快感的外交政策应用"}
+  - {id: 20260713-0003, reason: "Mitzen的OSS——本文用享乐补充例行化，解释了'无序'何以提供满足"}
+  - {id: 20260713-0002, reason: "Vulović-Ejdus的对象a——享乐是对象a的主体面向"}
+  - {id: 20260621-0481, reason: "剩余快感——本文的jouissance即剩余快感的外交政策应用"}
 voice_passed: true
 aliases: ["土耳其外交政策的享乐分析", "Adisonmez-Oztig 2025 jouissance Turkey"]
 ---

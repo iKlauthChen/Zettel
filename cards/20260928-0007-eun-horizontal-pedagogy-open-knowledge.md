@@ -5,11 +5,11 @@ created: 2026-09-28T12:01:18+0800
 source: {type: article, ref: "Eun, Yong-Soo. 'Calling for “IR as Becoming-Rhizomatic”.' Global Studies Quarterly 1.2 (2021): 1–12. Article ksab003. doi:10.1093/isagsq/ksab003.", page: "7–10"}
 tags: [IR, 知识生产, 教学, 多元主义, 公共知识分子, 方法论]
 links:
-  - {id: 20260928-0005-eun-ir-pluralism-representational-diversity, reason: "这些实践回应理论多元并未改变生产机制的诊断"}
-  - {id: 20260928-0006-eun-becoming-rhizomatic-territory-codes, reason: "横向教学、开放发表与公民科学将根茎式运动落实为日常机制"}
-  - {id: 20260928-0008-eun-royal-nomad-science-public-knowledge, reason: "实践的核心是让学科内外的知识行动者共同构成研究"}
-  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola分析课程、大学制度与学科再生产；提供制度层对话"}
-  - {id: 20260622-0028-Kullman的三型批判形象非事件性不驯服性非共通性补全德勒兹概念理论忽视了概念的不确定安排, reason: "Kullman强调概念生产受教学、资源与基础设施条件约束"}
+  - {id: 20260928-0005, reason: "这些实践回应理论多元并未改变生产机制的诊断"}
+  - {id: 20260928-0006, reason: "横向教学、开放发表与公民科学将根茎式运动落实为日常机制"}
+  - {id: 20260928-0008, reason: "实践的核心是让学科内外的知识行动者共同构成研究"}
+  - {id: 20260716-0037, reason: "Kamola分析课程、大学制度与学科再生产；提供制度层对话"}
+  - {id: 20260622-0028, reason: "Kullman强调概念生产受教学、资源与基础设施条件约束"}
 voice_passed: true
 aliases: ["开放知识生产要改造教学与研究实践", "横向教学、开放发表和公民科学"]
 ---

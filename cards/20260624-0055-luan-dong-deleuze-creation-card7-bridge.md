@@ -2,7 +2,7 @@
 id: 20260624-0055-luan-dong-deleuze-creation-card7-bridge
 status: permanent
 created: 2026-06-24T14:59:03+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 德勒, 栾栋, deleuze, 20260622, ingest, 战争, 20260623, 哲学, 华语]
 aliases: ["luan-dong-deleuze-creation-card7-bridge"]
 ---

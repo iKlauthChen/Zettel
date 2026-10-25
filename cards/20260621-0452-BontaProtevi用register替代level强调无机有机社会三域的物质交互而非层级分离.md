@@ -1,12 +1,12 @@
 ---
 id: 20260621-0452-BontaProtevi用register替代level强调无机有机社会三域的物质交互而非层级分离
 status: permanent
-created: 2026-06-21T04:52:00Z
+created: 2026-06-21T04:52:00+0800
 source: {type: book, ref: "Bonta & Protevi (2004). Deleuze and Geophilosophy, Notes to Introduction, p. 192"}
 tags: [deleuze, guattari, register, level, ontology, interdisciplinary]
 links:
-  - {id: 20260621-0451-DeLanda的多层次尺度分析将DG的分层理论转化为跨无机有机社会的统一框架, reason: "register 替代 level 是 DeLanda 尺度分析的方法论前"}
-  - {id: 20260621-0450-Olancho案例如何运用DG制图学分析复杂空间指出空间的韧性在于空间的缠结而非分治, reason: "Olancho 案例展示 register 交错如何构成空间韧性——物质域不是嵌套层级而是平行交织"}
+  - {id: 20260621-0451, reason: "register 替代 level 是 DeLanda 尺度分析的方法论前"}
+  - {id: 20260621-0450, reason: "Olancho 案例展示 register 交错如何构成空间韧性——物质域不是嵌套层级而是平行交织"}
 voice_passed: true
 ---
 

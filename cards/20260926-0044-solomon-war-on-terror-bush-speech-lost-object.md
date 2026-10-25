@@ -5,10 +5,10 @@ created: 2026-09-26T09:41:32+0800
 source: {type: article, ref: "Solomon, Ty. Time and Subjectivity in World Politics. International Studies Quarterly 58, no. 4 (2014): 671–681. doi:10.1111/isqu.12091", page: "671–672, 676–681"}
 tags: [反恐战争, 布什, 9/11, 民族之物, 话语分析, 主体建构, 时空政治, 案例研究]
 links:
-  - {id: 20260715-0019-Solomon2014-time-subjectivity, reason: "旧卡；本卡是展开之一"}
-  - {id: 20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话, reason: "Steele：国家自我的美学与反权力——本文经验部分的直接对话者"}
-  - {id: 20260926-0037-mcintosh-retroactivity-of-violence-denaturalising-war, reason: "McIntosh的暴力回溯性——同一机制用于去自然化战争范畴"}
-  - {id: 20260716-0031-Johnson2024-biopolitics-liberal-war, reason: "Johnson：生物政治与自由战争——反恐战争话语的另一条分析线"}
+  - {id: 20260715-0019, reason: "旧卡；本卡是展开之一"}
+  - {id: 20260622-0035, reason: "Steele：国家自我的美学与反权力——本文经验部分的直接对话者"}
+  - {id: 20260926-0037, reason: "McIntosh的暴力回溯性——同一机制用于去自然化战争范畴"}
+  - {id: 20260716-0031, reason: "Johnson：生物政治与自由战争——反恐战争话语的另一条分析线"}
 voice_passed: true
 aliases: ["反恐战争中的回退时间性", "布什9月20日演讲分析", "失去之物与我们的生活方式"]
 ---

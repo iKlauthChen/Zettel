@@ -5,10 +5,10 @@ created: 2026-07-01T16:00:00+0800
 source: {type: article, ref: "Boggs, Carl. 'US Grand Strategy and Its Contradictions.' New Political Science, vol. 26, no. 3, 2004, pp. 271–291."}
 tags: [大战略, 美国, 帝国主义, 军国主义, 新保守主义, 矛盾, Boggs]
 links:
-  - {id: 20260701-0002-friedman-logan-why-washington-no-grand-strategy, reason: "primacy共识的批判性补充——Boggs从激进左翼揭示同一共识的内在矛盾"}
-  - {id: 20260624-0098-retaille-geopolitics-history-card1-core, reason: "帝国模型的三种类型——Boggs描述的US帝国是新保守主义版的帝国主义模型"}
-  - {id: 20260701-0003-gray-geography-grand-strategy, reason: "地理学与大战略——Gray的持久地理因素vs Boggs的政治经济矛盾"}
-  - {id: 20260701-0001-jervis-system-effects-structure-boundary, reason: "系统效应的结构边界——Boggs揭示的国内政治矛盾属于结构不能决定的因素"}
+  - {id: 20260701-0002, reason: "primacy共识的批判性补充——Boggs从激进左翼揭示同一共识的内在矛盾"}
+  - {id: 20260624-0098, reason: "帝国模型的三种类型——Boggs描述的US帝国是新保守主义版的帝国主义模型"}
+  - {id: 20260701-0003, reason: "地理学与大战略——Gray的持久地理因素vs Boggs的政治经济矛盾"}
+  - {id: 20260701-0001, reason: "系统效应的结构边界——Boggs揭示的国内政治矛盾属于结构不能决定的因素"}
 voice_passed: true
 aliases: ["美国大战略的内在矛盾", "Boggs 2004"]
 ---

@@ -5,10 +5,10 @@ created: 2026-09-26T01:13:08+0800
 source: {type: article, ref: "Amoureux, Jack L. Is faster better? Political and ethical framings of pace and space. International Theory 12.2 (2020): 189–219. doi:10.1017/S1752971919000228", page: "6–8, 15–19"}
 tags: [实时, 先发制人, 无人机, 自由干预, 空间例外, 种族化的速度, 未治理区, 时间滞后, 后殖民]
 links:
-  - {id: 20260716-0040-Nordin-Oberg2015-targeting-ontology-war, reason: "Nordin与Öberg：瞄准的本体论——从战斗到处理的同一条线索"}
-  - {id: 20260622-1546-维利里奥的域理论重塑了解域化中域的意涵, reason: "维利里奥的域理论——本文'地缘战略变为时缘战略'的来源"}
-  - {id: 20260626-1221-技术乐观主义加沙屏障作为概念陷阱, reason: "技术乐观主义作为概念陷阱——与技术可信度的另一处分析"}
-  - {id: 20260716-0028-Reynolds2025-speed-war-AI, reason: "Reynolds：速度与战争AI——'实时'要求的当代延伸"}
+  - {id: 20260716-0040, reason: "Nordin与Öberg：瞄准的本体论——从战斗到处理的同一条线索"}
+  - {id: 20260622-1546, reason: "维利里奥的域理论——本文'地缘战略变为时缘战略'的来源"}
+  - {id: 20260626-1221, reason: "技术乐观主义作为概念陷阱——与技术可信度的另一处分析"}
+  - {id: 20260716-0028, reason: "Reynolds：速度与战争AI——'实时'要求的当代延伸"}
 voice_passed: true
 aliases: ["解放框与战略框的紧张合并", "更快更好的外交政策", "空间例外与种族化的速度分配"]
 ---

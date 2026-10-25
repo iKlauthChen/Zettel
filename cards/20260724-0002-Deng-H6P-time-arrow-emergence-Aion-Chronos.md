@@ -2,16 +2,16 @@
 id: 20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos
 status: permanent
 created: 2026-07-24T09:45:00+0800
-source: {type: preprint, ref: "Deng, Hani & Ma (2025). Hilbert's sixth problem: derivation of fluid equations via Boltzmann's kinetic theory. arXiv:2503.01800; Deng, Hani & Ma (2024). Long time derivation of the Boltzmann equation from hard sphere dynamics. arXiv:2408.07818"}
+source: {type: article, ref: "Deng, Hani & Ma (2025). Hilbert's sixth problem: derivation of fluid equations via Boltzmann's kinetic theory. arXiv:2503.01800; Deng, Hani & Ma (2024). Long time derivation of the Boltzmann equation from hard sphere dynamics. arXiv:2408.07818"}
 tags: [hilbert-sixth-problem, time-arrow, emergence, chronos, aion, deleuze, irreversibility, boltzmann, deng-yu, paradigm-innovation]
 links:
-  - {id: 20260620-1544-德勒兹的两种时间模式, reason: "Deng-Hani-Ma的时间箭头涌现为Aion/Chronos区分提供了物理学的基础案例——Aion的可逆时间与Chronos的不可逆时间之间有条件地、通过中介层次连接"}
-  - {id: 20260622-0065-nail-kinetic-theory-time-lucretius, reason: "Nail的运动学时间理论与Deng的推导共享'时间从物质动力学涌现'这一根本立场，但Deng提供了严格数学证明而Nail停留在哲学论证"}
-  - {id: 20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统, reason: "Deng的动力学涌现给德勒兹的'时间独立于运动'带来挑战——如果时间箭头是涌现的，那么纯粹Aion是否只是理想极限？"}
-  - {id: 20260703-0013-Coward2024-ontopolitics-temporal-frames, reason: "时间框架的本体政治可以受益于Deng的多尺度时间框架——不同层次的时间性携带不同的政治可能性"}
-  - {id: 20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化, reason: "可朽计算的不可逆性与Deng-Hani-Ma的时间箭头共享'嵌入性时间'逻辑——两者都拒绝时间作为先验形式而将其视为过程的内在性质"}
-  - {id: 20260722-0001-晶体时间耐久性悖论不可保持与不可切换, reason: "时间箭头涌现与晶体时间不可切换——'时间不能被持有'的两个严格版本（物理推导与影像本体论）"}
-  - {id: 20260722-0002-能但不执法晶体的实践入口, reason: "第三要素（不可逆化操作者）的实践态度——能但不执法：承认时间不可持有后的操作方式"}
+  - {id: 20260620-1544, reason: "Deng-Hani-Ma的时间箭头涌现为Aion/Chronos区分提供了物理学的基础案例——Aion的可逆时间与Chronos的不可逆时间之间有条件地、通过中介层次连接"}
+  - {id: 20260622-0065, reason: "Nail的运动学时间理论与Deng的推导共享'时间从物质动力学涌现'这一根本立场，但Deng提供了严格数学证明而Nail停留在哲学论证"}
+  - {id: 20260622-0017, reason: "Deng的动力学涌现给德勒兹的'时间独立于运动'带来挑战——如果时间箭头是涌现的，那么纯粹Aion是否只是理想极限？"}
+  - {id: 20260703-0013, reason: "时间框架的本体政治可以受益于Deng的多尺度时间框架——不同层次的时间性携带不同的政治可能性"}
+  - {id: 20260622-0026, reason: "可朽计算的不可逆性与Deng-Hani-Ma的时间箭头共享'嵌入性时间'逻辑——两者都拒绝时间作为先验形式而将其视为过程的内在性质"}
+  - {id: 20260722-0001, reason: "时间箭头涌现与晶体时间不可切换——'时间不能被持有'的两个严格版本（物理推导与影像本体论）"}
+  - {id: 20260722-0002, reason: "第三要素（不可逆化操作者）的实践态度——能但不执法：承认时间不可持有后的操作方式"}
 voice_passed: true
 aliases: ["时间箭头的涌现获得严格物理认证——Deng对Aion/Chronos的启示"]
 ---

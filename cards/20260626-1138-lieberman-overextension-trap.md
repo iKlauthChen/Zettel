@@ -1,16 +1,16 @@
 ---
 id: 20260626-1138-lieberman-overextension-trap
 status: literature
-created: 2026-06-26T11:38:00+08:00
+created: 2026-06-26T11:38:00+0800
 source:
-  type: paper
+  type: article
   ref: "Lieberman, Elli. 'Why Deterrence Failed on October 7, 2023?' Strategic Assessment 28, no. 2 (July 2025)"
 tags: [deterrence, overextension, disengagement, attrition-trap, military-strategy]
 entities: [Elli Lieberman, Frederick the Great, Raymond Aron, Egypt, Israel, PLO]
 links:
-  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
+  - id: 20260626-1134
     reason: "过度延伸陷阱是核心论题中'机动战略'必须配套的约束条件——消耗陷阱的对称版本"
-  - id: 20260626-1136-lieberman-credibility-land-maneuver
+  - id: 20260626-1136
     reason: "没有过度延伸的警戒机制，陆地机动从威慑解决手段转变为消耗陷阱的入口"
 voice_passed: true
 ---

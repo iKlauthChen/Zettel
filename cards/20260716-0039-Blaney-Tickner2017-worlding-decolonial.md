@@ -5,10 +5,10 @@ created: 2026-07-17T00:30:00+0800
 source: {type: article, ref: "Blaney, David L., and Arlene B. Tickner. 'Worlding, Ontological Politics and the Possibility of a Decolonial IR.' Millennium: Journal of International Studies 45.3 (2017): 293–311."}
 tags: [世界化, 本体论政治, 去殖民, IR, 多元世界]
 links:
-  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola的去殖民大学——本文是先行的对去殖民IR可能性的哲学基础论证"}
-  - {id: 20260714-0009-Barnett-Zarakol2023-essentialism-trap, reason: "Barnett-Zarakol的本质主义陷阱——'世界化'是与本质主义完全对立的分析策略"}
-  - {id: 20260716-0033-Niang2022-space-geopolitical, reason: "Niang的空间地缘——Niang从非洲的视角实践的正是本文呼吁的'世界化'分析"}
-  - {id: 20260715-0012-Markland2026-provincialising-ontological-insecurity, reason: "Markland的去地方化——共享的去西方中心化的本体论政治方案"}
+  - {id: 20260716-0037, reason: "Kamola的去殖民大学——本文是先行的对去殖民IR可能性的哲学基础论证"}
+  - {id: 20260714-0009, reason: "Barnett-Zarakol的本质主义陷阱——'世界化'是与本质主义完全对立的分析策略"}
+  - {id: 20260716-0033, reason: "Niang的空间地缘——Niang从非洲的视角实践的正是本文呼吁的'世界化'分析"}
+  - {id: 20260715-0012, reason: "Markland的去地方化——共享的去西方中心化的本体论政治方案"}
 voice_passed: true
 aliases: ["Blaney-Tickner 2017 worlding decolonial IR", "世界化——本体论政治与去殖民IR的可能"]
 ---

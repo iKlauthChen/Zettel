@@ -5,11 +5,11 @@ created: 2026-07-03T15:50:00+0800
 source: {type: article, ref: "Molloy, Seán. 'Review: Lacan, Deleuze and world politics: rethinking the ontology of the political subject, by Andreja Zevnik.' International Affairs 93.5 (2017): 1257–1259."}
 tags: [zevnik, review, 书评, international-law, Lacan, Deleuze, 俄狄浦斯, 圣状, 关塔那摩, 主权, biopolitics]
 links:
-  - {id: 20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限, reason: "Molloy的批评呼应了我对该书'过度抽象'的判断"}
-  - {id: 20260623-2101-两种法, reason: "两种法区分——Molloy重点评述的核心理论工具"}
-  - {id: 20260622-1640-症状法基于博罗米结提供了一种后俄狄浦斯的替代秩序, reason: "症状法——Molloy提炼的sinthome law与Oedipal law对立"}
+  - {id: 20260621-0493, reason: "Molloy的批评呼应了我对该书'过度抽象'的判断"}
+  - {id: 20260623-2101, reason: "两种法区分——Molloy重点评述的核心理论工具"}
+  - {id: 20260622-1640, reason: "症状法——Molloy提炼的sinthome law与Oedipal law对立"}
   - {id: 20260622-1620, reason: "法律作为秩序逻辑——Molloy强调Zevnik的法律定义"}
-  - {id: 20260703-0015-Zevnik-RIS2024-future-IR-perspective, reason: "Molloy的批评独立于Zevnik自身的理论辩护"}
+  - {id: 20260703-0015, reason: "Molloy的批评独立于Zevnik自身的理论辩护"}
 voice_passed: true
 aliases: ["Molloy书评：Zevnik的拉康-德勒兹法哲学", "Seán Molloy on Zevnik (2016)"]
 ---

@@ -5,9 +5,9 @@ created: 2026-07-09T11:30:00+0800
 source: {type: external-url, ref: "Žižek, Slavoj. 'IN THE COURT OF THE AI KING.' ŽIŽEK GOADS AND PRODS (Substack), 8 July 2026."}
 tags: [齐泽克, AI, 超级我, 拉康, 主体, 幻象, 技术, 享乐, S1, S2]
 links:
-  - {id: 20260621-0482-主人话语公式S1-S2-dollar-a揭示资本家从工人那里掠夺的不只是剩余价值还掠夺了快感和知识, reason: "主人话语公式S1-S2-$-a——本文讨论的超级我在S2而非S1的位置"}
-  - {id: 20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论, reason: "现实作为少于无——本文'主体作为自我指涉的虚空'与此对接"}
-  - {id: 20260703-0018-Zevnik-Mandelbaum-ISQ2023-emancipation, reason: "'穿越幻象'的解放路径在AI语境中的具体化"}
+  - {id: 20260621-0482, reason: "主人话语公式S1-S2-$-a——本文讨论的超级我在S2而非S1的位置"}
+  - {id: 20260622-0019, reason: "现实作为少于无——本文'主体作为自我指涉的虚空'与此对接"}
+  - {id: 20260703-0018, reason: "'穿越幻象'的解放路径在AI语境中的具体化"}
 voice_passed: true
 aliases: ["AI的母性超级我——齐泽克论AI作为撒旦", "Žižek AI King 2026"]
 ---

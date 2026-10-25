@@ -6,8 +6,8 @@ source: {type: article, ref: "Olkowski, Dorothea. 'Deleuze and the Limits of Mat
 tags: [德勒兹, 数学时间, 钟表时间, 绵延, 柏格森, 差异与重复]
 links:
   - {id: 20260716-0001-GonzalezGarcia2017-surreal-deleuze-time, reason: "González García的超现实数——本文补充了'为什么数学化时间有极限'的批评维度"}
-  - {id: 20260716-0015-Ventzislavov2011-Deleuze-Bergsonism, reason: "Ventzislavov的柏格森主义——Olkowski论证了德勒兹如何用柏格森反对数学时间"}
-  - {id: 20260715-0023-Luzecky2022-Deleuze-eternity, reason: "Luzecky的Aion/Chronos——数学时间是Chronos的极限形态，Aion超越数学化"}
+  - {id: 20260716-0015, reason: "Ventzislavov的柏格森主义——Olkowski论证了德勒兹如何用柏格森反对数学时间"}
+  - {id: 20260715-0023, reason: "Luzecky的Aion/Chronos——数学时间是Chronos的极限形态，Aion超越数学化"}
 voice_passed: true
 aliases: ["Olkowski 2008 limits mathematical time", "德勒兹与数学时间的极限"]
 ---

@@ -5,10 +5,10 @@ created: 2026-09-26T01:13:08+0800
 source: {type: article, ref: "Amoureux, Jack L. Is faster better? Political and ethical framings of pace and space. International Theory 12.2 (2020): 189–219. doi:10.1017/S1752971919000228", page: "3–6"}
 tags: [时间, 空间, 时空框, 加厚, 节奏, 时间转向, 帧, 方法论, 本体论故事]
 links:
-  - {id: 20260622-0076-wang-meng-time-space-world-politics-methodology, reason: "王萌的时/空世界政治方法——中文IR对同一缺口的处理"}
-  - {id: 20260805-0007-williams-li-kelin-two-readings, reason: "Williams的时间哲学与两种读法——时间转向理论侧的另一支"}
-  - {id: 20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统, reason: "德勒兹把时间从空间化运动中解放——本文的前提恰是拒绝这种单独处理"}
-  - {id: 20260716-0028-Reynolds2025-speed-war-AI, reason: "Reynolds论速度与战争AI——同一'更快更好'命题的当代军事版本"}
+  - {id: 20260622-0076, reason: "王萌的时/空世界政治方法——中文IR对同一缺口的处理"}
+  - {id: 20260805-0007, reason: "Williams的时间哲学与两种读法——时间转向理论侧的另一支"}
+  - {id: 20260622-0017, reason: "德勒兹把时间从空间化运动中解放——本文的前提恰是拒绝这种单独处理"}
+  - {id: 20260716-0028, reason: "Reynolds论速度与战争AI——同一'更快更好'命题的当代军事版本"}
 voice_passed: true
 aliases: ["时空互相加厚", "pace-direction-site-scope", "四个时空框"]
 ---

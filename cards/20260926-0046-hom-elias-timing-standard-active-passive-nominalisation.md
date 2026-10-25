@@ -5,10 +5,10 @@ created: 2026-09-26T09:44:17+0800
 source: {type: article, ref: "Hom, Andrew R. Timing Is Everything: Toward a Better Understanding of Time and International Politics. International Studies Quarterly 62, no. 1 (2018): 69–79. doi:10.1093/isq/sqx090", page: "接受稿 pp.8–9"}
 tags: [埃利亚斯, 时机标准, 主动被动, 名词化, 物化特征, 过程关系主义, 历法改革]
 links:
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "旧卡；本卡是展开之一"}
-  - {id: 20260703-0011-Coward2024-IR-future-turn, reason: "Coward等的未来转向——时间是分析概念的底层，本卡给出其发生学"}
-  - {id: 20260622-0076-wang-meng-time-space-world-politics-methodology, reason: "王萌的时空方法论——时间作为研究对象的另一条处理线"}
-  - {id: 20260926-0036-mcintosh-quantum-temporality-mead-present-and-science-metaphor-defence, reason: "McIntosh的牛顿式隐喻——'语言/隐喻造成实体化'的同构论证"}
+  - {id: 20260715-0017, reason: "旧卡；本卡是展开之一"}
+  - {id: 20260703-0011, reason: "Coward等的未来转向——时间是分析概念的底层，本卡给出其发生学"}
+  - {id: 20260622-0076, reason: "王萌的时空方法论——时间作为研究对象的另一条处理线"}
+  - {id: 20260926-0036, reason: "McIntosh的牛顿式隐喻——'语言/隐喻造成实体化'的同构论证"}
 voice_passed: true
 aliases: ["埃利亚斯的timing", "时间作为关系的象征", "主动与被动timing"]
 ---

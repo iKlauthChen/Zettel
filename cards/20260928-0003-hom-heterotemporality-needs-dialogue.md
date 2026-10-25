@@ -5,10 +5,10 @@ created: 2026-09-28T11:54:24+0800
 source: {type: article, ref: "Hom, Andrew R. 'Silent Order: The Temporal Turn in Critical International Relations.' Millennium: Journal of International Studies 46.3 (2018): 303–330. doi:10.1177/0305829818771349. 本地 PDF 为 Edinburgh Research Explorer 的同行评审版本，正文页码 1–30。", page: "同行评审版本 pp. 14–18"}
 tags: [时间, 时间性, 批判IR, 方法论, 后殖民]
 links:
-  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "本文总卡：本卡展开对异时间性研究的批评与方法要求"}
-  - {id: 20260926-0034-amoureux-postcolonial-corrective-scholarly-reflexivity, reason: "Amoureux 讨论未被框架纳入的复数时空经验；与 Hom 所要求的跨时间对话相接"}
-  - {id: 20260926-0030-amoureux-space-time-frames-thicken-each-other, reason: "时空框架需在具体材料中展开；与 Hom 对时间概念不得停留在标签的要求相互补充"}
-  - {id: 20260928-0004-hom-rupture-possibility-and-political-choice, reason: "异时间性、断裂与政治位置的关系，构成下一张卡的理论前提"}
+  - {id: 20260715-0018, reason: "本文总卡：本卡展开对异时间性研究的批评与方法要求"}
+  - {id: 20260926-0034, reason: "Amoureux 讨论未被框架纳入的复数时空经验；与 Hom 所要求的跨时间对话相接"}
+  - {id: 20260926-0030, reason: "时空框架需在具体材料中展开；与 Hom 对时间概念不得停留在标签的要求相互补充"}
+  - {id: 20260928-0004, reason: "异时间性、断裂与政治位置的关系，构成下一张卡的理论前提"}
 voice_passed: true
 aliases: ["异时间性需要概念展开与跨传统对话", "时间多元不是概念清单"]
 ---

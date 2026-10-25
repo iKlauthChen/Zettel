@@ -5,14 +5,14 @@ created: 2026-08-14T21:41:00+0800
 source: {type: book, ref: "Bonta & Protevi (2004). Deleuze and Geophilosophy: A Guide and Glossary. Edinburgh UP. Ch.2 pp.18-28; Ch.3 pp.32-33; 术语表条目 abstract machine / line of flight / singularity / virtual / war machine", page: "18-28; 32-33; 47-167"}
 tags: [deleuze, guattari, delanda, geophilosophy, complexity-theory, attractor, virtual, 裂缝本体论]
 links:
-  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "母卡：本书独特贡献（DG地理哲学操作化）与DeLanda依赖局限——本卡是该论点的完整展开"}
-  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "DeLanda式本体论重构（实际/强度/虚拟三分）——本卡映射表的哲学基础"}
-  - {id: 20260621-0442-抽象机器将虚拟奇异点连接成多重性定义了系统的变化阈值和创造潜力, reason: "抽象机器=吸引子与分岔器的集合——本卡映射表的核心条目"}
-  - {id: 20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模, reason: "复杂性理论的本体论承诺——确定性混沌vs复杂涌现区分支撑本卡'湍流不是混沌'论证"}
-  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "虚拟替代可能——吸引子作为'非可能的存在'的数学实例"}
-  - {id: 20260703-0022-sustainable-alternative-attractor-bridge, reason: "用户已有吸引子盆地框架——本卡提供其动力学理论来源"}
-  - {id: 20260810-0001-becoming-revolutionary-virtual-people-crack, reason: "裂缝本体论与有限性——本卡决策论接口的衔接点"}
-  - {id: 20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧, reason: "Zevnik虚空 vs BontaProtevi复杂性吸引子——两套涌现理论的本体论对话"}
+  - {id: 20260621-0453, reason: "母卡：本书独特贡献（DG地理哲学操作化）与DeLanda依赖局限——本卡是该论点的完整展开"}
+  - {id: 20260630-0001, reason: "DeLanda式本体论重构（实际/强度/虚拟三分）——本卡映射表的哲学基础"}
+  - {id: 20260621-0442, reason: "抽象机器=吸引子与分岔器的集合——本卡映射表的核心条目"}
+  - {id: 20260621-0449, reason: "复杂性理论的本体论承诺——确定性混沌vs复杂涌现区分支撑本卡'湍流不是混沌'论证"}
+  - {id: 20260621-0440, reason: "虚拟替代可能——吸引子作为'非可能的存在'的数学实例"}
+  - {id: 20260703-0022, reason: "用户已有吸引子盆地框架——本卡提供其动力学理论来源"}
+  - {id: 20260810-0001, reason: "裂缝本体论与有限性——本卡决策论接口的衔接点"}
+  - {id: 20260621-0494, reason: "Zevnik虚空 vs BontaProtevi复杂性吸引子——两套涌现理论的本体论对话"}
 voice_passed: true
 aliases: ["DG与复杂性理论的对位：吸引子=虚拟、分岔=逃逸线"]
 ---

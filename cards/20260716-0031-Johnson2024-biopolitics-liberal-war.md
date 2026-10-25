@@ -5,9 +5,9 @@ created: 2026-07-16T22:20:00+0800
 source: {type: article, ref: "Johnson, Jamie M. 'The Biopolitics of Liberal War: Humanity, Temporality and Cosmology.' Millennium: Journal of International Studies 53.1 (2024): 86–112."}
 tags: [生命政治, 自由战争, 人道, 时间性, 宇宙论, 战争]
 links:
-  - {id: 20260715-0020-DunnCavelty2015-resilience, reason: "Dunn Cavelty的韧性——生命政治和时间性的另一个端点：韧性的主体生产↔自由战争的人道编码"}
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——本文从生命政治角度补充了时间的政治：战争的'人道化'就是它的'好的时间化'"}
-  - {id: 20260716-0028-Reynolds2025-speed-war-AI, reason: "Reynolds的速度战争——速度 = 生命政治的加速器：更快=更人道=更少的生命损失"}
+  - {id: 20260715-0020, reason: "Dunn Cavelty的韧性——生命政治和时间性的另一个端点：韧性的主体生产↔自由战争的人道编码"}
+  - {id: 20260715-0017, reason: "Hom的时机理论——本文从生命政治角度补充了时间的政治：战争的'人道化'就是它的'好的时间化'"}
+  - {id: 20260716-0028, reason: "Reynolds的速度战争——速度 = 生命政治的加速器：更快=更人道=更少的生命损失"}
 voice_passed: true
 aliases: ["Johnson 2024 biopolitics liberal war", "自由战争的生命政治——人道、时间与宇宙论"]
 ---

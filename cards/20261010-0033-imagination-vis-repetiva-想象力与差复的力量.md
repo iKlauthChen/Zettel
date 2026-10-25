@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P138-139"}
 tags: [deleuze, 差异与重复, 想象力, 重复, 差复, 综合]
 links:
-  - {id: 20260622-1606-习惯是时间的第一种综合被动主观收缩, reason: "想象的综合从习惯出发"}
-  - {id: 20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性, reason: "想象与记忆的关系"}
-  - {id: 20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis, reason: "想象力的先验地位"}
-  - {id: 20261010-0032-first-synthesis-living-present-第一综合与活生生的当前, reason: "综合的前一层"}
+  - {id: 20260622-1606, reason: "想象的综合从习惯出发"}
+  - {id: 20260622-1607, reason: "想象与记忆的关系"}
+  - {id: 20260622-0072, reason: "想象力的先验地位"}
+  - {id: 20261010-0032, reason: "综合的前一层"}
 voice_passed: true
 aliases: ["想象力从重复中析出差异"]
 ---

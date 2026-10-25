@@ -5,7 +5,7 @@ created: 2026-07-16T11:20:00+0800
 source: {type: article, ref: "Baranzoni, Sara. 'After Politics: Governing through Affect.' Deleuze and Guattari Studies 18.4 (2024): 1–24."}
 tags: [情感, 治理, 算法治理性, 平台化, 采掘主义, 症候学]
 links:
-  - {id: 20260716-0034-Austin-Leander2022-sublime-aesthetics, reason: "崇高美学与全球安全——情感治理的崇高维度"}
+  - {id: 20260716-0034, reason: "崇高美学与全球安全——情感治理的崇高维度"}
 voice_passed: true
 aliases: ["Baranzoni 2024 governing through affect", "情感治理——灾变未来作为神经武器"]
 ---

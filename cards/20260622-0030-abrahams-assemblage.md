@@ -1,14 +1,14 @@
 ---
 id: 20260622-0030-abrahams-assemblage
 status: permanent
-created: 2026-06-22T17:00:00Z
-source: {type: journalArticle, ref: "Abrahams, G. (2025). Drawing Out Deleuze and Guattari's Assemblage: New Insights for Geography. Deleuze and Guattari Studies, 19(3): 341-375."}
+created: 2026-06-22T17:00:00+0800
+source: {type: article, ref: "Abrahams, G. (2025). Drawing Out Deleuze and Guattari's Assemblage: New Insights for Geography. Deleuze and Guattari Studies, 19(3): 341-375."}
 tags: [abrahams, assemblage, geography, refrain, milieu, chaos, cosmos, de-landa, buchanan]
 links:
-  - {id: 20260621-0445-river-connection, reason: "河流连接与逃逸线——装配的运动与河流的统计/缀接共享'混沌到秩序'的生成逻辑"}
-  - {id: 20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造, reason: "分层与一致性——装配的infra/intra/inter三阶段对应从混沌到分层再到逃逸的完整循环"}
-  - {id: 20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模, reason: "混沌作为本体论条件而非认识论限制——Abrahams的混沌力与Bonta/Protevi的复杂性理论汇合"}
-  - {id: 20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁, reason: "Bonta/Protevi将符号扩展为物质临界阈值——与Abrahams将装配还原为力的运动同构"}
+  - {id: 20260621-0445, reason: "河流连接与逃逸线——装配的运动与河流的统计/缀接共享'混沌到秩序'的生成逻辑"}
+  - {id: 20260621-0444, reason: "分层与一致性——装配的infra/intra/inter三阶段对应从混沌到分层再到逃逸的完整循环"}
+  - {id: 20260621-0449, reason: "混沌作为本体论条件而非认识论限制——Abrahams的混沌力与Bonta/Protevi的复杂性理论汇合"}
+  - {id: 20260621-0473, reason: "Bonta/Protevi将符号扩展为物质临界阈值——与Abrahams将装配还原为力的运动同构"}
 voice_passed: true
 ---
 

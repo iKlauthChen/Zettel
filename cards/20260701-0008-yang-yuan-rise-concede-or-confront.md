@@ -5,9 +5,9 @@ created: 2026-07-01T16:55:00+0800
 source: {type: article, ref: "杨原. 对抗还是让步？——大国崛起进程中的鹰鸽策略取舍逻辑[J]. 当代亚太, 2020(05): 4-34+159."}
 tags: [崛起, 霸权, 安全困境, 荣誉, 地位, 预期, 杨原]
 links:
-  - {id: 20260624-0083-qin-dynamic-mechanism-card3-unit-level, reason: "秦立志崛起方式类型学——杨原的因果机制比类型学更精细地解释择"}
-  - {id: 20260701-0010-wang-xinying-us-china-role-evolution, reason: "美国对华认知演变——霸权国视角下的崛起国"}
-  - {id: 20260701-0015-strategic-overextension-analysis, reason: "战略透支——崛起国过度扩张的另一面"}
+  - {id: 20260624-0083, reason: "秦立志崛起方式类型学——杨原的因果机制比类型学更精细地解释择"}
+  - {id: 20260701-0010, reason: "美国对华认知演变——霸权国视角下的崛起国"}
+  - {id: 20260701-0015, reason: "战略透支——崛起国过度扩张的另一面"}
 voice_passed: true
 aliases: ["崛起国鹰鸽策略取舍", "杨原2020"]
 ---

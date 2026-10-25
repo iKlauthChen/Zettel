@@ -5,11 +5,11 @@ created: 2026-09-28T12:01:18+0800
 source: {type: article, ref: "Eun, Yong-Soo. 'Calling for “IR as Becoming-Rhizomatic”.' Global Studies Quarterly 1.2 (2021): 1–12. Article ksab003. doi:10.1093/isagsq/ksab003.", page: "3–7"}
 tags: [IR, 德勒兹, 加塔利, 根茎, 知识生产, 多元主义]
 links:
-  - {id: 20260928-0005-eun-ir-pluralism-representational-diversity, reason: "对知识多元的诊断由本卡转化为'开放疆域与编码'的建设性判据"}
-  - {id: 20260804-0005-tree-rhizome-dichotomy-self-handling-critiques, reason: "卡盒既有的树—根茎批判有助于检验Eun将根茎用于学科社会学的转译"}
-  - {id: 20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology, reason: "栾栋卡整理根茎、层与游牧学概念；本卡用于比较其在IR知识生产中的应用"}
-  - {id: 20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区, reason: "洞穴根茎卡提醒：根茎形式也可能被权力挪用，不天然等于解放"}
-  - {id: 20260928-0007-eun-horizontal-pedagogy-open-knowledge, reason: "本体论上的'运动'需落实为教学、发表与研究的日常实践"}
+  - {id: 20260928-0005, reason: "对知识多元的诊断由本卡转化为'开放疆域与编码'的建设性判据"}
+  - {id: 20260804-0005, reason: "卡盒既有的树—根茎批判有助于检验Eun将根茎用于学科社会学的转译"}
+  - {id: 20260624-0052, reason: "栾栋卡整理根茎、层与游牧学概念；本卡用于比较其在IR知识生产中的应用"}
+  - {id: 20260622-0003, reason: "洞穴根茎卡提醒：根茎形式也可能被权力挪用，不天然等于解放"}
+  - {id: 20260928-0007, reason: "本体论上的'运动'需落实为教学、发表与研究的日常实践"}
 voice_passed: true
 aliases: ["成为根茎式IR指向知识疆域的持续运动", "学科连贯性在于运动而非统一理论"]
 ---

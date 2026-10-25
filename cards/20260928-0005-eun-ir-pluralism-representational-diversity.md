@@ -5,9 +5,9 @@ created: 2026-09-28T12:01:18+0800
 source: {type: article, ref: "Eun, Yong-Soo. 'Calling for “IR as Becoming-Rhizomatic”.' Global Studies Quarterly 1.2 (2021): 1–12. Article ksab003. doi:10.1093/isagsq/ksab003.", page: "1–6"}
 tags: [IR, 知识生产, 多元主义, 学科, 德勒兹, 方法论]
 links:
-  - {id: 20260716-0042-Michel2013-one-world-not-enough, reason: "Michel区分方法多元与本体论多元；与Eun对表征差异和本体论差异的区分相接"}
-  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola把知识多元问题落到大学、学科划分与专业认证等再生产机制"}
-  - {id: 20260928-0006-eun-becoming-rhizomatic-territory-codes, reason: "本卡的诊断引出'成为根茎式IR'的本体论替代方案"}
+  - {id: 20260716-0042, reason: "Michel区分方法多元与本体论多元；与Eun对表征差异和本体论差异的区分相接"}
+  - {id: 20260716-0037, reason: "Kamola把知识多元问题落到大学、学科划分与专业认证等再生产机制"}
+  - {id: 20260928-0006, reason: "本卡的诊断引出'成为根茎式IR'的本体论替代方案"}
 voice_passed: true
 aliases: ["IR的理论多元主要是表征多元", "数量多元不等于知识生产开放"]
 ---

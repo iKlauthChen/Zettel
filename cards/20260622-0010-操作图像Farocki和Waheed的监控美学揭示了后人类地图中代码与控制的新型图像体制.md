@@ -1,14 +1,14 @@
 ---
 id: 20260622-0010-操作图像Farocki和Waheed的监控美学揭示了后人类地图中代码与控制的新型图像体制
 status: permanent
-created: 2026-06-22T11:50:00Z
+created: 2026-06-22T11:50:00+0800
 source: {type: book, ref: "Zdebik, J. (2019). Deleuze and the Map-Image. Ch.6: Surveilling Aesthetics: Waheed's Overhead Images and Farocki's Operative Image."}
 tags: [zdebik, farocki, waheed, operative-image, surveillance, posthuman, map, code, control-society]
 links:
-  - {id: 20260622-0008-地图-图像德勒兹美学中的地图不是静态再现而是虚拟与现实之间的波动装置, reason: "操作图像是地图-图像在监控社会的极端形式——图像不再是再现而是行动"}
-  - {id: 20260621-0500-恐怖体系取代了残酷体系国家权力从刻写身体转向预判监视是德勒兹对主权惩罚谱系学的核心洞见, reason: "恐怖体系取代残酷体系——操作图像是恐怖体系在视觉层面的运作方式（预判/监视替代直接施暴）"}
-  - {id: 20260621-0499-战争不在主权例外中被悬置而外在于国家Colebrook以战争机器批判阿甘本, reason: "战争机器被国家捕获为监控装置——操作图像是战争机器被捕获后的视觉装置"}
-  - {id: 20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区, reason: "洞穴根茎的隐蔽控制与操作图像的不可见性——全球公司国家的两种隐蔽视觉策略"}
+  - {id: 20260622-0008, reason: "操作图像是地图-图像在监控社会的极端形式——图像不再是再现而是行动"}
+  - {id: 20260621-0500, reason: "恐怖体系取代残酷体系——操作图像是恐怖体系在视觉层面的运作方式（预判/监视替代直接施暴）"}
+  - {id: 20260621-0499, reason: "战争机器被国家捕获为监控装置——操作图像是战争机器被捕获后的视觉装置"}
+  - {id: 20260622-0003, reason: "洞穴根茎的隐蔽控制与操作图像的不可见性——全球公司国家的两种隐蔽视觉策略"}
 voice_passed: true
 ---
 

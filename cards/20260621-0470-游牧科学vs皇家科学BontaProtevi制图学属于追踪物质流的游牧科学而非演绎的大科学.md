@@ -1,12 +1,12 @@
 ---
 id: 20260621-0470-游牧科学vs皇家科学BontaProtevi制图学属于追踪物质流的游牧科学而非演绎的大科学
 status: permanent
-created: 2026-06-21T15:20:00Z
+created: 2026-06-21T15:20:00+0800
 source: {type: book, ref: "Bonta & Protevi (2004). Deleuze and Geophilosophy, Ch.2, pp. 28-30"}
 tags: [deleuze, guattari, nomad-science, royal-science, minor-science, cartography, what-is-philosophy]
 links:
-  - {id: 20260621-0442-抽象机器将虚拟奇异点连接成多重性定义了系统的变化阈值和创造潜力, reason: "抽象机器与王国/游牧科学的关系：王国科学捕获抽象机器，游牧科学释放它"}
-  - {id: 20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学, reason: "地理哲学整体框架立足游牧科学的制图学项目"}
+  - {id: 20260621-0442, reason: "抽象机器与王国/游牧科学的关系：王国科学捕获抽象机器，游牧科学释放它"}
+  - {id: 20260621-0437, reason: "地理哲学整体框架立足游牧科学的制图学项目"}
 voice_passed: true
 ---
 

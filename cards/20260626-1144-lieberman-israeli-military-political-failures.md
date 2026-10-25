@@ -1,16 +1,16 @@
 ---
 id: 20260626-1144-lieberman-israeli-military-political-failures
 status: literature
-created: 2026-06-26T11:44:00+08:00
+created: 2026-06-26T11:44:00+0800
 source:
-  type: paper
+  type: article
   ref: "Lieberman, Elli. 'Why Deterrence Failed on October 7, 2023?' Strategic Assessment 28, no. 2 (July 2025)"
 tags: [deterrence, iron-dome, israel, netanyahu, military-transformation, denial-paradox, political-strategy]
 entities: [Elli Lieberman, Benjamin Netanyahu, Avigdor Lieberman, Iron Dome, Israel, Hamas]
 links:
-  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
+  - id: 20260626-1134
     reason: "拒止-威慑悖论在以色列案例中的具体展开：铁穹+政治策略共同制造了威慑失灵的系统性条件"
-  - id: 20260626-1138-lieberman-overextension-trap
+  - id: 20260626-1138
     reason: "以色列军力结构从进攻型转向防御技术密集型，导致丧失发动陆地机动的能力"
 voice_passed: true
 ---

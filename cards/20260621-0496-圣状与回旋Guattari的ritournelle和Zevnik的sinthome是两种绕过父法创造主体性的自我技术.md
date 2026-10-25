@@ -1,15 +1,15 @@
 ---
 id: 20260621-0496-圣状与回旋Guattari的ritournelle和Zevnik的sinthome是两种绕过父法创造主体性的自我技术
 status: permanent
-created: 2026-06-21T20:50:00Z
+created: 2026-06-21T20:50:00+0800
 source: {type: book, ref: "Synthesis: Zevnik (2016) × Guattari ritournelle card (20260621-0466)"}
 tags: [zevnik, guattari, sinthome, ritournelle, subjectivation, territory, self-creation, deleuze]
 links:
-  - {id: 20260621-0489-后俄狄浦斯法后俄狄浦斯法不以父法等级压制欲望而以圣状和快感重新打开法的偶然性, reason: "圣状法（sinthome law）与ritournelle都是绕过父法进行自我组织的技术"}
-  - {id: 20260621-0466-Guattari通过鸟鸣和求偶仪式分析论证领域的诞生是宇宙和居所的雅努斯两面, reason: "Guattari的领域（territory）通过ritournelle从混沌中诞生——与sinthome同构：都在无父法的条件下创造秩序"}
-  - {id: 20260621-0467-Guattari在结构主义和现象学之间走了一条中间道路即机器-结构主义, reason: "Guattari的机器结构主义——将sinthome视为一种'机器'操作性概念而非主体性概念"}
-  - {id: 20260621-0492-关塔那摩的微观抵抗实践不是例外而是另一种世界秩序的本体论展演, reason: "Guantánamo案例展示了sinthome和ritournelle的具体运作——被拘留者通过歌声、祈祷、书写创造领域"}
-  - {id: 20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧, reason: "圣状和ritournelle都是涌现系统的具体机制——从虚空/混沌中自组织出秩序"}
+  - {id: 20260621-0489, reason: "圣状法（sinthome law）与ritournelle都是绕过父法进行自我组织的技术"}
+  - {id: 20260621-0466, reason: "Guattari的领域（territory）通过ritournelle从混沌中诞生——与sinthome同构：都在无父法的条件下创造秩序"}
+  - {id: 20260621-0467, reason: "Guattari的机器结构主义——将sinthome视为一种'机器'操作性概念而非主体性概念"}
+  - {id: 20260621-0492, reason: "Guantánamo案例展示了sinthome和ritournelle的具体运作——被拘留者通过歌声、祈祷、书写创造领域"}
+  - {id: 20260621-0494, reason: "圣状和ritournelle都是涌现系统的具体机制——从虚空/混沌中自组织出秩序"}
 voice_passed: true
 ---
 

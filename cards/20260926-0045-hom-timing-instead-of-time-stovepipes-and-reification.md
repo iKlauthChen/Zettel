@@ -5,10 +5,10 @@ created: 2026-09-26T09:44:17+0800
 source: {type: article, ref: "Hom, Andrew R. Timing Is Everything: Toward a Better Understanding of Time and International Politics. International Studies Quarterly 62, no. 1 (2018): 69–79. doi:10.1093/isq/sqx090 (引文页码用作者接受稿页码 1–24)", page: "接受稿 pp.1–7"}
 tags: [时间转向, 时机, 实体化, 知识烟囱, 诺伯特·埃利亚斯, 异时间性, 方法论]
 links:
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "旧卡（其'三种面向'实为埃利亚斯的定向/方向/控制，不是timing的三种面向）；本卡是展开之一"}
-  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "Hom的另一篇：时间转向的四种陷阱——本卡是同一诊断的建设性版本"}
-  - {id: 20260926-0030-amoureux-space-time-frames-thicken-each-other, reason: "Amoureux的时空框——把时间与空间强制并置的另一条解法"}
-  - {id: 20260620-1544-德勒兹的两种时间模式, reason: "德勒兹的两种时间模式——与'时间是实践'相对的本体论路线"}
+  - {id: 20260715-0017, reason: "旧卡（其'三种面向'实为埃利亚斯的定向/方向/控制，不是timing的三种面向）；本卡是展开之一"}
+  - {id: 20260715-0018, reason: "Hom的另一篇：时间转向的四种陷阱——本卡是同一诊断的建设性版本"}
+  - {id: 20260926-0030, reason: "Amoureux的时空框——把时间与空间强制并置的另一条解法"}
+  - {id: 20260620-1544, reason: "德勒兹的两种时间模式——与'时间是实践'相对的本体论路线"}
 voice_passed: true
 aliases: ["从时间到timing", "三个时间烟囱", "时机理论的诊断部分"]
 ---

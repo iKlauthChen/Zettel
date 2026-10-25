@@ -5,10 +5,10 @@ created: 2026-07-21T13:30:00+0800
 source: {type: article, ref: "Womack, Brantly. 2025. 'Contra Schelling: The Trap of Coercive Strategy in a Multinodal Era.' Perspectives on Politics 23(2): 1–17."}
 tags: [schelling, coercion, deterrence, hegemony, womack, strategic-theory, multinodal]
 links:
-  - {id: 20260620-1501-装置创造界域而非只是占据空间, reason: "Womack的多节点世界与D&G的界域概念可以对话——多节点世界的'节点'不是固定边界而是相连开放的界域"}
-  - {id: 20260721-0002-Womack-multinodal-era-characteristics, reason: "本卡的衍生卡，详述multinodal概念"}
-  - {id: 20260721-0003-Womack-command-credibility-vs-leadership, reason: "命令信誉是Schelling强迫逻辑的信誉机制，与领导信誉的对比可对话"}
-  - {id: 20260721-0004-Womack-Putin-coercive-trap, reason: "Putin案例是Schelling式强迫战略失败的典型经验呈现"}
+  - {id: 20260620-1501, reason: "Womack的多节点世界与D&G的界域概念可以对话——多节点世界的'节点'不是固定边界而是相连开放的界域"}
+  - {id: 20260721-0002, reason: "本卡的衍生卡，详述multinodal概念"}
+  - {id: 20260721-0003, reason: "命令信誉是Schelling强迫逻辑的信誉机制，与领导信誉的对比可对话"}
+  - {id: 20260721-0004, reason: "Putin案例是Schelling式强迫战略失败的典型经验呈现"}
 voice_passed: true
 aliases: ["Womack 2025 Contra Schelling", "Womack对Schelling三前提的批判", "多节点时代的强迫逻辑失效"]
 ---

@@ -5,9 +5,9 @@ created: 2026-07-01T17:25:00+0800
 source: {type: multiple, ref: "张春时殷弘(1999); 时殷弘(2004); 周建明王海良(2002); Miller(2012)"}
 tags: [大战略, 目标, 手段, 战略集中, 安全战略, 发展, Miller]
 links:
-  - {id: 20260701-0004-boggs-us-grand-strategy-contradictions, reason: "Boggs的US矛盾——从大战略理论看矛盾的必然性"}
-  - {id: 20260701-0015-strategic-overextension-analysis, reason: "战略透支——大战略制定中目的-手段失衡的后果"}
-  - {id: 20260701-0016-china-grand-strategy-debate, reason: "中国大战略的具体讨论——理论框架的实践应用"}
+  - {id: 20260701-0004, reason: "Boggs的US矛盾——从大战略理论看矛盾的必然性"}
+  - {id: 20260701-0015, reason: "战略透支——大战略制定中目的-手段失衡的后果"}
+  - {id: 20260701-0016, reason: "中国大战略的具体讨论——理论框架的实践应用"}
 voice_passed: true
 aliases: ["大战略概念与理论", "大战略基本要素"]
 ---

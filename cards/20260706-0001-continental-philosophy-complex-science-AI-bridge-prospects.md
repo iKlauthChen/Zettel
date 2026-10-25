@@ -2,21 +2,21 @@
 id: 20260706-0001-continental-philosophy-complex-science-AI-bridge-prospects
 status: permanent
 created: 2026-07-06T20:45:00+0800
-source: {type: synthetic, ref: "Card network synthesis: Bonta/Protevi cards (0437, 0449, 0440, 0443) × Zevnik bridge (0494) × Tang CSS (0001) × Wang mortal computation (0036) × Cross-civilization complexity (0013) × Ma manifold (0050) × Song complexity science (0108) × Alternative attractor (0022)"}
+source: {type: multiple, ref: "Card network synthesis: Bonta/Protevi cards (0437, 0449, 0440, 0443) × Zevnik bridge (0494) × Tang CSS (0001) × Wang mortal computation (0036) × Cross-civilization complexity (0013) × Ma manifold (0050) × Song complexity science (0108) × Alternative attractor (0022)"}
 tags: [欧陆哲学, 复杂科学, AI, 桥接, 涌现, 虚拟, 吸引子, 生成式AI, 可朽计算, 跨学科]
 links:
-  - {id: 20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学, reason: "DG地理哲学作为复杂性理论的哲学奠基——已有桥接的存在"}
-  - {id: 20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模, reason: "复杂性理论的本体论承诺——桥接的关键前提"}
-  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "虚拟替代可能——吸引子结构解释物质系统的创造性"}
-  - {id: 20260621-0443-涌现系统的互反因果性下向因果约束局部与上向因果产生全局秩序, reason: "互反因果性——涌现系统的运作逻辑"}
-  - {id: 20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧, reason: "虚空+吸引子双重视角——本体论与机制论的互补"}
-  - {id: 20260623-0013-复杂性理论的跨文明平行德勒兹加塔利与钱学森开放复杂巨系统, reason: "复杂性理论的跨文明平行——DG与钱学森OCGS"}
-  - {id: 20260623-0001-唐世平论计算社会科学的未来模仿与模拟两条技术路径需要全数据计算思维超越大数据计算, reason: "ML(模仿)vs ABM(模拟)——计算社会科学的两条路径"}
-  - {id: 20260622-0050-马迎辉论认知的流形模式以流形作为AI神经科学与意识哲学的统一范式, reason: "流形作为AI/神经科学/意识哲学的统一范式"}
-  - {id: 20260701-0036-wang-huaping-consciousness-mortal-computation, reason: "可朽计算——意识生成的过程本体论"}
-  - {id: 20260703-0022-sustainable-alternative-attractor-bridge, reason: "替代秩序的可持续性——吸引子框架的政治应用"}
-  - {id: 20260624-0108-song-complexity-science-card5-bridge, reason: "复杂性科学桥接——AI/ML作为新工具但未被充分理论化"}
-  - {id: 20260621-0008-Guattari以无意识即可能性的领域对, reason: "Guattari无意识即可能性的领域——预测编码的先行者"}
+  - {id: 20260621-0437, reason: "DG地理哲学作为复杂性理论的哲学奠基——已有桥接的存在"}
+  - {id: 20260621-0449, reason: "复杂性理论的本体论承诺——桥接的关键前提"}
+  - {id: 20260621-0440, reason: "虚拟替代可能——吸引子结构解释物质系统的创造性"}
+  - {id: 20260621-0443, reason: "互反因果性——涌现系统的运作逻辑"}
+  - {id: 20260621-0494, reason: "虚空+吸引子双重视角——本体论与机制论的互补"}
+  - {id: 20260623-0013, reason: "复杂性理论的跨文明平行——DG与钱学森OCGS"}
+  - {id: 20260623-0001, reason: "ML(模仿)vs ABM(模拟)——计算社会科学的两条路径"}
+  - {id: 20260622-0050, reason: "流形作为AI/神经科学/意识哲学的统一范式"}
+  - {id: 20260701-0036, reason: "可朽计算——意识生成的过程本体论"}
+  - {id: 20260703-0022, reason: "替代秩序的可持续性——吸引子框架的政治应用"}
+  - {id: 20260624-0108, reason: "复杂性科学桥接——AI/ML作为新工具但未被充分理论化"}
+  - {id: 20260621-0008, reason: "Guattari无意识即可能性的领域——预测编码的先行者"}
 voice_passed: true
 aliases: ["欧陆哲学×复杂科学×AI时代——已建桥梁与前沿缺口"]
 ---

@@ -5,12 +5,12 @@ created: 2026-08-04T15:58:00+0800
 source: {type: reading-note, ref: "千高原(修订译本,上海人民出版社2023,本地txt行号验证)+反俄狄浦斯(夏莹译,南京大学出版社2026,行1244)+二手批判:Badiou《Deleuze: The Clamor of Being》1997/Hallward《Out of This World》2006/Zizek《Organs Without Bodies》2004/Mengue《Deleuze et la question de la democratie》2003(网络核验)", page: ""}
 tags: [rhizome, tree, microfascism, Deleuze-critique, democracy, micro-politics, reterritorialization]
 links:
-  - {id: 20260804-0004-spoke-wheel-tree-rhizome-three-states, reason: "本卡是其文献地基——D&G自己的警告与外部批判确认'反层级会失败',轮辐补失败形态的拓扑"}
-  - {id: 20260626-1050-张能论平滑空间非解放性需要平滑抗争, reason: "中文界独立论证平滑空间非解放性,与末高原原文同向"}
-  - {id: 20260626-1100-张能将德勒兹政治哲学定位为描述而非论证, reason: "软批评:德勒兹政治哲学是描述而非论证——轮辐作为论证性补充"}
-  - {id: 20260623-1610-平滑空间与条纹化空间, reason: "平滑/条纹二分的经典卡;末高原'不拯救'警告的对应物"}
-  - {id: 20260626-1249-不对等平滑以色列人流动巴勒斯坦人条纹化, reason: "平滑空间是权力不对称的场——'非解放性'的经验证据"}
-  - {id: 20260620-1518-人是如何欲望自己所受的压迫, reason: "微观法西斯回答'为何欲望受压迫';辐条自愿插入的欲望机制"}
+  - {id: 20260804-0004, reason: "本卡是其文献地基——D&G自己的警告与外部批判确认'反层级会失败',轮辐补失败形态的拓扑"}
+  - {id: 20260626-1050, reason: "中文界独立论证平滑空间非解放性,与末高原原文同向"}
+  - {id: 20260626-1100, reason: "软批评:德勒兹政治哲学是描述而非论证——轮辐作为论证性补充"}
+  - {id: 20260623-1610, reason: "平滑/条纹二分的经典卡;末高原'不拯救'警告的对应物"}
+  - {id: 20260626-1249, reason: "平滑空间是权力不对称的场——'非解放性'的经验证据"}
+  - {id: 20260620-1518, reason: "微观法西斯回答'为何欲望受压迫';辐条自愿插入的欲望机制"}
 voice_passed: true
 aliases: ["树块茎二分的自我处理与外部批判:D&G三步应对的缺口"]
 ---

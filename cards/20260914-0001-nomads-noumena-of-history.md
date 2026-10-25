@@ -5,12 +5,12 @@ created: 2026-09-14T10:06:00+0800
 source: {type: article, ref: "Smith, Daniel W. 'The Noumena of History: On the Status of Nomads in Deleuze's Thought.' IAPL 2008年会论文（会议版，Melbourne）；期刊版见 Research in Phenomenology 46.1 (2016): 81-100."}
 tags: [德勒兹, 游牧, 历史本体, 康德, 克劳塞维茨, 战争机器, nomadology]
 links:
-  - {id: 20260716-0054-Smith2016-noumena-nomads, reason: "同文期刊版（2016）的既有卡；本组取自2008会议版全文，本卡承担noumena何谓的完整回答，0054提供IR延伸"}
-  - {id: 20260623-1617-游牧民与逃亡者, reason: "游牧民与逃亡者——没有历史只有地理，是历史的noumena的Saldanha表述"}
-  - {id: 20260716-0025-Bell2008-DG-philosophy-history, reason: "Bell的DG历史哲学——历史作为事件而非编年，游牧在编年叙事之外"}
-  - {id: 20260623-1614-虚拟与强度, reason: "虚拟与强度——虚拟=实在而非实际；与noumenal理念（可思不可知）构成术语张力"}
-  - {id: 20260622-1611-克劳塞维茨绝对战争三一模型第三个元素是偶然性, reason: "Reid读克劳塞维茨（偶然性/三一模型）——另一种德勒兹式重写：操作层vs本体层"}
-  - {id: 20260914-0004-war-not-object-nomos, reason: "批次内——纯理念内容的构成（nomos为唯一正对象）"}
+  - {id: 20260716-0054, reason: "同文期刊版（2016）的既有卡；本组取自2008会议版全文，本卡承担noumena何谓的完整回答，0054提供IR延伸"}
+  - {id: 20260623-1617, reason: "游牧民与逃亡者——没有历史只有地理，是历史的noumena的Saldanha表述"}
+  - {id: 20260716-0025, reason: "Bell的DG历史哲学——历史作为事件而非编年，游牧在编年叙事之外"}
+  - {id: 20260623-1614, reason: "虚拟与强度——虚拟=实在而非实际；与noumenal理念（可思不可知）构成术语张力"}
+  - {id: 20260622-1611, reason: "Reid读克劳塞维茨（偶然性/三一模型）——另一种德勒兹式重写：操作层vs本体层"}
+  - {id: 20260914-0004, reason: "批次内——纯理念内容的构成（nomos为唯一正对象）"}
 voice_passed: true
 aliases: ["游牧者是历史的noumena：可思而不可显现、且不可纯粹的理念"]
 ---

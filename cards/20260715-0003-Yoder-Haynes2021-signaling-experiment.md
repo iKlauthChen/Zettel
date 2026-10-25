@@ -5,7 +5,7 @@ created: 2026-07-15T11:40:00+0800
 source: {type: article, ref: "Yoder, Brandon K., and Kyle Haynes. 'Signaling under the Security Dilemma: An Experimental Analysis.' Journal of Conflict Resolution 65.4 (2021): 672–697."}
 tags: [安全困境, 信号, 实验, 信任, 合作, 进攻性现实主义]
 links:
-  - {id: 20260715-0002-Baker2019-empathy-security-dilemma, reason: "Baker的同理心——本实验补充了'信号可以起作用但有限'的经验证据"}
+  - {id: 20260715-0002, reason: "Baker的同理心——本实验补充了'信号可以起作用但有限'的经验证据"}
 voice_passed: true
 aliases: ["Yoder-Haynes 2021 signaling experiment", "安全困境信号实验"]
 ---

@@ -1,10 +1,10 @@
 ---
 id: 20260621-0002-Guattari应被视为独立于Deleu
 status: permanent
-created: 2026-06-21T12:05:00Z
+created: 2026-06-21T12:05:00+0800
 source: {type: book, ref: "Segovia, Guattari Beyond Deleuze, Preface & Ch.4"}
 tags: [guattari, deleuze, authorship, intellectual-history]
-links: [{id: 20260621-0001-Guattari的思想在1980年前后发, reason: "Guattari独立哲学家的地位与其中后期认知断裂直接相关——正是其后期本体论使他区别于Deleuze"}]
+links: [{id: 20260621-0001, reason: "Guattari独立哲学家的地位与其中后期认知断裂直接相关——正是其后期本体论使他区别于Deleuze"}]
 voice_passed: true
 ---
 

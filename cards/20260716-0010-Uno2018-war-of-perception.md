@@ -5,8 +5,8 @@ created: 2026-07-16T13:00:00+0800
 source: {type: article, ref: "Uno, Kunihiko. 'War of Perception, Perception of Time.' Deleuze and Guattari Studies 12.2 (2018): 210–229."}
 tags: [德勒兹, 感知, 触觉, 时间, Aion, 非物体性, 沙漠岛]
 links:
-  - {id: 20260715-0023-Luzecky2022-Deleuze-eternity, reason: "Luzecky的Aion/Chronos——本文从感知角度论证了Aion'out of joint'的时间如何先于空间被感知"}
-  - {id: 20260716-0002-Smith2022-Deleuze-sense, reason: "Smith的意义与无意义——非物体性在感知层面的运作机制"}
+  - {id: 20260715-0023, reason: "Luzecky的Aion/Chronos——本文从感知角度论证了Aion'out of joint'的时间如何先于空间被感知"}
+  - {id: 20260716-0002, reason: "Smith的意义与无意义——非物体性在感知层面的运作机制"}
 voice_passed: true
 aliases: ["Uno 2018 war of perception", "感知的战争——触觉时间"]
 ---

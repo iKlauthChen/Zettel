@@ -2,7 +2,7 @@
 id: 20260624-0131-tang-yongsheng-grand-strategy-card6-bridge
 status: permanent
 created: 2026-06-24T15:56:33+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 战略, 永胜, 安全, 2020, card1, 国家, 军事, 利德尔, --------]
 aliases: ["tang-yongsheng-grand-strategy-card6-bridge"]
 ---

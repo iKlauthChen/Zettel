@@ -5,9 +5,9 @@ created: 2026-07-01T20:20:00+0800
 source: {type: books, ref: "王文《思想坦克》；曹德军(2021)战略叙事"}
 tags: [智库, 叙事, 话语权, 辩经, 知识领导力, 思想坦克, 曹德军]
 links:
-  - {id: 20260701-0030-language-autonomous-shapes-reality, reason: "语言建构力——曹德军'言语皆为诅咒'与德勒兹指令词互补"}
-  - {id: 20260701-0022-buzan-security-studies-spectrum, reason: "哥本哈根学派安全化——战略叙事建构安全现实"}
-  - {id: 20260701-0011-tang-shiping-international-order-change, reason: "唐世平知识领导力——中国智力产品供给的全球需求"}
+  - {id: 20260701-0030, reason: "语言建构力——曹德军'言语皆为诅咒'与德勒兹指令词互补"}
+  - {id: 20260701-0022, reason: "哥本哈根学派安全化——战略叙事建构安全现实"}
+  - {id: 20260701-0011, reason: "唐世平知识领导力——中国智力产品供给的全球需求"}
 voice_passed: true
 aliases: ["中国智库与话语建构", "叙事作为战略武器"]
 ---

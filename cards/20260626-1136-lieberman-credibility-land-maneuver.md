@@ -1,19 +1,19 @@
 ---
 id: 20260626-1136-lieberman-credibility-land-maneuver
 status: literature
-created: 2026-06-26T11:36:00+08:00
+created: 2026-06-26T11:36:00+0800
 source:
-  type: paper
+  type: article
   ref: "Lieberman, Elli. 'Why Deterrence Failed on October 7, 2023?' Strategic Assessment 28, no. 2 (July 2025)"
 tags: [deterrence, credibility, land-maneuver, conversion-problem, coercion, asymmetric-warfare]
 entities: [Elli Lieberman, James Fearon, Thomas Schelling, Israel, Hamas]
 links:
-  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
+  - id: 20260626-1134
   - id: 20260716-0001-Mercer1996-reputation-irreducible
     relation: support
     reason: "Mercer声誉不可归因——可信度的不可观察性与声誉的不可归因性共享认识论结构" 
     reason: "本卡展开核心论题中'为什么陆地机动而非累积威慑解决可信性问题'的机制"
-  - id: 20260626-1138-lieberman-overextension-trap
+  - id: 20260626-1138
     reason: "过度延伸陷阱是陆地机动策略必须配套的约束条件"
 voice_passed: true
 ---

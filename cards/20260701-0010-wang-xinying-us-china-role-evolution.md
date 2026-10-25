@@ -5,9 +5,9 @@ created: 2026-07-01T17:05:00+0800
 source: {type: article, ref: "王新影. 美国对中国战略角色认知的演变——基于对17份《美国国家安全战略》报告的比较分析[J]. 东北亚论坛, 2021."}
 tags: [美国对华, 战略认知, 国家安全战略, 四阶段, 接触, 遏制, 竞争]
 links:
-  - {id: 20260701-0002-friedman-logan-why-washington-no-grand-strategy, reason: "primacy共识——王新影的四阶段演变是这一共识在不同时期的具体化"}
-  - {id: 20260701-0004-boggs-us-grand-strategy-contradictions, reason: "Boggs对US大战略矛盾的批评——王新影展示了矛盾在不同时期的不同强度"}
-  - {id: 20260701-0008-yang-yuan-rise-concede-or-confront, reason: "霸权国对崛起国的策略演变——从杨原的理论到王新影的经验证据"}
+  - {id: 20260701-0002, reason: "primacy共识——王新影的四阶段演变是这一共识在不同时期的具体化"}
+  - {id: 20260701-0004, reason: "Boggs对US大战略矛盾的批评——王新影展示了矛盾在不同时期的不同强度"}
+  - {id: 20260701-0008, reason: "霸权国对崛起国的策略演变——从杨原的理论到王新影的经验证据"}
 voice_passed: true
 aliases: ["美国对华认知四阶段", "王新影2021"]
 ---

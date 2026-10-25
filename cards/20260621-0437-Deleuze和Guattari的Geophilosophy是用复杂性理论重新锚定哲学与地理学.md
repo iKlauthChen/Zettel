@@ -1,12 +1,12 @@
 ---
 id: 20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学
 status: permanent
-created: 2026-06-21T04:37:00Z
+created: 2026-06-21T04:37:00+0800
 source: {type: book, ref: "Bonta & Protevi (2004). Deleuze and Geophilosophy: A Guide and Glossary. Edinburgh University Press, Ch.1 Introduction"}
 tags: [deleuze, guattari, geophilosophy, complexity-theory, nietzsche]
 links: [
-  {id: 20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模, reason: "DG的地理哲学以复杂性理论重建哲学与地理学的基础——复杂性理论不是混沌理论"},
-  {id: 20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造, reason: "分层与一致性——地球作为地质分层系统是地理哲学中分层的物质基础"}
+  {id: 20260621-0449, reason: "DG的地理哲学以复杂性理论重建哲学与地理学的基础——复杂性理论不是混沌理论"},
+  {id: 20260621-0444, reason: "分层与一致性——地球作为地质分层系统是地理哲学中分层的物质基础"}
 ]
 voice_passed: true
 ---

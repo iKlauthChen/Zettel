@@ -5,10 +5,10 @@ created: 2026-07-10T18:00:00+0800
 source: {type: conversation, ref: "Hermes Agent与利奥波德对话，2026-07-10"}
 tags: [机器圈, 超客体, 国际政治, 莫顿, 德勒兹, 加塔利, 剩余安全, 能动性, 层化, 洞穴根茎, 桥接卡]
 links:
-  - {id: 20260709-0003-Dukes2016-mechanosphere-genealogy, reason: "机械圈谱系——机器圈的本体论定义"}
-  - {id: 20260710-0002-surplus-security-chaosmose-bridge, reason: "剩余安全的Chaosmose桥接——机器论转向提供框架基础"}
-  - {id: 20260710-0001-Oedipus-vs-tree-critique-isomorphism, reason: "俄狄浦斯/树状同构性——层化/去层化的一般算法"}
-  - {id: 20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区, reason: "洞穴根茎——根茎式连通被收编为控制手段"}
+  - {id: 20260709-0003, reason: "机械圈谱系——机器圈的本体论定义"}
+  - {id: 20260710-0002, reason: "剩余安全的Chaosmose桥接——机器论转向提供框架基础"}
+  - {id: 20260710-0001, reason: "俄狄浦斯/树状同构性——层化/去层化的一般算法"}
+  - {id: 20260622-0003, reason: "洞穴根茎——根茎式连通被收编为控制手段"}
 voice_passed: true
 aliases: ["国际政治：机器圈还是超客体", "hyperobject vs mechanosphere in IR"]
 ---

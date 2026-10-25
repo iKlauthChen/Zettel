@@ -5,10 +5,10 @@ created: 2026-09-26T00:50:22+0800
 source: {type: article, ref: "Cash, John. Psychoanalysis, cultures of anarchy, and ontological insecurity. International Theory 12:2 (2020): 306–321. doi:10.1017/S1752971920000147", page: "313–316"}
 tags: [cash, 集体无意识, 文化无意识, giddens, habermas, 门齐斯·莱斯, 制度防御, 温特, 投射性认同]
 links:
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen承接的Giddens框架——本卡正是对该框架无意识缺口的处理"}
-  - {id: 20260701-0025-wendt-constructivist-ontology, reason: "温特的三种无政府文化：其'投射性认同作为第三机制'被本文判为过于狭窄"}
-  - {id: 20260622-0014-詹金斯以荣格德勒兹和性别差异构建无意识政治经济学拒绝拉康齐泽克的无意识不可知论, reason: "詹金斯以荣格构建无意识政治经济学——通往集体无意识的另一条（非克莱因非拉康）路线"}
-  - {id: 20260622-0040-李格琴论本体安全理论介入国际政治研究的基本信任存在焦虑与自我认同, reason: "李格琴的OSS引介以基本信任为核心——正是Giddens式无意识观的接受形态"}
+  - {id: 20260713-0003, reason: "Mitzen承接的Giddens框架——本卡正是对该框架无意识缺口的处理"}
+  - {id: 20260701-0025, reason: "温特的三种无政府文化：其'投射性认同作为第三机制'被本文判为过于狭窄"}
+  - {id: 20260622-0014, reason: "詹金斯以荣格构建无意识政治经济学——通往集体无意识的另一条（非克莱因非拉康）路线"}
+  - {id: 20260622-0040, reason: "李格琴的OSS引介以基本信任为核心——正是Giddens式无意识观的接受形态"}
 voice_passed: true
 aliases: ["集体文化无意识", "制度性的抵御焦虑", "门齐斯·莱斯的护士研究"]
 ---

@@ -2,14 +2,14 @@
 id: 20260724-0003-recollisions-Deleuze-repetition-structural-time
 status: permanent
 created: 2026-07-24T10:00:00+0800
-source: {type: preprint, ref: "Deng, Hani & Ma (2024). Long time derivation of the Boltzmann equation from hard sphere dynamics. arXiv:2408.07818; Gao, S. (2025). Comment on 'Hilbert's Sixth Problem' by Deng, Hani, and Ma. arXiv:2504.06297"}
+source: {type: article, ref: "Deng, Hani & Ma (2024). Long time derivation of the Boltzmann equation from hard sphere dynamics. arXiv:2408.07818; Gao, S. (2025). Comment on 'Hilbert's Sixth Problem' by Deng, Hani, and Ma. arXiv:2504.06297"}
 tags: [hilbert-sixth-problem, recollisions, repetition, deleuze, correlation, irreversibility, paradigm-innovation, deng-yu, history, structural-time]
 links:
-  - {id: 20260622-0018-时间晶体不是隐喻而是本体论Cisney的权力的虚假和Luzecky的电影时间论时间作为差异的持续生成, reason: "再碰撞产生的速度相关性链可视为一种微观层面的'时间晶体'——过去相遇的痕迹以相关性的形式被携带进入未来"}
-  - {id: 20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化, reason: "可朽计算的'同一参数在不同历史状态下产生不同响应'——再碰撞正是这种历史依赖性的微观机制"}
-  - {id: 20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos, reason: "再碰撞的重正规化是时间箭头涌现的技术前提之一——没有再碰撞的处理就没有长期时间方向"}
-  - {id: 20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation, reason: "再碰撞问题揭示中介层次的内部结构——不是无差别的中间态，而是有历史累积的内部动力学"}
-  - {id: 20260620-1544-德勒兹的两种时间模式, reason: "再碰撞/相关性链对应于德勒兹'重复'的三种综合之一——习惯综合（微观重复累积为相关性）和记忆综合（相关性携带过去）"}
+  - {id: 20260622-0018, reason: "再碰撞产生的速度相关性链可视为一种微观层面的'时间晶体'——过去相遇的痕迹以相关性的形式被携带进入未来"}
+  - {id: 20260622-0026, reason: "可朽计算的'同一参数在不同历史状态下产生不同响应'——再碰撞正是这种历史依赖性的微观机制"}
+  - {id: 20260724-0002, reason: "再碰撞的重正规化是时间箭头涌现的技术前提之一——没有再碰撞的处理就没有长期时间方向"}
+  - {id: 20260724-0001, reason: "再碰撞问题揭示中介层次的内部结构——不是无差别的中间态，而是有历史累积的内部动力学"}
+  - {id: 20260620-1544, reason: "再碰撞/相关性链对应于德勒兹'重复'的三种综合之一——习惯综合（微观重复累积为相关性）和记忆综合（相关性携带过去）"}
 voice_passed: true
 aliases: ["再碰撞作为德勒兹重复的微观实现——历史相关性不可删除"]
 ---

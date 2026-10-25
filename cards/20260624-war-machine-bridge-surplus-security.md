@@ -1,17 +1,17 @@
 ---
 id: 20260624-war-machine-bridge-surplus-security
 status: permanent
-created: 2026-06-24T16:00:00Z
-source: {type: synthesis, ref: "Reid(2003) × D&G(千高原) × Purakayastha&Das(2023) × Colebrook(2023) × Bonta-Protevi(2004) × 胡波(2024) × Dibb&Brabin-Smith(2021)"}
+created: 2026-06-24T16:00:00+0800
+source: {type: multiple, ref: "Reid(2003) × D&G(千高原) × Purakayastha&Das(2023) × Colebrook(2023) × Bonta-Protevi(2004) × 胡波(2024) × Dibb&Brabin-Smith(2021)"}
 tags: [synthesis, war-machine, surplus-security, bridge, type-distinction, appropriation, grey-zone, deterrence]
 links:
-  - {id: 20260622-0036-Reid论德勒兹的战争机器不是军队而是一种反抗国家捕获的思维和存在的游牧形式, reason: "Reid论DG战争机器总论——本桥接卡以此为核心哲学基础"}
+  - {id: 20260622-0036, reason: "Reid论DG战争机器总论——本桥接卡以此为核心哲学基础"}
   - {id: 20260622-1610-杜梅齐尔三元主权结构与战争的外在性, reason: "杜梅齐尔三元主权结构——战争不可化约为主权的存在论证据"}
-  - {id: 20260622-1611-克劳塞维茨绝对战争三一模型第三个元素是偶然性, reason: "克劳塞维茨绝对战争的偶然性——'非实际化的战争理念'作为国家占有的剩余"}
-  - {id: 20260621-0497-恐怖不是游牧战争机器而是第七型战争机器, reason: "第七型战争机器——七型分类学的连续性使桥接成为可能"}
-  - {id: 20260621-0499-战争不在主权例外中被悬置而外在于国家Colebrook以战争机器批判阿甘本, reason: "Colebrook战争机器vs主权例外——最锐利的DG-安全理论对话入口"}
-  - {id: 20260622-1613-法西斯是自杀式国家战争机器接管国家后的毁灭线, reason: "法西斯作为自杀式国家——国家占有战争机器的极端失败模式"}
-  - {id: 20260621-0504-恐怖作为虚空的病理化Zevnik的本体论虚空与DG的战争机器在暴力边缘汇合提出了政治创造性的门槛问题, reason: "恐怖作为虚空的病理化——战争机器的毁灭性变异与创造性的门槛"}
+  - {id: 20260622-1611, reason: "克劳塞维茨绝对战争的偶然性——'非实际化的战争理念'作为国家占有的剩余"}
+  - {id: 20260621-0497, reason: "第七型战争机器——七型分类学的连续性使桥接成为可能"}
+  - {id: 20260621-0499, reason: "Colebrook战争机器vs主权例外——最锐利的DG-安全理论对话入口"}
+  - {id: 20260622-1613, reason: "法西斯作为自杀式国家——国家占有战争机器的极端失败模式"}
+  - {id: 20260621-0504, reason: "恐怖作为虚空的病理化——战争机器的毁灭性变异与创造性的门槛"}
 voice_passed: true
 aliases: ["战争机器桥接卡——DG战争机器 vs 安全研究的战争机器"]
 ---

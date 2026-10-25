@@ -5,10 +5,10 @@ created: 2026-09-26T00:50:22+0800
 source: {type: article, ref: "Cash, John. Psychoanalysis, cultures of anarchy, and ontological insecurity. International Theory 12:2 (2020): 306–321. doi:10.1017/S1752971920000147", page: "312–313, 317"}
 tags: [cash, 克莱因, 偏执-分裂位置, 抑郁位置, 分裂, 投射性认同, 无政府状态文化, 修补, 心理位置]
 links:
-  - {id: 20260714-0002-Gellwitzki2024-Kleinian-ontological-security, reason: "Gellwitzki的克莱因式OSS——同一套位置概念的另一种功能（区分安全/不安全）"}
-  - {id: 20260714-0007-Gellwitzki-Houde2023-German-EU-myth, reason: "Gellwitzki-Houde德国/欧盟神话——克莱因概念的经验化案例，可与本卡的映射对照"}
-  - {id: 20260830-0106-Kusters精神分裂的无限与焦虑, reason: "Kusters论精神分裂的无限与焦虑——分裂与焦虑的另一条概念脉络"}
-  - {id: 20260714-0004-Bilgic2025-queering-ontological-security, reason: "Bilgic的酷儿OSS——位置运作中的权力维度，本文未处理"}
+  - {id: 20260714-0002, reason: "Gellwitzki的克莱因式OSS——同一套位置概念的另一种功能（区分安全/不安全）"}
+  - {id: 20260714-0007, reason: "Gellwitzki-Houde德国/欧盟神话——克莱因概念的经验化案例，可与本卡的映射对照"}
+  - {id: 20260830-0106, reason: "Kusters论精神分裂的无限与焦虑——分裂与焦虑的另一条概念脉络"}
+  - {id: 20260714-0004, reason: "Bilgic的酷儿OSS——位置运作中的权力维度，本文未处理"}
 voice_passed: true
 aliases: ["克莱因位置映射到无政府文化", "偏执-分裂位置=霍布斯文化", "抑郁位置=洛克文化"]
 ---

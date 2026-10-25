@@ -5,18 +5,18 @@ created: 2026-10-16T11:21:11+0800
 source: {type: conversation, ref: "Hermes 与 ChatGPT 讨论合成（2026-10-16）：《预测的文献谱系》与《预测如何进入认识论》两场对话，原始档案 ~/ResearchMemory/archive/chatgpt/2026/2026-10-16-prediction-literature-and-armchair.txt 与 …-prediction-epistemology-history.txt", page: "无页码；摘要卡 digest:digests:methodology:2026-10-16-reflexive-prediction-research-thread"}
 tags: [预测, 时间性, 未来, 反身性, 不确定性, 认识论, 方法论, 德勒兹, synthetic, bridge]
 links:
-  - {id: 20260620-1544-德勒兹的两种时间模式, reason: "本线索的时间哲学底座：Chronos 与 Aion 的区分是判断「可推算未来」与「生成中的未来」不同的原文依据"}
-  - {id: 20260622-1608-未来作为时间的空白形式断裂与创造, reason: "「未来作为断裂与创造」与『未来非预先存在、而在 future-making 中被 enact』同题，须核对两者是否同一命题的两种表述"}
-  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "Hom 的时间转向为「预测进入认识论」提供 IR 学科内的接受史坐标"}
-  - {id: 20260926-0043-solomon-multiple-conflicting-temporalities-vs-futurity, reason: "Solomon 的 future-completion 与多重时间性：与「未来完成时」相邻，是第四环归因问题的时间哲学侧镜像"}
-  - {id: 20260716-0016-Bergsma2022-Chronos-Aion-unconscious, reason: "Chronos/Aion 与无意识的连结，用于检验「事件被抽象为变量」这一接口是否已在德勒兹研究中被处理"}
-  - {id: 20260624-0041-liu-micro-events-card3-counterfactual-method, reason: "Liu 的反事实方法：IR 内部处理「反事实不可观察」的既有方案，是第四环归因失败的方法论近邻"}
-  - {id: 20260624-0091-qin-strategic-uncertainty-card1-core-thesis, reason: "秦立志战略不确定性核心论题：IR 侧把不确定性当作结构变量的代表，检验本线索与战略不确定性文献是否重复"}
-  - {id: 20260622-0056-dibb-brabin-deterrence-denial-warning, reason: "威慑与预警：预测在国际安全中的制度化形态，是本线索经验落点的最近邻"}
-  - {id: 20260626-1258-道格维尔效应边界概念表演性先于物质性, reason: "「边界概念表演性先于物质性」提供表演性在盒内的另一条用法，用于校准 performativity 一词的译名与用法"}
-  - {id: 20260926-0033-amoureux-reflexivities-arendt-non-time-non-space, reason: "Amoureux 的反身性讨论：盒内反身性标签族之一，用于区分学术反身性与本线索的反身耦合"}
-  - {id: 20260716-0012-Roffe2017-quasi-cause, reason: "Roffe 论准原因：事件生成与事后确立的另一条资源，与第四环「回溯不可归因」形式相邻"}
-  - {id: 20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge, reason: "拉康回退性 × 德勒兹第三综合桥接卡：本卡「我的判断」中那条待检验连接的另一半"}
+  - {id: 20260620-1544, reason: "本线索的时间哲学底座：Chronos 与 Aion 的区分是判断「可推算未来」与「生成中的未来」不同的原文依据"}
+  - {id: 20260622-1608, reason: "「未来作为断裂与创造」与『未来非预先存在、而在 future-making 中被 enact』同题，须核对两者是否同一命题的两种表述"}
+  - {id: 20260715-0018, reason: "Hom 的时间转向为「预测进入认识论」提供 IR 学科内的接受史坐标"}
+  - {id: 20260926-0043, reason: "Solomon 的 future-completion 与多重时间性：与「未来完成时」相邻，是第四环归因问题的时间哲学侧镜像"}
+  - {id: 20260716-0016, reason: "Chronos/Aion 与无意识的连结，用于检验「事件被抽象为变量」这一接口是否已在德勒兹研究中被处理"}
+  - {id: 20260624-0041, reason: "Liu 的反事实方法：IR 内部处理「反事实不可观察」的既有方案，是第四环归因失败的方法论近邻"}
+  - {id: 20260624-0091, reason: "秦立志战略不确定性核心论题：IR 侧把不确定性当作结构变量的代表，检验本线索与战略不确定性文献是否重复"}
+  - {id: 20260622-0056, reason: "威慑与预警：预测在国际安全中的制度化形态，是本线索经验落点的最近邻"}
+  - {id: 20260626-1258, reason: "「边界概念表演性先于物质性」提供表演性在盒内的另一条用法，用于校准 performativity 一词的译名与用法"}
+  - {id: 20260926-0033, reason: "Amoureux 的反身性讨论：盒内反身性标签族之一，用于区分学术反身性与本线索的反身耦合"}
+  - {id: 20260716-0012, reason: "Roffe 论准原因：事件生成与事后确立的另一条资源，与第四环「回溯不可归因」形式相邻"}
+  - {id: 20261015-0001, reason: "拉康回退性 × 德勒兹第三综合桥接卡：本卡「我的判断」中那条待检验连接的另一半"}
 voice_passed: true
 aliases: ["反身耦合线索的四环与最薄的一环", "预测的归因缺口", "从预测世界到生产未来的文献定位"]
 ---

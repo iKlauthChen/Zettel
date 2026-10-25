@@ -5,7 +5,7 @@ created: 2026-07-15T12:20:00+0800
 source: {type: article, ref: "Johnson, James. 'Inadvertent escalation in the age of intelligence machines: A new model for nuclear risk in the digital age.' European Journal of International Security 7.3 (2022): 337–359."}
 tags: [AI, 核风险, 无意升级, 安全困境, 技术, 战争迷雾]
 links: [
-  {id: 20260918-0001-yang-vocke-asbm-myths-dual-debunk, reason: "AI时代的无意升级——本文的'误击民航/渔船'风险是前AI时代对同一结构性问题的手写版"}
+  {id: 20260918-0001, reason: "AI时代的无意升级——本文的'误击民航/渔船'风险是前AI时代对同一结构性问题的手写版"}
 ]
 voice_passed: true
 aliases: ["Johnson 2022 inadvertent escalation AI", "AI时代的无意升级"]

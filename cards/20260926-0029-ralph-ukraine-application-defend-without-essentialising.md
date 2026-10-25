@@ -5,10 +5,10 @@ created: 2026-09-26T01:06:54+0800
 source: {type: article, ref: "Ralph, Jason. International society as an ontological security provider: a framework for analysis. International Theory 18, no. 1 (2026): 135–157. doi:10.1017/S1752971925100146", page: "150–153"}
 tags: [俄罗斯, 乌克兰, 误认, 本体论不安全, 厚团结, 承认, 帝国认同, 政策建议, 规范拉平]
 links:
-  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović与Ejdus的德国-俄罗斯论述——同一案例的另一套诊断"}
-  - {id: 20260926-0023-gellwitzki-anxiety-always-existential-action-from-regression, reason: "Gellwitzki把俄乌双方都归入不安全位置——本文的对策面临同一规范难题"}
-  - {id: 20260926-0024-gellwitzki-depressive-position-reparation-guilt-as-security, reason: "Gellwitzki论'以矛盾语汇建构俄罗斯'——本文对策倚重的方案"}
-  - {id: 20260926-0010-cash-ontological-insecurity-what-comes-next, reason: "Cash：本体论不安全优先与文化再配重——萨科瓦式读法的理论背景"}
+  - {id: 20260713-0002, reason: "Vulović与Ejdus的德国-俄罗斯论述——同一案例的另一套诊断"}
+  - {id: 20260926-0023, reason: "Gellwitzki把俄乌双方都归入不安全位置——本文的对策面临同一规范难题"}
+  - {id: 20260926-0024, reason: "Gellwitzki论'以矛盾语汇建构俄罗斯'——本文对策倚重的方案"}
+  - {id: 20260926-0010, reason: "Cash：本体论不安全优先与文化再配重——萨科瓦式读法的理论背景"}
 voice_passed: true
 aliases: ["保卫乌克兰而不本质化俄罗斯", "对俄罗斯实在界的敬意", "厚团结主义的俄乌对策"]
 ---

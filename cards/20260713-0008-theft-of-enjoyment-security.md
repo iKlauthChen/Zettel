@@ -2,12 +2,12 @@
 id: 20260713-0008-theft-of-enjoyment-security
 status: permanent
 created: 2026-07-13T14:00:00+0800
-source: {type: synthesis, ref: "综合Lacan(1959-60)《精神分析的伦理学》研讨班中'享乐的窃取'(vol de la jouissance)概念，及Žižek(1993) Tarrying with the Negative和Salecl(1994) The Spoils of Freedom中的民族主义分析"}
+source: {type: multiple, ref: "综合Lacan(1959-60)《精神分析的伦理学》研讨班中'享乐的窃取'(vol de la jouissance)概念，及Žižek(1993) Tarrying with the Negative和Salecl(1994) The Spoils of Freedom中的民族主义分析"}
 tags: [享乐的窃取, 拉康, 齐泽克, 他者化, 幻想, 安全话语, 剩余安全, 叙事机制]
 links:
-  - {id: 20260621-0481-剩余快感不是快感的剩余而是通过认同和接受象征秩序所获得的痛苦欢乐, reason: "剩余快感——享乐的窃取是剩余快感的零和化版本：他者享有了本应属于我们的快感"}
-  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的对象a——享乐的窃取是对象a在叙事层面的操作机制"}
-  - {id: 20260624-0075-original-batch4-surplus-security, reason: "剩余安全——享乐的窃取解释了剩余如何从结构效应转化为叙事驱力"}
+  - {id: 20260621-0481, reason: "剩余快感——享乐的窃取是剩余快感的零和化版本：他者享有了本应属于我们的快感"}
+  - {id: 20260713-0002, reason: "Vulović-Ejdus的对象a——享乐的窃取是对象a在叙事层面的操作机制"}
+  - {id: 20260624-0075, reason: "剩余安全——享乐的窃取解释了剩余如何从结构效应转化为叙事驱力"}
 voice_passed: true
 aliases: ["theft of enjoyment in security discourse", "享乐窃取的安全话语机制"]
 ---

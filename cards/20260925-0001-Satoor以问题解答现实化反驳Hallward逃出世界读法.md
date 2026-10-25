@@ -5,9 +5,9 @@ created: 2026-09-25T08:49:03+0800
 source: {type: article, ref: "Satoor, Christopher. ‘A Part’ of the World: Deleuze and the Logic of Creation. Deleuze Studies 11.1 (2017), 25–47. DOI: 10.3366/dls.2017.0250", page: "29–35, 45–47"}
 tags: [Deleuze, Hallward, virtual-actual, creation, constructivism, intensity, life]
 links:
-  - {id: 20260716-0011-Smith2010-believing-world, reason: "Smith也回应Hallward的逃世批评，但从虚拟/实际的生态循环展开"}
-  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "既有卡从吸引子解释虚拟现实化的创造性；Satoor提供另一种问题—解答式论述"}
-  - {id: 20260623-1614-虚拟与强度, reason: "虚拟不等于可能、现实化以差异完成；可校准Satoor对潜能的表述"}
+  - {id: 20260716-0011, reason: "Smith也回应Hallward的逃世批评，但从虚拟/实际的生态循环展开"}
+  - {id: 20260621-0440, reason: "既有卡从吸引子解释虚拟现实化的创造性；Satoor提供另一种问题—解答式论述"}
+  - {id: 20260623-1614, reason: "虚拟不等于可能、现实化以差异完成；可校准Satoor对潜能的表述"}
 voice_passed: true
 aliases: ["Satoor 2017：虚拟—实际作为问题现实化"]
 ---

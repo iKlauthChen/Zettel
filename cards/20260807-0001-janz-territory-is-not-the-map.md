@@ -5,15 +5,15 @@ created: 2026-08-07T10:14:12+0800
 source: {type: article, ref: "Janz, B. B. (2001). The Territory Is Not the Map: Place, Deleuze and Guattari, and African Philosophy. Philosophy Today, 45(4), 392–404.", page: "392-404"}
 tags: [deleuze, guattari, geophilosophy, refrain, territory, nomadology, place, map, habit, repetition]
 links:
-  - {id: 20260621-0448-迭奏曲ritournelle是连接混沌地球宇宙三极的核心操作, reason: "叠歌=连接混沌/地球/宇宙三极的核心操作——Janz的refrain论述直接来自此概念"}
-  - {id: 20260623-1610-平滑空间与条纹化空间, reason: "平滑/条纹空间对应Janz开篇的围棋vs象棋对比"}
-  - {id: 20260620-1502-家是通过安排构建的舒适空间而非预先存在的, reason: "家不预先存在——Janz的'Now we are at home. But home does not pre-exist'同构命题"}
-  - {id: 20260622-1606-习惯是时间的第一种综合被动主观收缩, reason: "习惯是时间的第一种综合——Janz的Hume式自我=习惯观"}
-  - {id: 20260623-1611-重复段与界域化, reason: "重复段与界域化——refrain的重复携带差异的领地功能"}
-  - {id: 20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学, reason: "DG地理哲学的复杂性理论奠基——Janz第二节直接处理geophilosophy"}
-  - {id: 20260627-0002-游牧之思是战术性的而非战略性的, reason: "游牧之思的战术性——Janz的nomad vs migrant区分可对话"}
-  - {id: 20260716-0003-Mutabdzija2022-Balkan-geophilosophy, reason: "Mutabdzija巴尔干地理哲学——同为DG地理哲学的区域应用，结构对应最强"}
-  - {id: 20260624-0072-original-batch3-assemblage-territory, reason: "装配与领土——territory作为行动而非占有"}
+  - {id: 20260621-0448, reason: "叠歌=连接混沌/地球/宇宙三极的核心操作——Janz的refrain论述直接来自此概念"}
+  - {id: 20260623-1610, reason: "平滑/条纹空间对应Janz开篇的围棋vs象棋对比"}
+  - {id: 20260620-1502, reason: "家不预先存在——Janz的'Now we are at home. But home does not pre-exist'同构命题"}
+  - {id: 20260622-1606, reason: "习惯是时间的第一种综合——Janz的Hume式自我=习惯观"}
+  - {id: 20260623-1611, reason: "重复段与界域化——refrain的重复携带差异的领地功能"}
+  - {id: 20260621-0437, reason: "DG地理哲学的复杂性理论奠基——Janz第二节直接处理geophilosophy"}
+  - {id: 20260627-0002, reason: "游牧之思的战术性——Janz的nomad vs migrant区分可对话"}
+  - {id: 20260716-0003, reason: "Mutabdzija巴尔干地理哲学——同为DG地理哲学的区域应用，结构对应最强"}
+  - {id: 20260624-0072, reason: "装配与领土——territory作为行动而非占有"}
   - {id: 20260622-1610, reason: "战争机器的外在性——Janz所引Nkongolo/Mbidi神话的同构结构"}
 voice_passed: true
 aliases: ["领土不是地图——地方先于空间，非洲哲学的重置"]

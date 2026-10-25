@@ -5,10 +5,10 @@ created: 2026-07-17T01:20:00+0800
 source: {type: article, ref: "Lenco, Peter. '(Re-)Introducing Deleuze: New Readings of Deleuze in International Studies.' Millennium: Journal of International Studies 43.1 (2014): 124–144."}
 tags: [德勒兹, IR, 单一本体论, 虚拟, 现实, 装配, 国家]
 links:
-  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "Bonta-Protevi的地球哲学——Lenco的号召与BP的实践构成'德勒兹在IR'的两次浪潮"}
-  - {id: 20260716-0004-Abrahams2025-assemblage-geography, reason: "Abrahams的装配地理学——Lenco预见了十年前被Abrahams实现的新的装配解读"}
-  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "虚拟/现实——同一本体论是Lenco倡导的核心概念"}
-  - {id: 20260716-0035-Mnatsakanyan2022-denials-seabed-space, reason: "Mnatsakanyan的安全装配——Lenco十年前的号召在此被实现"}
+  - {id: 20260621-0453, reason: "Bonta-Protevi的地球哲学——Lenco的号召与BP的实践构成'德勒兹在IR'的两次浪潮"}
+  - {id: 20260716-0004, reason: "Abrahams的装配地理学——Lenco预见了十年前被Abrahams实现的新的装配解读"}
+  - {id: 20260621-0440, reason: "虚拟/现实——同一本体论是Lenco倡导的核心概念"}
+  - {id: 20260716-0035, reason: "Mnatsakanyan的安全装配——Lenco十年前的号召在此被实现"}
 voice_passed: true
 aliases: ["Lenco 2014 re-introducing Deleuze IR", "第一次德勒兹在IR的引入——从修辞到本体论"]
 ---

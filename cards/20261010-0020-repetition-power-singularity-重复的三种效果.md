@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P372"}
 tags: [deleuze, 差异与重复, 重复, 奇异性, 时间, 空间]
 links:
-  - {id: 20261010-0010-deleuze-repetition-pathos-重复的痛苦, reason: "重复作为受动的另一面"}
-  - {id: 20260620-1573-情感驱动下的记忆重复必然产生差异, reason: "重复与差异的生成"}
-  - {id: 20260620-1511-生产是差异的重复而非同一的复现, reason: "生产论题的同一面向"}
-  - {id: 20260808-0003-stonecutter-two-layer-actualization, reason: "重复在现实化中的操作"}
+  - {id: 20261010-0010, reason: "重复作为受动的另一面"}
+  - {id: 20260620-1573, reason: "重复与差异的生成"}
+  - {id: 20260620-1511, reason: "生产论题的同一面向"}
+  - {id: 20260808-0003, reason: "重复在现实化中的操作"}
 voice_passed: true
 aliases: ["重复是差异与分化的强力"]
 ---

@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P279"}
 tags: [deleuze, 差异与重复, 几何, 黎曼, 问题, 哥白尼革命, 连续与间断]
 links:
-  - {id: 20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽, reason: "问题的辩证秩序"}
-  - {id: 20260716-0024-Olkowski2008-mathematical-time-limits, reason: "微分几何与时间"}
-  - {id: 20260620-1550-莱布尼茨的共可能性先于同一性逻辑, reason: "连续与可能性"}
-  - {id: 20261010-0025-dice-chance-repetition-骰子, reason: "偶然与几何的关系"}
+  - {id: 20261010-0006, reason: "问题的辩证秩序"}
+  - {id: 20260716-0024, reason: "微分几何与时间"}
+  - {id: 20260620-1550, reason: "连续与可能性"}
+  - {id: 20261010-0025, reason: "偶然与几何的关系"}
 voice_passed: true
 aliases: ["哥白尼式革命需要黎曼式几何"]
 ---

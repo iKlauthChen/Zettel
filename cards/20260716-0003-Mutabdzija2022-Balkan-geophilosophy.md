@@ -5,7 +5,7 @@ created: 2026-07-16T10:40:00+0800
 source: {type: article, ref: "Mutabdžija, Goran. 'Deleuze and Guattari Geophilosophy and Historical-Geographical Narratives of the Balkans.' Global Journal of Human-Social Science: B 22.4 (2022): 1–15."}
 tags: [地理哲学, 巴尔干, 辖域化, 解域化, 再辖域化, 层, 叙事]
 links:
-  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "Bonta-Protevi的地球哲学——本文是用该框架对巴尔干的经验应用"}
+  - {id: 20260621-0453, reason: "Bonta-Protevi的地球哲学——本文是用该框架对巴尔干的经验应用"}
 voice_passed: true
 aliases: ["Mutabdžija 2022 Balkan geophilosophy", "巴尔干的地理哲学"]
 ---

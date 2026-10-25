@@ -5,11 +5,11 @@ created: 2026-07-01T15:30:00+0800
 source: {type: article, ref: "Gray, Colin S. 'Geography and Grand Strategy.' Comparative Strategy, vol. 10, no. 4, 1991, pp. 311–329."}
 tags: [大战略, 地理学, 海权, 陆权, 核威慑, 相互威慑, Gray]
 links:
-  - {id: 20260624-0024-hu-lu-critical-geopolitics-card1-core, reason: "经典地缘政治理论的批判解读——Gray的Mackinder/Mahan传统"}
-  - {id: 20260624-0154-zhang-maritime-politics-card1-core-thesis, reason: "海洋政治学的当代构建——海陆维度作为地缘分类框架"}
-  - {id: 20260624-0070-original-batch2-geoposition-security-perception, reason: "地缘位势与安全感知——地理作为安全分析的底层变量"}
-  - {id: 20260701-0002-friedman-logan-why-washington-no-grand-strategy, reason: "大战略辩论缺失的美国案例——geography prescribes primacy"}
-  - {id: 20260701-0001-jervis-system-effects-structure-boundary, reason: "系统效应的结构约束——地理作为最持久的系统层面因素"}
+  - {id: 20260624-0024, reason: "经典地缘政治理论的批判解读——Gray的Mackinder/Mahan传统"}
+  - {id: 20260624-0154, reason: "海洋政治学的当代构建——海陆维度作为地缘分类框架"}
+  - {id: 20260624-0070, reason: "地缘位势与安全感知——地理作为安全分析的底层变量"}
+  - {id: 20260701-0002, reason: "大战略辩论缺失的美国案例——geography prescribes primacy"}
+  - {id: 20260701-0001, reason: "系统效应的结构约束——地理作为最持久的系统层面因素"}
 voice_passed: true
 aliases: ["核时代地理学仍然重要", "Gray 1991 Geography and Grand Strategy"]
 ---

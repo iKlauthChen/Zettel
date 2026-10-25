@@ -2,7 +2,7 @@
 id: 20260624-0165-zhao-time-temporality-card6-bridge
 status: permanent
 created: 2026-06-24T15:58:10+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 鼎新, 德勒, 时间, 时间性, 权力, 20260622, 道家, card1, 四种]
 aliases: ["zhao-time-temporality-card6-bridge"]
 ---

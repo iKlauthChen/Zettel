@@ -5,11 +5,11 @@ created: 2026-09-26T00:42:32+0800
 source: {type: article, ref: "Paes, Lucas de Oliveira. Networked territoriality: A processual–relational view on the making (and makings) of regions in world politics. Review of International Studies 49:1 (2023): 53–82. First published online 2022. DOI: 10.1017/S0260210522000249.", page: "53–60"}
 tags: [paes, 区域, 领土性, 关系主义, 过程本体论, 区域主义, 区域化, 边界, 网络, 非欧洲中心]
 links:
-  - {id: 20260624-0072-original-batch3-assemblage-territory, reason: "领土/界域是装置活动的产物——同属边界由过程生产的命题族"}
-  - {id: 20260807-0001-janz-territory-is-not-the-map, reason: "德勒兹式强命题领土不是地图的IR弱化版：区域边界持续被生产而非既定容器"}
-  - {id: 20260626-1258-道格维尔效应边界概念表演性先于物质性, reason: "边界的概念与表演性先于物质性——bounding机制的微观类比"}
-  - {id: 20260701-0022-buzan-security-studies-spectrum, reason: "地区安全复合体：区域可无政治项目而存在，是'无区域主义的区域化'的既有名称"}
-  - {id: 20260926-0002-jackson-nexon-fractal-position-process, reason: "网络/领土两种本体与关系主义内部的位置/过程之争同型"}
+  - {id: 20260624-0072, reason: "领土/界域是装置活动的产物——同属边界由过程生产的命题族"}
+  - {id: 20260807-0001, reason: "德勒兹式强命题领土不是地图的IR弱化版：区域边界持续被生产而非既定容器"}
+  - {id: 20260626-1258, reason: "边界的概念与表演性先于物质性——bounding机制的微观类比"}
+  - {id: 20260701-0022, reason: "地区安全复合体：区域可无政治项目而存在，是'无区域主义的区域化'的既有名称"}
+  - {id: 20260926-0002, reason: "网络/领土两种本体与关系主义内部的位置/过程之争同型"}
 voice_passed: true
 aliases: ["网络化的领土性", "区域是网络与领土二元性的产物", "Paes区域制造框架"]
 ---

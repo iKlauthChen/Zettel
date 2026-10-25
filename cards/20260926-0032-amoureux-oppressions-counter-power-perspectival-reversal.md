@@ -5,10 +5,10 @@ created: 2026-09-26T01:13:08+0800
 source: {type: article, ref: "Amoureux, Jack L. Is faster better? Political and ethical framings of pace and space. International Theory 12.2 (2020): 189–219. doi:10.1017/S1752971919000228", page: "8–10, 19–20"}
 tags: [福柯, 规训, 生命政治, 监控, 反权力, 视角反转, 无人机, 本体论焦虑, 现代性]
 links:
-  - {id: 20260716-0031-Johnson2024-biopolitics-liberal-war, reason: "Johnson：生物政治与自由战争——同一'生命被生产'线索的战争侧"}
-  - {id: 20260715-0007-Bolton2021-targeting-ontological-security, reason: "Bolton：瞄准与本体论安全——无人机视角下的主体性生产"}
-  - {id: 20260620-1680-时空压缩是资本主义加速与空间障碍消除的双, reason: "时空压缩作为资本主义加速——压迫框的时间维度前史"}
-  - {id: 20260623-0002-海洋作为本体论不安全的空间对应在陆地条纹化叙事和海洋平滑性之间的存在焦虑, reason: "海洋作为本体论不安全的空间对应——空间与存在焦虑的另一条线"}
+  - {id: 20260716-0031, reason: "Johnson：生物政治与自由战争——同一'生命被生产'线索的战争侧"}
+  - {id: 20260715-0007, reason: "Bolton：瞄准与本体论安全——无人机视角下的主体性生产"}
+  - {id: 20260620-1680, reason: "时空压缩作为资本主义加速——压迫框的时间维度前史"}
+  - {id: 20260623-0002, reason: "海洋作为本体论不安全的空间对应——空间与存在焦虑的另一条线"}
 voice_passed: true
 aliases: ["时空压迫框", "反权力与视角反转", "蓝天天日与无人机视角"]
 ---

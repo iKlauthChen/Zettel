@@ -2,7 +2,7 @@
 id: 20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge
 status: permanent
 created: 2026-06-24T15:05:16+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 情感, 20260622, 地缘, security, 情动, 链接, 氛围, ingest, 维度]
 aliases: ["wang-zhu-emotional-geopolitics-card6-bridge"]
 ---

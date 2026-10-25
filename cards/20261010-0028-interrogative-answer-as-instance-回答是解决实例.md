@@ -5,9 +5,9 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P271"}
 tags: [deleuze, 差异与重复, 问题, 回答, 疑问, 解决]
 links:
-  - {id: 20261010-0006-deleuze-dialectical-problem-irony-辩证问题与反讽, reason: "问题优先于回答"}
-  - {id: 20261010-0008-deleuze-learning-knowledge-学习与知识, reason: "学习是对问题的遭遇"}
-  - {id: 20261010-0026-structure-genesis-idea-意义在结构事件中, reason: "回答的结构地位"}
+  - {id: 20261010-0006, reason: "问题优先于回答"}
+  - {id: 20261010-0008, reason: "学习是对问题的遭遇"}
+  - {id: 20261010-0026, reason: "回答的结构地位"}
 voice_passed: true
 aliases: ["疑问式表述"]
 ---

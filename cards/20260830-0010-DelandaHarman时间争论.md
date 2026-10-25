@@ -5,9 +5,9 @@ created: 2026-08-30T12:25:00+0800
 source: {type: book, ref: "Delanda & Harman，《实在论的兴起》，2017（2025）", page: "P7-172（时间、空间、对象诸条）"}
 tags: [Delanda, Harman, 实在论, 时间, 空间, 对象本体论, 涌现]
 links:
-  - {id: 20260620-1544-德勒兹的两种时间模式, reason: "Chronos客观时间论与德勒兹时间框架的张力"}
-  - {id: 20260830-0002-杨凯麟艾甬事件场所与生成疯狂, reason: "事件时间介于客观与感性之间的定位"}
-  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "Bonta-Protevi对DeLanda解读的批评在这本书中的原始版本"}
+  - {id: 20260620-1544, reason: "Chronos客观时间论与德勒兹时间框架的张力"}
+  - {id: 20260830-0002, reason: "事件时间介于客观与感性之间的定位"}
+  - {id: 20260621-0453, reason: "Bonta-Protevi对DeLanda解读的批评在这本书中的原始版本"}
 voice_passed: true
 aliases: ["时间争论：Chronos振荡vs感性领域"]
 ---

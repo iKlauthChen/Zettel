@@ -5,10 +5,10 @@ created: 2026-09-26T09:41:32+0800
 source: {type: article, ref: "Solomon, Ty. Time and Subjectivity in World Politics. International Studies Quarterly 58, no. 4 (2014): 671–681. doi:10.1111/isqu.12091", page: "671–672, 674–676"}
 tags: [时间转向, 多重时间性, 海德格尔, 贝伦斯科特, 约翰斯顿, 隆德堡, 欲望, 建构主义]
 links:
-  - {id: 20260715-0019-Solomon2014-time-subjectivity, reason: "旧卡；本卡是展开之一"}
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——时间被制造与被控制的政治面"}
-  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "Hom的'时间转向'四陷阱——本文正是在'只批判不建构'处提出欲望作为解法"}
-  - {id: 20260926-0036-mcintosh-quantum-temporality-mead-present-and-science-metaphor-defence, reason: "McIntosh的量子时间性——同一年代对IR保守时间观的另一条批评"}
+  - {id: 20260715-0019, reason: "旧卡；本卡是展开之一"}
+  - {id: 20260715-0017, reason: "Hom的时机理论——时间被制造与被控制的政治面"}
+  - {id: 20260715-0018, reason: "Hom的'时间转向'四陷阱——本文正是在'只批判不建构'处提出欲望作为解法"}
+  - {id: 20260926-0036, reason: "McIntosh的量子时间性——同一年代对IR保守时间观的另一条批评"}
 voice_passed: true
 aliases: ["多重冲突的时间性", "对Berenskoetter未来性的修正", "欲望作为冲突时间性的绑结点"]
 ---

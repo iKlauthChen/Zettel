@@ -5,9 +5,9 @@ created: 2026-07-01T18:35:00+0800
 source: {type: books, ref: "布赞汉森《国际安全研究的演化》；布赞维夫《地区安全复合体与国际安全结构》"}
 tags: [布赞, 安全研究, 认识论, 安全化, 地区安全复合体, 谱系, 哥本哈根学派]
 links:
-  - {id: 20260701-0006-zhangyu-feng-security-postulates, reason: "张宇燕安全假定——与布赞安全概念谱系对话"}
-  - {id: 20260701-0017-chu-zhaogen-security-redefinition, reason: "储昭根安全再定义——布赞安全理论的扩展响应"}
-  - {id: 20260624-0102-shi-security-philosophical-paradigms-card1-core, reason: "时殷弘安全哲理范式——与布赞的安全概念三组框架互补"}
+  - {id: 20260701-0006, reason: "张宇燕安全假定——与布赞安全概念谱系对话"}
+  - {id: 20260701-0017, reason: "储昭根安全再定义——布赞安全理论的扩展响应"}
+  - {id: 20260624-0102, reason: "时殷弘安全哲理范式——与布赞的安全概念三组框架互补"}
 voice_passed: true
 aliases: ["国际安全研究的概念与谱系", "安全研究的11学派"]
 ---

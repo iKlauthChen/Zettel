@@ -5,9 +5,9 @@ created: 2026-07-01T17:30:00+0800
 source: {type: multiple, ref: "刘丰(2017); 叶海林(2017); 高程(2017); 姜鹏(2018)"}
 tags: [战略透支, 过度扩张, 腓力陷阱, 资源匹配, 海陆复合]
 links:
-  - {id: 20260701-0008-yang-yuan-rise-concede-or-confront, reason: "杨原鹰鸽策略——战略透支是策略选择的供给侧约束"}
-  - {id: 20260701-0014-grand-strategy-theory-basics, reason: "大战略理论——战略透支是目的-手段失衡的极端形式"}
-  - {id: 20260624-0032-jiang-land-sea-strategy-card3-bridge, reason: "姜鹏海陆复合战略——腓力陷阱是对海陆复合型大国的特定风险"}
+  - {id: 20260701-0008, reason: "杨原鹰鸽策略——战略透支是策略选择的供给侧约束"}
+  - {id: 20260701-0014, reason: "大战略理论——战略透支是目的-手段失衡的极端形式"}
+  - {id: 20260624-0032, reason: "姜鹏海陆复合战略——腓力陷阱是对海陆复合型大国的特定风险"}
 voice_passed: true
 aliases: ["战略透支的概念与类型", "战略透支系列"]
 ---

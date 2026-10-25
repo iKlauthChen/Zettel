@@ -5,7 +5,7 @@ created: 2026-07-15T13:20:00+0800
 source: {type: article, ref: "Mälksoo, Maria. 'A ritual approach to deterrence: I am, therefore I deter.' European Journal of International Relations 27.4 (2021): 961–988."}
 tags: [威慑, 仪式, 述行性, 本体论安全, 身份, 战略实践]
 links:
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——仪式威慑是例行化的一个变体：'威慑即身份'"}
+  - {id: 20260713-0003, reason: "Mitzen的OSS——仪式威慑是例行化的一个变体：'威慑即身份'"}
 voice_passed: true
 aliases: ["Mälksoo 2021 ritual deterrence", "我威慑故我在"]
 ---

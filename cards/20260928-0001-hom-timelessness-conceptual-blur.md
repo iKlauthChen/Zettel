@@ -5,9 +5,9 @@ created: 2026-09-28T11:54:24+0800
 source: {type: article, ref: "Hom, Andrew R. 'Silent Order: The Temporal Turn in Critical International Relations.' Millennium: Journal of International Studies 46.3 (2018): 303–330. doi:10.1177/0305829818771349. 本地 PDF 为 Edinburgh Research Explorer 的同行评审版本，正文页码 1–30。", page: "同行评审版本 pp. 4–8"}
 tags: [时间, 时间性, 批判IR, 方法论, 概念分析]
 links:
-  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "本文总卡：本卡展开'无时间性'指控的概念批判"}
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的timing方案将抽象时间判断改写为具体定时实践，与本文的概念澄清相接"}
-  - {id: 20260928-0002-hom-linearity-binary-heterolinearity, reason: "并读：对'线性时间'的笼统指控与对'无时间'的笼统指控共享概念混同问题"}
+  - {id: 20260715-0018, reason: "本文总卡：本卡展开'无时间性'指控的概念批判"}
+  - {id: 20260715-0017, reason: "Hom的timing方案将抽象时间判断改写为具体定时实践，与本文的概念澄清相接"}
+  - {id: 20260928-0002, reason: "并读：对'线性时间'的笼统指控与对'无时间'的笼统指控共享概念混同问题"}
 voice_passed: true
 aliases: ["无时间性指控混合了不同问题", "timelessness不是单一分析概念"]
 ---

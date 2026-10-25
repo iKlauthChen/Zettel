@@ -5,11 +5,11 @@ created: 2026-07-01T14:30:00+0800
 source: {type: book, ref: "罗伯特·杰维斯《系统效应：政治与社会生活中的复杂性》第五章", page: ""}
 tags: [杰维斯, 系统效应, 结构分析, 两极, 多极, 同盟困境, 认知, 结构边界]
 links:
-  - {id: 20260624-0143-yang-complex-system-card1-core-thesis, reason: "杨思灵复合系统论同样从系统论出发但强调多层级嵌套"}
-  - {id: 20260624-0116-tang-social-evolution-card1-core-thesis, reason: "唐世平'从米尔斯海默到杰维斯'——杰维斯世界是防御性现实主义世界"}
+  - {id: 20260624-0143, reason: "杨思灵复合系统论同样从系统论出发但强调多层级嵌套"}
+  - {id: 20260624-0116, reason: "唐世平'从米尔斯海默到杰维斯'——杰维斯世界是防御性现实主义世界"}
   - {id: 20260624-0019-tang-system-security-card4-structure-tech-nontraditional, reason: "唐世平'结构制约但不决定'与杰维斯的结构边界一致"}
-  - {id: 20260624-0042-liu-micro-events-card4-complexity-implications, reason: "刘慧'结构设定可能性空间+微观事件决定实际路径'——结构边界的另一种表达"}
-  - {id: 20260624-0070-original-batch2-geoposition-security-perception, reason: "安全感知的双重来源——杰维斯错误知觉理论在战略分析中的具体化"}
+  - {id: 20260624-0042, reason: "刘慧'结构设定可能性空间+微观事件决定实际路径'——结构边界的另一种表达"}
+  - {id: 20260624-0070, reason: "安全感知的双重来源——杰维斯错误知觉理论在战略分析中的具体化"}
 voice_passed: true
 aliases: ["杰维斯论结构分析的边界", "System Effects 第五章核心论题"]
 ---

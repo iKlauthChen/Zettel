@@ -5,9 +5,9 @@ created: 2026-10-07T12:37:06+0800
 source: {type: book, ref: "Deleuze，《褶子：莱布尼茨与巴洛克风格》，1988；杨洁译修订本，上海人民出版社，2021", page: "P170、P175-177、P203"}
 tags: [德勒兹, Leibniz, fold, virtual-actual, monad, body]
 links:
-  - {id: 20260805-0006-fold-inter-dimensional-not-plus-one, reason: "该卡讨论褶间与层间关系——本卡说明世界在灵魂与身体中的两种实现方式"}
-  - {id: 20260805-0005-fold-duration-bergson-leibniz, reason: "褶子与绵延的时间关系——本卡补充世界双重折叠的本体论层次"}
-  - {id: 20261007-0009-fold-monad-body-levels, reason: "世界的身体实现依赖身体及其派生力的层级结构"}
+  - {id: 20260805-0006, reason: "该卡讨论褶间与层间关系——本卡说明世界在灵魂与身体中的两种实现方式"}
+  - {id: 20260805-0005, reason: "褶子与绵延的时间关系——本卡补充世界双重折叠的本体论层次"}
+  - {id: 20261007-0009, reason: "世界的身体实现依赖身体及其派生力的层级结构"}
 voice_passed: true
 aliases: ["世界在灵魂中现实化，在身体中实现"]
 ---

@@ -5,9 +5,9 @@ created: 2026-07-01T20:05:00+0800
 source: {type: book, ref: "Richard Ned Lebow《国家为何而战》"}
 tags: [战争, 地位, 恐惧, 复仇, 利益, 动机, 文化, Lebow]
 links:
-  - {id: 20260701-0008-yang-yuan-rise-concede-or-confront, reason: "杨原重视荣誉与地位作为竞争动机——与Lebow共享对安全困境的修正"}
-  - {id: 20260716-0049-Lebow2005-power-persuasion-justice, reason: "Lebow2005权力说服正义——同一作者权力概念的希腊重构"}
-  - {id: 20260701-0028-tang-shiping-social-evolution-key-concepts, reason: "唐世平征服难度增大→战争性质转变——与Lebow的利益驱动力减弱呼应"}
+  - {id: 20260701-0008, reason: "杨原重视荣誉与地位作为竞争动机——与Lebow共享对安全困境的修正"}
+  - {id: 20260716-0049, reason: "Lebow2005权力说服正义——同一作者权力概念的希腊重构"}
+  - {id: 20260701-0028, reason: "唐世平征服难度增大→战争性质转变——与Lebow的利益驱动力减弱呼应"}
 voice_passed: true
 aliases: ["Lebow why nations fight", "战争的四种动机"]
 ---

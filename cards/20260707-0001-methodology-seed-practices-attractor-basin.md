@@ -2,14 +2,14 @@
 id: 20260707-0001-methodology-seed-practices-attractor-basin
 status: permanent
 created: 2026-07-07T13:30:00+0800
-source: {type: synthetic, ref: "Synthesis: 吸引子盆地合成 draft × 剩余安全卡组 × Bonta/Protevi attractor cards"}
+source: {type: multiple, ref: "Synthesis: 吸引子盆地合成 draft × 剩余安全卡组 × Bonta/Protevi attractor cards"}
 tags: [methodology, attractor-basin, seed-practice, experimental-ontology, surplus-security, operation]
 links:
-  - {id: 20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧, reason: "虚空(本体论基础)+吸引子(机制论)——双重视角为方法选择提供标准"}
-  - {id: 20260703-0022-sustainable-alternative-attractor-bridge, reason: "替代秩序吸引子桥接卡——缺口定位为方法论需求"}
-  - {id: 20260623-2202-复杂空间的地理学, reason: "奥兰乔复杂空间——多尺度吸引子交织的实证案例"}
-  - {id: 20260626-1246-蜂群战术非线性分形去中心化战斗, reason: "蜂群战术——去中心化实践作为吸引子种子点的候选特征"}
-  - {id: 20260621-0443-涌现系统的互反因果性下向因果约束局部与上向因果产生全局秩序, reason: "互反因果性——上向/下向因果作为种子点筛选的判断标准"}
+  - {id: 20260621-0494, reason: "虚空(本体论基础)+吸引子(机制论)——双重视角为方法选择提供标准"}
+  - {id: 20260703-0022, reason: "替代秩序吸引子桥接卡——缺口定位为方法论需求"}
+  - {id: 20260623-2202, reason: "奥兰乔复杂空间——多尺度吸引子交织的实证案例"}
+  - {id: 20260626-1246, reason: "蜂群战术——去中心化实践作为吸引子种子点的候选特征"}
+  - {id: 20260621-0443, reason: "互反因果性——上向/下向因果作为种子点筛选的判断标准"}
 voice_passed: true
 aliases: ["局部实践种子点的系统识别方法"]
 ---

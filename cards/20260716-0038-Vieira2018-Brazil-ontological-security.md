@@ -5,10 +5,10 @@ created: 2026-07-17T00:10:00+0800
 source: {type: article, ref: "Vieira, Marco. '(Re-)imagining the \"Self\" of Ontological Security: The Case of Brazil's Ambivalent Postcolonial Subjectivity.' Millennium: Journal of International Studies 46.2 (2018): 142–164."}
 tags: [本体论安全, 巴西, 后殖民, 主体性, 自我, 想象力]
 links:
-  - {id: 20260716-0030-To2024-anxious-state-closure, reason: "To的焦虑国家——共享后殖民国家的不可封闭性:巴西也有其自身的'焦虑'形式"}
-  - {id: 20260714-0005-Bilgic-Pilcher2023-postcolonial-status-anxiety, reason: "Bilgic-Pilcher的后殖民地位焦虑——巴西是另一个后殖民地位焦虑的经验案例"}
-  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle的幻象OS——OS通过'想象自我'的幻象来管理不安——巴西的案例"}
-  - {id: 20260715-0016-Biegon2026-imaginary-turn, reason: "Biegon的想象转向——本文直接操作了Biegon说的'安全想象'分析和经验化"}
+  - {id: 20260716-0030, reason: "To的焦虑国家——共享后殖民国家的不可封闭性:巴西也有其自身的'焦虑'形式"}
+  - {id: 20260714-0005, reason: "Bilgic-Pilcher的后殖民地位焦虑——巴西是另一个后殖民地位焦虑的经验案例"}
+  - {id: 20260715-0001, reason: "Eberle的幻象OS——OS通过'想象自我'的幻象来管理不安——巴西的案例"}
+  - {id: 20260715-0016, reason: "Biegon的想象转向——本文直接操作了Biegon说的'安全想象'分析和经验化"}
 voice_passed: true
 aliases: ["Vieira 2018 Brazil ontological security", "巴西的后殖民主体性——本体论安全的双重想象"]
 ---

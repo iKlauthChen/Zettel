@@ -5,9 +5,9 @@ created: 2026-07-01T18:05:00+0800
 source: {type: multiple, ref: "唐世平王凯杨珊(2013); 曾亚勇(2015)"}
 tags: [系统效应, 分析框架, 中苏分裂, 直接间接, 意图性, 滞后, 曾亚勇]
 links:
-  - {id: 20260701-0001-jervis-system-effects-structure-boundary, reason: "杰维斯结构边界——应用框架的操作化弥补了结构分析静态性"}
-  - {id: 20260701-0019-jervis-system-effects-core-mechanisms, reason: "杰维斯核心概念——应用框架是这些概念在案例中的展开"}
-  - {id: 20260624-0116-tang-social-evolution-card1-core-thesis, reason: "唐世平国际政治的社会进化——同一作者的另一系统论贡献"}
+  - {id: 20260701-0001, reason: "杰维斯结构边界——应用框架的操作化弥补了结构分析静态性"}
+  - {id: 20260701-0019, reason: "杰维斯核心概念——应用框架是这些概念在案例中的展开"}
+  - {id: 20260624-0116, reason: "唐世平国际政治的社会进化——同一作者的另一系统论贡献"}
 voice_passed: true
 aliases: ["系统效应分析框架", "唐世平应用系统效应", "曾亚勇系统效应三价值"]
 ---

@@ -5,11 +5,11 @@ created: 2026-09-26T00:36:53+0800
 source: {type: article, ref: "Jackson, Patrick Thaddeus, and Daniel H. Nexon. 'Reclaiming the social: relationalism in anglophone international studies.' Cambridge Review of International Affairs 32.5 (2019): 582–600.", page: "584, 596"}
 tags: [relationalism, 关系主义, 中国IR, 关系形态, repertoire, 学科对话, 全球国际关系]
 links:
-  - {id: 20260622-0076-wang-meng-time-space-world-politics-methodology, reason: "中国IR关系理论以'关系性'置换'个体性'为元假设——本卡判其为另一条争论轴"}
-  - {id: 20260624-0116-tang-social-evolution-card1-core-thesis, reason: "唐世平社会演化论——中国IR理论化的另一条路径"}
-  - {id: 20260624-0131-tang-yongsheng-grand-strategy-card6-bridge, reason: "唐世平大战略桥接卡：和合战略文化与多元治理的理论综合"}
-  - {id: 20260714-0009-Barnett-Zarakol2023-essentialism-trap, reason: "关系主义＋全球史作为全球IR的出路——同一次对话的另一议程"}
-  - {id: 20260926-0002-jackson-nexon-fractal-position-process, reason: "先有位置/过程的坐标，才有'中国争点在别处'这一判断是否成立的问题"}
+  - {id: 20260622-0076, reason: "中国IR关系理论以'关系性'置换'个体性'为元假设——本卡判其为另一条争论轴"}
+  - {id: 20260624-0116, reason: "唐世平社会演化论——中国IR理论化的另一条路径"}
+  - {id: 20260624-0131, reason: "唐世平大战略桥接卡：和合战略文化与多元治理的理论综合"}
+  - {id: 20260714-0009, reason: "关系主义＋全球史作为全球IR的出路——同一次对话的另一议程"}
+  - {id: 20260926-0002, reason: "先有位置/过程的坐标，才有'中国争点在别处'这一判断是否成立的问题"}
 voice_passed: true
 aliases: ["中英关系主义对话的错位：争点从位置/过程转向关系形态"]
 ---

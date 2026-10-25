@@ -5,12 +5,12 @@ created: 2026-07-13T11:00:00+0800
 source: {type: article, ref: "Mitzen, Jennifer. 'Ontological Security in World Politics: State Identity and the Security Dilemma.' European Journal of International Relations 12.3 (2006): 341–370."}
 tags: [本体论安全, 安全困境, 身份, 例行化, 依附, 国际关系理论]
 links:
-  - {id: 20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话, reason: "Steele的本体论安全经典——对Mitzen框架的国家层面深化"}
-  - {id: 20260714-0007-Gellwitzki-Houde2023-German-EU-myth, reason: "Gellwitzki-Houde德国EU神话——例行化的无意识幻想维度"}
-  - {id: 20260715-0015-Malksoo2026-ritual-logic-IR, reason: "Mälksoo仪式行动——仪式作为例行化的高级形式"}
-  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的拉康式对象a——对Mitzen的Giddens范式构成拉康式批判"}
-  - {id: 20260622-0039-秦立志论大国博弈的螺旋模式安全困境的时空维度和有限理性, reason: "安全困境螺旋——Mitzen的论证：国家可能不想摆脱困境，因为例行化提供安全感"}
-  - {id: 20260703-0022-sustainable-alternative-attractor-bridge, reason: "替代秩序桥接卡——Mitzen的'国家不想摆脱安全困境'与剩余安全的等价形式固有化对接"}
+  - {id: 20260622-0035, reason: "Steele的本体论安全经典——对Mitzen框架的国家层面深化"}
+  - {id: 20260714-0007, reason: "Gellwitzki-Houde德国EU神话——例行化的无意识幻想维度"}
+  - {id: 20260715-0015, reason: "Mälksoo仪式行动——仪式作为例行化的高级形式"}
+  - {id: 20260713-0002, reason: "Vulović-Ejdus的拉康式对象a——对Mitzen的Giddens范式构成拉康式批判"}
+  - {id: 20260622-0039, reason: "安全困境螺旋——Mitzen的论证：国家可能不想摆脱困境，因为例行化提供安全感"}
+  - {id: 20260703-0022, reason: "替代秩序桥接卡——Mitzen的'国家不想摆脱安全困境'与剩余安全的等价形式固有化对接"}
 voice_passed: true
 aliases: ["Mitzen 2006 ontological security routines", "本体论安全起源于IR——例行化与安全困境"]
 ---

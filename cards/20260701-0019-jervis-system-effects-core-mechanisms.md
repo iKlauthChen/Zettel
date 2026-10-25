@@ -5,8 +5,8 @@ created: 2026-07-01T18:00:00+0800
 source: {type: book, ref: "罗伯特·杰维斯《系统效应：政治与社会生活中的复杂性》"}
 tags: [杰维斯, 系统效应, 正反馈, 负反馈, 互动, 多米诺, 均势]
 links:
-  - {id: 20260701-0001-jervis-system-effects-structure-boundary, reason: "同一本书第五章的结构边界——与核心机制互补"}
-  - {id: 20260701-0020-system-effects-application-framework, reason: "唐世平与曾亚勇对系统效应理论的应用与扩展"}
+  - {id: 20260701-0001, reason: "同一本书第五章的结构边界——与核心机制互补"}
+  - {id: 20260701-0020, reason: "唐世平与曾亚勇对系统效应理论的应用与扩展"}
 voice_passed: true
 aliases: ["杰维斯系统效应的核心机制", "反馈与互动类型"]
 ---

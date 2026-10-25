@@ -5,9 +5,9 @@ created: 2026-07-16T23:00:00+0800
 source: {type: article, ref: "Niang, Amy. 'Space and the Geopolitical.' Millennium: Journal of International Studies 51.1 (2022): 284–304."}
 tags: [空间, 地缘政治, 萨赫勒, 干预, 反恐战争, 制图, 去殖民]
 links:
-  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "Bonta-Protevi的地球哲学——Niang从去殖民角度补充了'什么是空间'的政治性"}
-  - {id: 20260716-0003-Mutabdzija2022-Balkan-geophilosophy, reason: "Mutabdžija的巴尔干——共享的空间多重性:巴尔干层叠↔萨赫勒的多重重叠空间"}
-  - {id: 20260715-0012-Markland2026-provincialising-ontological-insecurity, reason: "Markland的去地方化——Niang的去殖民空间批判 = OSS去地方化的空间版本"}
+  - {id: 20260621-0453, reason: "Bonta-Protevi的地球哲学——Niang从去殖民角度补充了'什么是空间'的政治性"}
+  - {id: 20260716-0003, reason: "Mutabdžija的巴尔干——共享的空间多重性:巴尔干层叠↔萨赫勒的多重重叠空间"}
+  - {id: 20260715-0012, reason: "Markland的去地方化——Niang的去殖民空间批判 = OSS去地方化的空间版本"}
 voice_passed: true
 aliases: ["Niang 2022 space geopolitical", "空间的去殖民——萨赫勒的替代空间观"]
 ---

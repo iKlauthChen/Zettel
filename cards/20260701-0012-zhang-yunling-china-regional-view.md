@@ -5,8 +5,8 @@ created: 2026-07-01T17:15:00+0800
 source: {type: article, ref: "张蕴岭. 中国的周边区域观回归与新秩序构建[J]. 世界经济与政治, 2015(01): 5-25+155."}
 tags: [中国周边, 区域观, 东亚, 命运共同体, 张蕴岭]
 links:
-  - {id: 20260701-0007-liu-xuelian-china-periphery-school, reason: "刘雪莲周边学三种类型——张蕴岭的'命运与共'对应第三种类型"}
-  - {id: 20260701-0011-tang-shiping-international-order-change, reason: "唐世平秩序变迁的'地区优先'路径——张蕴岭的具体化"}
+  - {id: 20260701-0007, reason: "刘雪莲周边学三种类型——张蕴岭的'命运与共'对应第三种类型"}
+  - {id: 20260701-0011, reason: "唐世平秩序变迁的'地区优先'路径——张蕴岭的具体化"}
 voice_passed: true
 aliases: ["中国的区域观回归", "张蕴岭2015"]
 ---

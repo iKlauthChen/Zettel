@@ -2,17 +2,17 @@
 id: 20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation
 status: permanent
 created: 2026-07-24T09:30:00+0800
-source: {type: preprint, ref: "Deng, Hani & Ma (2025). Hilbert's sixth problem: derivation of fluid equations via Boltzmann's kinetic theory. arXiv:2503.01800"}
+source: {type: article, ref: "Deng, Hani & Ma (2025). Hilbert's sixth problem: derivation of fluid equations via Boltzmann's kinetic theory. arXiv:2503.01800"}
 tags: [hilbert-sixth-problem, deng-yu, emergence, mediation, irreducibility, complexity-theory, scale-separation, paradigm-innovation, 千高原, 微观, 德勒兹-加塔利, 剩余安全]
 links:
-  - {id: 20260621-0449-复杂性理论不是混沌理论它涉及本体论承诺而非仅认识论建模, reason: "Deng-Hani-Ma的双层极限为复杂性理论的本体论承诺（涌现结构是真实特征）提供了来自纯粹物理学的精确实例——中介层次不仅有认识论价值，而且是本体论上不可还原的"}
-  - {id: 20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧, reason: "Deng的迭代极限为'如何涌现'提供了严格数学版本——涌现不是隐喻，而是有精确极限条件的层次过渡"}
-  - {id: 20260620-1544-德勒兹的两种时间模式, reason: "双层极限中动理学层次作为中介，对应德勒兹Aion/Chronos之间的中间域——既不属于纯粹事件时间也不属于物体运动时间，而是两者转换的操作平台"}
-  - {id: 20260622-1523-星丛的核心机制是共存与中介, reason: "星丛的'并列元素通过中介共存'与Deng-Hani-Ma的'层次通过极限耦合共存而不融合'共享非还原的中介本体论"}
-  - {id: 20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化, reason: "可朽计算作为嵌入基质的不可迁移过程，与Deng-Hani-Ma中动理学层次在特定条件下的涌现共享'不可跳过中介'的结构逻辑"}
-  - {id: 20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos, reason: "姊妹卡——时间箭头涌现（Aion/Chronos）与中介不可还原互为表里；本卡补充5给出其判断4'第三个要素'的政治名字（配置/共振）"}
-  - {id: 20260722-0001-晶体时间耐久性悖论不可保持与不可切换, reason: "晶体时间耐久性悖论——不可保持/不可切换与中介不可跳过共享'结构不能被持有'的时间本体论；晶体=不可保持的涌现，邓煜=不可跳过的中介"}
-  - {id: 20260722-0002-能但不执法晶体的实践入口, reason: "能但不执法——承认不可保持后的操作态度：'一次一次建设'的时间侧实践入口"}
+  - {id: 20260621-0449, reason: "Deng-Hani-Ma的双层极限为复杂性理论的本体论承诺（涌现结构是真实特征）提供了来自纯粹物理学的精确实例——中介层次不仅有认识论价值，而且是本体论上不可还原的"}
+  - {id: 20260621-0494, reason: "Deng的迭代极限为'如何涌现'提供了严格数学版本——涌现不是隐喻，而是有精确极限条件的层次过渡"}
+  - {id: 20260620-1544, reason: "双层极限中动理学层次作为中介，对应德勒兹Aion/Chronos之间的中间域——既不属于纯粹事件时间也不属于物体运动时间，而是两者转换的操作平台"}
+  - {id: 20260622-1523, reason: "星丛的'并列元素通过中介共存'与Deng-Hani-Ma的'层次通过极限耦合共存而不融合'共享非还原的中介本体论"}
+  - {id: 20260622-0026, reason: "可朽计算作为嵌入基质的不可迁移过程，与Deng-Hani-Ma中动理学层次在特定条件下的涌现共享'不可跳过中介'的结构逻辑"}
+  - {id: 20260724-0002, reason: "姊妹卡——时间箭头涌现（Aion/Chronos）与中介不可还原互为表里；本卡补充5给出其判断4'第三个要素'的政治名字（配置/共振）"}
+  - {id: 20260722-0001, reason: "晶体时间耐久性悖论——不可保持/不可切换与中介不可跳过共享'结构不能被持有'的时间本体论；晶体=不可保持的涌现，邓煜=不可跳过的中介"}
+  - {id: 20260722-0002, reason: "能但不执法——承认不可保持后的操作态度：'一次一次建设'的时间侧实践入口"}
 voice_passed: true
 aliases: ["Deng-Hani-Ma迭代极限与中介层次不可还原性——微观不能直通宏观"]
 ---

@@ -5,10 +5,10 @@ created: 2026-09-26T01:06:54+0800
 source: {type: article, ref: "Ralph, Jason. International society as an ontological security provider: a framework for analysis. International Theory 18, no. 1 (2026): 135–157. doi:10.1017/S1752971925100146", page: "135–140, 152–153"}
 tags: [本论论安全, 英国学派, 国际社会, 多元主义, 团结主义, 拉康, 克莱因, 温尼科特, 霍耐特, 承认, 焦虑容器]
 links:
-  - {id: 20260926-0022-gellwitzki-object-relations-subject-no-presocial-self, reason: "群体既是焦虑容器又是防御提供者——Ralph的出发点，只是把层次上移到国际社会"}
-  - {id: 20260715-0004-Ku-Mitzen2022-system-trust, reason: "Ku与Mitzen的系统信任——另一条'国际社会本身提供安全'的论证"}
-  - {id: 20260624-0102-shi-security-philosophical-paradigms-card1-core, reason: "时殷弘借怀特三传统的安全哲理范式——中文IR对英国学派框架的接收"}
-  - {id: 20260701-0025-wendt-constructivist-ontology, reason: "温特的三文化——作者脚注承认与多元/团结之分有重叠"}
+  - {id: 20260926-0022, reason: "群体既是焦虑容器又是防御提供者——Ralph的出发点，只是把层次上移到国际社会"}
+  - {id: 20260715-0004, reason: "Ku与Mitzen的系统信任——另一条'国际社会本身提供安全'的论证"}
+  - {id: 20260624-0102, reason: "时殷弘借怀特三传统的安全哲理范式——中文IR对英国学派框架的接收"}
+  - {id: 20260701-0025, reason: "温特的三文化——作者脚注承认与多元/团结之分有重叠"}
 voice_passed: true
 aliases: ["国际社会作为本体论安全提供者", "桥的三条车道", "多元主义-薄团结-厚团结对应三种主体理论"]
 ---

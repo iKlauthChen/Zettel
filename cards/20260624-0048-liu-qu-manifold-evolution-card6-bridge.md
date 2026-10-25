@@ -2,7 +2,7 @@
 id: 20260624-0048-liu-qu-manifold-evolution-card6-bridge
 status: permanent
 created: 2026-06-24T14:55:10+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 流形, 德勒, 多重性, 黎曼, 20260623, ingest, 拓扑, deleuze, 外尔]
 aliases: ["liu-qu-manifold-evolution-card6-bridge"]
 ---

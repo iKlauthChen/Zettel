@@ -5,8 +5,8 @@ created: 2026-07-15T18:20:00+0800
 source: {type: article, ref: "Luzecky, Rob. \"Deleuze's Elaboration of Eternity: Ontogenesis and Multiplicity.\" Deleuze and Guattari Studies 16.1 (2022): 102–127."}
 tags: [德勒兹, 时间, 永恒, 艾翁, 柯罗诺斯, 多重性, 本体生成]
 links:
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——Aion是'空的时间形式'的哲学基础，补充了Hom缺失的哲学深度"}
-  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "Deleuze的虚拟/现实——Aion是虚拟的时间面，Chronos是现实化的时间"}
+  - {id: 20260715-0017, reason: "Hom的时机理论——Aion是'空的时间形式'的哲学基础，补充了Hom缺失的哲学深度"}
+  - {id: 20260621-0440, reason: "Deleuze的虚拟/现实——Aion是虚拟的时间面，Chronos是现实化的时间"}
 voice_passed: true
 aliases: ["Luzecky 2022 Deleuze eternity", "德勒兹的永恒——Aion与Chronos"]
 ---

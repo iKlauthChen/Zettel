@@ -2,7 +2,7 @@
 id: 20260624-0032-jiang-land-sea-strategy-card3-bridge
 status: permanent
 created: 2026-06-24T16:16:21+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 姜鹏, 海陆, 海权, 战略, card1, 立志, ------, 陆权, ----------]
 aliases: ["jiang-land-sea-strategy-card3-bridge"]
 ---

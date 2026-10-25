@@ -2,11 +2,11 @@
 id: 20260716-0052-Rengger2003-eternal-return-religion-IR
 status: permanent
 created: 2026-07-17T05:00:00+0800
-source: {type: review-essay, ref: "Rengger, Nicholas. 'Eternal Return? Modes of Encountering Religion in International Relations.' Millennium: Journal of International Studies 32.2 (2003): 327–336."}
+source: {type: article, ref: "Rengger, Nicholas. 'Eternal Return? Modes of Encountering Religion in International Relations.' Millennium: Journal of International Studies 32.2 (2003): 327–336."}
 tags: [宗教, IR, 神圣, 主权, 流亡, 回归]
 links:
-  - {id: 20260716-0039-Blaney-Tickner2017-worlding-decolonial, reason: "Blaney-Tickner的世界化——宗教是多元世界的一个被IR学科排斥后重新'回归'的维度"}
-  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola的去殖民大学——宗教学术化就是知识在大学中的'回归'，但与去殖民的大学问题类似：回归不是批判"}
+  - {id: 20260716-0039, reason: "Blaney-Tickner的世界化——宗教是多元世界的一个被IR学科排斥后重新'回归'的维度"}
+  - {id: 20260716-0037, reason: "Kamola的去殖民大学——宗教学术化就是知识在大学中的'回归'，但与去殖民的大学问题类似：回归不是批判"}
 voice_passed: true
 aliases: ["Rengger 2003 eternal return religion IR", "宗教在IR中的永恒回归"]
 ---

@@ -5,7 +5,7 @@ created: 2026-07-15T11:20:00+0800
 source: {type: article, ref: "Baker, Joshua. 'The Empathic Foundations of Security Dilemma De-escalation.' Political Psychology 40.6 (2019): 1251–1268."}
 tags: [安全困境, 同理心, 去升级, 认识论, 方法论]
 links:
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——同理心是本OS向的'例行化'之外的另一种减免路径"}
+  - {id: 20260713-0003, reason: "Mitzen的OSS——同理心是本OS向的'例行化'之外的另一种减免路径"}
 voice_passed: true
 aliases: ["Baker 2019 empathy security dilemma", "同理心与安全困境去升级"]
 ---

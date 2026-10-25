@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P374, P377"}
 tags: [deleuze, 差异与重复, 时间之矢, 热力学, 本体, 差异]
 links:
-  - {id: 20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos, reason: "时间之矢的涌现与 Aion/Chronos——热力学方向与德勒兹时间的对照"}
-  - {id: 20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation, reason: "中介不可跳过——从差异到现象需经过的中间层"}
-  - {id: 20260622-0067-olkowski-time-real-chaos-complexity, reason: "Olkowski：实在、混沌与复杂性中的时间"}
-  - {id: 20260716-0024-Olkowski2008-mathematical-time-limits, reason: "数学时间的界限——微分与热力学时间的分界"}
+  - {id: 20260724-0002, reason: "时间之矢的涌现与 Aion/Chronos——热力学方向与德勒兹时间的对照"}
+  - {id: 20260724-0001, reason: "中介不可跳过——从差异到现象需经过的中间层"}
+  - {id: 20260622-0067, reason: "Olkowski：实在、混沌与复杂性中的时间"}
+  - {id: 20260716-0024, reason: "数学时间的界限——微分与热力学时间的分界"}
 voice_passed: true
 aliases: ["差异是最接近现象的本体"]
 ---

@@ -1,30 +1,30 @@
 ---
 id: 20260624-ingold-ocean-straightening-bridge
 status: permanent
-created: 2026-06-24T11:20:00+08:00
+created: 2026-06-24T11:20:00+0800
 updated: 2026-06-24T11:20:00+08:00
 source:
-  type: synthesis
+  type: multiple
   ref: "Ingold, Lines (2007/2023) §§6 × 20260623-0002(海洋本体论不安全) × 20260623-0004(撤回'半平滑空间'，改写为定序外包判据) × 20260623-0003(航母本体论安全装置) × 20260620-1810(航母解域/再域化)"
 tags: [synthesis, Ingold, ocean, smooth-space, straight-line, striation, UNCLOS, baseline, ontological-security, nine-dash-line]
 entities: [Ingold, Deleuze, Le Corbusier, Leach, UNCLOS]
 links:
-  - id: 20260624-1030-现代性如何使线变直
+  - id: 20260624-1030
     relation: parent
     reason: "这是本文的核心理论资源——Ingold对直线霸权的六维批判在此被应用到海洋空间"
-  - id: 20260623-0002-海洋作为本体论不安全的空间对应在陆地条纹化叙事和海洋平滑性之间的存在焦虑
+  - id: 20260623-0002
     relation: extend
     reason: "海洋作为本体论不安全空间——本文论证直线划线是克服这种不安全的核心操作"
   - id: 20260623-0004
     relation: extend
     reason: "原'半平滑'命题已撤回（2026-10-06）——保留为划线讨论的前史：要问的是定序能否外包，而非空间是不是半平滑的"
-  - id: 20260623-0003-航母作为本体论安全装置国家的海洋大国身份叙事通过航母的物质化展演來修补
+  - id: 20260623-0003
     relation: extend
     reason: "航母作为叙事锚点的本体论功能——本文论证航母本身就是一种移动的'划线装置'"
-  - id: 20260620-1810-航母是解域化与再辖域化的同时运作
+  - id: 20260620-1810
     relation: extend
     reason: "航母解域/再域化与划线的本体论操作是同一过程的两面"
-  - id: 20260624-1040-向前生活不是向上连接
+  - id: 20260624-1040
     relation: support
     reason: "海洋划线是把'向前生活'（航行/穿行）固化为'向上连接'（边界/主权）——Ingold核心命题的海洋版本"
   - id: 20260624-ingold-deleuze-bridge

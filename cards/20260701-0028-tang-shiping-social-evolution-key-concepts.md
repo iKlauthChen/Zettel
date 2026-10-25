@@ -5,9 +5,9 @@ created: 2026-07-01T19:05:00+0800
 source: {type: book, ref: "唐世平《国际政治的社会演化》"}
 tags: [唐世平, 社会演化, 变异选择遗传, 进攻性现实主义, 防御性现实主义, 和平制度化]
 links:
-  - {id: 20260624-0116-tang-social-evolution-card1-core-thesis, reason: "唐世平2009从米尔斯海默到杰维斯——社会演化理论的先驱论文"}
-  - {id: 20260701-0011-tang-shiping-international-order-change, reason: "唐世平2019国际秩序变迁——社会演化框架在当代的应用"}
-  - {id: 20260701-0015-strategic-overextension-analysis, reason: "战略透支——社会演化中征服难度增大导致扩张不可持续"}
+  - {id: 20260624-0116, reason: "唐世平2009从米尔斯海默到杰维斯——社会演化理论的先驱论文"}
+  - {id: 20260701-0011, reason: "唐世平2019国际秩序变迁——社会演化框架在当代的应用"}
+  - {id: 20260701-0015, reason: "战略透支——社会演化中征服难度增大导致扩张不可持续"}
 voice_passed: true
 aliases: ["国际政治的社会演化核心概念", "Tang social evolution"]
 ---

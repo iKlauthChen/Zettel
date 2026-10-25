@@ -5,9 +5,9 @@ created: 2026-07-03T14:25:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, pp.10-11."}
 tags: [CSIS, trade, chokepoint, strait, maritime, security, geopolitics]
 links:
-  - {id: 20260622-0060-hu-bo-chen-grey-zone-strategy, reason: "灰色地带竞争——全球南方对马六甲的高度依赖使其在南海争端中有重大但被忽视的利益"}
-  - {id: 20260624-0124-tang-system-security-card5-system-properties, reason: "系统安全——全球南方的依赖制造了系统性脆弱——外部冲击远超本地控制"}
-  - {id: 20260703-0001-hart2026-scs-trade-overview, reason: "总览卡——本卡揭示全球宏观数字掩盖的国别差异"}
+  - {id: 20260622-0060, reason: "灰色地带竞争——全球南方对马六甲的高度依赖使其在南海争端中有重大但被忽视的利益"}
+  - {id: 20260624-0124, reason: "系统安全——全球南方的依赖制造了系统性脆弱——外部冲击远超本地控制"}
+  - {id: 20260703-0001, reason: "总览卡——本卡揭示全球宏观数字掩盖的国别差异"}
 voice_passed: true
 aliases: ["全球南方对马六甲海峡的深度依赖"]
 ---

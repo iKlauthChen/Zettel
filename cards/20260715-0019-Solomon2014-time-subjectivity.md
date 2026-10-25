@@ -5,13 +5,13 @@ created: 2026-07-15T17:00:00+0800
 source: {type: article, ref: "Solomon, Ty. 'Time and Subjectivity in World Politics.' International Studies Quarterly 58.4 (2014): 671–681. doi:10.1111/isqu.12091", page: "671–681"}
 tags: [时间, 主体性, 欲望, 精神分析, 话语, 反恐战争, 拉康, 回退性]
 links:
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——Solomon是时间-主体性连接的前辈"}
-  - {id: 20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo, reason: "Zevnik的症候与幻象——共同将精神分析时间概念嵌入IR"}
-  - {id: 20260926-0040-solomon-retroactivity-button-ties-master-signifier, reason: "展开卡：回退性、纽结与主人能指"}
-  - {id: 20260926-0041-solomon-temporal-decentering-future-anterior-lack, reason: "展开卡：时间性去中心化与'我将一直已是'"}
-  - {id: 20260926-0042-solomon-origin-fantasy-nation-thing-enjoyment, reason: "展开卡：起源的幻象与民族之物"}
-  - {id: 20260926-0043-solomon-multiple-conflicting-temporalities-vs-futurity, reason: "展开卡：多重冲突时间性对既有IR时间研究的修正"}
-  - {id: 20260926-0044-solomon-war-on-terror-bush-speech-lost-object, reason: "展开卡：9/11与布什演讲的经验分析"}
+  - {id: 20260715-0017, reason: "Hom的时机理论——Solomon是时间-主体性连接的前辈"}
+  - {id: 20260703-0019, reason: "Zevnik的症候与幻象——共同将精神分析时间概念嵌入IR"}
+  - {id: 20260926-0040, reason: "展开卡：回退性、纽结与主人能指"}
+  - {id: 20260926-0041, reason: "展开卡：时间性去中心化与'我将一直已是'"}
+  - {id: 20260926-0042, reason: "展开卡：起源的幻象与民族之物"}
+  - {id: 20260926-0043, reason: "展开卡：多重冲突时间性对既有IR时间研究的修正"}
+  - {id: 20260926-0044, reason: "展开卡：9/11与布什演讲的经验分析"}
 voice_passed: true
 aliases: ["Solomon 2014 time subjectivity", "时间与主体性——回退性、欲望与集体主体的建构"]
 ---

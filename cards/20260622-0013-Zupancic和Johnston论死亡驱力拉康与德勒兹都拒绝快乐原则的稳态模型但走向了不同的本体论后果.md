@@ -1,14 +1,14 @@
 ---
 id: 20260622-0013-Zupancic和Johnston论死亡驱力拉康与德勒兹都拒绝快乐原则的稳态模型但走向了不同的本体论后果
 status: permanent
-created: 2026-06-22T12:10:00Z
+created: 2026-06-22T12:10:00+0800
 source: {type: book, ref: "Zupančič, A. 'The Death Drive'; Johnston, A. 'Repetition and Difference'; in Nedoh & Zevnik (eds) (2017). Lacan and Deleuze: A Disjunctive Synthesis."}
 tags: [zupančič, johnston, death-drive, lacan, deleuze, repetition, univocity, surplus-pleasure, beyond-pp]
 links:
-  - {id: 20260622-0011-析取综合NedohZevnik论拉康与德勒兹既不可调和也不可分离的悖论性关系, reason: "死亡驱力的不同本体论后果是析取综合在主体论层面的具体展现"}
-  - {id: 20260622-0012-巴洛克结构主义Tomšič和Chiesa论拉康和德勒兹在拓扑学层面从缺乏转向虚空的汇合, reason: "从缺乏到虚空的位移在死亡驱力层面转化为'快感盈余'(拉康)vs'无限重复'(德勒兹)的对峙"}
-  - {id: 20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略, reason: "剩余快感与虚空——死亡驱力的盈余逻辑与虚空作为肯定性基底的张力"}
-  - {id: 20260621-0481-剩余快感不是快感的剩余而是通过认同和接受象征秩序所获得的痛苦欢乐, reason: "剩余快感作为死亡驱力的主体性效应——屠夫妻子和阿Q画押的驱力结构"}
+  - {id: 20260622-0011, reason: "死亡驱力的不同本体论后果是析取综合在主体论层面的具体展现"}
+  - {id: 20260622-0012, reason: "从缺乏到虚空的位移在死亡驱力层面转化为'快感盈余'(拉康)vs'无限重复'(德勒兹)的对峙"}
+  - {id: 20260621-0495, reason: "剩余快感与虚空——死亡驱力的盈余逻辑与虚空作为肯定性基底的张力"}
+  - {id: 20260621-0481, reason: "剩余快感作为死亡驱力的主体性效应——屠夫妻子和阿Q画押的驱力结构"}
 voice_passed: true
 ---
 

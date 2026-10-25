@@ -5,11 +5,11 @@ created: 2026-09-26T00:36:53+0800
 source: {type: article, ref: "Jackson, Patrick Thaddeus, and Daniel H. Nexon. 'Reclaiming the social: relationalism in anglophone international studies.' Cambridge Review of International Affairs 32.5 (2019): 582–600.", page: "583–585"}
 tags: [relationalism, 关系主义, IR-theory, ontology, 温特, 分析原初项, wagers]
 links:
-  - {id: 20260716-0013-Thiele2016-immanence-becoming, reason: "Thiele的'非关系性关系'——是否预设关系两端项的不同立场"}
-  - {id: 20260701-0025-wendt-constructivist-ontology, reason: "温特两轴（个体-整体、物质-观念）是本文定位关系主义的坐标系"}
-  - {id: 20260714-0009-Barnett-Zarakol2023-essentialism-trap, reason: "Barnett-Zarakol以关系主义逃离本质主义陷阱——同一路线的另一入口"}
-  - {id: 20260713-0001-duree-vs-assemblage-relation-set, reason: "内在性关系与外在性关系的分野——关系是否构成其项"}
-  - {id: 20260926-0002-jackson-nexon-fractal-position-process, reason: "同篇论文的下一层：关系主义内部的分形分化与位置/过程之争"}
+  - {id: 20260716-0013, reason: "Thiele的'非关系性关系'——是否预设关系两端项的不同立场"}
+  - {id: 20260701-0025, reason: "温特两轴（个体-整体、物质-观念）是本文定位关系主义的坐标系"}
+  - {id: 20260714-0009, reason: "Barnett-Zarakol以关系主义逃离本质主义陷阱——同一路线的另一入口"}
+  - {id: 20260713-0001, reason: "内在性关系与外在性关系的分野——关系是否构成其项"}
+  - {id: 20260926-0002, reason: "同篇论文的下一层：关系主义内部的分形分化与位置/过程之争"}
 voice_passed: true
 aliases: ["关系主义以关系为分析原初项，介于个体主义与整体主义之间"]
 ---

@@ -5,12 +5,12 @@ created: 2026-09-14T10:09:00+0800
 source: {type: article, ref: "Smith, Daniel W. 'The Noumena of History: On the Status of Nomads in Deleuze's Thought.' IAPL 2008年会论文（会议版，Melbourne）；期刊版见 Research in Phenomenology 46.1 (2016): 81-100."}
 tags: [德勒兹, 战争机器, nomos, 游牧, 外部, 主权]
 links:
-  - {id: 20260620-1703-战争机器以创造平滑空间为目的而非以战争为, reason: "访谈版同一命题——战争机器的目标绝非战争，而是一种十分特殊的空间"}
+  - {id: 20260620-1703, reason: "访谈版同一命题——战争机器的目标绝非战争，而是一种十分特殊的空间"}
   - {id: 20260622-1610, reason: "杜梅齐尔三元主权结构——战神不可化约为主权：战争非正对象的神话侧证"}
-  - {id: 20260621-0499-战争不在主权例外中被悬置而外在于国家Colebrook以战争机器批判阿甘本, reason: "Colebrook：战争外在于国家——战争机器外在性的主权批判侧"}
-  - {id: 20260830-0131-Braidotti游牧nomos与城邦, reason: "Braidotti：nomos vs 城邦——nomos=开放空间；本卡对象论的nomos义"}
-  - {id: 20260627-0009-郑和下西洋围堵帖木儿间接路线, reason: "郑和围堵帖木儿——帖木儿把战争机器掉头反对游牧者而立起国家装置：概念的历史实例"}
-  - {id: 20260914-0001-nomads-noumena-of-history, reason: "批次内——noumena的废止事业与对象结构互补"}
+  - {id: 20260621-0499, reason: "Colebrook：战争外在于国家——战争机器外在性的主权批判侧"}
+  - {id: 20260830-0131, reason: "Braidotti：nomos vs 城邦——nomos=开放空间；本卡对象论的nomos义"}
+  - {id: 20260627-0009, reason: "郑和围堵帖木儿——帖木儿把战争机器掉头反对游牧者而立起国家装置：概念的历史实例"}
+  - {id: 20260914-0001, reason: "批次内——noumena的废止事业与对象结构互补"}
 voice_passed: true
 aliases: ["战争并非战争机器的对象：nomos、补充性对象与国家的非战争本质"]
 ---

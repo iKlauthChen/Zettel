@@ -5,9 +5,9 @@ created: 2026-07-17T06:40:00+0800
 source: {type: article, ref: "Alliez, Éric. 'Wars and Capital – after Deleuze and Guattari and Foucault.' Deleuze and Guattari Studies 18.2 (2024): 159–177."}
 tags: [德勒兹, 加塔利, 福柯, 资本, 战争, 领土, 人口]
 links:
-  - {id: 20260716-0040-Nordin-Oberg2015-targeting-ontology-war, reason: "Nordin-Öberg的战争本体论——Alliez从资本-战争的关系补充了马克思主义战争论"}
-  - {id: 20260716-0021-Choat2009-Deleuze-Marx-politicisation, reason: "Choat的Deleuze-Marx——共享的Deleuze+Marx的政治经济学入口"}
-  - {id: 20260716-0031-Johnson2024-biopolitics-liberal-war, reason: "Johnson的自由战争——资本-战争的生命政治面：'人道'编码也是资本积累的一部分"}
+  - {id: 20260716-0040, reason: "Nordin-Öberg的战争本体论——Alliez从资本-战争的关系补充了马克思主义战争论"}
+  - {id: 20260716-0021, reason: "Choat的Deleuze-Marx——共享的Deleuze+Marx的政治经济学入口"}
+  - {id: 20260716-0031, reason: "Johnson的自由战争——资本-战争的生命政治面：'人道'编码也是资本积累的一部分"}
 voice_passed: true
 aliases: ["Alliez 2024 wars capital", "战争与资本——DG与福柯之后"]
 ---

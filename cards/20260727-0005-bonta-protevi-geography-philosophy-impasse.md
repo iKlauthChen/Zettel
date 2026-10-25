@@ -5,10 +5,10 @@ created: 2026-07-27T09:50:00+0800
 source: {type: article, ref: "Bonta, Mark & John Protevi. 2004. 'Introduction.' In Deleuze and Geophilosophy: A Guide and Glossary. APERÇU extract, pp.3-7.", page: "5-6"}
 tags: [bonta, protevi, 地理学, 景观文本, 德里达, 后现代, 大陆哲学, 认知科学, 唯物主义, 全球化, 后现象学, 科学反感]
 links:
-  - {id: 20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity, reason: "导言纲领——两个困境的诊断是地球哲学项目的出发点"}
-  - {id: 20260727-0002-bonta-protevi-signs-material-trigger-mixed-semiotics, reason: "意义作为物质触发——对困境之一（景观-文本）的D&G替代方案"}
-  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "实际/强度/虚拟——欧陆哲学对科学的反感源于本体论预设的差异"}
-  - {id: 20260716-0041-Lenco2014-reintroducing-deleuze-IR, reason: "Lenco 2014 re-introducing Deleuze IR——Lenco的学规与BP对两大困境的诊断在同一理论谱系中"}
+  - {id: 20260727-0001, reason: "导言纲领——两个困境的诊断是地球哲学项目的出发点"}
+  - {id: 20260727-0002, reason: "意义作为物质触发——对困境之一（景观-文本）的D&G替代方案"}
+  - {id: 20260630-0001, reason: "实际/强度/虚拟——欧陆哲学对科学的反感源于本体论预设的差异"}
+  - {id: 20260716-0041, reason: "Lenco 2014 re-introducing Deleuze IR——Lenco的学规与BP对两大困境的诊断在同一理论谱系中"}
 voice_passed: true
 aliases: ["Bonta-Protevi对1990年代地理学与哲学困境的诊断"]
 ---

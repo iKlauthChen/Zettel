@@ -5,9 +5,9 @@ created: 2026-07-01T20:10:00+0800
 source: {type: books, ref: "西蒙《人类活动中的理性》；《情报分析心理学》"}
 tags: [西蒙, 有限理性, 决策, 情报分析, 镜像思维, 认知碎片化]
 links:
-  - {id: 20260701-0031-mearsheimer-how-states-think, reason: "Mearsheimer国家理性——西蒙的有限理性提供了认识论基础"}
-  - {id: 20260701-0023-jervis-perception-misperception-mechanisms, reason: "Jervis知觉错误——情报分析中认知偏差的理论根源"}
-  - {id: 20260701-0030-language-autonomous-shapes-reality, reason: "语言建构力——情报分析中镜像思维的符号根源"}
+  - {id: 20260701-0031, reason: "Mearsheimer国家理性——西蒙的有限理性提供了认识论基础"}
+  - {id: 20260701-0023, reason: "Jervis知觉错误——情报分析中认知偏差的理论根源"}
+  - {id: 20260701-0030, reason: "语言建构力——情报分析中镜像思维的符号根源"}
 voice_passed: true
 aliases: ["有限理性与情报分析", "Simon bounded rationality"]
 ---

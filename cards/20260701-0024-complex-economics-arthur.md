@@ -5,8 +5,8 @@ created: 2026-07-01T18:45:00+0800
 source: {type: books, ref: "布莱恩·亚瑟《复杂经济学》；阿贝斯曼《为什么需要生物学思维》"}
 tags: [复杂经济学, 非均衡, 正反馈, 路径锁定, 生物学思维, 涌现]
 links:
-  - {id: 20260701-0019-jervis-system-effects-core-mechanisms, reason: "杰维斯系统效应——复杂经济学在经济学领域的平行表达"}
-  - {id: 20260624-0039-liu-micro-events-card1-theory, reason: "刘慧将复杂系统引入IR——与复杂经济学的跨学科共鸣"}
+  - {id: 20260701-0019, reason: "杰维斯系统效应——复杂经济学在经济学领域的平行表达"}
+  - {id: 20260624-0039, reason: "刘慧将复杂系统引入IR——与复杂经济学的跨学科共鸣"}
 voice_passed: true
 aliases: ["复杂经济学的核心思想", "Arthur complex economics"]
 ---

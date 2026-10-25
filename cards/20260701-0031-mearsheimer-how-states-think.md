@@ -5,9 +5,9 @@ created: 2026-07-01T20:00:00+0800
 source: {type: book, ref: "米尔斯海默《国家如何思考：外交政策中的理性》"}
 tags: [米尔斯海默, 国家理性, 理论, 生存, 决策, 审议, 认知]
 links:
-  - {id: 20260701-0008-yang-yuan-rise-concede-or-confront, reason: "杨原预期机制——理性国家的策略选择条件"}
-  - {id: 20260701-0023-jervis-perception-misperception-mechanisms, reason: "Jervis错误知觉——理性决策的认知约束"}
-  - {id: 20260701-0033-xia-tong-bounded-rationality-decision, reason: "西蒙有限理性——Mearsheimer'理性前提承认理性局限'的认知基础"}
+  - {id: 20260701-0008, reason: "杨原预期机制——理性国家的策略选择条件"}
+  - {id: 20260701-0023, reason: "Jervis错误知觉——理性决策的认知约束"}
+  - {id: 20260701-0033, reason: "西蒙有限理性——Mearsheimer'理性前提承认理性局限'的认知基础"}
 voice_passed: true
 aliases: ["Mearsheimer How States Think", "国家理性的标准"]
 ---

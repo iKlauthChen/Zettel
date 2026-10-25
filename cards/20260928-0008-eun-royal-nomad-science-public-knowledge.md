@@ -5,11 +5,11 @@ created: 2026-09-28T12:01:18+0800
 source: {type: article, ref: "Eun, Yong-Soo. 'Calling for “IR as Becoming-Rhizomatic”.' Global Studies Quarterly 1.2 (2021): 1–12. Article ksab003. doi:10.1093/isagsq/ksab003.", page: "9–11"}
 tags: [IR, 德勒兹, 加塔利, 游牧, 公共知识分子, 知识生产]
 links:
-  - {id: 20260928-0005-eun-ir-pluralism-representational-diversity, reason: "游牧知识行动者回应学科主体与生产疆域过于封闭的问题"}
-  - {id: 20260928-0007-eun-horizontal-pedagogy-open-knowledge, reason: "横向教学及共同研究是游牧与专业知识相遇的制度场景"}
-  - {id: 20260716-0047-Biswas2007-Said-IR-theorist, reason: "Said的公共知识分子与Eun关于学科公共使命的论述构成直接对话"}
-  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola追问谁有权生产知识及大学如何再生产学科边界"}
-  - {id: 20260804-0005-tree-rhizome-dichotomy-self-handling-critiques, reason: "树—根茎批判提醒，游牧／根茎身份不能被预设为解放力量"}
+  - {id: 20260928-0005, reason: "游牧知识行动者回应学科主体与生产疆域过于封闭的问题"}
+  - {id: 20260928-0007, reason: "横向教学及共同研究是游牧与专业知识相遇的制度场景"}
+  - {id: 20260716-0047, reason: "Said的公共知识分子与Eun关于学科公共使命的论述构成直接对话"}
+  - {id: 20260716-0037, reason: "Kamola追问谁有权生产知识及大学如何再生产学科边界"}
+  - {id: 20260804-0005, reason: "树—根茎批判提醒，游牧／根茎身份不能被预设为解放力量"}
 voice_passed: true
 aliases: ["游牧科学与皇家科学应共同构成而不相互收编", "非专业知识行动者不是研究对象而是共同生产者"]
 ---

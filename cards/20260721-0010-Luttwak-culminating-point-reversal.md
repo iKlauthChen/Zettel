@@ -5,9 +5,9 @@ created: 2026-07-21T15:05:00+0800
 source: {type: book, ref: "Luttwak, Edward N. 2001. Strategy: The Logic of War and Peace. Rev. and enl. ed. Cambridge, MA: Belknap Press of Harvard University Press."}
 tags: [luttwak, culminating-point, victory-defeat, reversal, paradoxical-dynamic, strategy]
 links:
-  - {id: 20260721-0009-Luttwak-paradoxical-logic-strategy, reason: "胜利的顶点是悖论逻辑在动态形式下的核心表现——成功的内置自我毁灭机制"}
-  - {id: 20260721-0010-Luttwak-culminating-point-reversal, reason: "此卡与垂直维度卡同为Luttwak理论的两根支柱——悖论逻辑的动态形式"}
-  - {id: 20260721-0006-Biddle-three-case-studies, reason: "Biddle的Goodwood案例也可以被Luttwak描述为英军越过胜利顶点后自我削弱——Biddle的解释比Luttwak更精确"}
+  - {id: 20260721-0009, reason: "胜利的顶点是悖论逻辑在动态形式下的核心表现——成功的内置自我毁灭机制"}
+  - {id: 20260721-0010, reason: "此卡与垂直维度卡同为Luttwak理论的两根支柱——悖论逻辑的动态形式"}
+  - {id: 20260721-0006, reason: "Biddle的Goodwood案例也可以被Luttwak描述为英军越过胜利顶点后自我削弱——Biddle的解释比Luttwak更精确"}
 voice_passed: true
 aliases: ["culminating point of victory", "胜利的顶点", "reversal of opposites", "对立面逆转"]
 ---

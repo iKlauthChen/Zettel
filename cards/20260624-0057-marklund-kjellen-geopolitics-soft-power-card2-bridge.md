@@ -2,7 +2,7 @@
 id: 20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge
 status: permanent
 created: 2026-06-24T16:25:07+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, Kjell, 地缘, ------, 卡组, 德勒, 地缘政治学, ----------, 案例, 话语]
 aliases: ["marklund-kjellen-geopolitics-soft-power-card2-bridge"]
 ---

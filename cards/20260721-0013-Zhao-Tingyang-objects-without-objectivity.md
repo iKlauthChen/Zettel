@@ -1,8 +1,8 @@
 ---
 id: 20260721-0013-Zhao-Tingyang-objects-without-objectivity
 status: seedling
-created: 2026-07-21
-source: "赵汀阳，《动词的存在论》，《哲学研究》2025年第2期"
+created: 2026-07-21T00:00:00+0800
+source: {ref: 赵汀阳，《动词的存在论》，《哲学研究》2025年第2期, type: article}
 tags: [赵汀阳, 存在论, 主体性, 我思, 客体性, 动词哲学]
 links: [20260718-0001, 20260315-0001, 20260410-0001]
 ---

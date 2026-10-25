@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P97"}
 tags: [deleuze, 差异与重复, 现象学, 此地此时, 差异, 奇异性]
 links:
-  - {id: 20261010-0005-hegel-contradiction-dead-end-黑格尔矛盾的死胡同, reason: "同一对差异的吞噬"}
-  - {id: 20260623-1614-虚拟与强度, reason: "微分实在性"}
-  - {id: 20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学, reason: "空间中的奇异性"}
-  - {id: 20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性, reason: "此地的微分结构"}
+  - {id: 20261010-0005, reason: "同一对差异的吞噬"}
+  - {id: 20260623-1614, reason: "微分实在性"}
+  - {id: 20260621-0437, reason: "空间中的奇异性"}
+  - {id: 20260621-0440, reason: "此地的微分结构"}
 voice_passed: true
 aliases: ["此地与此时"]
 ---

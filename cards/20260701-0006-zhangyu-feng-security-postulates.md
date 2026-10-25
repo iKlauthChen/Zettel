@@ -5,10 +5,10 @@ created: 2026-07-01T16:45:00+0800
 source: {type: article, ref: "张宇燕, 冯维江. 新时代国家安全学论纲[J]. 中国社会科学, 2021(07): 140-162+207."}
 tags: [安全定义, 安全假定, 无政府状态, 有限理性, 元利益, 张宇燕, 冯维江]
 links:
-  - {id: 20260701-0001-jervis-system-effects-structure-boundary, reason: "杰维斯结构边界——张宇燕的安全假定构成了结构不能决定的那一半的微观基础"}
+  - {id: 20260701-0001, reason: "杰维斯结构边界——张宇燕的安全假定构成了结构不能决定的那一半的微观基础"}
   - {id: 20260624-0019-tang-system-security-card4-structure-tech-nontraditional, reason: "唐世平'结构制约但不决定'与张宇燕的有限理性假定互补"}
-  - {id: 20260624-0070-original-batch2-geoposition-security-perception, reason: "地缘位势与安全感知——安全知觉理论补充了安全假定的认知维度"}
-  - {id: 20260624-0102-shi-security-philosophical-paradigms-card1-core, reason: "时殷弘安全哲理范式——与张宇燕的安全假定形成基础层面的对话"}
+  - {id: 20260624-0070, reason: "地缘位势与安全感知——安全知觉理论补充了安全假定的认知维度"}
+  - {id: 20260624-0102, reason: "时殷弘安全哲理范式——与张宇燕的安全假定形成基础层面的对话"}
 voice_passed: true
 aliases: ["安全假定的五条基础", "张宇燕冯维江安全假定"]
 ---

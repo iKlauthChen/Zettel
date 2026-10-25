@@ -5,9 +5,9 @@ created: 2026-07-01T17:10:00+0800
 source: {type: article, ref: "唐世平. 国际秩序变迁与中国的选项[J]. 中国社会科学, 2019(03): 187-203+208."}
 tags: [国际秩序, 制度变迁, 权力集中, 制度化, 中国选项, 唐世平]
 links:
-  - {id: 20260701-0008-yang-yuan-rise-concede-or-confront, reason: "杨原的鹰鸽策略是崛起国层面的选择，唐世平的国际秩序是系统层面的选择"}
-  - {id: 20260701-0010-wang-xinying-us-china-role-evolution, reason: "美国对华认知演变——唐世平的秩序分析框架的实证情景"}
-  - {id: 20260701-0001-jervis-system-effects-structure-boundary, reason: "杰维斯系统效应——秩序变迁是系统效应的时间维度"}
+  - {id: 20260701-0008, reason: "杨原的鹰鸽策略是崛起国层面的选择，唐世平的国际秩序是系统层面的选择"}
+  - {id: 20260701-0010, reason: "美国对华认知演变——唐世平的秩序分析框架的实证情景"}
+  - {id: 20260701-0001, reason: "杰维斯系统效应——秩序变迁是系统效应的时间维度"}
 voice_passed: true
 aliases: ["国际秩序的四维评估框架", "唐世平2019"]
 ---

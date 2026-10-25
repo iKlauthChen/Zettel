@@ -5,10 +5,10 @@ created: 2026-09-26T01:13:08+0800
 source: {type: article, ref: "Amoureux, Jack L. Is faster better? Political and ethical framings of pace and space. International Theory 12.2 (2020): 189–219. doi:10.1017/S1752971919000228", page: "3, 5, 19–21"}
 tags: [后殖民, 去殖民, 反身性, 学者的责任, 多元时空, 种族化的速度, 时间滞后, 框架选择]
 links:
-  - {id: 20260716-0037-Kamola2020-decolonising-university, reason: "Kamola的去殖民大学——认识论多元的体制面，本文只给出修正的方向"}
-  - {id: 20260716-0042-Michel2013-one-world-not-enough, reason: "Michel：一个世界不够——复数世界与本文'复数时空经验'的命题同构"}
-  - {id: 20260715-0012-Markland2026-provincialising-ontological-insecurity, reason: "Markland把本体论不安全'省的化'——同一操作在OSS中的版本"}
-  - {id: 20260917-0002-Braidotti发言位置批判1996, reason: "Braidotti的发言位置批判——'位置性'与本文对IR学者位置的要求"}
+  - {id: 20260716-0037, reason: "Kamola的去殖民大学——认识论多元的体制面，本文只给出修正的方向"}
+  - {id: 20260716-0042, reason: "Michel：一个世界不够——复数世界与本文'复数时空经验'的命题同构"}
+  - {id: 20260715-0012, reason: "Markland把本体论不安全'省的化'——同一操作在OSS中的版本"}
+  - {id: 20260917-0002, reason: "Braidotti的发言位置批判——'位置性'与本文对IR学者位置的要求"}
 voice_passed: true
 aliases: ["后殖民修正与学者的反身性", "复数时空经验被压制", "谁的时间算时间"]
 ---

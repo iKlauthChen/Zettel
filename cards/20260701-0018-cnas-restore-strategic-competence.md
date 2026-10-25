@@ -2,12 +2,12 @@
 id: 20260701-0018-cnas-restore-strategic-competence
 status: permanent
 created: 2026-07-01T17:45:00+0800
-source: {type: report, ref: "CNAS. 'Restoring Strategic Competence.' Center for a New American Security, 2020."}
+source: {type: article, ref: "CNAS. 'Restoring Strategic Competence.' Center for a New American Security, 2020."}
 tags: [CNAS, 东北亚, 联盟管理, 朝鲜, 核威慑, 延伸威慑]
 links:
-  - {id: 20260701-0013-indo-pacific-geopolitical-construction, reason: "印太战略框架——CNAS报告是印太框架下美国联盟管理的具体方案"}
-  - {id: 20260701-0010-wang-xinying-us-china-role-evolution, reason: "美国对华认知四阶段——CNAS报告印证了第四阶段的全面竞争逻辑"}
-  - {id: 20260701-0004-boggs-us-grand-strategy-contradictions, reason: "Boggs的US矛盾——CNAS报告体现了美国精英对'联盟负担'和'战略无能'的焦虑"}
+  - {id: 20260701-0013, reason: "印太战略框架——CNAS报告是印太框架下美国联盟管理的具体方案"}
+  - {id: 20260701-0010, reason: "美国对华认知四阶段——CNAS报告印证了第四阶段的全面竞争逻辑"}
+  - {id: 20260701-0004, reason: "Boggs的US矛盾——CNAS报告体现了美国精英对'联盟负担'和'战略无能'的焦虑"}
 voice_passed: true
 aliases: ["恢复美国在东北亚的战略能力", "CNAS 2020"]
 ---

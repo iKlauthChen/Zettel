@@ -5,15 +5,15 @@ created: 2026-08-05T22:10:00+0800
 source: {type: reading-note, ref: "桥接卡：Williams (2011) 结论章 pp.159-164 × Cisney/Luzecky (2023) 卡 20260622-0018 × 晶体耐久性悖论卡 20260722-0001", page: "Williams pp.159-164"}
 tags: [bridge, time, crystal-time, cinema, williams, cisney, deleuze, three-syntheses, 时间本体论]
 links:
-  - {id: 20260622-0018-时间晶体不是隐喻而是本体论Cisney的权力的虚假和Luzecky的电影时间论时间作为差异的持续生成, reason: "张力一方：晶体=字面本体论（非隐喻原则）——时间作为奇点/生成场"}
-  - {id: 20260722-0001-晶体时间耐久性悖论不可保持与不可切换, reason: "解结第三项：晶体不可持有/不可切换——事件性涌现而非可进入区域"}
-  - {id: 20260805-0007-williams-li-kelin-two-readings, reason: "母卡：Williams 读法全图——本卡是其跨簇张力（电影书评价）的闭合"}
-  - {id: 20260724-0003-recollisions-Deleuze-repetition-structural-time, reason: "再碰撞=重复的微观实现——与晶体共享'结构在运作中生成而非被持有'的逻辑"}
-  - {id: 20260622-0071-smith-pure-form-time-three-syntheses, reason: "Smith论纯粹形式时间——第三综合/无中心之圆是晶体被追踪的本体论原型"}
-  - {id: 20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis, reason: "时间晶体作为本体论生成场的另一支撑——与Cisney路线同簇"}
-  - {id: 20260716-0018-Cisney2020-writer-sorcerer, reason: "Cisney文学侧：真实的生成——非隐喻原则在其整体研究中的延伸"}
-  - {id: 20260620-1560-德勒兹的哲学剧场只完成了一半, reason: "张力=德勒兹文本自身分裂的又一实例：电影书的两半评价"}
-  - {id: 20260620-1540-拟像不是摹本的退化而是柏拉图主义自我颠覆, reason: "Williams第五章拟像（空位与无位者）与电影书晶体共享非表象化的本体论地位"}
+  - {id: 20260622-0018, reason: "张力一方：晶体=字面本体论（非隐喻原则）——时间作为奇点/生成场"}
+  - {id: 20260722-0001, reason: "解结第三项：晶体不可持有/不可切换——事件性涌现而非可进入区域"}
+  - {id: 20260805-0007, reason: "母卡：Williams 读法全图——本卡是其跨簇张力（电影书评价）的闭合"}
+  - {id: 20260724-0003, reason: "再碰撞=重复的微观实现——与晶体共享'结构在运作中生成而非被持有'的逻辑"}
+  - {id: 20260622-0071, reason: "Smith论纯粹形式时间——第三综合/无中心之圆是晶体被追踪的本体论原型"}
+  - {id: 20260622-0072, reason: "时间晶体作为本体论生成场的另一支撑——与Cisney路线同簇"}
+  - {id: 20260716-0018, reason: "Cisney文学侧：真实的生成——非隐喻原则在其整体研究中的延伸"}
+  - {id: 20260620-1560, reason: "张力=德勒兹文本自身分裂的又一实例：电影书的两半评价"}
+  - {id: 20260620-1540, reason: "Williams第五章拟像（空位与无位者）与电影书晶体共享非表象化的本体论地位"}
 voice_passed: true
 aliases: ["电影书张力桥接卡——晶体作为不可持有的本体论结构：Williams贬低与Cisney本体论经由耐久性悖论和解"]
 ---

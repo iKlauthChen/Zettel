@@ -5,8 +5,8 @@ created: 2026-07-16T21:00:00+0800
 source: {type: article, ref: "Svitych, Oleksandr. 'Algorithms and IR: Towards a Critical Quantum Theory.' Millennium: Journal of International Studies 53.2 (2025): 414–441."}
 tags: [算法, 量子理论, 批判IR, 技术, 治理]
 links:
-  - {id: 20260715-0016-Biegon2026-imaginary-turn, reason: "Biegon的想象转向——量子理论作为'社会技术想象'的一种：算法治理被如何想象决定了其政治效果"}
-  - {id: 20260715-0011-Wang2025-digital-security-dilemma, reason: "Wang的数字安全困境——算法在数字安全中的双重性：既是防御手段也是攻击通道"}
+  - {id: 20260715-0016, reason: "Biegon的想象转向——量子理论作为'社会技术想象'的一种：算法治理被如何想象决定了其政治效果"}
+  - {id: 20260715-0011, reason: "Wang的数字安全困境——算法在数字安全中的双重性：既是防御手段也是攻击通道"}
 voice_passed: true
 aliases: ["Svitych 2025 algorithms quantum IR", "算法与量子——批判量子IR理论"]
 ---

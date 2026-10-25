@@ -5,10 +5,10 @@ created: 2026-09-26T01:06:54+0800
 source: {type: article, ref: "Ralph, Jason. International society as an ontological security provider: a framework for analysis. International Theory 18, no. 1 (2026): 135–157. doi:10.1017/S1752971925100146", page: "138–144"}
 tags: [拉康, 多元主义, 国际社会, 缺乏, 斗争性, agonism, mouffe, 安提戈涅, 实在界, 均势, 误认]
 links:
-  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović与Ejdus的对象a——'缺乏'的另一条IR化路径"}
-  - {id: 20260715-0001-Eberle2017-fantasy-ontological-security, reason: "Eberle的幻象读法——'逾越性幻象'与'拥抱焦虑'的文献来源"}
-  - {id: 20260623-0010-剩余安全的多重本体论基础少于无非全与剩余, reason: "剩余安全——'环绕缺乏'与'承认不可消除的剩余'结构相近"}
-  - {id: 20260926-0025-ralph-international-society-as-os-provider-framework, reason: "同篇论文的框架卡：本卡是车道一的展开"}
+  - {id: 20260713-0002, reason: "Vulović与Ejdus的对象a——'缺乏'的另一条IR化路径"}
+  - {id: 20260715-0001, reason: "Eberle的幻象读法——'逾越性幻象'与'拥抱焦虑'的文献来源"}
+  - {id: 20260623-0010, reason: "剩余安全——'环绕缺乏'与'承认不可消除的剩余'结构相近"}
+  - {id: 20260926-0025, reason: "同篇论文的框架卡：本卡是车道一的展开"}
 voice_passed: true
 aliases: ["环绕缺乏的国际社会", "多元主义作为本体论安全提供者", "法律的自我限制与实在界"]
 ---

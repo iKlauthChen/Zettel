@@ -5,13 +5,13 @@ created: 2026-08-07T19:30:00+0800
 source: {type: external-url, ref: "John Coyne, 'The drone age demands a new theory of military protection', The Strategist (ASPI), 2026-08-07, https://www.aspistrategist.org.au/the-drone-age-demands-a-new-theory-of-military-protection/", page: ""}
 tags: [决策, 生成, 军事, 战略, 战争, 技术, 有限理性, 时间]
 links:
-  - {id: 20260620-1779-无人化和分布式杀伤正在重塑航母角色的底层, reason: "无人机与分布式杀伤——平台脆弱性与分散化的同一趋势，本判据的军事语境"}
-  - {id: 20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation, reason: "有限性=裂缝本体论的决策论翻译——再生周期判据是其资源层的可检验实例"}
-  - {id: 20260804-0004-spoke-wheel-tree-rhizome-three-states, reason: "补偿性链条的制度形态——保护竞赛=补偿链在军力设计的对应，同为势能最低的自驱动结构"}
-  - {id: 20260713-0007-paranoid-repetition-coding-reshaping, reason: "手段被误当目的时的补偿结构——空能指检测与满足条件判据互补"}
-  - {id: 20260721-0004-Womack-Putin-coercive-trap, reason: "俄乌案例簇——乌克兰被裂缝强制生成 vs Putin补偿性结构错位"}
-  - {id: 20260622-0039-秦立志论大国博弈的螺旋模式安全困境的时空维度和有限理性, reason: "安全困境的螺旋=补偿链——满足条件判据可一般化为补偿链检测"}
-  - {id: 20260807-0001-janz-territory-is-not-the-map, reason: "同批卡——领土不是地图与平台不是目的共享'位置可弃、实践保留'结构"}
+  - {id: 20260620-1779, reason: "无人机与分布式杀伤——平台脆弱性与分散化的同一趋势，本判据的军事语境"}
+  - {id: 20260724-0001, reason: "有限性=裂缝本体论的决策论翻译——再生周期判据是其资源层的可检验实例"}
+  - {id: 20260804-0004, reason: "补偿性链条的制度形态——保护竞赛=补偿链在军力设计的对应，同为势能最低的自驱动结构"}
+  - {id: 20260713-0007, reason: "手段被误当目的时的补偿结构——空能指检测与满足条件判据互补"}
+  - {id: 20260721-0004, reason: "俄乌案例簇——乌克兰被裂缝强制生成 vs Putin补偿性结构错位"}
+  - {id: 20260622-0039, reason: "安全困境的螺旋=补偿链——满足条件判据可一般化为补偿链检测"}
+  - {id: 20260807-0001, reason: "同批卡——领土不是地图与平台不是目的共享'位置可弃、实践保留'结构"}
 voice_passed: true
 aliases: ["再生周期判据：保护投资的满足条件由再生时间界定"]
 ---

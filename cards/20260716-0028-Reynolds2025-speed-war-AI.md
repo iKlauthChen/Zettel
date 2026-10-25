@@ -5,10 +5,10 @@ created: 2026-07-16T21:20:00+0800
 source: {type: article, ref: "Reynolds, Patrick. 'Speed and War in US Military Thought: Mapping the Conditions for AI-Enabled Decision-Making.' Millennium: Journal of International Studies 53.2 (2025): 491–517."}
 tags: [速度, 战争, AI, 美国军事思想, 决策, 时间]
 links:
-  - {id: 20260715-0005-Johnson2022-inadvertent-escalation-AI, reason: "Johnson的AI升级——速度是Johnson四条路径中共有的维度但未独立概念化"}
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——速度 = 时间的'定向'维度（速率）：谁决定加速/减速，谁支配时间"}
-  - {id: 20260715-0021-Cao-Dejun2023-strategic-rhythm, reason: "曹德军的战略节奏——AI速度改变了战略节奏中'冲击—间断—平衡'的周期"}
-  - {id: 20260716-0027-Svitych2025-algorithms-quantum-IR, reason: "Svitych的量子IR——算法加速制造了经典因果无法处理的纠缠态"}
+  - {id: 20260715-0005, reason: "Johnson的AI升级——速度是Johnson四条路径中共有的维度但未独立概念化"}
+  - {id: 20260715-0017, reason: "Hom的时机理论——速度 = 时间的'定向'维度（速率）：谁决定加速/减速，谁支配时间"}
+  - {id: 20260715-0021, reason: "曹德军的战略节奏——AI速度改变了战略节奏中'冲击—间断—平衡'的周期"}
+  - {id: 20260716-0027, reason: "Svitych的量子IR——算法加速制造了经典因果无法处理的纠缠态"}
 voice_passed: true
 aliases: ["Reynolds 2025 speed war AI", "速度与战争——AI决策的军事思想条件"]
 ---

@@ -5,9 +5,9 @@ created: 2026-07-03T14:45:00+0800
 source: {type: article, ref: "Coward, Martin, et al. 'On the horizon: The futures of IR.' Review of International Studies 50.3 (2024): 415-424."}
 tags: [IR, 国际关系理论, 未来, 时间性, 殖民, 技术, 环境, 安全, 话语]
 links:
-  - {id: 20260703-0011-Coward2024-IR-future-turn, reason: "四主题是对Coward等人未来诊断框架的具体展开"}
-  - {id: 20260703-0012-Coward2024-four-traditions-future, reason: "四主题中贯穿着未来取向的方法论选择"}
-  - {id: 20260703-0013-Coward2024-ontopolitics-temporal-frames, reason: "四主题中的每个领域都体现时间框架的本体政治"}
+  - {id: 20260703-0011, reason: "四主题是对Coward等人未来诊断框架的具体展开"}
+  - {id: 20260703-0012, reason: "四主题中贯穿着未来取向的方法论选择"}
+  - {id: 20260703-0013, reason: "四主题中的每个领域都体现时间框架的本体政治"}
 voice_passed: true
 aliases: ["RIS特刊的四个核心主题", "未来五十年全球政治的跨领域议程"]
 ---

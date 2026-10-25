@@ -5,8 +5,8 @@ created: 2026-07-16T15:20:00+0800
 source: {type: article, ref: "Bergsma, Theodore T. '\"Both Directions at Once\": Chronos, Aion and the Timelessness of the Unconscious.' Deleuze and Guattari Studies 16.2 (2022): 262–278."}
 tags: [德勒兹, Chronos, Aion, 无意识, 无时间性, 死亡驱力, 弗洛伊德]
 links:
-  - {id: 20260715-0023-Luzecky2022-Deleuze-eternity, reason: "Luzecky的Aion/Chronos——本文补充了Aion=死亡驱力=无意识无时间性的精神分析维度"}
-  - {id: 20260716-0008-Sholtz2020-paradox-quasi-cause, reason: "Sholtz的悖论准因果——同一个'双向同时'的Aion结构"}
+  - {id: 20260715-0023, reason: "Luzecky的Aion/Chronos——本文补充了Aion=死亡驱力=无意识无时间性的精神分析维度"}
+  - {id: 20260716-0008, reason: "Sholtz的悖论准因果——同一个'双向同时'的Aion结构"}
 voice_passed: true
 aliases: ["Bergsma 2022 Chronos Aion unconscious", "双向同时——Aion即无意识的无时间性"]
 ---

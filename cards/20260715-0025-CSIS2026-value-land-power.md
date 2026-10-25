@@ -2,7 +2,7 @@
 id: 20260715-0025-CSIS2026-value-land-power
 status: permanent
 created: 2026-07-15T19:00:00+0800
-source: {type: report, ref: "McGinn, Jerry, J.P. Gresh, and Alek Jovovic. 'The Value of U.S. Land Power.' CSIS Project on the Future of Land Power, Working Paper No. 1, July 2026."}
+source: {type: article, ref: "McGinn, Jerry, J.P. Gresh, and Alek Jovovic. 'The Value of U.S. Land Power.' CSIS Project on the Future of Land Power, Working Paper No. 1, July 2026."}
 tags: [美国陆军, 陆权, 海权, 印太, 远征, 多领域, 岸对海]
 links: []
 voice_passed: true

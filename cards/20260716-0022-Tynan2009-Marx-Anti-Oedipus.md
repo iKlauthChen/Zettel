@@ -5,7 +5,7 @@ created: 2026-07-16T17:20:00+0800
 source: {type: article, ref: "Tynan, Aidan. 'The Marx of Anti-Oedipus.' Deleuze Studies 3, supplement (2009): 28–52."}
 tags: [德勒兹, 马克思, 反俄狄浦斯, 欲望, 生产]
 links:
-  - {id: 20260716-0021-Choat2009-Deleuze-Marx-politicisation, reason: "Choat的Deleuze-Marx——同专辑的另一篇，聚焦反俄狄浦斯中的Marx"}
+  - {id: 20260716-0021, reason: "Choat的Deleuze-Marx——同专辑的另一篇，聚焦反俄狄浦斯中的Marx"}
 voice_passed: true
 aliases: ["Tynan 2009 Marx of Anti-Oedipus", "反俄狄浦斯中的马克思"]
 ---

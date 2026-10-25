@@ -5,8 +5,8 @@ created: 2026-08-30T19:30:00+0800
 source: {type: book, ref: "Braidotti，《游牧主体》，2011（2025）", page: "P99-102（游牧、nomos、战争机器）；P95-96（根茎、跨学概念）"}
 tags: [Braidotti, 游牧, nomos, 城邦, 战争机器, 根茎, 空间]
 links:
-  - {id: 20260830-0063-Braidotti生成女人与游牧主体, reason: "Braidotti生成女人——游牧主体"}
-  - {id: 20260620-1782-海洋与陆地的本体论差异要求国际关系理论做, reason: "海洋陆地——nomos的海陆面"}
+  - {id: 20260830-0063, reason: "Braidotti生成女人——游牧主体"}
+  - {id: 20260620-1782, reason: "海洋陆地——nomos的海陆面"}
   - {id: 20260624-war-machine-bridge-surplus-security, reason: "战争机器——逃逸线"}
 voice_passed: true
 aliases: ["nomos是土地的分配原则，是没有围墙或边界的开放游牧空间，与城邦权力对立"]

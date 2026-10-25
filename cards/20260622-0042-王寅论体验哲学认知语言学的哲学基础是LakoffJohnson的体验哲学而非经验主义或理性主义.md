@@ -1,13 +1,13 @@
 ---
 id: 20260622-0042-王寅论体验哲学认知语言学的哲学基础是LakoffJohnson的体验哲学而非经验主义或理性主义
 status: permanent
-created: 2026-06-22T20:40:00Z
-source: {type: journalArticle, ref: "王寅 (2002). 认知语言学的哲学基础：体验哲学. 外语教学与研究, 34(2): 82-89."}
+created: 2026-06-22T20:40:00+0800
+source: {type: article, ref: "王寅 (2002). 认知语言学的哲学基础：体验哲学. 外语教学与研究, 34(2): 82-89."}
 tags: [wang-yin, embodied-philosophy, cognitive-linguistics, lakoff, johnson, metaphor, embodied-mind]
 links:
-  - {id: 20260621-0491-拉康与德勒兹的反笛卡尔联盟以斯宾诺莎式conatus作为欲望和快感的本体论桥梁, reason: "体验哲学与conatus——两者都拒绝心身二元论，但路径不同：conatus是本体论驱动，体验哲学是认知机制"}
-  - {id: 20260622-0024-可朽计算vs不朽计算意识不是抽象信息处理而是嵌入具体物理基质中的耗散过程, reason: "可朽计算的身体嵌入——体验哲学的'心智的体验性'是可朽计算在认知语言学层面的对应"}
-  - {id: 20260622-0016-詹金斯论证性差异能量通过Rococo凯恩斯主义繁荣和当代根茎经济的历史谱系被资本主义挪用或压抑, reason: "性别差异能量的具身性——Jenkins论Eros/身体与体验哲学的身体感有共鸣"}
+  - {id: 20260621-0491, reason: "体验哲学与conatus——两者都拒绝心身二元论，但路径不同：conatus是本体论驱动，体验哲学是认知机制"}
+  - {id: 20260622-0024, reason: "可朽计算的身体嵌入——体验哲学的'心智的体验性'是可朽计算在认知语言学层面的对应"}
+  - {id: 20260622-0016, reason: "性别差异能量的具身性——Jenkins论Eros/身体与体验哲学的身体感有共鸣"}
 voice_passed: true
 ---
 

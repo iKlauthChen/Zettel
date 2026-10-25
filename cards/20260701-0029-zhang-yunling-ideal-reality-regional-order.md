@@ -5,8 +5,8 @@ created: 2026-07-01T19:10:00+0800
 source: {type: book, ref: "张蕴岭《在理想与现实之间》"}
 tags: [张蕴岭, 东亚秩序, 区域合作, 共同体, 东盟, 东北亚]
 links:
-  - {id: 20260701-0012-zhang-yunling-china-regional-view, reason: "张蕴岭2015中国区域观回归——两书在区域秩序思想上连贯"}
-  - {id: 20260701-0007-liu-xuelian-china-periphery-school, reason: "刘雪莲中国周边学——张蕴岭的实践方案对应第三种类型"}
+  - {id: 20260701-0012, reason: "张蕴岭2015中国区域观回归——两书在区域秩序思想上连贯"}
+  - {id: 20260701-0007, reason: "刘雪莲中国周边学——张蕴岭的实践方案对应第三种类型"}
 voice_passed: true
 aliases: ["张蕴岭在理想与现实之间", "东亚区域合作思想"]
 ---

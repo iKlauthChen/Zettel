@@ -5,10 +5,10 @@ created: 2026-07-01T15:00:00+0800
 source: {type: article, ref: "Friedman, Benjamin H., and Justin Logan. 'Why Washington Doesn’t Debate Grand Strategy.' Strategic Studies Quarterly, vol. 10, no. 4, 2016, pp. 14–45."}
 tags: [大战略, 美国, 首要地位, 精英共识, 智库, 学术, primacy]
 links:
-  - {id: 20260624-0067-original-batch1-naval-politics, reason: "美国海军霸权的制度逻辑——primacy的物质支撑"}
-  - {id: 20260624-0083-qin-dynamic-mechanism-card3-unit-level, reason: "崛起国对霸权秩序的四种态度——primacy作为被挑战的秩序"}
-  - {id: 20260624-0115-tang-idea-action-outcome-card4-bridge, reason: "大战略作为行动层次的观念分析对象"}
-  - {id: 20260624-0020-gibbs-ussr-grand-strategy-card1-core, reason: "大战略概念的对比参照——苏联大战略分析"}
+  - {id: 20260624-0067, reason: "美国海军霸权的制度逻辑——primacy的物质支撑"}
+  - {id: 20260624-0083, reason: "崛起国对霸权秩序的四种态度——primacy作为被挑战的秩序"}
+  - {id: 20260624-0115, reason: "大战略作为行动层次的观念分析对象"}
+  - {id: 20260624-0020, reason: "大战略概念的对比参照——苏联大战略分析"}
 voice_passed: true
 aliases: ["美国为什么不争论大战略", "华盛顿的primacy共识"]
 ---

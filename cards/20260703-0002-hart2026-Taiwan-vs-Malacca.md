@@ -5,9 +5,9 @@ created: 2026-07-03T14:05:00+0800
 source: {type: article, ref: "Hart, Brian, et al. \"Troubled Straits: Analyzing Trade Chokepoints in the South China Sea.\" CSIS Briefs, July 2026, pp.2-6."}
 tags: [CSIS, trade, chokepoint, strait, south-china-sea, maritime, supply-chain]
 links:
-  - {id: 20260624-0067-original-batch1-naval-politics, reason: "海军政治学——贸易流的产业构成决定了海权竞争的性质"}
-  - {id: 20260620-1782-海洋与陆地的本体论差异要求国际关系理论做, reason: "海洋本体论——两种海峡的不同贸易结构印证海洋空间的异质性"}
-  - {id: 20260703-0001-hart2026-scs-trade-overview, reason: "总览卡——本卡是总览卡的第二维度展开"}
+  - {id: 20260624-0067, reason: "海军政治学——贸易流的产业构成决定了海权竞争的性质"}
+  - {id: 20260620-1782, reason: "海洋本体论——两种海峡的不同贸易结构印证海洋空间的异质性"}
+  - {id: 20260703-0001, reason: "总览卡——本卡是总览卡的第二维度展开"}
 voice_passed: true
 aliases: ["台湾海峡与马六甲海峡的贸易构成差异"]
 ---

@@ -5,8 +5,8 @@ created: 2026-07-01T18:30:00+0800
 source: {type: book, ref: "斯皮克曼《和平地理学》1944"}
 tags: [斯皮克曼, 和平地理学, 边缘地带, 地缘政治, 美国安全, 包围]
 links:
-  - {id: 20260701-0003-gray-geography-grand-strategy, reason: "Gray地理持久论——斯皮克曼的学科前驱"}
-  - {id: 20260701-0009-gao-cheng-geopolitics-three-layers, reason: "高程地缘政治三层论——斯皮克曼属于作为思想理论的地缘政治"}
+  - {id: 20260701-0003, reason: "Gray地理持久论——斯皮克曼的学科前驱"}
+  - {id: 20260701-0009, reason: "高程地缘政治三层论——斯皮克曼属于作为思想理论的地缘政治"}
 voice_passed: true
 aliases: ["Spykman rimland thesis", "和平地理学核心论点"]
 ---

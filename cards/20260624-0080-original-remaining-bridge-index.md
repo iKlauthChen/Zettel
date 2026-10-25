@@ -2,7 +2,7 @@
 id: 20260624-0080-original-remaining-bridge-index
 status: permanent
 created: 2026-06-24T18:00:00+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, ------, 安全, 桥接, 德勒, 机器, ---, Olancho, -------------, vs]
 aliases: ["original-remaining-bridge-index"]
 ---

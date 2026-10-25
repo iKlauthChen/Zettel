@@ -2,7 +2,7 @@
 id: 20260624-0021-gibbs-ussr-grand-strategy-card2-bridge
 status: permanent
 created: 2026-06-24T16:35:44+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, Gibbs, 战略, 案例, 苏联, card1, core, 阿富汗, 卡组, thesis]
 aliases: ["gibbs-ussr-grand-strategy-card2-bridge"]
 ---

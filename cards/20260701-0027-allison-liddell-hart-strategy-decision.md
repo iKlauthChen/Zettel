@@ -5,8 +5,8 @@ created: 2026-07-01T19:00:00+0800
 source: {type: books, ref: "艾利森《决策的本质》；李特哈德《战略论》"}
 tags: [艾利森, 决策, 理性行为体, 组织行为, 政府政治, 李特哈德, 间接路线, 大战略]
 links:
-  - {id: 20260701-0014-grand-strategy-theory-basics, reason: "大战略理论——李特哈德的观点在此已有收录"}
-  - {id: 20260701-0016-china-grand-strategy-debate, reason: "中国大战略讨论——间接路线的应用案例"}
+  - {id: 20260701-0014, reason: "大战略理论——李特哈德的观点在此已有收录"}
+  - {id: 20260701-0016, reason: "中国大战略讨论——间接路线的应用案例"}
 voice_passed: true
 aliases: ["Allison three models", "Liddell Hart indirect approach", "决策本质三模型"]
 ---

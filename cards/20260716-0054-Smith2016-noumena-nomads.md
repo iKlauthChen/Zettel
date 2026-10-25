@@ -5,10 +5,10 @@ created: 2026-07-17T06:00:00+0800
 source: {type: article, ref: "Smith, Daniel W. '\"The Noumena of History\": On the Status of Nomads in Deleuze's Thought.' Research in Phenomenology 46.1 (2016): 81–100."}
 tags: [德勒兹, 游牧, 历史本体, 战争机器, 游牧学]
 links:
-  - {id: 20260716-0009-Villani2019-Deleuze-nomadism, reason: "Villani的游牧哲学——共享游牧概念，本文聚焦于'历史不能编码的剩余'即游牧的本体论定位"}
-  - {id: 20260716-0014-Lundy2013-nomads-today, reason: "Lundy的今天的游牧——Lundy的政治追问+Smith的历史本体论：游牧在社会条件和本体论两个层次都没被历史化"}
-  - {id: 20260716-0019-Deuchars2010-war-machine-resistance, reason: "Deuchars的战争机器——共同的战争机器核心：为抵抗创造逃逸线"}
-  - {id: 20260716-0025-Bell2008-DG-philosophy-history, reason: "Bell的DG历史哲学——游牧是历史本体的'物自体'：历史不能也不应将其纳入自己的同一的叙事"}
+  - {id: 20260716-0009, reason: "Villani的游牧哲学——共享游牧概念，本文聚焦于'历史不能编码的剩余'即游牧的本体论定位"}
+  - {id: 20260716-0014, reason: "Lundy的今天的游牧——Lundy的政治追问+Smith的历史本体论：游牧在社会条件和本体论两个层次都没被历史化"}
+  - {id: 20260716-0019, reason: "Deuchars的战争机器——共同的战争机器核心：为抵抗创造逃逸线"}
+  - {id: 20260716-0025, reason: "Bell的DG历史哲学——游牧是历史本体的'物自体'：历史不能也不应将其纳入自己的同一的叙事"}
 voice_passed: true
 aliases: ["Smith 2016 noumena of history nomads", "历史的本体——德勒兹思想中游牧的定位"]
 ---

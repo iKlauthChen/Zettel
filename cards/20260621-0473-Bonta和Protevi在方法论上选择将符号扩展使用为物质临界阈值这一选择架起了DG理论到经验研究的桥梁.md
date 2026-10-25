@@ -1,12 +1,12 @@
 ---
 id: 20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁
 status: permanent
-created: 2026-06-21T15:23:00Z
+created: 2026-06-21T15:23:00+0800
 source: {type: book, ref: "Bonta & Protevi (2004). Deleuze and Geophilosophy, Notes to Introduction, pp. 202-203"}
 tags: [bonta, protevi, methodology, sign, threshold, deleuze, guattari, alloplastic-stratum]
 links:
-  - {id: 20260621-0439-DG将符号重新定义为物质系统感知到的临界阈值绕过了后索绪尔符号学的意义危机, reason: "方法论选择的核心：符号作为物质临界阈值的扩展定义"}
-  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "整体评估——Bonta/Protevi 在 DG 原著和实用化之间的张力"}
+  - {id: 20260621-0439, reason: "方法论选择的核心：符号作为物质临界阈值的扩展定义"}
+  - {id: 20260621-0453, reason: "整体评估——Bonta/Protevi 在 DG 原著和实用化之间的张力"}
 voice_passed: true
 ---
 

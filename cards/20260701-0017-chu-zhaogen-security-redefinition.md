@@ -5,8 +5,8 @@ created: 2026-07-01T17:40:00+0800
 source: {type: article, ref: "储昭根. 安全的再定义及其边界[J]. 国际论坛, 2015, 17(04): 46-51+80-81."}
 tags: [安全定义, 安全化, 超政治化, 去安全化, 哥本哈根学派, 边界]
 links:
-  - {id: 20260701-0006-zhangyu-feng-security-postulates, reason: "张宇燕冯维江安全假定——储昭根与张宇燕同争安全概念的精确化"}
-  - {id: 20260624-0102-shi-security-philosophical-paradigms-card1-core, reason: "时殷弘安全哲理范式——宽泛定义 vs 储昭根的精确定义"}
+  - {id: 20260701-0006, reason: "张宇燕冯维江安全假定——储昭根与张宇燕同争安全概念的精确化"}
+  - {id: 20260624-0102, reason: "时殷弘安全哲理范式——宽泛定义 vs 储昭根的精确定义"}
 voice_passed: true
 aliases: ["安全的再定义", "储昭根2015"]
 ---

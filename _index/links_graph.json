@@ -1,60 +1,4 @@
 {
-  "20260624-0160-zhao-time-temporality-card1-core-thesis": {
-    "out": [
-      "20260622-0076-wang-meng-time-space-world-politics-methodology"
-    ],
-    "in": [
-      "2024summer-batch-cross-domain-synthesis",
-      "20260624-0115-tang-idea-action-outcome-card4-bridge",
-      "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
-      "20260624-0142-xu-time-strategic-goal-card4-bridge",
-      "20260624-0170-zuo-tang-strategic-behavior-card5-bridge",
-      "20260626-1140-lieberman-lateral-comparison-pattern"
-    ]
-  },
-  "2024summer-batch-cross-domain-synthesis": {
-    "out": [
-      "20260624-0160-zhao-time-temporality-card1-core-thesis",
-      "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
-      "20260624-0089-qin-land-maritime-card4-soviet-china",
-      "20260624-0006-jiang-land-sea-strategy-card1-core-thesis"
-    ],
-    "in": []
-  },
-  "20260624-0139-xu-time-strategic-goal-card1-core-thesis": {
-    "out": [
-      "20260624-0160-zhao-time-temporality-card1-core-thesis"
-    ],
-    "in": [
-      "2024summer-batch-cross-domain-synthesis",
-      "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
-      "20260624-0032-jiang-land-sea-strategy-card3-bridge",
-      "20260626-1138-lieberman-overextension-trap"
-    ]
-  },
-  "20260624-0089-qin-land-maritime-card4-soviet-china": {
-    "out": [
-      "20260622-0060-hu-bo-chen-grey-zone-strategy",
-      "20260701-0021-spykman-peace-geography-rimland",
-      "20260703-0005-hart2026-Australia-Oceania-straits",
-      "20260624-0006-jiang-land-sea-strategy-card1-core-thesis"
-    ],
-    "in": [
-      "2024summer-batch-cross-domain-synthesis",
-      "20260703-0001-hart2026-scs-trade-overview",
-      "20260703-0005-hart2026-Australia-Oceania-straits",
-      "20260805-0003-strategic-theory-literature-map"
-    ]
-  },
-  "20260624-0006-jiang-land-sea-strategy-card1-core-thesis": {
-    "out": [
-      "20260624-0086-qin-land-maritime-card1-core-thesis"
-    ],
-    "in": [
-      "2024summer-batch-cross-domain-synthesis",
-      "20260624-0089-qin-land-maritime-card4-soviet-china"
-    ]
-  },
   "20260620-1501-装置创造界域而非只是占据空间": {
     "out": [
       "20260620-1500-装置是安排的过程而非静态组织",
@@ -1453,7 +1397,8 @@
       "20260620-1544-德勒兹的两种时间模式",
       "20260622-0071-smith-pure-form-time-three-syntheses",
       "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
-      "20260620-1503-事件决定空间和时间而非相反"
+      "20260620-1503-事件决定空间和时间而非相反",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ],
     "in": [
       "20260620-1540-拟像不是摹本的退化而是柏拉图主义自我颠覆",
@@ -1464,7 +1409,8 @@
       "20260830-0073-杨凯麟艾甬生成疯狂与时间的坏孩子",
       "20261010-0015-time-form-three-moments-纯粹时间形式三环节",
       "20261010-0022-dynamics-differential-rhythm-微分节奏",
-      "20261010-0036-experiment-closed-environment-实验与封闭环境"
+      "20261010-0036-experiment-closed-environment-实验与封闭环境",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ]
   },
   "20260620-1545-无意义不是意义的缺席": {
@@ -1583,7 +1529,8 @@
       "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
       "20260620-1503-事件决定空间和时间而非相反",
       "20260620-1541-意义是事件在命题与事物之间划出的边界",
-      "20260716-0024-Olkowski2008-mathematical-time-limits"
+      "20260716-0024-Olkowski2008-mathematical-time-limits",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ],
     "in": [
       "20260620-1548-形而上表面是意义发生的先验场所",
@@ -1615,7 +1562,8 @@
       "20261010-0024-differentiation-differentiation-微分与分化",
       "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge",
       "20261016-0001-reflexive-coupling-prediction-attribution-gap",
-      "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism"
+      "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ]
   },
   "20260622-0071-smith-pure-form-time-three-syntheses": {
@@ -1671,6 +1619,26 @@
       "20261010-0022-dynamics-differential-rhythm-微分节奏",
       "20261010-0027-copernican-riemann-哥白尼式革命与黎曼几何",
       "20261010-0036-experiment-closed-environment-实验与封闭环境"
+    ]
+  },
+  "20261020-0003-strata-time-vs-lagrangian-motion-geography": {
+    "out": [
+      "20260830-0116-DG哲学时间与地层学叠置",
+      "20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker",
+      "20260703-0013-Coward2024-ontopolitics-temporal-frames",
+      "20260620-1544-德勒兹的两种时间模式",
+      "20260620-1549-柯罗诺斯时间不是三维的",
+      "20260623-1603-层叠与双重分节",
+      "20260623-1613-事件此性与场所"
+    ],
+    "in": [
+      "20260620-1544-德勒兹的两种时间模式",
+      "20260620-1549-柯罗诺斯时间不是三维的",
+      "20260623-1603-层叠与双重分节",
+      "20260623-1613-事件此性与场所",
+      "20260703-0013-Coward2024-ontopolitics-temporal-frames",
+      "20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker",
+      "20260830-0116-DG哲学时间与地层学叠置"
     ]
   },
   "20260621-0461-内在性平面是概念创造的本体论条件思想切面打开一个新的意义世界": {
@@ -2097,7 +2065,11 @@
       "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
       "20260623-1610-平滑空间与条纹化空间",
       "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做",
-      "20260620-1751-航母将海域从通道变为可移动的国土"
+      "20260620-1751-航母将海域从通道变为可移动的国土",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261020-0004-charassein-uninscribability-wet-politics",
+      "20261022-0003-seabed-cable-striated-enclave-smooth-sea"
     ],
     "in": [
       "20260620-1565-平滑空间中理性无力",
@@ -2105,7 +2077,11 @@
       "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做",
       "20260623-0008-姜鹏论海陆复合型大国的战略选择提出了区域陆权全球海权和海陆并举的三分法框架",
       "20260624-ingold-ocean-straightening-bridge",
-      "20260626-1000-Ingold线缕痕迹作为德勒兹平滑条纹的操作化"
+      "20260626-1000-Ingold线缕痕迹作为德勒兹平滑条纹的操作化",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261020-0004-charassein-uninscribability-wet-politics",
+      "20261022-0003-seabed-cable-striated-enclave-smooth-sea"
     ]
   },
   "20260620-1577-德勒兹以经验的复杂性质疑知识的确定性": {
@@ -3905,7 +3881,8 @@
       "20260620-1754-不确定性不是国际政治的静态背景而是可以被",
       "20260620-1755-海洋与陆地领域在信号传递和危机谈判中存在",
       "20260622-1546-维利里奥的域理论重塑了解域化中域的意涵",
-      "20260808-0002-virilio-speed-politics-dromology-regen-criterion"
+      "20260808-0002-virilio-speed-politics-dromology-regen-criterion",
+      "20261022-0002-depth-as-attribution-cost-time-volume"
     ]
   },
   "20260622-0039-秦立志论大国博弈的螺旋模式安全困境的时空维度和有限理性": {
@@ -4183,7 +4160,8 @@
       "20260620-1763-对外国的挑衅性军事行动可能使局势升级进而",
       "20260620-1780-灰色地带冲突让航母的外交价值与军事风险同",
       "20260620-1801-认知战框架为海洋政治学提供超越军事对抗的",
-      "20260620-1814-灰区冲突是地缘政治的生成"
+      "20260620-1814-灰区冲突是地缘政治的生成",
+      "20261022-0001-knife-fight-attribution-deterrence-medium"
     ]
   },
   "20260620-1770-中国发展航母更多出于大国声望而非战略必需": {
@@ -4731,11 +4709,54 @@
     "out": [
       "20260620-1565-平滑空间中理性无力",
       "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做",
-      "20260620-1760-航母在和平时期需要可见性但在战时需要隐蔽"
+      "20260620-1760-航母在和平时期需要可见性但在战时需要隐蔽",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261020-0004-charassein-uninscribability-wet-politics"
     ],
     "in": [
       "20260620-1819-航母的可见性与脆弱性矛盾是平滑空间中秩序",
-      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing"
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261020-0004-charassein-uninscribability-wet-politics",
+      "20261022-0003-seabed-cable-striated-enclave-smooth-sea"
+    ]
+  },
+  "20261020-0002-volume-not-container-seawater-volume-mutable": {
+    "out": [
+      "20260716-0035-Mnatsakanyan2022-denials-seabed-space",
+      "20260624-0078-original-ingold-ocean-line-card",
+      "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20260808-0002-virilio-speed-politics-dromology-regen-criterion",
+      "20260727-0003-bonta-protevi-striated-space-glacial-metaphor"
+    ],
+    "in": [
+      "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20260624-0078-original-ingold-ocean-line-card",
+      "20260716-0035-Mnatsakanyan2022-denials-seabed-space",
+      "20260727-0003-bonta-protevi-striated-space-glacial-metaphor",
+      "20260808-0002-virilio-speed-politics-dromology-regen-criterion",
+      "20261022-0002-depth-as-attribution-cost-time-volume"
+    ]
+  },
+  "20261020-0004-charassein-uninscribability-wet-politics": {
+    "out": [
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20260624-0078-original-ingold-ocean-line-card",
+      "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因",
+      "20260623-1610-平滑空间与条纹化空间",
+      "20260627-0004-柯尔贝特海洋战略大陆延伸而非对立",
+      "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理"
+    ],
+    "in": [
+      "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
+      "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因",
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20260623-1610-平滑空间与条纹化空间",
+      "20260624-0078-original-ingold-ocean-line-card",
+      "20260627-0004-柯尔贝特海洋战略大陆延伸而非对立",
+      "20261022-0003-seabed-cable-striated-enclave-smooth-sea"
     ]
   },
   "20260620-1812-航母战斗群是德勒兹意义上的装置而非单纯的": {
@@ -4785,7 +4806,9 @@
       "20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性",
       "20260623-0003-航母作为本体论安全装置国家的海洋大国身份叙事通过航母的物质化展演來修补",
       "20260623-0005-Hendrix论航母的代价在反舰导弹和卫星时代航母正在重蹈战列舰的覆辙昂贵脆弱且过时",
-      "20260808-0002-virilio-speed-politics-dromology-regen-criterion"
+      "20260808-0002-virilio-speed-politics-dromology-regen-criterion",
+      "20261022-0001-knife-fight-attribution-deterrence-medium",
+      "20261022-0004-concealment-refusal-to-be-counted"
     ]
   },
   "20260808-0002-virilio-speed-politics-dromology-regen-criterion": {
@@ -4800,21 +4823,50 @@
       "20260622-1546-维利里奥的域理论重塑了解域化中域的意涵",
       "20260627-0001-现代战争管理群体存活而非消灭个体",
       "20260620-1756-距离暴君在单极体系中同样制约着军事力量的",
-      "20260808-0001-wolf-cry-repetition-same-belief"
+      "20260808-0001-wolf-cry-repetition-same-belief",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261022-0004-concealment-refusal-to-be-counted"
     ],
     "in": [
       "20260620-1815-航母的威慑力量作为虚拟性存在不被现实化却",
       "20260808-0003-stonecutter-two-layer-actualization",
-      "20260809-0001-zizek-gnosticism-divine-kenosis"
+      "20260809-0001-zizek-gnosticism-divine-kenosis",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261022-0004-concealment-refusal-to-be-counted",
+      "20261022-0007-homeland-defense-third-theater-force-swing"
     ]
   },
   "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因": {
     "out": [
       "20260620-1755-海洋与陆地领域在信号传递和危机谈判中存在",
       "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做",
-      "20260620-1565-平滑空间中理性无力"
+      "20260620-1565-平滑空间中理性无力",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261020-0004-charassein-uninscribability-wet-politics"
     ],
-    "in": []
+    "in": [
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261020-0004-charassein-uninscribability-wet-politics"
+    ]
+  },
+  "20261020-0001-wet-ontology-four-critiques-ocean-as-ground": {
+    "out": [
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20260623-1609-尺度问题",
+      "20260623-1610-平滑空间与条纹化空间",
+      "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因",
+      "20260624-0074-original-batch3-smooth-striated-ir",
+      "20260624-0072-original-batch3-assemblage-territory"
+    ],
+    "in": [
+      "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因",
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20260623-1609-尺度问题",
+      "20260623-1610-平滑空间与条纹化空间",
+      "20260624-0072-original-batch3-assemblage-territory",
+      "20260624-0074-original-batch3-smooth-striated-ir",
+      "20261022-0002-depth-as-attribution-cost-time-volume"
+    ]
   },
   "20260620-1817-海上装置在陆地空间的失效不是战术失误而是": {
     "out": [
@@ -5502,7 +5554,8 @@
       "20260624-0142-xu-time-strategic-goal-card4-bridge",
       "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo",
       "20260624-0149-yang-complex-system-card7-bridge",
-      "20261016-0001-reflexive-coupling-prediction-attribution-gap"
+      "20261016-0001-reflexive-coupling-prediction-attribution-gap",
+      "20261022-0002-depth-as-attribution-cost-time-volume"
     ]
   },
   "20260622-0002-选择性法律主义作为秩序塑造实践改变了国际争端解决的吸引子结构": {
@@ -5616,7 +5669,8 @@
       "20260622-0058-fang-guo-metaphor-scenario-nontraditional-security",
       "20260622-0081-zhu-ning-copenhagen-school-security",
       "20260622-0068-qin-tan-geostrategy-ingest",
-      "20260622-0079-yin-liu-national-security-personality-foundations"
+      "20260622-0079-yin-liu-national-security-personality-foundations",
+      "20261022-0005-two-nuclear-peers-no-coordination-needed"
     ],
     "in": [
       "20260622-0007-自动免疫没有没有免疫的共同体也没有不因生存本身而暴露于死亡的有机体Crockett论疫情的本体论悖论",
@@ -5656,7 +5710,8 @@
       "20260626-1146-lieberman-october-7-failure-mechanism",
       "20260703-0003-hart2026-china-Taiwan-dilemma",
       "20260703-0006-hart2026-global-south-Malacca",
-      "20260721-0018-Ma-Mao-pan-securitization-three-layer-competition"
+      "20260721-0018-Ma-Mao-pan-securitization-three-layer-competition",
+      "20261022-0005-two-nuclear-peers-no-coordination-needed"
     ]
   },
   "20260622-0008-地图-图像德勒兹美学中的地图不是静态再现而是虚拟与现实之间的波动装置": {
@@ -6493,6 +6548,18 @@
       "20260627-0011-历史学家理论家分裂一般性特殊性张力"
     ]
   },
+  "20261022-0005-two-nuclear-peers-no-coordination-needed": {
+    "out": [
+      "20260622-0060-hu-bo-chen-grey-zone-strategy",
+      "20260715-0014-Adamsky2025-Russian-deterrence",
+      "20260703-0007-hart2026-disruption-scenarios",
+      "20261022-0006-nuclear-signaling-not-transferable-across-theaters"
+    ],
+    "in": [
+      "20260622-0060-hu-bo-chen-grey-zone-strategy",
+      "20261022-0007-homeland-defense-third-theater-force-swing"
+    ]
+  },
   "20260622-0063-luzecky-smith-deleuze-time-intro": {
     "out": [
       "20260621-0016-deleuze-geophilosophy-ingest"
@@ -6570,7 +6637,8 @@
       "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
       "20260624-0061-nathan-scobell-globalization-security-card4-power-gains",
       "20260624-0123-tang-social-evolution-card5-implications-bridge",
-      "20260624-0125-tang-system-security-card6-bridge"
+      "20260624-0125-tang-system-security-card6-bridge",
+      "20261022-0006-nuclear-signaling-not-transferable-across-theaters"
     ]
   },
   "20260622-1540-德勒兹的空间概念是一个概念系而非单一概念": {
@@ -7201,7 +7269,9 @@
       "20260623-0002-海洋作为本体论不安全的空间对应在陆地条纹化叙事和海洋平滑性之间的存在焦虑",
       "20260623-2102-成为",
       "20260814-0001-two-intifadas-rhizome-tree-nonviolence",
-      "20260914-0003-war-machine-numbering-number"
+      "20260914-0003-war-machine-numbering-number",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261020-0004-charassein-uninscribability-wet-politics"
     ],
     "in": [
       "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
@@ -7222,7 +7292,25 @@
       "20260806-0001-fold-not-interconnection-windowless-monads",
       "20260807-0001-janz-territory-is-not-the-map",
       "20260814-0001-two-intifadas-rhizome-tree-nonviolence",
-      "20260914-0003-war-machine-numbering-number"
+      "20260914-0003-war-machine-numbering-number",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261020-0004-charassein-uninscribability-wet-politics",
+      "20261022-0003-seabed-cable-striated-enclave-smooth-sea",
+      "20261022-0004-concealment-refusal-to-be-counted"
+    ]
+  },
+  "20261022-0003-seabed-cable-striated-enclave-smooth-sea": {
+    "out": [
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20260624-0074-original-batch3-smooth-striated-ir",
+      "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
+      "20261020-0004-charassein-uninscribability-wet-politics",
+      "20260623-1610-平滑空间与条纹化空间",
+      "20261022-0002-depth-as-attribution-cost-time-volume"
+    ],
+    "in": [
+      "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
+      "20260624-0074-original-batch3-smooth-striated-ir"
     ]
   },
   "20260623-0005-Hendrix论航母的代价在反舰导弹和卫星时代航母正在重蹈战列舰的覆辙昂贵脆弱且过时": {
@@ -8036,7 +8124,8 @@
     "out": [
       "20260623-1600-Saldanha",
       "20260623-1609-尺度问题",
-      "20260623-2202-复杂空间的地理学"
+      "20260623-2202-复杂空间的地理学",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ],
     "in": [
       "20260623-1604-机械种系与机械圈的唯物主义",
@@ -8045,7 +8134,8 @@
       "20260623-2202-复杂空间的地理学",
       "20260709-0003-Dukes2016-mechanosphere-genealogy",
       "20260710-0001-Oedipus-vs-tree-critique-isomorphism",
-      "20260923-0005-yang-kailin-difference-of-natures-not-dualism"
+      "20260923-0005-yang-kailin-difference-of-natures-not-dualism",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ]
   },
   "20260623-1609-尺度问题": {
@@ -8053,12 +8143,14 @@
       "20260623-1600-Saldanha",
       "20260623-1603-层叠与双重分节",
       "20260623-1610-平滑空间与条纹化空间",
-      "20260623-2202-复杂空间的地理学"
+      "20260623-2202-复杂空间的地理学",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground"
     ],
     "in": [
       "20260623-1603-层叠与双重分节",
       "20260623-1612-无器官身体与面貌性",
-      "20260623-2202-复杂空间的地理学"
+      "20260623-2202-复杂空间的地理学",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground"
     ]
   },
   "20260623-2202-复杂空间的地理学": {
@@ -8184,9 +8276,12 @@
       "20260623-1600-Saldanha",
       "20260623-1608-战争机器与战斗伦理",
       "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支",
-      "20260623-1802-分岔政治事件"
+      "20260623-1802-分岔政治事件",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ],
-    "in": []
+    "in": [
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
+    ]
   },
   "20260623-1614-虚拟与强度": {
     "out": [
@@ -8601,6 +8696,14 @@
       "20260624-0155-zhang-maritime-politics-card2-bridge"
     ]
   },
+  "20260624-0006-jiang-land-sea-strategy-card1-core-thesis": {
+    "out": [
+      "20260624-0086-qin-land-maritime-card1-core-thesis"
+    ],
+    "in": [
+      "20260624-0089-qin-land-maritime-card4-soviet-china"
+    ]
+  },
   "20260624-0014-chao-cho-signaling-sea-card1-continentalism": {
     "out": [
       "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
@@ -8672,10 +8775,12 @@
   "20260624-0018-chao-cho-signaling-sea-card5-platform-specific": {
     "out": [
       "20260624-0027-hulme-gartzke-tyranny-distance-card2-distance-mechanisms",
-      "20260622-0056-dibb-brabin-deterrence-denial-warning"
+      "20260622-0056-dibb-brabin-deterrence-denial-warning",
+      "20261022-0006-nuclear-signaling-not-transferable-across-theaters"
     ],
     "in": [
-      "20260624-0009-bana-sea-power-card3-regional-responders"
+      "20260624-0009-bana-sea-power-card3-regional-responders",
+      "20261022-0006-nuclear-signaling-not-transferable-across-theaters"
     ]
   },
   "20260624-0010-bana-sea-power-card4-technical-operational": {
@@ -8734,7 +8839,8 @@
       "20260624-0011-bana-sea-power-card5-conclusion-bridge",
       "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
       "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge",
-      "20260624-0123-tang-social-evolution-card5-implications-bridge"
+      "20260624-0123-tang-social-evolution-card5-implications-bridge",
+      "20261022-0006-nuclear-signaling-not-transferable-across-theaters"
     ]
   },
   "20260624-0028-hulme-gartzke-tyranny-distance-card3-empirical-validation": {
@@ -8885,6 +8991,18 @@
       "20260624-0064-original-batch1-carrier-paradox"
     ]
   },
+  "20261022-0006-nuclear-signaling-not-transferable-across-theaters": {
+    "out": [
+      "20260624-0018-chao-cho-signaling-sea-card5-platform-specific",
+      "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
+      "20260622-0074-tang-reputation-cult-international-conflict",
+      "20261022-0007-homeland-defense-third-theater-force-swing"
+    ],
+    "in": [
+      "20260624-0018-chao-cho-signaling-sea-card5-platform-specific",
+      "20261022-0005-two-nuclear-peers-no-coordination-needed"
+    ]
+  },
   "20260624-0019-tang-system-security-card4-structure-tech-nontraditional": {
     "out": [
       "20260622-0058-fang-guo-metaphor-scenario-nontraditional-security"
@@ -8909,6 +9027,16 @@
       "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox"
     ],
     "in": []
+  },
+  "20260624-0139-xu-time-strategic-goal-card1-core-thesis": {
+    "out": [
+      "20260624-0160-zhao-time-temporality-card1-core-thesis"
+    ],
+    "in": [
+      "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
+      "20260624-0032-jiang-land-sea-strategy-card3-bridge",
+      "20260626-1138-lieberman-overextension-trap"
+    ]
   },
   "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox": {
     "out": [
@@ -9120,10 +9248,12 @@
       "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
       "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
       "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
-      "20260703-0008-hart2026-rerouting-costs"
+      "20260703-0008-hart2026-rerouting-costs",
+      "20261022-0007-homeland-defense-third-theater-force-swing"
     ],
     "in": [
-      "20260703-0008-hart2026-rerouting-costs"
+      "20260703-0008-hart2026-rerouting-costs",
+      "20261022-0007-homeland-defense-third-theater-force-swing"
     ]
   },
   "20260703-0008-hart2026-rerouting-costs": {
@@ -9133,6 +9263,18 @@
     ],
     "in": [
       "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge"
+    ]
+  },
+  "20261022-0007-homeland-defense-third-theater-force-swing": {
+    "out": [
+      "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge",
+      "20260808-0002-virilio-speed-politics-dromology-regen-criterion",
+      "20261022-0002-depth-as-attribution-cost-time-volume",
+      "20261022-0005-two-nuclear-peers-no-coordination-needed"
+    ],
+    "in": [
+      "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge",
+      "20261022-0006-nuclear-signaling-not-transferable-across-theaters"
     ]
   },
   "20260624-0088-qin-land-maritime-card3-germany-case": {
@@ -9615,7 +9757,8 @@
   "20260624-0072-original-batch3-assemblage-territory": {
     "out": [
       "20260623-0018-saldanha-space-after-deleuze-ingest",
-      "20260624-0088-qin-land-maritime-card3-germany-case"
+      "20260624-0088-qin-land-maritime-card3-germany-case",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground"
     ],
     "in": [
       "20260626-1134-lieberman-core-thesis-deterrence-failure",
@@ -9627,7 +9770,8 @@
       "20260726-0001-qin-over-reterritorialization-collapse-virtual-actualization",
       "20260807-0001-janz-territory-is-not-the-map",
       "20260926-0005-paes-networked-territoriality-bounding-binding",
-      "20260926-0006-paes-brokerage-hinge-binding-bounding"
+      "20260926-0006-paes-brokerage-hinge-binding-bounding",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground"
     ]
   },
   "20260624-0073-original-batch3-desire-machine-state": {
@@ -9649,14 +9793,18 @@
     "out": [
       "20260624-0022-hu-liu-geopolitical-intersubjectivity-card1-core-thesis",
       "20260623-0018-saldanha-space-after-deleuze-ingest",
-      "20260624-0138-war-machine-bridge-surplus-security"
+      "20260624-0138-war-machine-bridge-surplus-security",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261022-0003-seabed-cable-striated-enclave-smooth-sea"
     ],
     "in": [
       "20260624-0078-original-ingold-ocean-line-card",
       "20260626-1221-技术乐观主义加沙屏障作为概念陷阱",
       "20260626-1240-反几何学穿墙战术空间解读即战斗",
       "20260626-1246-蜂群战术非线性分形去中心化战斗",
-      "20260626-1249-不对等平滑以色列人流动巴勒斯坦人条纹化"
+      "20260626-1249-不对等平滑以色列人流动巴勒斯坦人条纹化",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261022-0003-seabed-cable-striated-enclave-smooth-sea"
     ]
   },
   "20260624-0075-original-batch4-surplus-security": {
@@ -9721,10 +9869,14 @@
   "20260624-0078-original-ingold-ocean-line-card": {
     "out": [
       "20260624-0068-original-batch1-sea-power-ontology",
-      "20260624-0074-original-batch3-smooth-striated-ir"
+      "20260624-0074-original-batch3-smooth-striated-ir",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261020-0004-charassein-uninscribability-wet-politics"
     ],
     "in": [
-      "20260626-1249-不对等平滑以色列人流动巴勒斯坦人条纹化"
+      "20260626-1249-不对等平滑以色列人流动巴勒斯坦人条纹化",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261020-0004-charassein-uninscribability-wet-politics"
     ]
   },
   "20260624-0144-yang-complex-system-card2-four-subsystems": {
@@ -9840,6 +9992,19 @@
       "20260624-0153-ye-tang-case-selection-card4-bridge"
     ]
   },
+  "20260624-0089-qin-land-maritime-card4-soviet-china": {
+    "out": [
+      "20260622-0060-hu-bo-chen-grey-zone-strategy",
+      "20260701-0021-spykman-peace-geography-rimland",
+      "20260703-0005-hart2026-Australia-Oceania-straits",
+      "20260624-0006-jiang-land-sea-strategy-card1-core-thesis"
+    ],
+    "in": [
+      "20260703-0001-hart2026-scs-trade-overview",
+      "20260703-0005-hart2026-Australia-Oceania-straits",
+      "20260805-0003-strategic-theory-literature-map"
+    ]
+  },
   "20260701-0021-spykman-peace-geography-rimland": {
     "out": [
       "20260701-0003-gray-geography-grand-strategy",
@@ -9931,7 +10096,8 @@
       "20260715-0008-Malksoo2021-ritual-deterrence"
     ],
     "in": [
-      "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability"
+      "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
+      "20261022-0005-two-nuclear-peers-no-coordination-needed"
     ]
   },
   "20260624-0097-qin-strategic-uncertainty-card7-bridge": {
@@ -10117,6 +10283,18 @@
       "20260623-0019-shores-logic-deleuze-ingest"
     ],
     "in": []
+  },
+  "20260624-0160-zhao-time-temporality-card1-core-thesis": {
+    "out": [
+      "20260622-0076-wang-meng-time-space-world-politics-methodology"
+    ],
+    "in": [
+      "20260624-0115-tang-idea-action-outcome-card4-bridge",
+      "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
+      "20260624-0142-xu-time-strategic-goal-card4-bridge",
+      "20260624-0170-zuo-tang-strategic-behavior-card5-bridge",
+      "20260626-1140-lieberman-lateral-comparison-pattern"
+    ]
   },
   "20260701-0025-wendt-constructivist-ontology": {
     "out": [
@@ -11121,11 +11299,13 @@
     "out": [
       "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做",
       "20260623-0008-姜鹏论海陆复合型大国的战略选择提出了区域陆权全球海权和海陆并举的三分法框架",
-      "20260622-1621-俾斯麦的克制集中型战略与当代中国的克制兼顾型"
+      "20260622-1621-俾斯麦的克制集中型战略与当代中国的克制兼顾型",
+      "20261020-0004-charassein-uninscribability-wet-politics"
     ],
     "in": [
       "20260627-0005-马汉忽视两栖作战陆海互赖",
-      "20260627-0009-郑和下西洋围堵帖木儿间接路线"
+      "20260627-0009-郑和下西洋围堵帖木儿间接路线",
+      "20261020-0004-charassein-uninscribability-wet-politics"
     ]
   },
   "20260627-0005-马汉忽视两栖作战陆海互赖": {
@@ -11763,7 +11943,8 @@
       "20260624-0017-chao-cho-signaling-sea-card4-limited-conflict"
     ],
     "in": [
-      "20260703-0008-hart2026-rerouting-costs"
+      "20260703-0008-hart2026-rerouting-costs",
+      "20261022-0005-two-nuclear-peers-no-coordination-needed"
     ]
   },
   "20260703-0012-Coward2024-four-traditions-future": {
@@ -11803,7 +11984,8 @@
       "20260703-0012-Coward2024-four-traditions-future",
       "20260703-0014-Coward2024-four-themes-IR",
       "20260626-1224-安全化失败当认识权威不支持",
-      "20260622-0076-wang-meng-time-space-world-politics-methodology"
+      "20260622-0076-wang-meng-time-space-world-politics-methodology",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ],
     "in": [
       "20260703-0011-Coward2024-IR-future-turn",
@@ -11811,7 +11993,8 @@
       "20260703-0014-Coward2024-four-themes-IR",
       "20260703-0015-Zevnik-RIS2024-future-IR-perspective",
       "20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo",
-      "20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker"
+      "20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ]
   },
   "20260703-0014-Coward2024-four-themes-IR": {
@@ -12092,10 +12275,12 @@
       "20260623-1604-机械种系与机械圈的唯物主义",
       "20260703-0013-Coward2024-ontopolitics-temporal-frames",
       "20260622-0021-空间不是康德的先验范畴而是差异本身德勒兹重新引入物质的时间和空间维度Saldanha",
-      "20260709-0003-Dukes2016-mechanosphere-genealogy"
+      "20260709-0003-Dukes2016-mechanosphere-genealogy",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ],
     "in": [
-      "20260709-0003-Dukes2016-mechanosphere-genealogy"
+      "20260709-0003-Dukes2016-mechanosphere-genealogy",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ]
   },
   "20260710-0001-Oedipus-vs-tree-critique-isomorphism": {
@@ -13281,10 +13466,13 @@
     "out": [
       "20260716-0004-Abrahams2025-assemblage-geography",
       "20260715-0025-CSIS2026-value-land-power",
-      "20260716-0033-Niang2022-space-geopolitical"
+      "20260716-0033-Niang2022-space-geopolitical",
+      "20261020-0002-volume-not-container-seawater-volume-mutable"
     ],
     "in": [
-      "20260716-0041-Lenco2014-reintroducing-deleuze-IR"
+      "20260716-0041-Lenco2014-reintroducing-deleuze-IR",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261022-0001-knife-fight-attribution-deterrence-medium"
     ]
   },
   "20260926-0035-mcintosh-newtonian-slumber-metaphor-not-mimesis": {
@@ -13870,11 +14058,13 @@
       "20260727-0002-bonta-protevi-signs-material-trigger-mixed-semiotics",
       "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual",
       "20260624-0076-original-batch4-void-ontology-security",
-      "20260716-0055-Bennett2024-AlphaGo-nomadism"
+      "20260716-0055-Bennett2024-AlphaGo-nomadism",
+      "20261020-0002-volume-not-container-seawater-volume-mutable"
     ],
     "in": [
       "20260727-0004-bonta-protevi-bodies-politic-ethical-structural-axes",
-      "20260806-0001-fold-not-interconnection-windowless-monads"
+      "20260806-0001-fold-not-interconnection-windowless-monads",
+      "20261020-0002-volume-not-container-seawater-volume-mutable"
     ]
   },
   "20260727-0004-bonta-protevi-bodies-politic-ethical-structural-axes": {
@@ -14216,6 +14406,17 @@
       "20260808-0003-stonecutter-two-layer-actualization",
       "20260809-0001-zizek-gnosticism-divine-kenosis",
       "20261010-0010-deleuze-repetition-pathos-重复的痛苦"
+    ]
+  },
+  "20261022-0004-concealment-refusal-to-be-counted": {
+    "out": [
+      "20260808-0002-virilio-speed-politics-dromology-regen-criterion",
+      "20260620-1815-航母的威慑力量作为虚拟性存在不被现实化却",
+      "20260623-1610-平滑空间与条纹化空间",
+      "20261022-0001-knife-fight-attribution-deterrence-medium"
+    ],
+    "in": [
+      "20260808-0002-virilio-speed-politics-dromology-regen-criterion"
     ]
   },
   "20260808-0003-stonecutter-two-layer-actualization": {
@@ -15840,9 +16041,12 @@
     "out": [
       "20260830-0114-DG事件纯粹储备与间空",
       "20260830-0021-德勒兹时间影像晶体与直接时间",
-      "20260620-1544-德勒兹的两种时间模式"
+      "20260620-1544-德勒兹的两种时间模式",
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
     ],
-    "in": []
+    "in": [
+      "20261020-0003-strata-time-vs-lagrangian-motion-geography"
+    ]
   },
   "20260830-0117-DG概念组件性与非命题": {
     "out": [
@@ -17381,6 +17585,32 @@
     "in": [
       "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge",
       "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism"
+    ]
+  },
+  "20261022-0001-knife-fight-attribution-deterrence-medium": {
+    "out": [
+      "20260620-1800-灰色地带行动模糊和平与战争界限挑战传统威",
+      "20260716-0035-Mnatsakanyan2022-denials-seabed-space",
+      "20260620-1815-航母的威慑力量作为虚拟性存在不被现实化却",
+      "20261022-0002-depth-as-attribution-cost-time-volume"
+    ],
+    "in": [
+      "20261022-0002-depth-as-attribution-cost-time-volume",
+      "20261022-0004-concealment-refusal-to-be-counted"
+    ]
+  },
+  "20261022-0002-depth-as-attribution-cost-time-volume": {
+    "out": [
+      "20260620-1756-距离暴君在单极体系中同样制约着军事力量的",
+      "20260622-0056-dibb-brabin-deterrence-denial-warning",
+      "20261020-0002-volume-not-container-seawater-volume-mutable",
+      "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
+      "20261022-0001-knife-fight-attribution-deterrence-medium"
+    ],
+    "in": [
+      "20261022-0001-knife-fight-attribution-deterrence-medium",
+      "20261022-0003-seabed-cable-striated-enclave-smooth-sea",
+      "20261022-0007-homeland-defense-third-theater-force-swing"
     ]
   }
 }

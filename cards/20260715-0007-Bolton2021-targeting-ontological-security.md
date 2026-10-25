@@ -5,8 +5,8 @@ created: 2026-07-15T13:00:00+0800
 source: {type: article, ref: "Bolton, Derek. 'Targeting Ontological Security: Information Warfare in the Modern Age.' Political Psychology 42.1 (2021): 127–142."}
 tags: [本体论安全, 信息战, 操纵, 数字化, 主体性, 焦虑]
 links:
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——本文是'攻击OSS'的维度，而非追求OSS"}
-  - {id: 20260626-1224-安全化失败当认识权威不支持, reason: "安全化失败——信息战以同样的裂隙作为介入端口"}
+  - {id: 20260713-0003, reason: "Mitzen的OSS——本文是'攻击OSS'的维度，而非追求OSS"}
+  - {id: 20260626-1224, reason: "安全化失败——信息战以同样的裂隙作为介入端口"}
 voice_passed: true
 aliases: ["Bolton 2021 targeting ontological security", "本体论安全的信息战攻击"]
 ---

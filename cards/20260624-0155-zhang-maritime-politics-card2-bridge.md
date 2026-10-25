@@ -2,7 +2,7 @@
 id: 20260624-0155-zhang-maritime-politics-card2-bridge
 status: permanent
 created: 2026-06-24T16:11:04+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 张景全, 海洋, ------, card1, 海陆, 卡组, 唐世平, 互补, ----------]
 aliases: ["zhang-maritime-politics-card2-bridge"]
 ---

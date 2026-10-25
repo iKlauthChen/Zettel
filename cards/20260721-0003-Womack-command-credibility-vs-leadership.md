@@ -5,8 +5,8 @@ created: 2026-07-21T13:40:00+0800
 source: {type: article, ref: "Womack, Brantly. 2025. 'Contra Schelling: The Trap of Coercive Strategy in a Multinodal Era.' Perspectives on Politics 23(2): 1–17."}
 tags: [credibility, coercion, leadership, hegemony, womack, deterrence, strategic-theory]
 links:
-  - {id: 20260721-0001-Womack-multinodal-critique-Schelling-premises, reason: "此区分建立在Womack对Schelling三前提批判的基础上——命令信誉对应霸权前提，领导信誉对应多节点时代"}
-  - {id: 20260716-0049-Lebow2005-power-persuasion-justice, reason: "秦立志的安全困境研究与此区分共享对'信誉'问题的关切——安全困境中的信誉是命令型的还是领导型的？"}
+  - {id: 20260721-0001, reason: "此区分建立在Womack对Schelling三前提批判的基础上——命令信誉对应霸权前提，领导信誉对应多节点时代"}
+  - {id: 20260716-0049, reason: "秦立志的安全困境研究与此区分共享对'信誉'问题的关切——安全困境中的信誉是命令型的还是领导型的？"}
 voice_passed: true
 aliases: ["command credibility vs leadership", "命令信誉与领导信誉", "Womack credibility distinction"]
 ---

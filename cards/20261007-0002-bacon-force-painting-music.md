@@ -5,9 +5,9 @@ created: 2026-10-07T12:29:16+0800
 source: {type: book, ref: "Deleuze，《感觉的逻辑》，1981（2022年中译本）", page: "P71-75"}
 tags: [德勒兹, 感觉逻辑, sensation, force, aesthetics, 触觉]
 links:
-  - {id: 20260620-1512-感觉是被具体化的力存在于身体而非空气, reason: "感觉是力的具体化——本卡区分不可见的力与被感觉到的效果"}
-  - {id: 20260923-0004-yang-kailin-image-material-real-time, reason: "影像以线条、笔触、颜色显出力量——本卡讨论绘画的媒介条件"}
-  - {id: 20261007-0001-bacon-sensation-bwo-intensity, reason: "感觉的身体强度是力得以显现的身体条件"}
+  - {id: 20260620-1512, reason: "感觉是力的具体化——本卡区分不可见的力与被感觉到的效果"}
+  - {id: 20260923-0004, reason: "影像以线条、笔触、颜色显出力量——本卡讨论绘画的媒介条件"}
+  - {id: 20261007-0001, reason: "感觉的身体强度是力得以显现的身体条件"}
 voice_passed: true
 aliases: ["绘画通过身体感觉显出不可见的力"]
 ---

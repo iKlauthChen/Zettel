@@ -5,11 +5,11 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P380-381"}
 tags: [deleuze, 差异与重复, 良知, 习惯, 时间综合, Boltzmann, 或然性]
 links:
-  - {id: 20260622-1606-习惯是时间的第一种综合被动主观收缩, reason: "良知的基础即习惯综合"}
-  - {id: 20260622-0071-smith-pure-form-time-three-syntheses, reason: "三综合的二手概览——补上原典细读与既有二手研究之间的互链"}
-  - {id: 20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性, reason: "良知从过去走向未来的时间方向"}
-  - {id: 20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation, reason: "统计力学与时间的中介问题"}
-  - {id: 20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos, reason: "Boltzmann 与时间之矢的对照"}
+  - {id: 20260622-1606, reason: "良知的基础即习惯综合"}
+  - {id: 20260622-0071, reason: "三综合的二手概览——补上原典细读与既有二手研究之间的互链"}
+  - {id: 20260622-1607, reason: "良知从过去走向未来的时间方向"}
+  - {id: 20260724-0001, reason: "统计力学与时间的中介问题"}
+  - {id: 20260724-0002, reason: "Boltzmann 与时间之矢的对照"}
 voice_passed: true
 aliases: ["良知以第一时间综合为基础"]
 ---

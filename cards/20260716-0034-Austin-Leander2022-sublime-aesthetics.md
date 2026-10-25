@@ -5,8 +5,8 @@ created: 2026-07-16T23:20:00+0800
 source: {type: article, ref: "Austin, Jonathan Luke, and Anna Leander. 'The State of the Sublime: Aesthetic Protocols and Global Security.' Millennium: Journal of International Studies 50.3 (2022): 730–759."}
 tags: [崇高, 美学, 安全, 国家, 协议, 情感]
 links:
-  - {id: 20260715-0016-Biegon2026-imaginary-turn, reason: "Biegon的想象转向——美学协议是安全想象的制度层面的扩展"}
-  - {id: 20260716-0005-Baranzoni2024-governing-affect, reason: "Baranzoni的情感治理——美学是情感的调制工具：崇高管理的是敬畏/恐惧的阈限"}
+  - {id: 20260715-0016, reason: "Biegon的想象转向——美学协议是安全想象的制度层面的扩展"}
+  - {id: 20260716-0005, reason: "Baranzoni的情感治理——美学是情感的调制工具：崇高管理的是敬畏/恐惧的阈限"}
 voice_passed: true
 aliases: ["Austin-Leander 2022 sublime aesthetics", "崇高美学与全球安全"]
 ---

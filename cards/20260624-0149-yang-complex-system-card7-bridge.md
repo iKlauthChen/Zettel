@@ -2,7 +2,7 @@
 id: 20260624-0149-yang-complex-system-card7-bridge
 status: permanent
 created: 2026-06-24T15:46:12+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 杨思灵, 20260622, 复合, ------, card1, security, 系统论, 安全, 卡组]
 aliases: ["yang-complex-system-card7-bridge"]
 ---

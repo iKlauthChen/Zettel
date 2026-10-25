@@ -5,7 +5,7 @@ created: 2026-07-15T12:00:00+0800
 source: {type: article, ref: "Ku, Minseon, and Jennifer Mitzen. 'The Dark Matter of World Politics: System Trust, Summits, and State Personhood.' International Organization 76.4 (2022): 799–829."}
 tags: [本体论安全, 系统信任, 峰会, 国家人格, 外交, 暗物质]
 links:
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——本文从系统信任角度扩展了2006年的例行化框架"}
+  - {id: 20260713-0003, reason: "Mitzen的OSS——本文从系统信任角度扩展了2006年的例行化框架"}
 voice_passed: true
 aliases: ["Ku-Mitzen 2022 system trust", "世界政治的暗物质——系统信任"]
 ---

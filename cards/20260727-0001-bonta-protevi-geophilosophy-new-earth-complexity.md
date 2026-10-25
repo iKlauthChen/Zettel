@@ -5,9 +5,9 @@ created: 2026-07-27T09:10:00+0800
 source: {type: article, ref: "Bonta, Mark & John Protevi. 2004. 'Introduction.' In Deleuze and Geophilosophy: A Guide and Glossary. APERÇU extract, pp.3-7.", page: "3-5"}
 tags: [bonta, protevi, 地球哲学, 新大地, 复杂性理论, 结构能动性, 情境化他治, 一致性, 层叠, 建制-功能主义, 自然主义]
 links:
-  - {id: 20260623-0015-bonta-protevi-geophilosophy-ingest-2, reason: "Bonta-Protevi导言——本卡是该书核心纲领的地球哲学面向，与已有的复杂性理论进路ingest卡互补"}
-  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "实际/强度/虚拟三分法提供了本卡所涉本体论结构的系统化展开"}
-  - {id: 20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边, reason: "DG用复杂性理论消解结构/能动困境——本卡给出了Bonta-Protevi版本的详细论证"}
+  - {id: 20260623-0015, reason: "Bonta-Protevi导言——本卡是该书核心纲领的地球哲学面向，与已有的复杂性理论进路ingest卡互补"}
+  - {id: 20260630-0001, reason: "实际/强度/虚拟三分法提供了本卡所涉本体论结构的系统化展开"}
+  - {id: 20260621-0438, reason: "DG用复杂性理论消解结构/能动困境——本卡给出了Bonta-Protevi版本的详细论证"}
 voice_passed: true
 aliases: ["Bonta-Protevi导论：地球哲学与复杂性理论"]
 ---

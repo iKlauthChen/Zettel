@@ -2,7 +2,7 @@
 id: 20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge
 status: permanent
 created: 2026-06-24T15:23:59+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, DCAs, 20260622, DCA, deterrence, 合作, 同盟, 安全, KPI, 盟友]
 aliases: ["baldauff-heng-japan-dcas-card6-conclusion-bridge"]
 ---

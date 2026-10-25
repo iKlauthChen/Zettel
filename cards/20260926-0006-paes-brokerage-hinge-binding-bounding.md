@@ -5,10 +5,10 @@ created: 2026-09-26T00:42:32+0800
 source: {type: article, ref: "Paes, Lucas de Oliveira. Networked territoriality: A processual–relational view on the making (and makings) of regions in world politics. Review of International Studies 49:1 (2023): 53–82. DOI: 10.1017/S0260210522000249.", page: "55, 60–62"}
 tags: [paes, 中间人, brokerage, 网络分析, 协调, 代表, 守门, 法团能动性, 桥位]
 links:
-  - {id: 20260926-0001-jackson-nexon-relationalism-analytical-primitive, reason: "以关系为分析原初项：网络位置取代实体属性成为解释项"}
-  - {id: 20260926-0002-jackson-nexon-fractal-position-process, reason: "Nexon的cat-ness/net-ness正是位置/过程对偶的直接前身"}
-  - {id: 20260624-0072-original-batch3-assemblage-territory, reason: "谁占据桥位即谁定义内外——装置化的边界由中介位置生产"}
-  - {id: 20260624-0157-zhang-regionalization-securitization-card1-core-thesis, reason: "同盟作为锁定区域内外之分的守门装置：张景全的同盟角色读法"}
+  - {id: 20260926-0001, reason: "以关系为分析原初项：网络位置取代实体属性成为解释项"}
+  - {id: 20260926-0002, reason: "Nexon的cat-ness/net-ness正是位置/过程对偶的直接前身"}
+  - {id: 20260624-0072, reason: "谁占据桥位即谁定义内外——装置化的边界由中介位置生产"}
+  - {id: 20260624-0157, reason: "同盟作为锁定区域内外之分的守门装置：张景全的同盟角色读法"}
 voice_passed: true
 aliases: ["中间人结构是绑定与边界化的铰链", "协调代表守门三模式", "brokerage机制"]
 ---

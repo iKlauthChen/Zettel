@@ -5,11 +5,11 @@ created: 2026-09-26T00:42:32+0800
 source: {type: article, ref: "Paes, Lucas de Oliveira. Networked territoriality: A processual–relational view on the making (and makings) of regions in world politics. Review of International Studies 49:1 (2023): 53–82. 与张景全区域化与安全化悖论的对话", page: "55, 61, 67, 81"}
 tags: [paes, zhang, 桥接, 区域化, 安全化悖论, 中间人, 同盟, 桥位收益, 动机]
 links:
-  - {id: 20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation, reason: "直接对话对象：悖论五动因缺少维持悖论的动机，本卡补此环节"}
-  - {id: 20260624-0157-zhang-regionalization-securitization-card1-core-thesis, reason: "两对概念与影响周边安全的四机制"}
-  - {id: 20260624-0158-zhang-regionalization-securitization-card2-bridge, reason: "悖论的谱系定位：同盟角色与区域化逻辑的对照"}
-  - {id: 20260624-0081-qin-dynamic-mechanism-card1-core-thesis, reason: "区域转型中的安全困境：第三项对照"}
-  - {id: 20260622-0081-zhu-ning-copenhagen-school-security, reason: "守门与安全化的分野须经安全化理论校准"}
+  - {id: 20260624-0159, reason: "直接对话对象：悖论五动因缺少维持悖论的动机，本卡补此环节"}
+  - {id: 20260624-0157, reason: "两对概念与影响周边安全的四机制"}
+  - {id: 20260624-0158, reason: "悖论的谱系定位：同盟角色与区域化逻辑的对照"}
+  - {id: 20260624-0081, reason: "区域转型中的安全困境：第三项对照"}
+  - {id: 20260622-0081, reason: "守门与安全化的分野须经安全化理论校准"}
 voice_passed: true
 aliases: ["区域化的收益是桥位", "守门人结构与区域化悖论的接合", "Paes与张景全对话"]
 ---

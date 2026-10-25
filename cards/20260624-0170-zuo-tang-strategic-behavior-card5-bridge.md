@@ -2,7 +2,7 @@
 id: 20260624-0170-zuo-tang-strategic-behavior-card5-bridge
 status: permanent
 created: 2026-06-24T16:02:45+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 唐世平, 战略, card1, 评估, 阶段, 左希迎, 2012, 卡组, 行为]
 aliases: ["zuo-tang-strategic-behavior-card5-bridge"]
 ---

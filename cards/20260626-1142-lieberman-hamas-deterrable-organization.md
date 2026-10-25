@@ -1,16 +1,16 @@
 ---
 id: 20260626-1142-lieberman-hamas-deterrable-organization
 status: literature
-created: 2026-06-26T11:42:00+08:00
+created: 2026-06-26T11:42:00+0800
 source:
-  type: paper
+  type: article
   ref: "Lieberman, Elli. 'Why Deterrence Failed on October 7, 2023?' Strategic Assessment 28, no. 2 (July 2025)"
 tags: [deterrence, hamas, non-state-actors, religion, rationality, deterrability]
 entities: [Elli Lieberman, Hamas, Yahya Sinwar, Mohammed Deif, Ahmed Yasin, Khaled Mashal]
 links:
-  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
+  - id: 20260626-1134
     reason: "哈马斯的可威慑性论证支撑核心论题——失败根源在以色列战略，而非哈马斯的不可威慑性"
-  - id: 20260626-1140-lieberman-lateral-comparison-pattern
+  - id: 20260626-1140
     reason: "纵向比较显示哈马斯的策略演变与中国还的真实意图，可威慑但需不同策略"
 voice_passed: true
 ---

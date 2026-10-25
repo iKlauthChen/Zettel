@@ -2,7 +2,7 @@
 id: 20260624-0013-brooks-maritime-strategy-card2-bridge
 status: permanent
 created: 2026-06-24T16:34:14+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, Brooks, 战略, 海权, 海洋, ------, 1986, 威慑, 海军, 案例]
 aliases: ["brooks-maritime-strategy-card2-bridge"]
 ---

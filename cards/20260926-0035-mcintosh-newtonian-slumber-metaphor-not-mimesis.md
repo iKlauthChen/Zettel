@@ -5,10 +5,10 @@ created: 2026-09-26T09:06:49+0800
 source: {type: article, ref: "McIntosh, Chris. Writing Quantum Entanglement into International Relations: Temporality, Positionality, and the Ontology of War. Millennium: Journal of International Studies 49, no. 1 (2020): 162–174. doi:10.1177/0305829820971688", page: "163–166"}
 tags: [量子IR, 实质主义, 牛顿式隐喻, 纠缠, 关系主义, 本体论, 层次分析, 巴德, 赞诺蒂, 温特]
 links:
-  - {id: 20260716-0027-Svitych2025-algorithms-quantum-IR, reason: "Svitych的量子IR议程——McIntosh是更早的一次框架化，重点在隐喻而非物理实在"}
-  - {id: 20260830-0040-温特量子心灵国家作为潜在实在, reason: "温特的量子心灵与国家作为潜在实在——Zanotti/McIntosh明确拒绝的意识模型"}
-  - {id: 20260721-0014-Zhao-Tingyang-verb-ontology-vs-noun-metaphysics, reason: "赵汀阳的动词本体论——与'关系先于实体'是同一操作的两种语言"}
-  - {id: 20260622-0077-wu-quantum-turn-political-science, reason: "政治科学的量子转向——同一议程在相邻学科的版本"}
+  - {id: 20260716-0027, reason: "Svitych的量子IR议程——McIntosh是更早的一次框架化，重点在隐喻而非物理实在"}
+  - {id: 20260830-0040, reason: "温特的量子心灵与国家作为潜在实在——Zanotti/McIntosh明确拒绝的意识模型"}
+  - {id: 20260721-0014, reason: "赵汀阳的动词本体论——与'关系先于实体'是同一操作的两种语言"}
+  - {id: 20260622-0077, reason: "政治科学的量子转向——同一议程在相邻学科的版本"}
 voice_passed: true
 aliases: ["牛顿式沉睡", "web without threads", "纠缠本体论对实质主义"]
 ---

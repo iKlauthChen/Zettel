@@ -1,8 +1,8 @@
 ---
 id: 20260721-0015-Zhao-Tingyang-negative-word-genesis-event
 status: seedling
-created: 2026-07-21
-source: "赵汀阳，《人类的创世纪事件：否定词的发明》，《浙江学刊》2026年第2期"
+created: 2026-07-21T00:00:00+0800
+source: {ref: 赵汀阳，《人类的创世纪事件：否定词的发明》，《浙江学刊》2026年第2期, type: article}
 tags: [赵汀阳, 否定词, 存在论事件, 可能性, 模态, 未来, 语言起源]
 links: [20260721-0014, 20260720-0001, 20260520-0001]
 ---

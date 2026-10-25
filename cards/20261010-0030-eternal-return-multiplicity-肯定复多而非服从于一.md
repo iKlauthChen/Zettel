@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P204"}
 tags: [deleuze, 差异与重复, 永恒回归, 复多, 偶然, 必然]
 links:
-  - {id: 20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点, reason: "复多与尖点"}
-  - {id: 20261010-0017-eternal-return-no-identity-永恒回归不预设同一, reason: "同一论题的前一卡"}
-  - {id: 20260620-1557-永恒回归不是相同者的回归, reason: "回归的选择性"}
-  - {id: 20260620-1554-永恒回归的秘密不是秩序战胜混沌, reason: "混沌与复多"}
+  - {id: 20261010-0014, reason: "复多与尖点"}
+  - {id: 20261010-0017, reason: "同一论题的前一卡"}
+  - {id: 20260620-1557, reason: "回归的选择性"}
+  - {id: 20260620-1554, reason: "混沌与复多"}
 voice_passed: true
 aliases: ["永恒回归肯定复多，而非服从于一、相同与必然"]
 ---

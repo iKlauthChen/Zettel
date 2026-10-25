@@ -5,8 +5,8 @@ created: 2026-07-14T14:40:00+0800
 source: {type: article, ref: "Gellwitzki, C. Nicolai L., and Anne-Marie Houde. 'Narratives, Ontological Security, and Unconscious Phantasy: Germany and the European Myth During the So-Called Migration Crisis.' Political Psychology 44.2 (2023): 337–355."}
 tags: [本体论安全, 克莱因, 叙事, 无意识幻想, 德国, 欧洲神话, 移民危机, 防御机制]
 links:
-  - {id: 20260714-0002-Gellwitzki2024-Kleinian-ontological-security, reason: "Gellwitzki的2024 Kleinian框架——本文是提前的实证案例研究"}
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的OSS——本文用Kleinian防御机制补充了Giddens的例行化叙事"}
+  - {id: 20260714-0002, reason: "Gellwitzki的2024 Kleinian框架——本文是提前的实证案例研究"}
+  - {id: 20260713-0003, reason: "Mitzen的OSS——本文用Kleinian防御机制补充了Giddens的例行化叙事"}
 voice_passed: true
 aliases: ["Gellwitzki-Houde 2023 German EU myth", "德国欧洲神话与无意识幻想"]
 ---

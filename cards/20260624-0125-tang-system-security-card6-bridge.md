@@ -2,7 +2,7 @@
 id: 20260624-0125-tang-system-security-card6-bridge
 status: permanent
 created: 2026-06-24T15:54:54+0800
-source: {type: synthesis, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
+source: {type: multiple, ref: "旧格式桥接卡(2026-06批量切卡)标准化补全"}
 tags: [20260624, 唐世平, 2001, 安全, 20260622, 环境, ------, card1, 因素, ----------]
 aliases: ["tang-system-security-card6-bridge"]
 ---

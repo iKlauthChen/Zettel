@@ -5,12 +5,12 @@ created: 2026-07-03T15:10:00+0800
 source: {type: article, ref: "Coward, Martin, et al. 'On the horizon: The futures of IR.' Review of International Studies 50.3 (2024): 415-424. Zevnik as co-author."}
 tags: [zevnik, IR-theory, 国际关系理论, 未来, 本体论, 时间性, 拉康, 德勒兹, 政治主体性]
 links:
-  - {id: 20260703-0011-Coward2024-IR-future-turn, reason: "IR的未来转向——Zevnik的void ontology支撑着'存在不必然如此'的时间开放前提"}
-  - {id: 20260703-0013-Coward2024-ontopolitics-temporal-frames, reason: "本体政治维度与Zevnik的核心命题——政治排斥是本体论承诺的后果——直接对接"}
-  - {id: 20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限, reason: "Zevnik以虚空为本体论支撑的拉康-德勒兹框架是本文未来诊断的哲学基础"}
-  - {id: 20260621-0486-政治排斥不仅是政治意志的结果更是本体论承诺的后果, reason: "政治排斥的本体论承诺——本卡'谁有权参与未来'问题在此扎根"}
-  - {id: 20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的, reason: "虚空作为本体论的最终支撑——未来思考的不可确定性由此出发"}
-  - {id: 20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略, reason: "虚空与剩余作为实在界的肯定/否定面孔——'缺席/沉默者'对应于虚空"}
+  - {id: 20260703-0011, reason: "IR的未来转向——Zevnik的void ontology支撑着'存在不必然如此'的时间开放前提"}
+  - {id: 20260703-0013, reason: "本体政治维度与Zevnik的核心命题——政治排斥是本体论承诺的后果——直接对接"}
+  - {id: 20260621-0493, reason: "Zevnik以虚空为本体论支撑的拉康-德勒兹框架是本文未来诊断的哲学基础"}
+  - {id: 20260621-0486, reason: "政治排斥的本体论承诺——本卡'谁有权参与未来'问题在此扎根"}
+  - {id: 20260621-0487, reason: "虚空作为本体论的最终支撑——未来思考的不可确定性由此出发"}
+  - {id: 20260621-0495, reason: "虚空与剩余作为实在界的肯定/否定面孔——'缺席/沉默者'对应于虚空"}
 
 voice_passed: true
 aliases: ["Zevnik在未来IR中的立场", "Zevnik et al. RIS 2024 introduction perspective", "心理分析-后殖民框架下的IR未来"]

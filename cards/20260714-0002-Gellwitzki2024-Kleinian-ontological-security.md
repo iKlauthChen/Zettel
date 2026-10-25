@@ -5,11 +5,11 @@ created: 2026-07-14T12:30:00+0800
 source: {type: article, ref: "Gellwitzki, C. Nicolai L. The positions of ontological (in)security in international relations: object relations, unconscious phantasies, and anxiety management. International Theory (2025): 1–33. doi:10.1017/S1752971924000125", page: "4, 13–14, 20–27"}
 tags: [本体论安全, 克莱因, 客体关系, 偏执-分裂位置, 抑郁位置, 焦虑管理, 幻象, 防御机制]
 links:
-  - {id: 20260713-0003-Mitzen2006-ontological-security-routines, reason: "Mitzen的Giddens式OSS——本文的Kleinian框架是对Giddens范式的替代"}
-  - {id: 20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security, reason: "Vulović-Ejdus的拉康式对象a——本文提供了与拉康式不同的精神分析入口"}
-  - {id: 20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话, reason: "Steele的本体论安全——本文对'羞愧'概念的Kleinian重新定位"}
-  - {id: 20260926-0021-gellwitzki-positions-security-insecurity-regression-is-insecurity, reason: "同一篇文章的展开卡之一：回退本身就是不安全（与Cash/Houde的'位置之间'读法分歧）"}
-  - {id: 20260926-0024-gellwitzki-depressive-position-reparation-guilt-as-security, reason: "同一篇文章的展开卡之二：抑郁位置的正面（修补、内疚/羞愧即安全、促进安全的实践）"}
+  - {id: 20260713-0003, reason: "Mitzen的Giddens式OSS——本文的Kleinian框架是对Giddens范式的替代"}
+  - {id: 20260713-0002, reason: "Vulović-Ejdus的拉康式对象a——本文提供了与拉康式不同的精神分析入口"}
+  - {id: 20260622-0035, reason: "Steele的本体论安全——本文对'羞愧'概念的Kleinian重新定位"}
+  - {id: 20260926-0021, reason: "同一篇文章的展开卡之一：回退本身就是不安全（与Cash/Houde的'位置之间'读法分歧）"}
+  - {id: 20260926-0024, reason: "同一篇文章的展开卡之二：抑郁位置的正面（修补、内疚/羞愧即安全、促进安全的实践）"}
 voice_passed: true
 aliases: ["Gellwitzki 2024 Kleinian ontological security", "本体论不安全的两个位置"]
 ---

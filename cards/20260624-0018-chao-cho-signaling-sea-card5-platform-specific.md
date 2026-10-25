@@ -66,3 +66,7 @@ description: 不同海军平台的信号含义差异与水下信号的特殊逻�
 **How to apply**: 在危机管理中，派遣航母vs潜艇vs海警vs轰炸机具有完全不同的信号含义。选择不当可能导致完全相反的解读。例如，美国在台海危机中派遣潜艇可能是一种"温和而坚定"的信号——让中国知难而退又不丢面子。
 
 **跨簇链接**: [[20260624-0027-hulme-gartzke-tyranny-distance-card2-distance-mechanisms]]（力量投射与平台选择）、[[20260622-0056-dibb-brabin-deterrence-denial-warning]]（A2/AD如何影响不同平台的有效性）
+
+## 相关卡片
+
+- [[20261022-0006-nuclear-signaling-not-transferable-across-theaters|核信号不能跨战区通约]] — 平台类型学之后的第二重约束：两个战区同时需要信号时，平台数量本身是零和的，平台类型解决不了"发不发得出"。

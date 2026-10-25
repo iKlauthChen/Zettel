@@ -5,10 +5,11 @@ created: 2026-07-03T14:40:00+0800
 source: {type: article, ref: "Coward, Martin, et al. 'On the horizon: The futures of IR.' Review of International Studies 50.3 (2024): 415-424."}
 tags: [IR-theory, 国际关系理论, 本体论, 时间性, 未来, 安全化, 话语, 批判理论]
 links:
-  - {id: 20260703-0011-Coward2024-IR-future-turn, reason: "本体政治维度是对本卡未来诊断的理论深化"}
-  - {id: 20260703-0012-Coward2024-four-traditions-future, reason: "每种未来取向传统都蕴含不同的本体政治"}
-  - {id: 20260703-0014-Coward2024-four-themes-IR, reason: "四主题是本体政治运作的具体案例"}
-  - {id: 20260626-1224-安全化失败当认识权威不支持, reason: "安全化与认识权威的关系——时间框架的选择本身就构成一种安全化策略"}
+  - {id: 20260703-0011, reason: "本体政治维度是对本卡未来诊断的理论深化"}
+  - {id: 20260703-0012, reason: "每种未来取向传统都蕴含不同的本体政治"}
+  - {id: 20260703-0014, reason: "四主题是本体政治运作的具体案例"}
+  - {id: 20260626-1224, reason: "安全化与认识权威的关系——时间框架的选择本身就构成一种安全化策略"}
+  - {id: 20261020-0003, reason: "时间框架的本体政治；本文补上地理介质这一维度"}
 voice_passed: true
 aliases: ["时间框架的本体政治", "Connolly ontopolitical interpretation in IR futures"]
 ---
@@ -34,3 +35,4 @@ Coward 等人对"未来学的政治"（the politics of futurology）的关注引
 - [[20260703-0014-Coward2024-four-themes-IR|未来50年全球政治的四个主题]] — 殖民/种族、技术、气候等领域均体现时间框架的本体政治
 - [[20260626-1224-安全化失败当认识权威不支持|安全化失败的条件]] — 时间框架选择本身就是安全化策略的构成部分
 - [[20260622-0076-wang-meng-time-space-world-politics-methodology|时间与世界政治的方法论]] — 从时间本体论角度补充时间政治的理论基础
+- [[20261020-0003-strata-time-vs-lagrangian-motion-geography|地层时间与运动即地理]] — 时间框架的本体政治；本文补上地理介质这一维度

@@ -2,16 +2,16 @@
 id: 20260805-0003-strategic-theory-literature-map
 status: permanent
 created: 2026-08-05T12:10:00+0800
-source: {type: reference, ref: "drafts/20260721-当代战略理论代表性文献清单-论文配套映射.md（2026-07-21 对话记录，Hana 辅助整理）"}
+source: {type: multiple, ref: "drafts/20260721-当代战略理论代表性文献清单-论文配套映射.md（2026-07-21 对话记录，Hana 辅助整理）"}
 tags: [bibliography, strategic-theory, reference, thesis-mapping, 文献清单, 战略理论, 奇正, 因果闭合]
 links:
-  - {id: 20260721-0001-Womack-multinodal-critique-Schelling-premises, reason: "Womack多节点批判——优先文献#21，直接支持因果不可闭合论点"}
-  - {id: 20260721-0009-Luttwak-paradoxical-logic-strategy, reason: "Luttwak悖论逻辑——优先文献#16，与奇正重述直接对话"}
-  - {id: 20260721-0005-Biddle-modern-system-force-employment, reason: "Biddle现代系统——优先文献#22，组织有限性的经验锚点"}
-  - {id: 20260624-0096-qin-strategic-uncertainty-card6-strategic-stability, reason: "秦立志战略不确定性——清单#37-39的已切卡对应"}
-  - {id: 20260624-0116-tang-social-evolution-card1-core-thesis, reason: "唐世平社会演化——清单#32的理论对话者"}
-  - {id: 20260620-1544-德勒兹的两种时间模式, reason: "Chronos/Aion——论文'因果闭合vs不可闭合'部件的时间本体论基础"}
-  - {id: 20260624-0089-qin-land-maritime-card4-soviet-china, reason: "秦立志陆海转型——清单#33-36的已切卡对应"}
+  - {id: 20260721-0001, reason: "Womack多节点批判——优先文献#21，直接支持因果不可闭合论点"}
+  - {id: 20260721-0009, reason: "Luttwak悖论逻辑——优先文献#16，与奇正重述直接对话"}
+  - {id: 20260721-0005, reason: "Biddle现代系统——优先文献#22，组织有限性的经验锚点"}
+  - {id: 20260624-0096, reason: "秦立志战略不确定性——清单#37-39的已切卡对应"}
+  - {id: 20260624-0116, reason: "唐世平社会演化——清单#32的理论对话者"}
+  - {id: 20260620-1544, reason: "Chronos/Aion——论文'因果闭合vs不可闭合'部件的时间本体论基础"}
+  - {id: 20260624-0089, reason: "秦立志陆海转型——清单#33-36的已切卡对应"}
 voice_passed: true
 aliases: ["当代战略理论代表性文献清单——论文配套映射", "litmap"]
 ---

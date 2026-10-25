@@ -5,8 +5,8 @@ created: 2026-07-13T14:00:00+0800
 source: {type: book, ref: "Quine, W.V.O. Ontological Relativity and Other Essays. Columbia University Press, 1969. 尤其第二章'Ontological Relativity'及第三章'Speaking of Objects'."}
 tags: [奎因, 本体论相对性, 翻译不确定性, 分析哲学, 本体论, 指称, 剩余安全]
 links:
-  - {id: 20260624-0075-original-batch4-surplus-security, reason: "剩余安全的本体论化——奎因提供了分析哲学内部独立走向本体论后果的论证路径"}
-  - {id: 20260713-0005-formal-theorems-security-fissure, reason: "形式定理谱系——奎因的翻译不确定性与哥德尔不完备定理共享同一个自指结构的形式条件"}
+  - {id: 20260624-0075, reason: "剩余安全的本体论化——奎因提供了分析哲学内部独立走向本体论后果的论证路径"}
+  - {id: 20260713-0005, reason: "形式定理谱系——奎因的翻译不确定性与哥德尔不完备定理共享同一个自指结构的形式条件"}
 voice_passed: true
 aliases: ["Quine本体论相对性", "翻译不确定性的本体论后果"]
 ---

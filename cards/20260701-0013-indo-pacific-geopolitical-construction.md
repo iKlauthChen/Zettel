@@ -5,9 +5,9 @@ created: 2026-07-01T17:20:00+0800
 source: {type: multiple, ref: "Chacko (2014); Pan (2014); Tow (2018); Medcalf (2014); Chellaney (2018); Gopal (2017)"}
 tags: [印太, 地缘政治建构, 四方安全, 区域秩序, 澳大利亚, 日本, 印度]
 links:
-  - {id: 20260701-0010-wang-xinying-us-china-role-evolution, reason: "美国对华认知演变——印太概念是美国对华战略竞争的地理框架"}
-  - {id: 20260701-0009-gao-cheng-geopolitics-three-layers, reason: "高程地缘政治三层论——印太同时是思想/实践/宣传三个层面的地缘政治"}
-  - {id: 20260701-0004-boggs-us-grand-strategy-contradictions, reason: "Boggs US大战略矛盾——印太是这一矛盾在区域层面的投射"}
+  - {id: 20260701-0010, reason: "美国对华认知演变——印太概念是美国对华战略竞争的地理框架"}
+  - {id: 20260701-0009, reason: "高程地缘政治三层论——印太同时是思想/实践/宣传三个层面的地缘政治"}
+  - {id: 20260701-0004, reason: "Boggs US大战略矛盾——印太是这一矛盾在区域层面的投射"}
 voice_passed: true
 aliases: ["印太——地缘政治建构", "印太多国战略"]
 ---

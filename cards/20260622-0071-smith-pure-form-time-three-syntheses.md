@@ -4,9 +4,9 @@ id: 20260622-0071-smith-pure-form-time-three-syntheses
 status: permanent
 created: 2026-06-22T16:33:47+0800
 links:
-  - {id: 20261010-0031-third-synthesis-effect-第三综合的爱欲效果, reason: "原典细读回注——20261010 批细读卡补上与本二手概览的互链（自在幻相/不等者）"}
-  - {id: 20261010-0032-first-synthesis-living-present-第一综合与活生生的当前, reason: "原典细读回注——第一综合的活生生的当前与本文'可变现在'一节对应"}
-  - {id: 20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge, reason: "桥接卡：以本文的三综合为德勒兹一侧，与拉康的回退性并置"}
+  - {id: 20261010-0031, reason: "原典细读回注——20261010 批细读卡补上与本二手概览的互链（自在幻相/不等者）"}
+  - {id: 20261010-0032, reason: "原典细读回注——第一综合的活生生的当前与本文'可变现在'一节对应"}
+  - {id: 20261015-0001, reason: "桥接卡：以本文的三综合为德勒兹一侧，与拉康的回退性并置"}
 description: Daniel W. Smith——纯粹空的时间形式：康德的革命与德勒兹的三重综合
 ---
 **Daniel W. Smith "The Pure Form of Time"** 提供德勒兹时间哲学最系统的概览。核心论题：时间从对运动的从属中解放的历史脉络。

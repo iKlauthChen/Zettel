@@ -1,16 +1,16 @@
 ---
 id: 20260626-1140-lieberman-lateral-comparison-pattern
 status: literature
-created: 2026-06-26T11:40:00+08:00
+created: 2026-06-26T11:40:00+0800
 source:
-  type: paper
+  type: article
   ref: "Lieberman, Elli. 'Why Deterrence Failed on October 7, 2023?' Strategic Assessment 28, no. 2 (July 2025)"
 tags: [deterrence, longitudinal-study, PLO, hezbollah, egypt, hamas, credibility, strategic-learning]
 entities: [Elli Lieberman, PLO, PA, Hezbollah, Hamas, Egypt, Israel]
 links:
-  - id: 20260626-1136-lieberman-credibility-land-maneuver
+  - id: 20260626-1136
     reason: "纵向比较验证了陆地机动→可信性→威慑稳定的因果机制"
-  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
+  - id: 20260626-1134
     reason: "四案例中累积威慑均导致消耗陷阱，为核心论题提供经验证据"
 voice_passed: true
 ---

@@ -5,10 +5,10 @@ created: 2026-09-24T23:02:34+0800
 source: {type: article, ref: "Adkins, Brent. ‘Anti-Oedipus: Metaphysics and method.’ In Analysis 7 (2023), article 100363. DOI: 10.1016/j.inan.2023.100363", page: "1–3, 6–9"}
 tags: [adkins, guattari, schizoanalysis, desire]
 links:
-  - {id: 20260621-0012-Guattari的精神分裂分析应被重新理, reason: "La Borde临床实践——本文补入马塞尔个案与具体干预"}
-  - {id: 20260620-1526-精神分裂分析的任务是发现欲望机器如何运作, reason: "功能性精神分裂分析——从解释转向追踪机器连接"}
-  - {id: 20260830-0017-科勒布鲁克欲望连接与机器生成, reason: "人-自行车连接作为机器——本文提供临床实例"}
-  - {id: 20260830-0056-汪民安谱系学与话语排斥, reason: "谱系学将制度规则还原为历史条件，而非自然规范"}
+  - {id: 20260621-0012, reason: "La Borde临床实践——本文补入马塞尔个案与具体干预"}
+  - {id: 20260620-1526, reason: "功能性精神分裂分析——从解释转向追踪机器连接"}
+  - {id: 20260830-0017, reason: "人-自行车连接作为机器——本文提供临床实例"}
+  - {id: 20260830-0056, reason: "谱系学将制度规则还原为历史条件，而非自然规范"}
 voice_passed: true
 aliases: ["马塞尔的自行车：分裂分析以具体连接替代正常化"]
 ---

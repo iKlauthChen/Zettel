@@ -5,8 +5,8 @@ created: 2026-07-16T12:40:00+0800
 source: {type: article, ref: "Villani, Tiziana. 'Gilles Deleuze: Philosophy and Nomadism.' Deleuze and Guattari Studies 13.4 (2019): 551–557."}
 tags: [德勒兹, 游牧, 战争机器, 平滑空间, 生成, 内在性平面, 抵抗]
 links:
-  - {id: 20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限, reason: "Bonta-Protevi的地球哲学——游牧是地理哲学'移动'的具体方式"}
-  - {id: 20260716-0007-Thornton2020-line-of-flight, reason: "Thornton的逃逸线——游牧是逃逸线的集体/空间表达"}
+  - {id: 20260621-0453, reason: "Bonta-Protevi的地球哲学——游牧是地理哲学'移动'的具体方式"}
+  - {id: 20260716-0007, reason: "Thornton的逃逸线——游牧是逃逸线的集体/空间表达"}
 voice_passed: true
 aliases: ["Villani 2019 Deleuze nomadism", "游牧——哲学作为抵抗"]
 ---

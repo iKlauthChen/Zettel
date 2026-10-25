@@ -5,8 +5,8 @@ created: 2026-07-01T18:55:00+0800
 source: {type: book, ref: "戴尔·科普兰《经济相互依赖与战争》"}
 tags: [科普兰, 贸易预期, 经济相互依赖, 预防性战争, 贸易安全困境]
 links:
-  - {id: 20260701-0008-yang-yuan-rise-concede-or-confront, reason: "杨原预期逆转机制——科普兰的贸易预期与崛起国预期在逻辑上对称"}
-  - {id: 20260701-0015-strategic-overextension-analysis, reason: "战略透支——经济手段过度使用的另一面"}
+  - {id: 20260701-0008, reason: "杨原预期逆转机制——科普兰的贸易预期与崛起国预期在逻辑上对称"}
+  - {id: 20260701-0015, reason: "战略透支——经济手段过度使用的另一面"}
 voice_passed: true
 aliases: ["Copeland trade expectations theory", "科普兰贸易预期理论"]
 ---

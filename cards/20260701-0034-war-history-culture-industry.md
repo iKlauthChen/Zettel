@@ -5,9 +5,9 @@ created: 2026-07-01T20:15:00+0800
 source: {type: books, ref: "《战争史》；《间接路线》；《战略研究入门》"}
 tags: [战争, 文化, 克劳塞维茨, 有限理性, 工业能力, 地理, 战争史]
 links:
-  - {id: 20260701-0032-lebow-why-nations-fight, reason: "Lebow战争动机——战争文化的经验证据"}
-  - {id: 20260701-0027-allison-liddell-hart-strategy-decision, reason: "李特哈德间接路线——已经单独卡过"}
-  - {id: 20260701-0028-tang-shiping-social-evolution-key-concepts, reason: "唐世平进攻性现实主义自我毁灭——与战争史克劳塞维茨扩散逻辑一致"}
+  - {id: 20260701-0032, reason: "Lebow战争动机——战争文化的经验证据"}
+  - {id: 20260701-0027, reason: "李特哈德间接路线——已经单独卡过"}
+  - {id: 20260701-0028, reason: "唐世平进攻性现实主义自我毁灭——与战争史克劳塞维茨扩散逻辑一致"}
 voice_passed: true
 aliases: ["战争的文化与物质基础", "战争史关键论点"]
 ---

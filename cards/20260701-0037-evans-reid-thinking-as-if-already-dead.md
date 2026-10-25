@@ -5,10 +5,10 @@ created: 2026-07-01T22:00:00+0800
 source: {type: article, ref: "Evans, Brad & Julian Reid. 'Thinking as If Already Dead: The Imaginal Life of Gilles Deleuze.' symplokē, vol. 31, nos. 1-2, 2024, pp. 273–290."}
 tags: [Deleuze, 虚空, 想象, 死亡, 意象, 存在论, Evans, Reid]
 links:
-  - {id: 20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的, reason: "Zevnik虚空本体论——Evans/Reid的'ontology of the void'与Zevnik的肯定性虚空对话"}
-  - {id: 20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架, reason: "三层本体论——Evans/Reid的void属于哪一层？"}
-  - {id: 20260701-0036-wang-huaping-consciousness-mortal-computation, reason: "可朽计算——死作为意识的条件与Evans/Reid'as if already dead'遥相呼应"}
-  - {id: 20260620-1509-资本主义解域化只为更强大的再辖域化, reason: "解域化的悖论——左翼挪用差异话语但绑回身份政治"}
+  - {id: 20260621-0487, reason: "Zevnik虚空本体论——Evans/Reid的'ontology of the void'与Zevnik的肯定性虚空对话"}
+  - {id: 20260621-0505, reason: "三层本体论——Evans/Reid的void属于哪一层？"}
+  - {id: 20260701-0036, reason: "可朽计算——死作为意识的条件与Evans/Reid'as if already dead'遥相呼应"}
+  - {id: 20260620-1509, reason: "解域化的悖论——左翼挪用差异话语但绑回身份政治"}
 voice_passed: true
 aliases: ["象征生命与虚空本体论", "Evans Reid Deleuze imaginal"]
 ---

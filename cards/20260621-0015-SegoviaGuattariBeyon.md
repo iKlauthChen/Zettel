@@ -1,15 +1,15 @@
 ---
 id: 20260621-0015-SegoviaGuattariBeyon
 status: permanent
-created: 2026-06-21T13:10:00Z
+created: 2026-06-21T13:10:00+0800
 source: {type: book, ref: "Segovia, Guattari Beyond Deleuze, full"}
 tags: [guattari, segovia, summary, index]
 links:
-  - {id: 20260621-0001-Guattari的思想在1980年前后发, reason: "认知断裂是全书的组织性论点"}
-  - {id: 20260621-0002-Guattari应被视为独立于Deleu, reason: "Guattari作为独立哲学家的主张是全书的政治性论点"}
-  - {id: 20260621-0004-Guattari定义存在为一致性的调制, reason: "混沌本体论是全书的核心哲学贡献"}
-  - {id: 20260621-0011-Guattari将开放性思考为间隔間ma, reason: "开放性作为间隔是全书最独创的解释"}
-  - {id: 20260621-0010-Guattari的哲学同时超越了思辨实在, reason: "对思辨实在论和新唯物论的超越是当代意义所在"}
+  - {id: 20260621-0001, reason: "认知断裂是全书的组织性论点"}
+  - {id: 20260621-0002, reason: "Guattari作为独立哲学家的主张是全书的政治性论点"}
+  - {id: 20260621-0004, reason: "混沌本体论是全书的核心哲学贡献"}
+  - {id: 20260621-0011, reason: "开放性作为间隔是全书最独创的解释"}
+  - {id: 20260621-0010, reason: "对思辨实在论和新唯物论的超越是当代意义所在"}
 voice_passed: true
 ---
 

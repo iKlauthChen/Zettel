@@ -5,8 +5,8 @@ created: 2026-07-01T16:50:00+0800
 source: {type: article, ref: "刘雪莲. 论'中国周边学'中的中国意识与理论边界——兼与石源华教授商榷[J]. 国际观察, 2020(06): 37–65."}
 tags: [中国周边学, 周边概念, 中国外交, 主体客体, 刘雪莲]
 links:
-  - {id: 20260701-0009-gao-cheng-geopolitics-three-layers, reason: "高程地缘政治三层论——sino-centric vs critical geopolitics的张力"}
-  - {id: 20260701-0012-zhang-yunling-china-regional-view, reason: "张蕴岭'中国周边区域观回归'——刘雪莲的第三种类型呼之欲出"}
+  - {id: 20260701-0009, reason: "高程地缘政治三层论——sino-centric vs critical geopolitics的张力"}
+  - {id: 20260701-0012, reason: "张蕴岭'中国周边区域观回归'——刘雪莲的第三种类型呼之欲出"}
 voice_passed: true
 aliases: ["中国周边学的三种类型", "刘雪莲2020"]
 ---

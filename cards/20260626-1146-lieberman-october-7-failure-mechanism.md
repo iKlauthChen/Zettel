@@ -1,16 +1,16 @@
 ---
 id: 20260626-1146-lieberman-october-7-failure-mechanism
 status: literature
-created: 2026-06-26T11:46:00+08:00
+created: 2026-06-26T11:46:00+0800
 source:
-  type: paper
+  type: article
   ref: "Lieberman, Elli. 'Why Deterrence Failed on October 7, 2023?' Strategic Assessment 28, no. 2 (July 2025)"
 tags: [deterrence, october-7, hamas, miscalculation, multi-front-war, attrition-trap]
 entities: [Elli Lieberman, Hamas, Yahya Sinwar, Hezbollah, Iran, Israel, Iron Dome]
 links:
-  - id: 20260626-1134-lieberman-core-thesis-deterrence-failure
+  - id: 20260626-1134
     reason: "本卡是核心论题的最终验证案例——累积威慑+铁穹→消耗陷阱→十月7日威慑失败"
-  - id: 20260626-1142-lieberman-hamas-deterrable-organization
+  - id: 20260626-1142
     reason: "哈马斯的错误预期(以色列会沿用累积威慑模式)正是哈马斯可威慑性的反证"
 voice_passed: true
 ---

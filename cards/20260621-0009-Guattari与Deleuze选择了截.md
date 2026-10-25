@@ -1,11 +1,11 @@
 ---
 id: 20260621-0009-Guattari与Deleuze选择了截
 status: permanent
-created: 2026-06-21T12:40:00Z
+created: 2026-06-21T12:40:00+0800
 source: {type: book, ref: "Segovia, Guattari Beyond Deleuze, Ch.4 §4.3 & Conclusion"}
 tags: [guattari, deleuze, history-of-philosophy, leibniz, spinoza, heidegger]
 links:
-  - {id: 20260621-0003-Guattari的本体论是二元论的与De, reason: "哲学谱系选择的不同直接反映在本体论立场差异——Leibniz vs Spinoza对应dyadism vs monism"}
+  - {id: 20260621-0003, reason: "哲学谱系选择的不同直接反映在本体论立场差异——Leibniz vs Spinoza对应dyadism vs monism"}
 voice_passed: true
 ---
 

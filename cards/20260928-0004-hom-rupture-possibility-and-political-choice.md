@@ -5,10 +5,10 @@ created: 2026-09-28T11:54:24+0800
 source: {type: article, ref: "Hom, Andrew R. 'Silent Order: The Temporal Turn in Critical International Relations.' Millennium: Journal of International Studies 46.3 (2018): 303–330. doi:10.1177/0305829818771349. 本地 PDF 为 Edinburgh Research Explorer 的同行评审版本，正文页码 1–30。", page: "同行评审版本 pp. 18–28"}
 tags: [时间, 时间性, 批判IR, 断裂, 政治伦理]
 links:
-  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "本文总卡：本卡展开对断裂政治及其自由理想主义假设的批判"}
-  - {id: 20260716-0025-Bell2008-DG-philosophy-history, reason: "Bell 评述 DG 历史哲学，将事件理解为生成过程而非一次性断裂，与本文对断裂的修正构成对话"}
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "timing 理论明确提出政治行动者如何重新为政治定时，与本文结尾要求相呼应"}
-  - {id: 20260928-0003-hom-heterotemporality-needs-dialogue, reason: "异时间性批判揭示断裂如何依赖其反面而获得意义"}
+  - {id: 20260715-0018, reason: "本文总卡：本卡展开对断裂政治及其自由理想主义假设的批判"}
+  - {id: 20260716-0025, reason: "Bell 评述 DG 历史哲学，将事件理解为生成过程而非一次性断裂，与本文对断裂的修正构成对话"}
+  - {id: 20260715-0017, reason: "timing 理论明确提出政治行动者如何重新为政治定时，与本文结尾要求相呼应"}
+  - {id: 20260928-0003, reason: "异时间性批判揭示断裂如何依赖其反面而获得意义"}
 voice_passed: true
 aliases: ["断裂不自带解放方向", "断裂时刻需要政治性定界"]
 ---

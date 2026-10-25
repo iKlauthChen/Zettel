@@ -5,10 +5,10 @@ created: 2026-09-26T09:06:49+0800
 source: {type: article, ref: "McIntosh, Chris. Writing Quantum Entanglement into International Relations: Temporality, Positionality, and the Ontology of War. Millennium: Journal of International Studies 49, no. 1 (2020): 162–174. doi:10.1177/0305829820971688", page: "166–169"}
 tags: [量子IR, 时间性, 现在哲学, 米德, 涌现, 非线性因果, 科学隐喻, 殖民时间, 时间转向]
 links:
-  - {id: 20260715-0017-Hom2018-timing-theory, reason: "Hom的时机理论——量子时间性对'时钟时间'的替代方案"}
-  - {id: 20260715-0018-Hom2018-temporal-turn, reason: "Hom的时间转向——批评只批判不建构，本卡主张量子可提供肯定性进路"}
-  - {id: 20260926-0030-amoureux-space-time-frames-thicken-each-other, reason: "Amoureux的时空框——时间与空间须并置，本卡只谈时间性而空间被淡化"}
-  - {id: 20260622-0076-wang-meng-time-space-world-politics-methodology, reason: "王萌的时空方法论——时间转向在方法层面的另一条处理"}
+  - {id: 20260715-0017, reason: "Hom的时机理论——量子时间性对'时钟时间'的替代方案"}
+  - {id: 20260715-0018, reason: "Hom的时间转向——批评只批判不建构，本卡主张量子可提供肯定性进路"}
+  - {id: 20260926-0030, reason: "Amoureux的时空框——时间与空间须并置，本卡只谈时间性而空间被淡化"}
+  - {id: 20260622-0076, reason: "王萌的时空方法论——时间转向在方法层面的另一条处理"}
 voice_passed: true
 aliases: ["量子时间性与米德的现在", "IR的保守时间观与不断惊讶", "为何仍用科学隐喻"]
 ---

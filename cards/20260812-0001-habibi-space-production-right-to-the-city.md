@@ -2,17 +2,17 @@
 id: 20260812-0001-habibi-space-production-right-to-the-city
 status: permanent
 created: 2026-08-12T09:27:00+0800
-source: {type: book-chapter, ref: "Habibi, Rana, S. Mohsen Habibi & Elmira Jamei (2021). 'Space Production in Times of Neoliberalism.' In S. Azzali et al. (eds.), Urban Challenges in the Globalizing Middle-East, The Urban Book Series, Springer, Ch.2. DOI: 10.1007/978-3-030-69795-2_2"}
+source: {type: book, ref: "Habibi, Rana, S. Mohsen Habibi & Elmira Jamei (2021). 'Space Production in Times of Neoliberalism.' In S. Azzali et al. (eds.), Urban Challenges in the Globalizing Middle-East, The Urban Book Series, Springer, Ch.2. DOI: 10.1007/978-3-030-69795-2_2"}
 tags: [Lefebvre, abstract-space, urbanization, neoliberalism, space, memory-and-space, time-space-compression]
 links:
-  - {id: 20260623-1901-列斐伏尔的三元空间与抽象空间辩证, reason: "列斐伏尔空间理论的既有卡——本文是其应用版，抽象空间用法更粗"}
-  - {id: 20260623-1902-对列斐伏尔的批判Smith与Kerr, reason: "本文怀旧结构的批判坐标"}
-  - {id: 20260623-1616-城市平面与任意空间, reason: "城市空间理论的另一路线（Saldanha）"}
-  - {id: 20260623-2001-空间拜物教的新危险, reason: "德黑兰土地投机=空间拜物教经验案例"}
-  - {id: 20260623-0010-剩余安全的多重本体论基础少于无非全与剩余, reason: "日常生活作为资本无法吸纳的剩余——autogestion显现"}
-  - {id: 20260623-1408-时空压缩是资本主义改变客观时空品质的内在, reason: "第四城同步化与时空压缩同构"}
-  - {id: 20260716-0029-Jackson-Subotic2024-architecture-OS-paradox, reason: "公共空间=集体记忆的物质载体，记忆的空间条件"}
-  - {id: 20260716-0045-Hagmann2017-society-control-urban-security, reason: "谁控制城市空间——资本支配vs安全治理"}
+  - {id: 20260623-1901, reason: "列斐伏尔空间理论的既有卡——本文是其应用版，抽象空间用法更粗"}
+  - {id: 20260623-1902, reason: "本文怀旧结构的批判坐标"}
+  - {id: 20260623-1616, reason: "城市空间理论的另一路线（Saldanha）"}
+  - {id: 20260623-2001, reason: "德黑兰土地投机=空间拜物教经验案例"}
+  - {id: 20260623-0010, reason: "日常生活作为资本无法吸纳的剩余——autogestion显现"}
+  - {id: 20260623-1408, reason: "第四城同步化与时空压缩同构"}
+  - {id: 20260716-0029, reason: "公共空间=集体记忆的物质载体，记忆的空间条件"}
+  - {id: 20260716-0045, reason: "谁控制城市空间——资本支配vs安全治理"}
 voice_passed: true
 aliases: ["新自由主义城市中的城市权：绝对空间到抽象空间的四城转型"]
 ---

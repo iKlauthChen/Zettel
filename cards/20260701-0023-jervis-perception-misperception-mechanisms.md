@@ -5,8 +5,8 @@ created: 2026-07-01T18:40:00+0800
 source: {type: book, ref: "罗伯特·杰维斯《国际政治中的知觉与错误知觉》"}
 tags: [杰维斯, 知觉, 错误知觉, 认知相符, 统一性知觉, 历史类比, 螺旋模式]
 links:
-  - {id: 20260701-0019-jervis-system-effects-core-mechanisms, reason: "同一作者的系统效应机制——知觉与结构互补"}
-  - {id: 20260622-1617-安全感知的双重来源决策者错误知觉与精英施压, reason: "杰维斯知觉理论在安全感知分析中的具体应用"}
+  - {id: 20260701-0019, reason: "同一作者的系统效应机制——知觉与结构互补"}
+  - {id: 20260622-1617, reason: "杰维斯知觉理论在安全感知分析中的具体应用"}
 voice_passed: true
 aliases: ["Jervis perception and misperception", "知觉与错误知觉核心机制"]
 ---

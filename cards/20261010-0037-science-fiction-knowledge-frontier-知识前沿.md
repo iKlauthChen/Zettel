@@ -5,9 +5,9 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P5"}
 tags: [deleuze, 差异与重复, 知识, 无知, 书写, 前沿, 科幻]
 links:
-  - {id: 20260620-1566-哲学必须包含对生活的非哲学洞察, reason: "知识与非哲学的边界"}
-  - {id: 20260620-1571-当下向空白敞开, reason: "空白与书写"}
-  - {id: 20261010-0014-deleuze-eternal-return-extreme-永恒回归的尖点, reason: "极端点的思想"}
+  - {id: 20260620-1566, reason: "知识与非哲学的边界"}
+  - {id: 20260620-1571, reason: "空白与书写"}
+  - {id: 20261010-0014, reason: "极端点的思想"}
 voice_passed: true
 aliases: ["书写的边界"]
 ---

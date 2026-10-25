@@ -1,12 +1,12 @@
 ---
 id: 20260621-0445-river-connection
 status: permanent
-created: 2026-06-21T04:45:00Z
+created: 2026-06-21T04:45:00+0800
 source: {type: book, ref: "Bonta & Protevi (2004). Deleuze and Geophilosophy, Glossary: FLOW, pp. 87-88"}
 tags: [deleuze, guattari, flow, deterritorialization, capture, capitalism, state]
 links:
-  - {id: 20260621-0441-事件与逃逸线是物质系统敏感性与多元相遇产生创造性的两种机制, reason: "Flow的连接是逃逸线的集体加速，缀接是再捕获"}
-  - {id: 20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造, reason: "连接=解域化加速（一致性），缀接=再辖域化捕获（分层）"}
+  - {id: 20260621-0441, reason: "Flow的连接是逃逸线的集体加速，缀接是再捕获"}
+  - {id: 20260621-0444, reason: "连接=解域化加速（一致性），缀接=再辖域化捕获（分层）"}
 voice_passed: true
 ---
 

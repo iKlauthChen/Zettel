@@ -5,10 +5,10 @@ created: 2026-10-10T00:30:00+0800
 source: {type: reading-note, ref: "德勒兹，差异与重复，1968（2019）", page: "P393-394"}
 tags: [deleuze, 差异与重复, 强度, 外延, 量, 均等化]
 links:
-  - {id: 20261010-0001-deleuze-entropy-extension-内含的外展, reason: "同属外延论，本卡聚焦强度与外延的非对称"}
-  - {id: 20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual, reason: "强度层与外延层的划分"}
-  - {id: 20260623-1614-虚拟与强度, reason: "强度作为量的差异"}
-  - {id: 20260620-1601-绵延是通过改变本性而被划分的那种繁杂体, reason: "划分不改变本性"}
+  - {id: 20261010-0001, reason: "同属外延论，本卡聚焦强度与外延的非对称"}
+  - {id: 20260630-0001, reason: "强度层与外延层的划分"}
+  - {id: 20260623-1614, reason: "强度作为量的差异"}
+  - {id: 20260620-1601, reason: "划分不改变本性"}
 voice_passed: true
 aliases: ["强度与外延"]
 ---

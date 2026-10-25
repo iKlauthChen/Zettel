@@ -1,12 +1,12 @@
 ---
 id: 20260621-0013-Guattari通过Clastres和S
 status: permanent
-created: 2026-06-21T13:00:00Z
+created: 2026-06-21T13:00:00+0800
 source: {type: book, ref: "Segovia, Guattari Beyond Deleuze, Ch.2"}
 tags: [guattari, territory, clastres, sebag, structuralism, ethnography]
 links:
-  - {id: 20260621-0005-Guattari的四函项元模型FΦUT为, reason: "领域(T)是四函项模型的终点——U的凝结所形成的habitable空间"}
-  - {id: 20260621-0001-Guattari的思想在1980年前后发, reason: "从解域化到existential Territories的转变是认知断裂在空间概念上的体现"}
+  - {id: 20260621-0005, reason: "领域(T)是四函项模型的终点——U的凝结所形成的habitable空间"}
+  - {id: 20260621-0001, reason: "从解域化到existential Territories的转变是认知断裂在空间概念上的体现"}
 voice_passed: true
 ---
 

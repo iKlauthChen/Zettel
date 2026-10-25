@@ -5,8 +5,8 @@ created: 2026-07-01T18:50:00+0800
 source: {type: book, ref: "亚历山大·温特《国际政治的社会理论》"}
 tags: [温特, 建构主义, 理念主义, 共有观念, 身份, 利益, 因果关系]
 links:
-  - {id: 20260701-0022-buzan-security-studies-spectrum, reason: "布赞安全研究谱系中的常规建构主义——温特的理论定位"}
-  - {id: 20260624-0116-tang-social-evolution-card1-core-thesis, reason: "唐世平社会演化——对建构主义'观念重要但未说明如何形成'的批评"}
+  - {id: 20260701-0022, reason: "布赞安全研究谱系中的常规建构主义——温特的理论定位"}
+  - {id: 20260624-0116, reason: "唐世平社会演化——对建构主义'观念重要但未说明如何形成'的批评"}
 voice_passed: true
 aliases: ["Wendt constructivism", "温特建构主义本体论"]
 ---
