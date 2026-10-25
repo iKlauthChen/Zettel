@@ -1,6 +1,7 @@
 {
-  "cssTheme": "NichNeumor",
+  "cssTheme": "Underwater",
   "showRibbon": true,
   "baseFontSizeAction": false,
-  "translucency": true
+  "translucency": true,
+  "nativeMenus": false
 }
