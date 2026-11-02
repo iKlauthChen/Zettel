@@ -12,7 +12,7 @@
 
 ## 主题地图
 
-### 1 剩余安全与安全理论 · ≈36 张
+### 1 剩余安全与安全理论 · ≈38 张
 <!-- cluster: 剩余安全,surplus-security,安全困境,安全化,泛安全化,反恐战争,非传统安全 -->
 
 关键词：剩余安全 / surplus-security / 安全 / 安全困境 / 安全化 / 不确定性 / 反恐战争 / 非传统安全
@@ -24,13 +24,13 @@
 关键词：虚空 / void / 三层本体论 / 实在界 / 内在性平面 / 虚空与剩余
 入口卡：[[20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架|三层本体论辨析框架]] · [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|虚空作为本体论支撑]] · [[20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧|虚空论 × 复杂性吸引子]] · [[20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略|剩余与虚空：两张面孔]] · [[20260623-2100-Zevnik核心论题|Zevnik 核心论题]] · [[20260623-2300-Žižek核心论题|Žižek 核心论题]]
 
-### 3 德勒兹时间哲学 · ≈94 张
+### 3 德勒兹时间哲学 · ≈95 张
 <!-- cluster: 差异与重复,三种综合,永恒回归,时间本体论,纯粹过去,Chronos,aion,绵延,时间性 -->
 
 关键词：时间 / 差异与重复 / 三种综合 / 永恒回归 / 时间性 / 时间本体论 / 虚拟与实际 / 纯粹过去 / Chronos / Aion / 柏格森 / 绵延
 入口卡：[[20260620-1544-德勒兹的两种时间模式|Chronos 与 Aion]] · [[20260622-0071-smith-pure-form-time-three-syntheses|Smith：纯粹时间形式与三综合]] · [[20260620-1603-纯粹过去不是心理性的而是存在论意义上的|纯粹过去的存在论地位]] · [[20260622-1606-习惯是时间的第一种综合被动主观收缩|第一综合：习惯]] · [[20260830-0047-德勒兹柏格森纯粹过去与直观问题论|纯粹过去与直观]] · [[20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge|回退性 × 第三综合（桥接）]] · [[20260715-0017-Hom2018-timing-theory|Hom：时机理论]]
 
-### 4 德勒兹-加塔利原典 · ≈101 张
+### 4 德勒兹-加塔利原典 · ≈102 张
 <!-- cluster: 千高原,反俄狄浦斯,战争机器,war-machine,游牧学,nomadology,解域化,deterritorialization,块茎,rhizome,无器官身体,褶子,fold,精神分裂分析,schizoanalysis,混沌互渗,机器圈 -->
 
 关键词：千高原 / 反俄狄浦斯 / 战争机器 / 游牧学 / 解域化-再辖域化 / 块茎 / 无器官身体 / 褶子 / 感觉的逻辑 / 精神分裂分析 / 混沌互渗 / 机器圈 / 什么是哲学
@@ -48,7 +48,7 @@
 关键词：本体论安全 / ontological-security / 焦虑 / 例行化 / 抑郁位置 / 投射性认同
 入口卡：[[20260713-0003-Mitzen2006-ontological-security-routines|Mitzen：例行实践]] · [[20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话|Steele 与虚空的对话]] · [[20260713-0002-Vulovic-Ejdus2024-objet-a-ontological-security|Vu 与 Ejdus：对象 a]] · [[20260715-0001-Eberle2017-fantasy-ontological-security|Eberle：幻象与本体论安全]] · [[20260715-0012-Markland2026-provincialising-ontological-insecurity|Markland：本体论不安全的去中心化]] · [[20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo|Zevnik：症候与幻象]]
 
-### 7 空间与地理哲学 · ≈83 张
+### 7 空间与地理哲学 · ≈84 张
 <!-- cluster: 空间,space,地理哲学,geophilosophy,平滑空间,smooth-space,条纹空间,striated-space,海洋与陆地,territory,领土 -->
 
 关键词：空间 / 地理哲学 / 平滑空间 / 条纹化空间 / 海洋与陆地 / 领土 / 线条 / 位置性
@@ -60,7 +60,7 @@
 关键词：海权 / 陆权 / 地缘 / 大战略 / 航母 / 灰色地带 / 有限性 / 海陆复合 / 海洋政治学
 入口卡：[[20260622-0068-qin-tan-geostrategy-ingest|秦谭地缘战略（ingest）]] · [[20260622-0037-陆海复合型强国的战略选择不是地理宿命秦立志谭皓宇的地缘位势安全感知分析框架|陆海复合型强国]] · [[20260624-0091-qin-strategic-uncertainty-card1-core-thesis|秦：战略不确定性]] · [[20260624-0086-qin-land-maritime-card1-core-thesis|秦：陆海复合]] · [[20260624-0006-jiang-land-sea-strategy-card1-core-thesis|蒋：海陆战略]] · [[20260623-0002-海洋作为本体论不安全的空间对应在陆地条纹化叙事和海洋平滑性之间的存在焦虑|海洋作为本体论不安全]] · [[20260620-1758-中国的间接战略传统与美国的威慑战略从根子|中国的间接战略传统]]
 
-### 9 威慑、军事战略与决策 · ≈70 张
+### 9 威慑、军事战略与决策 · ≈75 张
 <!-- cluster: 威慑,deterrence,核威慑,情报,intelligence,战役,军事,间接路线,Naveh,CSIS -->
 
 关键词：威慑 / deterrence / 核威慑 / 情报失败 / 战役 / 军事 / 决策 / 间接路线 / 信号
@@ -72,7 +72,7 @@
 关键词：唐世平 / 张景全 / 秦立志 / 赵汀阳 / 区域化与安全化悖论 / 国际关系理论 / 台海 / 南海 / 日本
 入口卡：[[20260622-0039-秦立志论大国博弈的螺旋模式安全困境的时空维度和有限理性|秦：螺旋模式与安全困境]] · [[20260624-0116-tang-social-evolution-card1-core-thesis|唐世平：社会演化]] · [[20260622-0076-wang-meng-time-space-world-politics-methodology|汪-孟：时空与世界政治方法论]] · [[20260624-0048-liu-qu-manifold-evolution-card6-bridge|刘-屈：流形演化]] · [[20260926-0009-paes-bridge-brokerage-rent-zhang-paradox|Paes × 张景全悖论]] · [[20260622-0059-gao-lu-westphal-geocriticism-review|高-陆：地理批评]] · [[20260716-0024-Olkowski2008-mathematical-time-limits|Olkowski：数学时间的极限]]
 
-### 11 方法论与概念创造 · ≈66 张
+### 11 方法论与概念创造 · ≈68 张
 <!-- cluster: 方法论,methodology,概念创造,concept-creation,谱系学,案例,case-study,概念性人物,批判IR -->
 
 关键词：方法论 / 概念创造 / 谱系学 / 案例选择 / 本体论承诺 / 批判 IR
@@ -127,26 +127,26 @@
 <!-- hubs:start 由园丁每周重算：按入度取 top 20 -->
 | 入度 | 卡片 |
 |---|---|
+| 40 | [[20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架|虚空、实在界、内在性平面]] |
+| 39 | [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|世界秩序的最终本体论支撑是虚空]] |
+| 39 | [[20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性|Deleuze以虚拟/现实区分取代可能/现实]] |
 | 39 | [[20260622-0060-hu-bo-chen-grey-zone-strategy|胡波 (2024) + 陈相秒 (2024)]] |
-| 37 | [[20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的|世界秩序的最终本体论支撑是"虚空"]] |
-| 37 | [[20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架|虚空、实在界、内在性平面]] |
-| 35 | [[20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性|Deleuze以虚拟/现实区分取代可能/现实]] |
-| 34 | [[20260622-0068-qin-tan-geostrategy-ingest|qin-tan-geostrategy-ingest]] |
+| 34 | [[20260622-0068-qin-tan-geostrategy-ingest|秦立志、谭皓宇(2025)地缘位势/安全感知与陆海复…]] |
 | 34 | [[20260622-0056-dibb-brabin-deterrence-denial-warning|Dibb & Brabin-Smith (2021)]] |
+| 33 | [[20260620-1544-德勒兹的两种时间模式|德勒兹的两种时间模式]] |
+| 33 | [[20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi|德勒兹空间哲学的三个翻译进路]] |
 | 32 | [[20260622-0076-wang-meng-time-space-world-politics-methodology|王存刚 & 孟凯强 (2025)]] |
-| 31 | [[20260620-1544-德勒兹的两种时间模式|德勒兹的两种时间模式]] |
+| 30 | [[20260622-0071-smith-pure-form-time-three-syntheses|Daniel W. Smith]] |
+| 30 | [[20260623-1610-平滑空间与条纹化空间|平滑空间与条纹化空间]] |
 | 28 | [[20260622-0081-zhu-ning-copenhagen-school-security|朱宁 (2003)]] |
-| 27 | [[20260622-0071-smith-pure-form-time-three-syntheses|smith-pure-form-time-three…]] |
-| 26 | [[20260623-0018-saldanha-space-after-deleuze-ingest|saldanha-space-after-deleu…]] |
+| 27 | [[20260623-0010-剩余安全的多重本体论基础少于无非全与剩余|剩余安全的多重本体论基础]] |
+| 26 | [[20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造|分层是同质化冻结]] |
+| 26 | [[20260623-0018-saldanha-space-after-deleuze-ingest|20 张原子卡，覆盖 Saldanha 德勒兹空间化…]] |
 | 24 | [[20260622-0058-fang-guo-metaphor-scenario-nontraditional-security|方菁 & 郭继荣 (2021)]] |
-| 23 | [[20260623-1610-平滑空间与条纹化空间|平滑空间与条纹化空间]] |
-| 22 | [[20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造|"分层"是同质化冻结，"一致性"是异质化创造]] |
 | 22 | [[20260622-0037-陆海复合型强国的战略选择不是地理宿命秦立志谭皓宇的地缘位势安全感知分析框架|陆海复合型强国的战略选择不是地理宿命]] |
 | 22 | [[20260622-0080-zhang-security-sense-neglected-dimension|张清敏 (2024)]] |
 | 22 | [[20260622-0079-yin-liu-national-security-personality-foundations|尹继武 & 刘颖哲 (2025)]] |
-| 22 | [[20260623-0019-shores-logic-deleuze-ingest|shores-logic-deleuze-inges…]] |
-| 21 | [[20260620-1509-资本主义解域化只为更强大的再辖域化|资本主义解域化只为更强大的再辖域化]] |
-| 20 | [[20260623-1600-Saldanha|Saldanha]] |
+| 22 | [[20260623-0019-shores-logic-deleuze-ingest|9 张原子卡，覆盖 Shores 德勒兹逻辑学全貌]] |
 <!-- hubs:end -->
 
 > 骨架卡集中在 2026-06 批次；此后新增的卡多为指向它们的叶节点。要为新卡补入边，见 `zettelkasten-maintenance` 的 1d 条：关系图只认正文 wikilink。
@@ -160,7 +160,7 @@
 | 2026-07 | 205 | 本体论安全（OSS）与批判 IR 文献：Mitzen、Steele、Vulovic-Ejdus、Markland、Zevnik、Hom、Solomon、To、McIntosh |
 | 2026-08 | 175 | 德勒兹-柏格森线（纯粹过去、直观）、齐泽克、Stivale、柄谷行人、杨凯麟、Ulysses 摘录消化 |
 | 2026-09 | 79 | Jackson-Nexon 关系主义、Paes、Cash（克莱因位置）、Erskine、Amoureux、Ralph、McIntosh 量子时间、Solomon 展开、Hom 时机 |
-| 2026-10 | 72 | Bacon《感觉的逻辑》20 张、《对话》20 张、《差异与重复》细读 37 张、plateau 概念卡 |
+| 2026-10 | 88 | Bacon《感觉的逻辑》20 张、《对话》20 张、《差异与重复》细读 37 张、plateau 概念卡 |
 <!-- batches:end -->
 
 ## 卡片系列
