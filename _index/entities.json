@@ -1,102 +1,4 @@
 {
-  "------": [
-    "20260624-0013-brooks-maritime-strategy-card2-bridge",
-    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
-    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
-    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
-    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
-    "20260624-0080-original-remaining-bridge-index",
-    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
-    "20260624-0090-qin-land-maritime-card5-bridge",
-    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
-    "20260624-0099-retaille-geopolitics-history-card2-bridge",
-    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
-    "20260624-0125-tang-system-security-card6-bridge",
-    "20260624-0142-xu-time-strategic-goal-card4-bridge",
-    "20260624-0149-yang-complex-system-card7-bridge",
-    "20260624-0155-zhang-maritime-politics-card2-bridge",
-    "20260624-0158-zhang-regionalization-securitization-card2-bridge"
-  ],
-  "---------": [
-    "20260624-0018-chao-cho-signaling-sea-card5-platform-specific",
-    "20260624-0033-liu-ge-extended-immediate-deterrence-card1-concept",
-    "20260624-0107-song-complexity-science-card4-research-landscape"
-  ],
-  "----------": [
-    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
-    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
-    "20260624-0056-marklund-kjellen-geopolitics-soft-power-card1-core",
-    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
-    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
-    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
-    "20260624-0125-tang-system-security-card6-bridge",
-    "20260624-0142-xu-time-strategic-goal-card4-bridge",
-    "20260624-0145-yang-complex-system-card3-five-path-dependencies",
-    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
-    "20260624-0155-zhang-maritime-politics-card2-bridge",
-    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors"
-  ],
-  "2016": [
-    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
-    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
-    "20260624-0090-qin-land-maritime-card5-bridge",
-    "20260624-0101-shao-shi-land-maritime-card2-bridge"
-  ],
-  "2019": [
-    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
-    "20260624-0101-shao-shi-land-maritime-card2-bridge"
-  ],
-  "20260622": [
-    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
-    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
-    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
-    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
-    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
-    "20260624-0125-tang-system-security-card6-bridge",
-    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge",
-    "20260624-0138-war-machine-bridge-surplus-security",
-    "20260624-0149-yang-complex-system-card7-bridge",
-    "20260624-0165-zhao-time-temporality-card6-bridge"
-  ],
-  "20260623": [
-    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
-    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
-    "20260624-0108-song-complexity-science-card5-bridge"
-  ],
-  "20260624": [
-    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
-    "20260624-0011-bana-sea-power-card5-conclusion-bridge",
-    "20260624-0013-brooks-maritime-strategy-card2-bridge",
-    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
-    "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
-    "20260624-0023-hu-liu-geopolitical-intersubjectivity-card2-bridge",
-    "20260624-0025-hu-lu-critical-geopolitics-card2-bridge",
-    "20260624-0032-jiang-land-sea-strategy-card3-bridge",
-    "20260624-0038-liu-ge-extended-immediate-deterrence-card6-bridge",
-    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
-    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
-    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
-    "20260624-0080-original-remaining-bridge-index",
-    "20260624-0085-qin-dynamic-mechanism-card5-bridge",
-    "20260624-0090-qin-land-maritime-card5-bridge",
-    "20260624-0097-qin-strategic-uncertainty-card7-bridge",
-    "20260624-0099-retaille-geopolitics-history-card2-bridge",
-    "20260624-0101-shao-shi-land-maritime-card2-bridge",
-    "20260624-0103-shi-security-philosophical-paradigms-card2-bridge",
-    "20260624-0108-song-complexity-science-card5-bridge",
-    "20260624-0115-tang-idea-action-outcome-card4-bridge",
-    "20260624-0125-tang-system-security-card6-bridge",
-    "20260624-0131-tang-yongsheng-grand-strategy-card6-bridge",
-    "20260624-0137-wang-zhu-emotional-geopolitics-card6-bridge",
-    "20260624-0138-war-machine-bridge-surplus-security",
-    "20260624-0142-xu-time-strategic-goal-card4-bridge",
-    "20260624-0149-yang-complex-system-card7-bridge",
-    "20260624-0153-ye-tang-case-selection-card4-bridge",
-    "20260624-0155-zhang-maritime-politics-card2-bridge",
-    "20260624-0158-zhang-regionalization-securitization-card2-bridge",
-    "20260624-0165-zhao-time-temporality-card6-bridge",
-    "20260624-0170-zuo-tang-strategic-behavior-card5-bridge"
-  ],
   "A2AD": [
     "20260620-1771-A2AD能力正在根本性改变航母在西太平洋",
     "20260624-0066-original-batch1-grey-zone-a2ad"
@@ -199,7 +101,9 @@
   "ASBM": [
     "20260623-0005-Hendrix论航母的代价在反舰导弹和卫星时代航母正在重蹈战列舰的覆辙昂贵脆弱且过时",
     "20260715-0005-Johnson2022-inadvertent-escalation-AI",
-    "20260918-0001-yang-vocke-asbm-myths-dual-debunk"
+    "20260918-0001-yang-vocke-asbm-myths-dual-debunk",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "ASEAN": [
     "20260701-0012-zhang-yunling-china-regional-view",
@@ -207,7 +111,8 @@
   ],
   "ASPI": [
     "20260622-0056-dibb-brabin-deterrence-denial-warning",
-    "20260807-0002-regeneration-cycle-mission-duration-criterion"
+    "20260807-0002-regeneration-cycle-mission-duration-criterion",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition"
   ],
   "ATP": [
     "20260620-1502-家是通过安排构建的舒适空间而非预先存在的",
@@ -275,6 +180,12 @@
   "Abstract": [
     "20260623-1901-列斐伏尔的三元空间与抽象空间辩证",
     "20260623-2203-地缘哲学核心术语的复杂性理论快照"
+  ],
+  "Academic": [
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "According": [
     "20260621-0501-全球社会谵妄不是个体精神病理而是社会场的全体性欲望投注Akil对ISIS视频的德勒兹式解读",
@@ -360,6 +271,8 @@
     "20260716-0051-Zehfuss2004-writing-war-conscience"
   ],
   "Agamben": [
+    "20260621-0492-关塔那摩的微观抵抗实践不是例外而是另一种世界秩序的本体论展演",
+    "20260621-0499-战争不在主权例外中被悬置而外在于国家Colebrook以战争机器批判阿甘本",
     "20260623-1409-革命的任务不是改变世界而是改变时间本身",
     "20260623-1410-幼年是语言的先验界限经验使语言成为真理的",
     "20260623-2102-成为",
@@ -457,6 +370,13 @@
   "Alice": [
     "20260623-1701-纯粹生成悖论的dialetheic解读",
     "20260623-1702-异质性组合的胶子逻辑"
+  ],
+  "Alistair": [
+    "20260715-0012-Markland2026-provincialising-ontological-insecurity",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Allison": [
     "20260701-0027-allison-liddell-hart-strategy-decision",
@@ -746,7 +666,19 @@
   "Australia": [
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
     "20260624-0089-qin-land-maritime-card4-soviet-china",
-    "20260703-0005-hart2026-Australia-Oceania-straits"
+    "20260703-0005-hart2026-Australia-Oceania-straits",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
+  "Australian": [
+    "20260622-0056-dibb-brabin-deterrence-denial-warning",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
+  "Australian Strategic Policy Institute": [
+    "20260622-0056-dibb-brabin-deterrence-denial-warning",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Bachelard": [
     "20260830-0033-Bachelard空间诗学家宅与压缩时间",
@@ -758,6 +690,8 @@
     "20260830-0095-德勒兹纯视听影像隐喻与电影符号学"
   ],
   "Badiou": [
+    "20260622-0033-Prozorov的虚空普遍主义不是从虚无出发而是把虚空的肯定本身作为政治的唯一基础",
+    "20260622-1609-德勒兹的永恒回归肯定差异性而非同一性",
     "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20260623-1605-地缘政治的普遍化",
     "20260623-1606-多重性的两种路径",
@@ -776,7 +710,8 @@
     "20260830-0140-Badiou褶皱域外记忆与主体化",
     "20260830-0141-Badiou福柯域外拓扑学",
     "20260830-0142-Badiou直观双重运动与概念无人称",
-    "20260830-0147-德勒兹莱布尼茨最好与善"
+    "20260830-0147-德勒兹莱布尼茨最好与善",
+    "20261104-0001-immanence-as-practical-index-not-substance"
   ],
   "Baldauff": [
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
@@ -874,6 +809,12 @@
     "20260624-0134-wang-zhu-emotional-geopolitics-card3-mind-body-environment",
     "20260624-0136-wang-zhu-emotional-geopolitics-card5-affective-atmosphere-nationalism"
   ],
+  "Basis": [
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
+  ],
   "Bassett": [
     "20260715-0017-Hom2018-timing-theory",
     "20260926-0049-hom-war-as-timing-contest-identity-as-timing-project"
@@ -903,7 +844,11 @@
     "20260928-0005-eun-ir-pluralism-representational-diversity",
     "20260928-0006-eun-becoming-rhizomatic-territory-codes",
     "20260928-0007-eun-horizontal-pedagogy-open-knowledge",
-    "20260928-0008-eun-royal-nomad-science-public-knowledge"
+    "20260928-0008-eun-royal-nomad-science-public-knowledge",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Bedrock": [
     "20261029-0005-semiformal-network-order-not-outsourced",
@@ -975,6 +920,9 @@
   "Bergson": [
     "20260620-1602-过去与它所是的现在同时共存是柏格森时间哲",
     "20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学",
+    "20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性",
+    "20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统",
+    "20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化",
     "20260622-0063-luzecky-smith-deleuze-time-intro",
     "20260622-0067-olkowski-time-real-chaos-complexity",
     "20260623-0013-复杂性理论的跨文明平行德勒兹加塔利与钱学森开放复杂巨系统",
@@ -1093,7 +1041,17 @@
     "20260622-0021-空间不是康德的先验范畴而是差异本身德勒兹重新引入物质的时间和空间维度Saldanha",
     "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20260623-0019-shores-logic-deleuze-ingest",
-    "20260722-0001-晶体时间耐久性悖论不可保持与不可切换"
+    "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
+  ],
+  "Bloomsbury Academic": [
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Bodies": [
     "20260621-0451-DeLanda的多层次尺度分析将DG的分层理论转化为跨无机有机社会的统一框架",
@@ -1236,7 +1194,8 @@
     "20260830-0010-DelandaHarman时间争论",
     "20260830-0026-Hardt德勒兹斯宾诺莎共同概念与唯物主义",
     "20260926-0003-jackson-nexon-ontology-no-method",
-    "20261010-0001-deleuze-entropy-extension-内含的外展"
+    "20261010-0001-deleuze-entropy-extension-内含的外展",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "Borde": [
     "20260621-0012-Guattari的精神分裂分析应被重新理",
@@ -1291,7 +1250,8 @@
     "20260624-war-machine-bridge-surplus-security",
     "20261016-0001-reflexive-coupling-prediction-attribution-gap",
     "20261022-0001-knife-fight-attribution-deterrence-medium",
-    "20261022-0002-depth-as-attribution-cost-time-volume"
+    "20261022-0002-depth-as-attribution-cost-time-volume",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition"
   ],
   "Braidotti": [
     "20260620-1590-主体之死被高估了",
@@ -1316,6 +1276,7 @@
     "20260830-0135-反俄狄浦斯专制国家与亚细亚生产方式",
     "20260830-0138-反俄狄浦斯经济依赖与解构自我",
     "20260830-0139-反俄狄浦斯主权荒谬性与理性徒劳",
+    "20260830-0148-德勒兹福柯尼采交汇与思想战争机器",
     "20260914-0003-war-machine-numbering-number",
     "20260914-0004-war-not-object-nomos",
     "20260917-0001-Braidotti-Deleuze结构性两难1996",
@@ -1409,6 +1370,7 @@
     "20260926-0025-ralph-international-society-as-os-provider-framework"
   ],
   "BwO": [
+    "20260621-0498-恐怖是癌变的无器官身体而非革命性的无器官身体",
     "20260623-1407-欲望是基础设施欲望生产比社会生产更根本",
     "20260623-2203-地缘哲学核心术语的复杂性理论快照"
   ],
@@ -1518,6 +1480,11 @@
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
     "20261029-0004-public-right-gap-jurisprudence-becoming-democratic"
+  ],
+  "Canberra": [
+    "20260624-0009-bana-sea-power-card3-regional-responders",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Capital": [
     "20260623-1607-资本的公理系统",
@@ -1684,7 +1651,8 @@
     "20260703-0009-hart2026-Taiwan-existential",
     "20260703-0010-hart2026-OxMarTrans-methodology",
     "20260715-0011-Wang2025-digital-security-dilemma",
-    "20260721-0019-Hart-et-al-SCS-trade-chokepoints"
+    "20260721-0019-Hart-et-al-SCS-trade-chokepoints",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "China Model": [
     "20260624-0058-nathan-scobell-globalization-security-card1-thesis",
@@ -1695,10 +1663,15 @@
     "20260624-0063-nathan-scobell-globalization-security-card6-china-threat-conclusion"
   ],
   "Chinese": [
+    "20260621-0465-孙利天以高清海实践观点沟通德勒兹多元平面与黑格尔一元辩证为中国哲学自主创造概念奠基",
     "20260623-0006-Erickson和Wilson论中国的航母困境在反舰导弹和卫星监视时代中国面临航母还是潜艇的战略抉择",
     "20260626-1030-张小宁的跨文明桥接德勒兹非二元与中庸",
     "20260627-0013-古代海防三策御海洋制海萌芽",
     "20260926-0004-jackson-nexon-modalities-of-relations-china-dialogue"
+  ],
+  "Chinese-philosophy": [
+    "20260621-0465-孙利天以高清海实践观点沟通德勒兹多元平面与黑格尔一元辩证为中国哲学自主创造概念奠基",
+    "20260626-1030-张小宁的跨文明桥接德勒兹非二元与中庸"
   ],
   "Choat": [
     "20260716-0021-Choat2009-Deleuze-Marx-politicisation",
@@ -1834,6 +1807,8 @@
     "20260926-0040-solomon-retroactivity-button-ties-master-signifier"
   ],
   "Clausewitz": [
+    "20260622-0036-Reid论德勒兹的战争机器不是军队而是一种反抗国家捕获的思维和存在的游牧形式",
+    "20260622-1611-克劳塞维茨绝对战争三一模型第三个元素是偶然性",
     "20260626-1710-张能论德勒兹政治操作于战术层面而非战略层面",
     "20260627-0002-游牧之思是战术性的而非战略性的",
     "20260627-0006-孙子首先注意战争与经济关系",
@@ -1878,7 +1853,11 @@
   ],
   "Collett": [
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
-    "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis"
+    "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Columbia": [
     "20260713-0006-quine-ontological-relativity",
@@ -1927,7 +1906,11 @@
     "20260626-1224-安全化失败当认识权威不支持",
     "20260626-1227-同一情报机构三次安全化三次结果",
     "20260626-1230-西方式分析框架对非国家宗教行为体无效",
-    "20260626-1246-蜂群战术非线性分形去中心化战斗"
+    "20260626-1246-蜂群战术非线性分形去中心化战斗",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Conclusion": [
     "20260621-0007-Guattari的思想经历了从解域化主导",
@@ -2142,6 +2125,11 @@
     "20260624-0004-baldauff-heng-japan-dcas-card4-australia-case",
     "20260624-0005-baldauff-heng-japan-dcas-card5-uk-case"
   ],
+  "DF": [
+    "20260918-0001-yang-vocke-asbm-myths-dual-debunk",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "DG": [
     "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
     "20260620-1812-航母战斗群是德勒兹意义上的装置而非单纯的",
@@ -2171,6 +2159,7 @@
     "20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁",
     "20260621-0504-恐怖作为虚空的病理化Zevnik的本体论虚空与DG的战争机器在暴力边缘汇合提出了政治创造性的门槛问题",
     "20260622-0022-德勒兹的空间四重奏地球流场所地图构成了德勒兹空间哲学的四维分析框架",
+    "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
     "20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi",
     "20260623-0013-复杂性理论的跨文明平行德勒兹加塔利与钱学森开放复杂巨系统",
     "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
@@ -2220,7 +2209,9 @@
     "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
     "20261020-0003-strata-time-vs-lagrangian-motion-geography",
     "20261030-0002-vietnam-whose-deterrence-assemblage-position",
-    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading"
+    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "DOI": [
     "20260626-1212-情报机构认识权威决定安全化成败",
@@ -2251,7 +2242,8 @@
     "20260805-0007-williams-li-kelin-two-readings",
     "20260805-0008-crystal-cinema-tension-bridge",
     "20260809-0001-zizek-gnosticism-divine-kenosis",
-    "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation"
+    "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "DTRA": [
     "20261022-0005-two-nuclear-peers-no-coordination-needed",
@@ -2329,13 +2321,17 @@
     "20260716-0039-Blaney-Tickner2017-worlding-decolonial",
     "20260721-0019-Hart-et-al-SCS-trade-chokepoints"
   ],
+  "Davis": [
+    "20260620-1756-距离暴君在单极体系中同样制约着军事力量的",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence",
+    "20261103-0003-security-as-product-coverage-generates-surplus",
+    "20261103-0004-circle-on-map-area-versus-volume-and-duration",
+    "20261103-0005-distance-as-inclusion-of-others-problems"
+  ],
   "Day War": [
     "20260626-1212-情报机构认识权威决定安全化成败",
     "20260626-1227-同一情报机构三次安全化三次结果"
-  ],
-  "DeLanda": [
-    "20260621-0016-deleuze-geophilosophy-ingest",
-    "20260623-1609-尺度问题"
   ],
   "Death": [
     "20260622-0013-Zupancic和Johnston论死亡驱力拉康与德勒兹都拒绝快乐原则的稳态模型但走向了不同的本体论后果",
@@ -2380,8 +2376,6 @@
     "20260830-0087-Meillassoux科学家现实主义与哲学更正"
   ],
   "Deleuze": [
-    "20260620-1500-装置是安排的过程而非静态组织",
-    "20260620-1503-事件决定空间和时间而非相反",
     "20260620-1510-欲望生产使生产方式成为其所是而非相反",
     "20260620-1520-社会机器本身就是真正的公理",
     "20260620-1521-国家既是压迫机器又是欲望的对象",
@@ -2422,24 +2416,6 @@
     "20260620-1556-他人结构缺席时意识与对象黏合在一起",
     "20260620-1557-永恒回归不是相同者的回归",
     "20260620-1558-第三种秘传语言不是对理想语言的修复",
-    "20260620-1560-德勒兹的哲学剧场只完成了一半",
-    "20260620-1561-失重是德勒兹哲学中对理性排斥的集中表达",
-    "20260620-1566-哲学必须包含对生活的非哲学洞察",
-    "20260620-1568-所有的创造都是对始源性创造的重复",
-    "20260620-1569-德勒兹的时间哲学重建了个体生命的丰富性",
-    "20260620-1570-如何在生命断裂的同时持守整体性",
-    "20260620-1571-当下向空白敞开",
-    "20260620-1572-人的创造在根本上是一个碰运气的过程",
-    "20260620-1573-情感驱动下的记忆重复必然产生差异",
-    "20260620-1574-看似坚固的规律性其实是架构在摇摇晃晃的地",
-    "20260620-1575-虚无主义通过设置更高价值否定生命",
-    "20260620-1576-永恒轮回中某物的轮回不能证明同一性",
-    "20260620-1577-德勒兹以经验的复杂性质疑知识的确定性",
-    "20260620-1578-战后法国哲学对无意识的理解可以分为三个递",
-    "20260620-1579-德勒兹的先验主义在维持思想无限性的同时放",
-    "20260620-1580-放弃思想的确定性唤起了新主体的诞生",
-    "20260620-1581-胡塞尔和德勒兹分别代表了面对无意识危机的",
-    "20260620-1584-最强的欲望是对欲望本身的欲望",
     "20260620-1591-思想的女性化是反人文主义总计划中的基本步",
     "20260620-1620-少数文学的本质在于对主流语言的解域化处理",
     "20260620-1621-生成",
@@ -2470,7 +2446,6 @@
     "20260620-1812-航母战斗群是德勒兹意义上的装置而非单纯的",
     "20260620-1813-国家欲望生产驱动海军扩张战略理性是欲望流",
     "20260620-1814-灰区冲突是地缘政治的生成",
-    "20260620-1815-航母的威慑力量作为虚拟性存在不被现实化却",
     "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因",
     "20260620-1817-海上装置在陆地空间的失效不是战术失误而是",
     "20260620-1818-和平与战争的二元编码正在被强度和生成的连",
@@ -2599,8 +2574,6 @@
     "20260622-1800-德勒兹的法律作为法律实践的不停生成而非体系的封闭结构",
     "20260622-1810-泽夫尼克对拉康和德勒兹的整合是非对称的策略而非体系性综合",
     "20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi",
-    "20260623-0013-复杂性理论的跨文明平行德勒兹加塔利与钱学森开放复杂巨系统",
-    "20260623-0014-抵抗的极限与可能福柯德勒兹拉康主权抵抗三角",
     "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
     "20260623-0017-richter-politics-of-orientation-ingest",
     "20260623-0018-saldanha-space-after-deleuze-ingest",
@@ -2613,10 +2586,7 @@
     "20260623-1403-少数文学的三大特征是语言解域政治挂钩和群",
     "20260623-1404-生成动物不是隐喻而是字面性强度修改",
     "20260623-1405-斯宾诺莎三种知识对应光的三种状态从阴影符",
-    "20260623-1406-时间第三种综合的停顿是经验链条中的裂隙也",
-    "20260623-1407-欲望是基础设施欲望生产比社会生产更根本",
     "20260623-1412-别人不是另一个主体而是一个可能世界",
-    "20260623-1413-精神分裂作为过程而不是疾病状态下临床诊断",
     "20260623-1600-Saldanha",
     "20260623-1601-德勒兹的普遍奠基瓦解",
     "20260623-1602-地缘哲学作为概念创造",
@@ -2649,7 +2619,6 @@
     "20260623-1800-里希特核心论题",
     "20260623-1801-意义的内在创造",
     "20260623-1802-分岔政治事件",
-    "20260623-1803-取向政治与后真相民粹",
     "20260623-1804-游牧单子与自创生折叠",
     "20260623-1805-后根基批判",
     "20260623-2100-Zevnik核心论题",
@@ -2685,14 +2654,11 @@
     "20260626-1100-张能将德勒兹政治哲学定位为描述而非论证",
     "20260626-1240-反几何学穿墙战术空间解读即战斗",
     "20260626-1243-批判理论武器化Naveh行动理论研究所",
-    "20260626-1246-蜂群战术非线性分形去中心化战斗",
     "20260626-1300-三重否定性尼采德勒兹之外的可能",
     "20260626-1303-第一种否定性辩证连续论尼采黑格尔",
     "20260626-1306-第二种否定性差异本体论从柏拉图到海德格尔",
     "20260626-1318-回反作为否思方法思想生命自我反转",
     "20260626-1710-张能论德勒兹政治操作于战术层面而非战略层面",
-    "20260627-0019-生成哲学在适应型战略定义下具有战略意义",
-    "20260627-0020-生成哲学弥合战略规划实施裂隙非消除而是重新定义",
     "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual",
     "20260630-0002-bonta-protevi-emergence-epistemic-ontological",
     "20260630-0003-bonta-protevi-political-physiology-above-below-subject",
@@ -2747,12 +2713,10 @@
     "20260804-0002-viveiros-clastres-politics-multiplicity",
     "20260804-0005-tree-rhizome-dichotomy-self-handling-critiques",
     "20260804-0006-three-lines-molar-supple-flight",
-    "20260805-0004-fold-fractal-material-actualization",
     "20260805-0005-fold-duration-bergson-leibniz",
-    "20260805-0006-fold-inter-dimensional-not-plus-one",
     "20260805-0007-williams-li-kelin-two-readings",
     "20260805-0008-crystal-cinema-tension-bridge",
-    "20260806-0001-fold-not-interconnection-windowless-monads",
+    "20260805-0009-capital-time-collective-time-bridge",
     "20260807-0001-janz-territory-is-not-the-map",
     "20260808-0003-stonecutter-two-layer-actualization",
     "20260810-0001-becoming-revolutionary-virtual-people-crack",
@@ -2835,7 +2799,15 @@
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
     "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
-    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading"
+    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Deleuze Studies": [
     "20260709-0003-Dukes2016-mechanosphere-genealogy",
@@ -2851,7 +2823,11 @@
     "20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker",
     "20260925-0001-Satoor以问题解答现实化反驳Hallward逃出世界读法",
     "20260925-0002-Satoor从单义性推导平等但本体到规范的论证未完成",
-    "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成"
+    "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Deleuze and Geophilosophy": [
     "20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi",
@@ -2862,7 +2838,8 @@
   "Deleuze-Guattari": [
     "20260620-1510-欲望生产使生产方式成为其所是而非相反",
     "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
-    "20260804-0006-three-lines-molar-supple-flight"
+    "20260804-0006-three-lines-molar-supple-flight",
+    "20260805-0009-capital-time-collective-time-bridge"
   ],
   "Deleuze-critique": [
     "20260626-1303-第一种否定性辩证连续论尼采黑格尔",
@@ -2875,7 +2852,17 @@
     "20260623-2102-成为",
     "20260623-2202-复杂空间的地理学",
     "20260814-0001-two-intifadas-rhizome-tree-nonviolence",
-    "20261029-0003-paradoxical-normativity-prudence-endless-evaluation"
+    "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
+  ],
+  "Deleuzian Conception": [
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Deng": [
     "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
@@ -2899,7 +2886,9 @@
   ],
   "Denial": [
     "20260622-0056-dibb-brabin-deterrence-denial-warning",
-    "20260716-0035-Mnatsakanyan2022-denials-seabed-space"
+    "20260716-0035-Mnatsakanyan2022-denials-seabed-space",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Depth": [
     "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
@@ -3040,7 +3029,8 @@
     "20260624-war-machine-bridge-surplus-security",
     "20261016-0001-reflexive-coupling-prediction-attribution-gap",
     "20261022-0001-knife-fight-attribution-deterrence-medium",
-    "20261022-0002-depth-as-attribution-cost-time-volume"
+    "20261022-0002-depth-as-attribution-cost-time-volume",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition"
   ],
   "Dick": [
     "20260715-0019-Solomon2014-time-subjectivity",
@@ -3701,11 +3691,18 @@
     "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
     "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
   ],
+  "Forward": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "Foucault": [
     "20260620-1591-思想的女性化是反人文主义总计划中的基本步",
     "20260620-1594-女性身体的形态学模糊性挑战了逻各斯中心主",
     "20260620-1595-核危机摧毁的不是启蒙进步信念",
     "20260620-1597-思想先于理性思考",
+    "20260620-1684-身体作为不可化简的空间既是权力规训的终极",
+    "20260622-0036-Reid论德勒兹的战争机器不是军队而是一种反抗国家捕获的思维和存在的游牧形式",
+    "20260622-1612-德勒兹与福柯在战争权力关系上的分歧",
     "20260623-1608-战争机器与战斗伦理",
     "20260623-1615-折叠与制图学",
     "20260623-2104-思想的极限与法的构型",
@@ -3745,6 +3742,7 @@
     "20260713-0009-Maher2023-free-market-fantasy"
   ],
   "Freud": [
+    "20260620-1532-弗洛伊德发现了力比多但将其重新异化在俄狄",
     "20260621-0008-Guattari以无意识即可能性的领域对",
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
     "20260622-1630-俄狄浦斯法与图腾禁忌奠定了现代主体性的基础"
@@ -3907,7 +3905,8 @@
     "20260926-0012-cash-kleinian-positions-anarchy-cultures",
     "20260926-0022-gellwitzki-object-relations-subject-no-presocial-self",
     "20260926-0024-gellwitzki-depressive-position-reparation-guilt-as-security",
-    "20260926-0027-ralph-kleinian-thin-solidarism-collective-security"
+    "20260926-0027-ralph-kleinian-thin-solidarism-collective-security",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Gibbs": [
     "20260624-0020-gibbs-ussr-grand-strategy-card1-core",
@@ -4122,6 +4121,7 @@
   ],
   "Gray": [
     "20260622-0060-hu-bo-chen-grey-zone-strategy",
+    "20260624-0121-tang-system-security-card2-geography",
     "20260701-0003-gray-geography-grand-strategy",
     "20260926-0005-paes-networked-territoriality-bounding-binding"
   ],
@@ -4281,9 +4281,7 @@
     "20260623-1402-概念是绝对与相对的统一体其内部组成不可分",
     "20260623-1403-少数文学的三大特征是语言解域政治挂钩和群",
     "20260623-1404-生成动物不是隐喻而是字面性强度修改",
-    "20260623-1407-欲望是基础设施欲望生产比社会生产更根本",
     "20260623-1412-别人不是另一个主体而是一个可能世界",
-    "20260623-1413-精神分裂作为过程而不是疾病状态下临床诊断",
     "20260623-1603-层叠与双重分节",
     "20260623-1604-机械种系与机械圈的唯物主义",
     "20260623-1607-资本的公理系统",
@@ -4295,7 +4293,6 @@
     "20260623-1703-交替而非否定",
     "20260623-2200-Bonta",
     "20260623-2201-德勒兹本体论作为复杂性理论的形而上学",
-    "20260623-2203-地缘哲学核心术语的复杂性理论快照",
     "20260624-1015-菌丝体作为线的本体论隐喻",
     "20260624-ingold-deleuze-bridge",
     "20260626-1000-Ingold线缕痕迹作为德勒兹平滑条纹的操作化",
@@ -4336,6 +4333,7 @@
     "20260804-0001-viveiros-perspectivism-multinaturalism",
     "20260804-0002-viveiros-clastres-politics-multiplicity",
     "20260804-0006-three-lines-molar-supple-flight",
+    "20260805-0009-capital-time-collective-time-bridge",
     "20260807-0001-janz-territory-is-not-the-map",
     "20260810-0001-becoming-revolutionary-virtual-people-crack",
     "20260827-0001-jacques-rosanvallon-cursus-four-ways",
@@ -4354,7 +4352,12 @@
     "20260924-0001-adkins-marcel-bike-clinical-experiment",
     "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety",
     "20261020-0003-strata-time-vs-lagrangian-motion-geography",
-    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading"
+    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Guattari Beyond Deleuze": [
     "20260621-0001-Guattari的思想在1980年前后发",
@@ -4410,6 +4413,13 @@
     "20260805-0007-williams-li-kelin-two-readings",
     "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation"
   ],
+  "Guillaume": [
+    "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
+  ],
   "Gustafsson": [
     "20260926-0020-gellwitzki-post-giddensian-retains-giddens-concept",
     "20260926-0023-gellwitzki-anxiety-always-existential-action-from-regression"
@@ -4448,7 +4458,10 @@
     "20260716-0011-Smith2010-believing-world",
     "20260804-0005-tree-rhizome-dichotomy-self-handling-critiques",
     "20260925-0001-Satoor以问题解答现实化反驳Hallward逃出世界读法",
-    "20260925-0002-Satoor从单义性推导平等但本体到规范的论证未完成"
+    "20260925-0002-Satoor从单义性推导平等但本体到规范的论证未完成",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Hamas": [
     "20260626-1134-lieberman-core-thesis-deterrence-failure",
@@ -4509,7 +4522,9 @@
     "20260830-0122-Stivale生成女人与懂得去爱",
     "20260830-0144-德勒兹永恒回归析取综合与强度",
     "20261016-0001-reflexive-coupling-prediction-attribution-gap",
-    "20261029-0003-paradoxical-normativity-prudence-endless-evaluation"
+    "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine"
   ],
   "Hardyck": [
     "20260804-0001-viveiros-perspectivism-multinaturalism",
@@ -4591,7 +4606,6 @@
     "20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论",
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
     "20260623-0022-zizek-less-than-nothing-ingest",
-    "20260623-2300-Žižek核心论题",
     "20260623-2301-Žižek的黑格尔",
     "20260623-2302-拉康作为黑格尔的重复",
     "20260623-2303-量子物理与两虚空论",
@@ -4642,7 +4656,14 @@
     "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
     "20260722-0002-能但不执法晶体的实践入口",
     "20261016-0001-reflexive-coupling-prediction-attribution-gap",
-    "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism"
+    "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism",
+    "20261103-0003-security-as-product-coverage-generates-surplus",
+    "20261103-0004-circle-on-map-area-versus-volume-and-duration",
+    "20261103-0005-distance-as-inclusion-of-others-problems",
+    "20261103-0006-two-directions-one-accounting-expansion-vs-inclusion",
+    "20261103-0007-sovereignty-intensity-declines-land-sea-discourse",
+    "20261103-0008-generative-room-as-others-leeway",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "Hezbollah": [
     "20260626-1140-lieberman-lateral-comparison-pattern",
@@ -4767,6 +4788,15 @@
     "20260626-1142-lieberman-hamas-deterrable-organization",
     "20260626-1221-技术乐观主义加沙屏障作为概念陷阱"
   ],
+  "Hugh": [
+    "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
+  "Hughes": [
+    "20260624-0002-baldauff-heng-japan-dcas-card2-motivations",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail"
+  ],
   "Hulme": [
     "20260624-0011-bana-sea-power-card5-conclusion-bridge",
     "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge",
@@ -4853,19 +4883,24 @@
     "20260830-0076-柄谷移情摩西与狩猎农耕神经症",
     "20260830-0077-柄谷语言机械利维坦与超越性",
     "20260830-0078-柄谷专名单独性与可能世界",
-    "20260926-0018-erskine-misplaced-responsibility-war-ai"
+    "20260926-0018-erskine-misplaced-responsibility-war-ai",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "III": [
     "20260621-0007-Guattari的思想经历了从解域化主导",
-    "20260624-war-machine-bridge-surplus-security"
+    "20260624-war-machine-bridge-surplus-security",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail"
   ],
   "IR": [
     "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因",
     "20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的",
+    "20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限",
     "20260622-0035-Steele论本体论安全国家追求自我认同一致性的行为可能牺牲物理生存它与虚空的对话",
+    "20260622-0040-李格琴论本体安全理论介入国际政治研究的基本信任存在焦虑与自我认同",
     "20260622-0069-reid-war-machine-ingest",
     "20260622-0079-yin-liu-national-security-personality-foundations",
     "20260622-1610-笛卡尔式政治主体制造排斥而非常识",
+    "20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR",
     "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20260623-0019-shores-logic-deleuze-ingest",
     "20260624-0014-chao-cho-signaling-sea-card1-continentalism",
@@ -4874,6 +4909,7 @@
     "20260624-0039-liu-micro-events-card1-theory",
     "20260624-0041-liu-micro-events-card3-counterfactual-method",
     "20260624-0074-original-batch3-smooth-striated-ir",
+    "20260624-0077-original-batch5-event-security-law",
     "20260624-0079-original-olancho-case-card",
     "20260624-0080-original-remaining-bridge-index",
     "20260624-0110-state-superposition-concept-trace",
@@ -4982,7 +5018,10 @@
     "20261027-0003-oda-needs-index-historical-baseline"
   ],
   "IR-theory": [
+    "20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限",
+    "20260622-0040-李格琴论本体安全理论介入国际政治研究的基本信任存在焦虑与自我认同",
     "20260622-1610-笛卡尔式政治主体制造排斥而非常识",
+    "20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR",
     "20260703-0011-Coward2024-IR-future-turn",
     "20260703-0012-Coward2024-four-traditions-future",
     "20260703-0013-Coward2024-ontopolitics-temporal-frames",
@@ -5015,7 +5054,9 @@
   ],
   "ISR": [
     "20260624-0007-bana-sea-power-card1-overview",
-    "20261029-0006-persistent-presence-batanes-edca-dual-use-ceiling"
+    "20261029-0006-persistent-presence-batanes-edca-dual-use-ceiling",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "IV": [
     "20260624-0081-qin-dynamic-mechanism-card1-core-thesis",
@@ -5031,6 +5072,10 @@
     "20260623-2304-柏拉图理念的唯物主义翻转",
     "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation",
     "20260914-0001-nomads-noumena-of-history"
+  ],
+  "Idealism": [
+    "20260701-0025-wendt-constructivist-ontology",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Ideas": [
     "20260623-1619-高原与卵",
@@ -5060,7 +5105,11 @@
   ],
   "Immanence": [
     "20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架",
-    "20260716-0013-Thiele2016-immanence-becoming"
+    "20260716-0013-Thiele2016-immanence-becoming",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Inayatullah": [
     "20260926-0034-amoureux-postcolonial-corrective-scholarly-reflexivity",
@@ -5131,6 +5180,11 @@
     "20260621-0490-本体论作为政治实践通过质疑政治二元性的暴力前提将存在论追问本身转化为政治行动",
     "20260622-0009-平板画面从幻觉之窗到信息桌面Steinberg的平板理论沟通了地图艺术与信息",
     "20260623-2201-德勒兹本体论作为复杂性理论的形而上学"
+  ],
+  "Institute": [
+    "20260622-0056-dibb-brabin-deterrence-denial-warning",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Institution": [
     "20261030-0001-quad-acceptability-configuration-not-membership",
@@ -5619,7 +5673,8 @@
     "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
     "20260626-1136-lieberman-credibility-land-maneuver",
     "20260715-0005-Johnson2022-inadvertent-escalation-AI",
-    "20260808-0003-stonecutter-two-layer-actualization"
+    "20260808-0003-stonecutter-two-layer-actualization",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail"
   ],
   "Janae": [
     "20260622-0006-后疫情共同体的精神分裂分析Sholtz的内在性介入抵抗新自由主义的原子化",
@@ -5684,7 +5739,8 @@
   ],
   "Jennifer": [
     "20260713-0003-Mitzen2006-ontological-security-routines",
-    "20260715-0004-Ku-Mitzen2022-system-trust"
+    "20260715-0004-Ku-Mitzen2022-system-trust",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Jervis": [
     "20260622-1617-安全感知的双重来源决策者错误知觉与精英施压",
@@ -5698,6 +5754,7 @@
     "20260926-0033-amoureux-reflexivities-arendt-non-time-non-space"
   ],
   "Jiang": [
+    "20260622-0038-姜宇辉论尼采与德勒兹之间的三重否定性辩证否定差异否定和回反",
     "20260626-1300-三重否定性尼采德勒兹之外的可能",
     "20260626-1303-第一种否定性辩证连续论尼采黑格尔",
     "20260626-1306-第二种否定性差异本体论从柏拉图到海德格尔",
@@ -5707,6 +5764,7 @@
     "20260626-1318-回反作为否思方法思想生命自我反转"
   ],
   "Jiang-Yuhui": [
+    "20260622-0038-姜宇辉论尼采与德勒兹之间的三重否定性辩证否定差异否定和回反",
     "20260626-1300-三重否定性尼采德勒兹之外的可能",
     "20260626-1318-回反作为否思方法思想生命自我反转"
   ],
@@ -5731,7 +5789,8 @@
     "20260926-0011-cash-cultures-of-anarchy-hybrid-repertoire",
     "20260926-0012-cash-kleinian-positions-anarchy-cultures",
     "20260926-0013-cash-collective-cultural-unconscious",
-    "20260926-0014-cash-misrecognition-decentered-subject"
+    "20260926-0014-cash-misrecognition-decentered-subject",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "John Protevi": [
     "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual",
@@ -5741,7 +5800,8 @@
     "20260727-0002-bonta-protevi-signs-material-trigger-mixed-semiotics",
     "20260727-0003-bonta-protevi-striated-space-glacial-metaphor",
     "20260727-0004-bonta-protevi-bodies-politic-ethical-structural-axes",
-    "20260727-0005-bonta-protevi-geography-philosophy-impasse"
+    "20260727-0005-bonta-protevi-geography-philosophy-impasse",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "Johnson": [
     "20260715-0005-Johnson2022-inadvertent-escalation-AI",
@@ -5869,7 +5929,11 @@
     "20260703-0010-hart2026-OxMarTrans-methodology",
     "20260709-0001-zizek-AI-king-superego",
     "20260715-0025-CSIS2026-value-land-power",
-    "20260721-0019-Hart-et-al-SCS-trade-chokepoints"
+    "20260721-0019-Hart-et-al-SCS-trade-chokepoints",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Justice": [
     "20260716-0049-Lebow2005-power-persuasion-justice",
@@ -5895,6 +5959,7 @@
     "20260620-1622-卡夫卡的欲望机器是一种比精神分析的欲望概",
     "20260620-1623-对卡夫卡的俄狄浦斯式误读是一种将欲望囚禁",
     "20260620-1626-伟大作家抓住的是生命与死亡之间的新逻辑",
+    "20260620-1724-动物",
     "20260622-1615-反战略思想传统与战争机器的思想家",
     "20260623-1403-少数文学的三大特征是语言解域政治挂钩和群",
     "20260623-1404-生成动物不是隐喻而是字面性强度修改"
@@ -5915,7 +5980,6 @@
   "Kant": [
     "20260622-0063-luzecky-smith-deleuze-time-intro",
     "20260623-1600-Saldanha",
-    "20260623-1601-德勒兹的普遍奠基瓦解",
     "20260623-1605-地缘政治的普遍化",
     "20260623-2200-Bonta",
     "20260623-2304-柏拉图理念的唯物主义翻转",
@@ -6139,6 +6203,10 @@
   "Lacan": [
     "20260620-1591-思想的女性化是反人文主义总计划中的基本步",
     "20260621-0008-Guattari以无意识即可能性的领域对",
+    "20260621-0480-剩余作为可跨域迁移的理论模型从剩余价值到剩余快感构成同一枚硬币的两面",
+    "20260621-0481-剩余快感不是快感的剩余而是通过认同和接受象征秩序所获得的痛苦欢乐",
+    "20260621-0482-主人话语公式S1-S2-dollar-a揭示资本家从工人那里掠夺的不只是剩余价值还掠夺了快感和知识",
+    "20260621-0483-主体作为符号化的剩余齐泽克论主体即实体符号操作的丢失链条和消失的中介",
     "20260621-0486-政治排斥不仅是政治意志的结果更是本体论承诺的后果",
     "20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的",
     "20260621-0488-being不是存在Zevnik区分的内在平面与超验具象化颠覆了政治主体论的同一性预设",
@@ -6152,6 +6220,7 @@
     "20260622-0011-析取综合NedohZevnik论拉康与德勒兹既不可调和也不可分离的悖论性关系",
     "20260622-0012-巴洛克结构主义Tomšič和Chiesa论拉康和德勒兹在拓扑学层面从缺乏转向虚空的汇合",
     "20260622-0013-Zupancic和Johnston论死亡驱力拉康与德勒兹都拒绝快乐原则的稳态模型但走向了不同的本体论后果",
+    "20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论",
     "20260622-0029-拉康晚期对反俄狄浦斯的回应实在无意识lalangue和圣状是对结构无意识的非缺陷论突破",
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
     "20260622-1600-本体论的虚无不是空无而是肯定性的潜能",
@@ -6186,6 +6255,7 @@
     "20260713-0008-theft-of-enjoyment-security",
     "20260714-0001-wu-structural-overflow-marxism",
     "20260714-0002-Gellwitzki2024-Kleinian-ontological-security",
+    "20260804-0004-spoke-wheel-tree-rhizome-three-states",
     "20260809-0001-zizek-gnosticism-divine-kenosis",
     "20260830-0052-芬克阉割经济学剩余价值与享乐流通",
     "20260926-0025-ralph-international-society-as-os-provider-framework",
@@ -6264,6 +6334,7 @@
   ],
   "Lefebvre": [
     "20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限",
+    "20260622-0043-韦斯特法尔的地理批评以场所为中心的多视角比较研究跨越真实虚构和空间的界限",
     "20260623-0010-剩余安全的多重本体论基础少于无非全与剩余",
     "20260623-1900-查诺克对列斐伏尔空间批判理论的系统审视",
     "20260623-1901-列斐伏尔的三元空间与抽象空间辩证",
@@ -6273,6 +6344,9 @@
     "20260812-0001-habibi-space-production-right-to-the-city"
   ],
   "Leibniz": [
+    "20260620-1550-莱布尼茨的共可能性先于同一性逻辑",
+    "20260620-1700-善",
+    "20260620-1701-单子的封闭性不是孤立的条件而是世界内含的",
     "20260621-0002-Guattari应被视为独立于Deleu",
     "20260621-0003-Guattari的本体论是二元论的与De",
     "20260621-0009-Guattari与Deleuze选择了截",
@@ -6347,7 +6421,11 @@
   "Life": [
     "20260701-0037-evans-reid-thinking-as-if-already-dead",
     "20260709-0003-Dukes2016-mechanosphere-genealogy",
-    "20260716-0023-Hill2008-Bergson-phallocentrism"
+    "20260716-0023-Hill2008-Bergson-phallocentrism",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Lindsay": [
     "20260624-0015-chao-cho-signaling-sea-card2-restraint",
@@ -6377,6 +6455,10 @@
     "20261029-0006-persistent-presence-batanes-edca-dual-use-ceiling",
     "20261029-0007-alliance-commitment-no-present-tense",
     "20261029-0008-economic-rear-and-attribution-as-collective-enunciation"
+  ],
+  "Literature": [
+    "20260716-0018-Cisney2020-writer-sorcerer",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "Logan": [
     "20260701-0002-friedman-logan-why-washington-no-grand-strategy",
@@ -6516,6 +6598,10 @@
     "20260623-0001-唐世平论计算社会科学的未来模仿与模拟两条技术路径需要全数据计算思维超越大数据计算",
     "20260706-0001-continental-philosophy-complex-science-AI-bridge-prospects"
   ],
+  "MQ": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "MRI": [
     "20260624-0133-wang-zhu-emotional-geopolitics-card2-psychology",
     "20260624-0135-wang-zhu-emotional-geopolitics-card4-methodology"
@@ -6590,6 +6676,10 @@
     "20260703-0006-hart2026-global-south-Malacca",
     "20261030-0003-indonesia-risk-filter-relocated-reversibility"
   ],
+  "Malcolm": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "Man": [
     "20260917-0001-Braidotti-Deleuze结构性两难1996",
     "20260917-0002-Braidotti发言位置批判1996",
@@ -6608,6 +6698,10 @@
     "20260714-0006-Tolis2023-LDA-climate-policy",
     "20260715-0001-Eberle2017-fantasy-ontological-security",
     "20260715-0016-Biegon2026-imaginary-turn"
+  ],
+  "Manuel": [
+    "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "Maps": [
     "20260622-0009-平板画面从幻觉之窗到信息桌面Steinberg的平板理论沟通了地图艺术与信息",
@@ -6705,7 +6799,8 @@
   "Marxism": [
     "20260620-1510-欲望生产使生产方式成为其所是而非相反",
     "20260623-1607-资本的公理系统",
-    "20260716-0021-Choat2009-Deleuze-Marx-politicisation"
+    "20260716-0021-Choat2009-Deleuze-Marx-politicisation",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "Marxist": [
     "20260626-1243-批判理论武器化Naveh行动理论研究所",
@@ -6758,6 +6853,10 @@
   "Meets": [
     "20260623-0017-richter-politics-of-orientation-ingest",
     "20260716-0043-Payne2012-cooperative-security-critical-theory"
+  ],
+  "Mehrwert": [
+    "20260830-0012-沈志中对象a多余绝爽爱情",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "Meillassoux": [
     "20260727-0007-jacques-rosanvallon-dg-nature-plane-immanence",
@@ -7200,10 +7299,13 @@
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
     "20260622-0067-olkowski-time-real-chaos-complexity",
     "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
-    "20260623-0022-zizek-less-than-nothing-ingest"
+    "20260623-0022-zizek-less-than-nothing-ingest",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Negri": [
     "20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区",
+    "20260622-0015-Eros不是欲望而是间隔Jenkins将爱重新定义为政治行动中的容纳转化操作",
     "20260622-0069-reid-war-machine-ingest",
     "20260622-1615-反战略思想传统与战争机器的思想家",
     "20260622-1710-斯宾诺莎的抗力与欲望作为内在力量而非匮乏",
@@ -7316,10 +7418,13 @@
     "20260926-0024-gellwitzki-depressive-position-reparation-guilt-as-security"
   ],
   "Nietzsche": [
+    "20260620-1715-永恒回归不是同一之回归而是生成之存在的差",
     "20260621-0009-Guattari与Deleuze选择了截",
     "20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学",
+    "20260622-0038-姜宇辉论尼采与德勒兹之间的三重否定性辩证否定差异否定和回反",
     "20260622-0063-luzecky-smith-deleuze-time-intro",
     "20260622-1552-德勒兹通过尼采将空间与偶然性和迷宫路径关联",
+    "20260622-1609-德勒兹的永恒回归肯定差异性而非同一性",
     "20260622-1614-德勒兹通过尼采肯定性战争从法西斯主义中拯救尼采",
     "20260623-1601-德勒兹的普遍奠基瓦解",
     "20260623-1602-地缘哲学作为概念创造",
@@ -7407,6 +7512,10 @@
     "20260914-0003-war-machine-numbering-number",
     "20260914-0004-war-not-object-nomos"
   ],
+  "November": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "Nuclear": [
     "20261022-0005-two-nuclear-peers-no-coordination-needed",
     "20261022-0006-nuclear-signaling-not-transferable-across-theaters",
@@ -7478,7 +7587,9 @@
     "20260926-0023-gellwitzki-anxiety-always-existential-action-from-regression",
     "20260926-0025-ralph-international-society-as-os-provider-framework",
     "20260926-0026-ralph-pluralist-society-encircles-the-lack",
+    "20260926-0027-ralph-kleinian-thin-solidarism-collective-security",
     "20260926-0028-ralph-honneth-thick-solidarism-esteem-self-esteem",
+    "20260926-0029-ralph-ukraine-application-defend-without-essentialising",
     "20260926-0034-amoureux-postcolonial-corrective-scholarly-reflexivity",
     "20260926-0039-mcintosh-scholarly-humility-and-latent-structuralism",
     "20260926-0041-solomon-temporal-decentering-future-anterior-lack",
@@ -7543,6 +7654,7 @@
     "20261030-0003-indonesia-risk-filter-relocated-reversibility"
   ],
   "October-7": [
+    "20260626-1146-lieberman-october-7-failure-mechanism",
     "20260626-1218-哈马斯威慑假设情报概念自免疫",
     "20260626-1227-同一情报机构三次安全化三次结果"
   ],
@@ -7555,6 +7667,10 @@
     "20260623-2101-两种法",
     "20260623-2103-圣状共同体",
     "20260703-0021-Zevnik2023-anxious-politics"
+  ],
+  "Oedipal-law": [
+    "20260621-0489-后俄狄浦斯法后俄狄浦斯法不以父法等级压制欲望而以圣状和快感重新打开法的偶然性",
+    "20260622-1630-俄狄浦斯法与图腾禁忌奠定了现代主体性的基础"
   ],
   "Oedipus": [
     "20260620-1623-对卡夫卡的俄狄浦斯式误读是一种将欲望囚禁",
@@ -7749,7 +7865,11 @@
     "20261029-0008-economic-rear-and-attribution-as-collective-enunciation",
     "20261030-0001-quad-acceptability-configuration-not-membership",
     "20261030-0002-vietnam-whose-deterrence-assemblage-position",
-    "20261030-0003-indonesia-risk-filter-relocated-reversibility"
+    "20261030-0003-indonesia-risk-filter-relocated-reversibility",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence",
+    "20261104-0001-immanence-as-practical-index-not-substance"
   ],
   "PLO": [
     "20260626-1136-lieberman-credibility-land-maneuver",
@@ -7790,6 +7910,8 @@
     "20261030-0003-indonesia-risk-filter-relocated-reversibility"
   ],
   "Paes": [
+    "20260624-0157-zhang-regionalization-securitization-card1-core-thesis",
+    "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation",
     "20260926-0005-paes-networked-territoriality-bounding-binding",
     "20260926-0006-paes-brokerage-hinge-binding-bounding",
     "20260926-0007-paes-amazon-defensive-regionalism-gatekeeper",
@@ -7822,6 +7944,10 @@
     "20260622-0005-疫情不是新自由主义的危机而是其暗黑献祭Adkins论资本的疫情战略",
     "20260622-0006-后疫情共同体的精神分裂分析Sholtz的内在性介入抵抗新自由主义的原子化",
     "20260622-0007-自动免疫没有没有免疫的共同体也没有不因生存本身而暴露于死亡的有机体Crockett论疫情的本体论悖论"
+  ],
+  "Paper": [
+    "20260715-0025-CSIS2026-value-land-power",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself"
   ],
   "Papers": [
     "20260623-0005-Hendrix论航母的代价在反舰导弹和卫星时代航母正在重蹈战列舰的覆辙昂贵脆弱且过时",
@@ -7888,7 +8014,8 @@
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
     "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
-    "20261029-0008-economic-rear-and-attribution-as-collective-enunciation"
+    "20261029-0008-economic-rear-and-attribution-as-collective-enunciation",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Paul": [
     "20260622-0056-dibb-brabin-deterrence-denial-warning",
@@ -7986,7 +8113,11 @@
     "20260914-0001-nomads-noumena-of-history",
     "20260914-0002-nomadology-genesis-organization",
     "20260914-0003-war-machine-numbering-number",
-    "20260914-0004-war-not-object-nomos"
+    "20260914-0004-war-not-object-nomos",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Philip": [
     "20261020-0001-wet-ontology-four-critiques-ocean-as-ground",
@@ -8037,7 +8168,11 @@
     "20261029-0001-patton-practical-reason-counter-actualization",
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
-    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic"
+    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Picture": [
     "20260620-1517-症状学是前医学的中性领域属于文学艺术和哲",
@@ -8099,6 +8234,7 @@
     "20260810-0001-becoming-revolutionary-virtual-people-crack"
   ],
   "Plato": [
+    "20260620-1540-拟像不是摹本的退化而是柏拉图主义自我颠覆",
     "20260621-0009-Guattari与Deleuze选择了截",
     "20260623-1605-地缘政治的普遍化",
     "20260623-1708-模拟像与疯狂生成",
@@ -8113,7 +8249,9 @@
     "20260714-0006-Tolis2023-LDA-climate-policy",
     "20261030-0001-quad-acceptability-configuration-not-membership",
     "20261030-0002-vietnam-whose-deterrence-assemblage-position",
-    "20261030-0003-indonesia-risk-filter-relocated-reversibility"
+    "20261030-0003-indonesia-risk-filter-relocated-reversibility",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Political": [
     "20260621-0486-政治排斥不仅是政治意志的结果更是本体论承诺的后果",
@@ -8245,6 +8383,7 @@
     "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
   ],
   "Popescu": [
+    "20260624-0020-gibbs-ussr-grand-strategy-card1-core",
     "20260627-0019-生成哲学在适应型战略定义下具有战略意义",
     "20260701-0005-popescu-grand-strategy-vs-emergent-strategy"
   ],
@@ -8301,19 +8440,29 @@
     "20260721-0007-Biddle-technology-employment-interaction",
     "20260721-0008-Biddle-capability-IR-theory-critique",
     "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
-    "20260805-0003-strategic-theory-literature-map"
+    "20260805-0003-strategic-theory-literature-map",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Practical": [
     "20261029-0001-patton-practical-reason-counter-actualization",
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
-    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic"
+    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Practical Philosophy": [
     "20261029-0001-patton-practical-reason-counter-actualization",
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
-    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic"
+    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Practices": [
     "20260715-0020-DunnCavelty2015-resilience",
@@ -8386,7 +8535,11 @@
   ],
   "Problem": [
     "20260713-0009-Maher2023-free-market-fantasy",
-    "20260724-0003-recollisions-Deleuze-repetition-structural-time"
+    "20260724-0003-recollisions-Deleuze-repetition-structural-time",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Production": [
     "20260623-0020-unwin-waste-space-ingest",
@@ -8401,6 +8554,14 @@
   "Project": [
     "20260703-0001-hart2026-scs-trade-overview",
     "20260715-0025-CSIS2026-value-land-power"
+  ],
+  "Projecting": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
+  "Projecting Power Forward": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Protevi": [
     "20260620-1812-航母战斗群是德勒兹意义上的装置而非单纯的",
@@ -8484,7 +8645,9 @@
     "20260830-0010-DelandaHarman时间争论",
     "20260830-0026-Hardt德勒兹斯宾诺莎共同概念与唯物主义",
     "20260926-0003-jackson-nexon-ontology-no-method",
-    "20261010-0001-deleuze-entropy-extension-内含的外展"
+    "20261010-0001-deleuze-entropy-extension-内含的外展",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "Proust": [
     "20260622-1543-逃逸线最早是普鲁斯特文本中的叙事组织机制",
@@ -8521,6 +8684,10 @@
   "Public": [
     "20260716-0029-Jackson-Subotic2024-architecture-OS-paradox",
     "20260716-0047-Biswas2007-Said-IR-theorist"
+  ],
+  "Pukpuk": [
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence",
+    "20261103-0005-distance-as-inclusion-of-others-problems"
   ],
   "Purakayastha": [
     "20260621-0497-恐怖不是游牧战争机器而是第七型战争机器",
@@ -8709,7 +8876,11 @@
     "20260623-2303-量子物理与两虚空论",
     "20260623-2305-经过拉康之后的政治",
     "20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo",
-    "20260830-0108-Kusters否定双重效果与利科实在界"
+    "20260830-0108-Kusters否定双重效果与利科实在界",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Reclaiming": [
     "20260926-0001-jackson-nexon-relationalism-analytical-primitive",
@@ -8926,6 +9097,7 @@
     "20260624-1020-线绳革命先于农业革命"
   ],
   "Riemann": [
+    "20260622-0050-马迎辉论认知的流形模式以流形作为AI神经科学与意识哲学的统一范式",
     "20260623-1606-多重性的两种路径",
     "20260623-1614-虚拟与强度"
   ],
@@ -8967,6 +9139,24 @@
     "20260716-0012-Roffe2017-quasi-cause",
     "20261016-0001-reflexive-coupling-prediction-attribution-gap",
     "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism"
+  ],
+  "Roma": [
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
+  ],
+  "Roma Tre": [
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
+  ],
+  "Rome": [
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Rosanvallon": [
     "20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture",
@@ -9153,7 +9343,8 @@
     "20260709-0003-Dukes2016-mechanosphere-genealogy",
     "20260731-0001-orbis-spike-1610-colonial-genocide-as-geological-marker",
     "20260812-0001-habibi-space-production-right-to-the-city",
-    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself"
   ],
   "Santa": [
     "20260624-0106-song-complexity-science-card3-complexity-science",
@@ -9184,7 +9375,6 @@
     "20261022-0007-homeland-defense-third-theater-force-swing"
   ],
   "Schelling": [
-    "20260623-2301-Žižek的黑格尔",
     "20260624-0015-chao-cho-signaling-sea-card2-restraint",
     "20260624-0017-chao-cho-signaling-sea-card4-limited-conflict",
     "20260626-1136-lieberman-credibility-land-maneuver",
@@ -9247,7 +9437,8 @@
     "20260714-0010-Rosenberg2016-IR-prison-political-science",
     "20260715-0006-Baliga2020-imperfect-attribution",
     "20260715-0009-Coe-Vaynman2020-rare-arms-control",
-    "20260716-0003-Mutabdzija2022-Balkan-geophilosophy"
+    "20260716-0003-Mutabdzija2022-Balkan-geophilosophy",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "Scobell": [
     "20260624-0058-nathan-scobell-globalization-security-card1-thesis",
@@ -9395,7 +9586,9 @@
     "20260621-0016-deleuze-geophilosophy-ingest",
     "20260621-0466-Guattari通过鸟鸣和求偶仪式分析论证领域的诞生是宇宙和居所的雅努斯两面",
     "20260621-0467-Guattari在结构主义和现象学之间走了一条中间道路即机器-结构主义",
-    "20260621-0468-Segovia指出在Guattari框架下身份政治应转向共可能性政治泛灵论作为对资本主义的宇宙论抵抗"
+    "20260621-0468-Segovia指出在Guattari框架下身份政治应转向共可能性政治泛灵论作为对资本主义的宇宙论抵抗",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other"
   ],
   "Selection": [
     "20260624-0027-hulme-gartzke-tyranny-distance-card2-distance-mechanisms",
@@ -9642,7 +9835,9 @@
     "20260914-0004-war-not-object-nomos",
     "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge",
     "20261022-0001-knife-fight-attribution-deterrence-medium",
-    "20261022-0002-depth-as-attribution-cost-time-volume"
+    "20261022-0002-depth-as-attribution-cost-time-volume",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition"
   ],
   "Smooth": [
     "20260623-1610-平滑空间与条纹化空间",
@@ -9675,7 +9870,8 @@
     "20260830-0030-Sokolowski现象学三大结构与意向性",
     "20260830-0033-Bachelard空间诗学家宅与压缩时间",
     "20260830-0100-德勒兹意识光与影像运动二元克服",
-    "20260830-0107-Kusters卡普尔批判与零型妄想"
+    "20260830-0107-Kusters卡普尔批判与零型妄想",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail"
   ],
   "Soldiers": [
     "20260626-1240-反几何学穿墙战术空间解读即战斗",
@@ -9698,7 +9894,8 @@
     "20260926-0049-hom-war-as-timing-contest-identity-as-timing-project",
     "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge",
     "20261016-0001-reflexive-coupling-prediction-attribution-gap",
-    "20261029-0007-alliance-commitment-no-present-tense"
+    "20261029-0007-alliance-commitment-no-present-tense",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "Somers": [
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
@@ -9851,11 +10048,13 @@
     "20261027-0004-oda-category-domestic-refugee-costs"
   ],
   "Spinoza": [
+    "20260620-1725-斯宾诺莎伦理学的三大要素",
     "20260621-0002-Guattari应被视为独立于Deleu",
     "20260621-0003-Guattari的本体论是二元论的与De",
     "20260621-0009-Guattari与Deleuze选择了截",
     "20260621-0015-SegoviaGuattariBeyon",
     "20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学",
+    "20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的",
     "20260622-0063-luzecky-smith-deleuze-time-intro",
     "20260622-0065-nail-kinetic-theory-time-lucretius",
     "20260622-0073-stivale-deleuze-seminar-time-out-of-joint",
@@ -10085,7 +10284,9 @@
     "20260701-0002-friedman-logan-why-washington-no-grand-strategy",
     "20260701-0005-popescu-grand-strategy-vs-emergent-strategy",
     "20260701-0018-cnas-restore-strategic-competence",
-    "20260715-0014-Adamsky2025-Russian-deterrence"
+    "20260715-0014-Adamsky2025-Russian-deterrence",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Strategic Assessment": [
     "20260626-1134-lieberman-core-thesis-deterrence-failure",
@@ -10101,6 +10302,11 @@
     "20261022-0002-depth-as-attribution-cost-time-volume",
     "20261022-0003-seabed-cable-striated-enclave-smooth-sea",
     "20261022-0004-concealment-refusal-to-be-counted"
+  ],
+  "Strategist": [
+    "20260807-0002-regeneration-cycle-mission-duration-criterion",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Strategy": [
     "20260622-0056-dibb-brabin-deterrence-denial-warning",
@@ -10133,7 +10339,9 @@
     "20261029-0008-economic-rear-and-attribution-as-collective-enunciation",
     "20261030-0001-quad-acceptability-configuration-not-membership",
     "20261030-0002-vietnam-whose-deterrence-assemblage-position",
-    "20261030-0003-indonesia-risk-filter-relocated-reversibility"
+    "20261030-0003-indonesia-risk-filter-relocated-reversibility",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Strategy Initiative": [
     "20261030-0001-quad-acceptability-configuration-not-membership",
@@ -10143,6 +10351,14 @@
   "Stratification": [
     "20260621-0444-分层与一致性是两种根本不同的系统模态前者同质冻结后者异质创造",
     "20260623-1603-层叠与双重分节"
+  ],
+  "Strengthening": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
+  "Strengthening Australia": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Strip": [
     "20260626-1218-哈马斯威慑假设情报概念自免疫",
@@ -10271,7 +10487,11 @@
     "20260928-0005-eun-ir-pluralism-representational-diversity",
     "20260928-0006-eun-becoming-rhizomatic-territory-codes",
     "20260928-0007-eun-horizontal-pedagogy-open-knowledge",
-    "20260928-0008-eun-royal-nomad-science-public-knowledge"
+    "20260928-0008-eun-royal-nomad-science-public-knowledge",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Subject": [
     "20260621-0486-政治排斥不仅是政治意志的结果更是本体论承诺的后果",
@@ -10406,7 +10626,6 @@
   ],
   "Tang": [
     "20260623-0013-复杂性理论的跨文明平行德勒兹加塔利与钱学森开放复杂巨系统",
-    "20260624-0123-tang-social-evolution-card5-implications-bridge",
     "20260701-0028-tang-shiping-social-evolution-key-concepts",
     "20260706-0001-continental-philosophy-complex-science-AI-bridge-prospects",
     "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism"
@@ -10728,7 +10947,11 @@
     "20260623-2000-昂温五重批判",
     "20260623-2001-空间拜物教的新危险",
     "20260804-0001-viveiros-perspectivism-multinaturalism",
-    "20260804-0002-viveiros-clastres-politics-multiplicity"
+    "20260804-0002-viveiros-clastres-politics-multiplicity",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Trans Inst Br Geogr": [
     "20260623-0020-unwin-waste-space-ingest",
@@ -10742,6 +10965,12 @@
   "Transcending Nature": [
     "20260804-0001-viveiros-perspectivism-multinaturalism",
     "20260804-0002-viveiros-clastres-politics-multiplicity"
+  ],
+  "Transdisciplinarity": [
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Transformation": [
     "20260622-0015-Eros不是欲望而是间隔Jenkins将爱重新定义为政治行动中的容纳转化操作",
@@ -10767,7 +10996,8 @@
     "20260622-0077-wu-quantum-turn-political-science",
     "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20261029-0001-patton-practical-reason-counter-actualization",
-    "20261029-0007-alliance-commitment-no-present-tense"
+    "20261029-0007-alliance-commitment-no-present-tense",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "Troubled": [
     "20260703-0001-hart2026-scs-trade-overview",
@@ -10876,9 +11106,15 @@
     "20260624-0010-bana-sea-power-card4-technical-operational",
     "20261022-0002-depth-as-attribution-cost-time-volume"
   ],
+  "USV": [
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "UUV": [
     "20261022-0002-depth-as-attribution-cost-time-volume",
-    "20261022-0003-seabed-cable-striated-enclave-smooth-sea"
+    "20261022-0003-seabed-cable-striated-enclave-smooth-sea",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "Unconscious": [
     "20260622-0029-拉康晚期对反俄狄浦斯的回应实在无意识lalangue和圣状是对结构无意识的非缺陷论突破",
@@ -10914,6 +11150,12 @@
     "20260621-0001-Guattari的思想在1980年前后发",
     "20260621-0005-Guattari的四函项元模型FΦUT为",
     "20260621-0012-Guattari的精神分裂分析应被重新理"
+  ],
+  "Universita": [
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "University": [
     "20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学",
@@ -11045,6 +11287,12 @@
   "Virtual Philosophy": [
     "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual"
+  ],
+  "Virtuality": [
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Viveiros": [
     "20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture",
@@ -11198,6 +11446,13 @@
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation"
   ],
+  "Welchman": [
+    "20260830-0008-Meillassoux相关主义批判",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
+  ],
   "Wendt": [
     "20260701-0025-wendt-constructivist-ontology",
     "20260703-0012-Coward2024-four-traditions-future",
@@ -11243,6 +11498,10 @@
     "20260621-0488-being不是存在Zevnik区分的内在平面与超验具象化颠覆了政治主体论的同一性预设",
     "20260623-1606-多重性的两种路径"
   ],
+  "White": [
+    "20260623-1612-无器官身体与面貌性",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "Whitehead": [
     "20260620-1504-任何事物都是生成中的多样性的和谐",
     "20260622-0065-nail-kinetic-theory-time-lucretius"
@@ -11277,7 +11536,9 @@
     "20260805-0009-capital-time-collective-time-bridge",
     "20260926-0030-amoureux-space-time-frames-thicken-each-other",
     "20260926-0033-amoureux-reflexivities-arendt-non-time-non-space",
-    "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前"
+    "20261010-0032-first-synthesis-living-present-第一综合与活生生的当前",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail"
   ],
   "Wilson": [
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
@@ -11457,6 +11718,10 @@
     "20260622-0013-Zupancic和Johnston论死亡驱力拉康与德勒兹都拒绝快乐原则的稳态模型但走向了不同的本体论后果",
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis"
   ],
+  "XVII": [
+    "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
+  ],
   "Xiao": [
     "20261027-0001-aid-cuts-legitimacy-not-financing",
     "20261027-0002-aid-cut-vs-procurement-timescale",
@@ -11495,6 +11760,7 @@
     "20260928-0008-eun-royal-nomad-science-public-knowledge"
   ],
   "Yuhui": [
+    "20260622-0038-姜宇辉论尼采与德勒兹之间的三重否定性辩证否定差异否定和回反",
     "20260626-1300-三重否定性尼采德勒兹之外的可能",
     "20260626-1303-第一种否定性辩证连续论尼采黑格尔",
     "20260626-1306-第二种否定性差异本体论从柏拉图到海德格尔",
@@ -11620,7 +11886,9 @@
     "20260926-0019-erskine-norm-decay-bridge-lacanian-ai-critique",
     "20260926-0040-solomon-retroactivity-button-ties-master-signifier",
     "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge",
-    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic"
+    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "Zhang": [
     "20260626-1000-Ingold线缕痕迹作为德勒兹平滑条纹的操作化",
@@ -11661,10 +11929,6 @@
     "20260716-0044-Barkawi2011-war-to-security",
     "20260716-0048-Buckley-Zistel2006-in-between-war-peace",
     "20260721-0002-Womack-multinodal-era-characteristics"
-  ],
-  "Zizek": [
-    "20260623-1411-民主只有立足于自身的不可能性才能真正运作",
-    "20260804-0005-tree-rhizome-dichotomy-self-handling-critiques"
   ],
   "Zuber": [
     "20260624-1035-谱系树的线把生命困在点中",
@@ -11718,23 +11982,24 @@
     "20260622-0052-王敏和朱竑论情感地缘政治的交叉逻辑提出意识-身体-环境的三维研究框架",
     "20260623-1612-无器官身体与面貌性",
     "20260626-1312-两种衰落健康病理本能系统重构",
-    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine"
   ],
   "affirmation": [
     "20260620-1555-自然哲学从卢克莱修到尼采的使命是废黜否定",
     "20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略",
     "20260626-1309-第三种否定性衰落生命自我否定作为肯定条件"
   ],
-  "agamben": [
-    "20260621-0492-关塔那摩的微观抵抗实践不是例外而是另一种世界秩序的本体论展演",
-    "20260621-0499-战争不在主权例外中被悬置而外在于国家Colebrook以战争机器批判阿甘本"
-  ],
   "aion": [
     "20260620-1544-德勒兹的两种时间模式",
     "20260620-1551-永恒回归有两种形态",
     "20260623-1409-革命的任务不是改变世界而是改变时间本身",
+    "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支",
+    "20260716-0010-Uno2018-war-of-perception",
+    "20260716-0016-Bergsma2022-Chronos-Aion-unconscious",
     "20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos",
     "20260805-0007-williams-li-kelin-two-readings",
+    "20260830-0002-杨凯麟艾甬事件场所与生成疯狂",
     "20260830-0057-Agamben时间区分与玩具",
     "20260926-0048-hom-heterotemporality-as-criterion-of-adequacy"
   ],
@@ -11805,10 +12070,6 @@
     "20260620-1531-资本主义不会发疯因为它从一开始就是疯的",
     "20260805-0009-capital-time-collective-time-bridge"
   ],
-  "badiou": [
-    "20260622-0033-Prozorov的虚空普遍主义不是从虚无出发而是把虚空的肯定本身作为政治的唯一基础",
-    "20260622-1609-德勒兹的永恒回归肯定差异性而非同一性"
-  ],
   "baldauff": [
     "20260624-0001-baldauff-heng-japan-dcas-card1-puzzle",
     "20260624-0002-baldauff-heng-japan-dcas-card2-motivations",
@@ -11820,7 +12081,8 @@
     "20260624-0007-bana-sea-power-card1-overview",
     "20260624-0008-bana-sea-power-card2-china",
     "20260624-0009-bana-sea-power-card3-regional-responders",
-    "20260624-0010-bana-sea-power-card4-technical-operational"
+    "20260624-0010-bana-sea-power-card4-technical-operational",
+    "20260624-0011-bana-sea-power-card5-conclusion-bridge"
   ],
   "bare-life": [
     "20260621-0492-关塔那摩的微观抵抗实践不是例外而是另一种世界秩序的本体论展演",
@@ -11862,11 +12124,6 @@
     "20260622-1750-存在与实存的内在性区别是政治实体的秩序逻辑产物",
     "20260626-1020-张小宁发掘Ingold反达尔文动机替换存在为生成"
   ],
-  "bergson": [
-    "20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性",
-    "20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统",
-    "20260622-0026-可朽计算与绵延可朽计算是绵延在物理计算维度的强制性实例化"
-  ],
   "biddle": [
     "20260721-0005-Biddle-modern-system-force-employment",
     "20260721-0006-Biddle-three-case-studies",
@@ -11886,7 +12143,8 @@
     "20260626-1315-回反反进化论尼采生物主义技术社会批判",
     "20260627-0001-现代战争管理群体存活而非消灭个体",
     "20260703-0016-Molloy-review-Zevnik-2016",
-    "20260914-0003-war-machine-numbering-number"
+    "20260914-0003-war-machine-numbering-number",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "body": [
     "20260620-1505-斯多葛式二元论区分身体实存和事件生成",
@@ -11917,6 +12175,7 @@
     "20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁",
     "20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区",
     "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
+    "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual",
     "20260630-0002-bonta-protevi-emergence-epistemic-ontological",
     "20260630-0003-bonta-protevi-political-physiology-above-below-subject",
@@ -12039,7 +12298,8 @@
     "20260624-0015-chao-cho-signaling-sea-card2-restraint",
     "20260624-0016-chao-cho-signaling-sea-card3-costly-signals",
     "20260624-0017-chao-cho-signaling-sea-card4-limited-conflict",
-    "20260624-0018-chao-cho-signaling-sea-card5-platform-specific"
+    "20260624-0018-chao-cho-signaling-sea-card5-platform-specific",
+    "20260624-0019-chao-cho-signaling-sea-card6-conclusion-bridge"
   ],
   "chaos": [
     "20260620-1554-永恒回归的秘密不是秩序战胜混沌",
@@ -12079,6 +12339,8 @@
     "20260620-1544-德勒兹的两种时间模式",
     "20260620-1549-柯罗诺斯时间不是三维的",
     "20260623-1409-革命的任务不是改变世界而是改变时间本身",
+    "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支",
+    "20260716-0016-Bergsma2022-Chronos-Aion-unconscious",
     "20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos",
     "20260805-0007-williams-li-kelin-two-readings",
     "20260830-0057-Agamben时间区分与玩具",
@@ -12097,10 +12359,6 @@
   "clastres": [
     "20260621-0013-Guattari通过Clastres和S",
     "20260804-0002-viveiros-clastres-politics-multiplicity"
-  ],
-  "clausewitz": [
-    "20260622-0036-Reid论德勒兹的战争机器不是军队而是一种反抗国家捕获的思维和存在的游牧形式",
-    "20260622-1611-克劳塞维茨绝对战争三一模型第三个元素是偶然性"
   ],
   "clinic": [
     "20260620-1722-作家不是病人而是诊断世界的医生",
@@ -12304,6 +12562,7 @@
     "20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限",
     "20260622-0045-闵建平对德勒兹欲望政治理论的批判欲望生产批判资本主义但精神分裂者作为革命主体陷入了无主体的主体悖论",
     "20260622-1610-笛卡尔式政治主体制造排斥而非常识",
+    "20260623-0020-unwin-waste-space-ingest",
     "20260623-1901-列斐伏尔的三元空间与抽象空间辩证",
     "20260623-1902-对列斐伏尔的批判Smith与Kerr",
     "20260623-2000-昂温五重批判"
@@ -12359,12 +12618,20 @@
     "20260622-0003-洞穴根茎全球公司国家学会了根茎的所有策略将其用于隐蔽控制三层本体论的盲区"
   ],
   "delanda": [
+    "20260621-0016-deleuze-geophilosophy-ingest",
     "20260621-0451-DeLanda的多层次尺度分析将DG的分层理论转化为跨无机有机社会的统一框架",
     "20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限",
+    "20260623-1609-尺度问题",
     "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual",
-    "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation"
+    "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation",
+    "20260830-0010-DelandaHarman时间争论",
+    "20260830-0066-Delanda唯物论定义涌现属性与历史性对象",
+    "20260830-0067-Delanda德勒兹内在外在关系与虚拟现实化",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "deleuze": [
+    "20260620-1500-装置是安排的过程而非静态组织",
+    "20260620-1503-事件决定空间和时间而非相反",
     "20260620-1540-拟像不是摹本的退化而是柏拉图主义自我颠覆",
     "20260620-1541-意义是事件在命题与事物之间划出的边界",
     "20260620-1542-斯多亚学派的事件悖论揭示了意义的非生产性",
@@ -12384,6 +12651,27 @@
     "20260620-1556-他人结构缺席时意识与对象黏合在一起",
     "20260620-1557-永恒回归不是相同者的回归",
     "20260620-1558-第三种秘传语言不是对理想语言的修复",
+    "20260620-1560-德勒兹的哲学剧场只完成了一半",
+    "20260620-1561-失重是德勒兹哲学中对理性排斥的集中表达",
+    "20260620-1566-哲学必须包含对生活的非哲学洞察",
+    "20260620-1568-所有的创造都是对始源性创造的重复",
+    "20260620-1569-德勒兹的时间哲学重建了个体生命的丰富性",
+    "20260620-1570-如何在生命断裂的同时持守整体性",
+    "20260620-1571-当下向空白敞开",
+    "20260620-1572-人的创造在根本上是一个碰运气的过程",
+    "20260620-1573-情感驱动下的记忆重复必然产生差异",
+    "20260620-1574-看似坚固的规律性其实是架构在摇摇晃晃的地",
+    "20260620-1575-虚无主义通过设置更高价值否定生命",
+    "20260620-1576-永恒轮回中某物的轮回不能证明同一性",
+    "20260620-1577-德勒兹以经验的复杂性质疑知识的确定性",
+    "20260620-1578-战后法国哲学对无意识的理解可以分为三个递",
+    "20260620-1579-德勒兹的先验主义在维持思想无限性的同时放",
+    "20260620-1580-放弃思想的确定性唤起了新主体的诞生",
+    "20260620-1581-胡塞尔和德勒兹分别代表了面对无意识危机的",
+    "20260620-1584-最强的欲望是对欲望本身的欲望",
+    "20260620-1812-航母战斗群是德勒兹意义上的装置而非单纯的",
+    "20260620-1813-国家欲望生产驱动海军扩张战略理性是欲望流",
+    "20260620-1815-航母的威慑力量作为虚拟性存在不被现实化却",
     "20260621-0002-Guattari应被视为独立于Deleu",
     "20260621-0003-Guattari的本体论是二元论的与De",
     "20260621-0009-Guattari与Deleuze选择了截",
@@ -12446,7 +12734,11 @@
     "20260622-0046-张晨论德勒兹的空间艺术理论游牧空间无器官身体和欲望机器作为艺术解辖域化的三重装置",
     "20260622-0049-李科林论无意识的哲学边界从胡塞尔的先验主体保卫到德勒兹对主体先验耦合的分解",
     "20260622-0062-luzecky-cinema-time-bergson-film",
+    "20260622-0063-luzecky-smith-deleuze-time-intro",
+    "20260622-0065-nail-kinetic-theory-time-lucretius",
+    "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
     "20260622-0067-olkowski-time-real-chaos-complexity",
+    "20260622-1600-本体论的虚无不是空无而是肯定性的潜能",
     "20260622-1605-理性对经验的裁决压抑了感觉的混杂性和生命多样性",
     "20260622-1606-习惯是时间的第一种综合被动主观收缩",
     "20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性",
@@ -12458,23 +12750,125 @@
     "20260622-1613-法西斯是自杀式国家战争机器接管国家后的毁灭线",
     "20260622-1614-德勒兹通过尼采肯定性战争从法西斯主义中拯救尼采",
     "20260622-1615-反战略思想传统与战争机器的思想家",
+    "20260622-1700-德勒兹的内在生命作为前主体非人格化的纯粹力量",
+    "20260622-1710-斯宾诺莎的抗力与欲望作为内在力量而非匮乏",
+    "20260622-1750-存在与实存的内在性区别是政治实体的秩序逻辑产物",
+    "20260622-1800-德勒兹的法律作为法律实践的不停生成而非体系的封闭结构",
+    "20260622-1810-泽夫尼克对拉康和德勒兹的整合是非对称的策略而非体系性综合",
+    "20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi",
+    "20260623-0013-复杂性理论的跨文明平行德勒兹加塔利与钱学森开放复杂巨系统",
+    "20260623-0014-抵抗的极限与可能福柯德勒兹拉康主权抵抗三角",
     "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
     "20260623-0017-richter-politics-of-orientation-ingest",
+    "20260623-0018-saldanha-space-after-deleuze-ingest",
+    "20260623-0019-shores-logic-deleuze-ingest",
     "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
     "20260623-0022-zizek-less-than-nothing-ingest",
+    "20260623-1400-概念是被创造出来的而非被给定的",
+    "20260623-1401-内在性平面是思维的图景而非概念",
+    "20260623-1403-少数文学的三大特征是语言解域政治挂钩和群",
+    "20260623-1404-生成动物不是隐喻而是字面性强度修改",
+    "20260623-1405-斯宾诺莎三种知识对应光的三种状态从阴影符",
+    "20260623-1406-时间第三种综合的停顿是经验链条中的裂隙也",
+    "20260623-1407-欲望是基础设施欲望生产比社会生产更根本",
+    "20260623-1412-别人不是另一个主体而是一个可能世界",
+    "20260623-1413-精神分裂作为过程而不是疾病状态下临床诊断",
+    "20260623-1600-Saldanha",
+    "20260623-1601-德勒兹的普遍奠基瓦解",
+    "20260623-1602-地缘哲学作为概念创造",
+    "20260623-1603-层叠与双重分节",
+    "20260623-1604-机械种系与机械圈的唯物主义",
+    "20260623-1605-地缘政治的普遍化",
+    "20260623-1606-多重性的两种路径",
+    "20260623-1607-资本的公理系统",
+    "20260623-1608-战争机器与战斗伦理",
+    "20260623-1609-尺度问题",
+    "20260623-1610-平滑空间与条纹化空间",
+    "20260623-1611-重复段与界域化",
+    "20260623-1612-无器官身体与面貌性",
+    "20260623-1613-事件此性与场所",
+    "20260623-1614-虚拟与强度",
+    "20260623-1615-折叠与制图学",
+    "20260623-1616-城市平面与任意空间",
+    "20260623-1617-游牧民与逃亡者",
+    "20260623-1618-线的三类型与四种危险",
+    "20260623-1619-高原与卵",
+    "20260623-1700-Shores核心论题",
+    "20260623-1701-纯粹生成悖论的dialetheic解读",
+    "20260623-1702-异质性组合的胶子逻辑",
+    "20260623-1703-交替而非否定",
+    "20260623-1704-莱布尼茨的不共可能性与斯多葛的命运分支",
+    "20260623-1705-没有逻辑的智慧",
+    "20260623-1706-虚假的权力与创造性的虚假者",
+    "20260623-1707-思想作为弹球机",
+    "20260623-1708-模拟像与疯狂生成",
+    "20260623-1800-里希特核心论题",
+    "20260623-1801-意义的内在创造",
+    "20260623-1802-分岔政治事件",
+    "20260623-1803-取向政治与后真相民粹",
+    "20260623-1804-游牧单子与自创生折叠",
+    "20260623-1805-后根基批判",
+    "20260623-2100-Zevnik核心论题",
+    "20260623-2102-成为",
+    "20260623-2103-圣状共同体",
+    "20260623-2104-思想的极限与法的构型",
+    "20260623-2200-Bonta",
+    "20260623-2201-德勒兹本体论作为复杂性理论的形而上学",
+    "20260623-2202-复杂空间的地理学",
+    "20260623-2203-地缘哲学核心术语的复杂性理论快照",
+    "20260623-2304-柏拉图理念的唯物主义翻转",
     "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
     "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260624-0110-state-superposition-concept-trace",
+    "20260624-1015-菌丝体作为线的本体论隐喻",
+    "20260624-ingold-deleuze-bridge",
+    "20260626-1000-Ingold线缕痕迹作为德勒兹平滑条纹的操作化",
+    "20260626-1010-张小宁揭示Ingold远足运输继承德勒兹线分类",
+    "20260626-1020-张小宁发掘Ingold反达尔文动机替换存在为生成",
+    "20260626-1030-张小宁的跨文明桥接德勒兹非二元与中庸",
+    "20260626-1040-张能论德勒兹政治学朝向未来而非空间分类",
+    "20260626-1050-张能论平滑空间非解放性需要平滑抗争",
+    "20260626-1100-张能将德勒兹政治哲学定位为描述而非论证",
+    "20260626-1240-反几何学穿墙战术空间解读即战斗",
+    "20260626-1243-批判理论武器化Naveh行动理论研究所",
+    "20260626-1246-蜂群战术非线性分形去中心化战斗",
+    "20260626-1300-三重否定性尼采德勒兹之外的可能",
+    "20260626-1306-第二种否定性差异本体论从柏拉图到海德格尔",
+    "20260626-1318-回反作为否思方法思想生命自我反转",
+    "20260626-1710-张能论德勒兹政治操作于战术层面而非战略层面",
+    "20260627-0019-生成哲学在适应型战略定义下具有战略意义",
+    "20260627-0020-生成哲学弥合战略规划实施裂隙非消除而是重新定义",
     "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual",
     "20260630-0003-bonta-protevi-political-physiology-above-below-subject",
+    "20260701-0037-evans-reid-thinking-as-if-already-dead",
+    "20260703-0016-Molloy-review-Zevnik-2016",
     "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
     "20260722-0002-能但不执法晶体的实践入口",
     "20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos",
     "20260724-0003-recollisions-Deleuze-repetition-structural-time",
+    "20260805-0004-fold-fractal-material-actualization",
+    "20260805-0005-fold-duration-bergson-leibniz",
+    "20260805-0006-fold-inter-dimensional-not-plus-one",
     "20260805-0007-williams-li-kelin-two-readings",
     "20260805-0008-crystal-cinema-tension-bridge",
+    "20260806-0001-fold-not-interconnection-windowless-monads",
     "20260807-0001-janz-territory-is-not-the-map",
     "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation",
+    "20260830-0114-DG事件纯粹储备与间空",
+    "20260830-0115-DG哲学科学与艺术对混沌",
+    "20260830-0116-DG哲学时间与地层学叠置",
+    "20260830-0117-DG概念组件性与非命题",
+    "20260830-0118-DG乌托邦资本主义与脱离领土",
+    "20260830-0143-德勒兹反常与去主体化",
+    "20260830-0144-德勒兹永恒回归析取综合与强度",
+    "20260830-0145-德勒兹伊壁鸠鲁原子偏斜与类比",
+    "20260830-0146-德勒兹少数与多数的类型生成",
+    "20260830-0147-德勒兹莱布尼茨最好与善",
+    "20260830-0148-德勒兹福柯尼采交汇与思想战争机器",
     "20260924-0002-adkins-intensive-extensive-social-investment",
+    "20260925-0001-Satoor以问题解答现实化反驳Hallward逃出世界读法",
+    "20260925-0002-Satoor从单义性推导平等但本体到规范的论证未完成",
+    "20260925-0003-Satoor主体之死是表象自我解层与幼虫自我生成",
     "20261010-0001-deleuze-entropy-extension-内含的外展",
     "20261010-0002-deleuze-time-arrow-difference-noumenon-差异是最接近现象的本体",
     "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越",
@@ -12512,7 +12906,13 @@
     "20261010-0035-genus-species-logos-属差与两种逻各斯",
     "20261010-0036-experiment-closed-environment-实验与封闭环境",
     "20261010-0037-science-fiction-knowledge-frontier-知识前沿",
-    "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge"
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety",
+    "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "democracy": [
     "20260622-0015-Eros不是欲望而是间隔Jenkins将爱重新定义为政治行动中的容纳转化操作",
@@ -12528,10 +12928,6 @@
     "20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation",
     "20260724-0002-Deng-H6P-time-arrow-emergence-Aion-Chronos",
     "20260724-0003-recollisions-Deleuze-repetition-structural-time"
-  ],
-  "derrida": [
-    "20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性",
-    "20260622-0007-自动免疫没有没有免疫的共同体也没有不因生存本身而暴露于死亡的有机体Crockett论疫情的本体论悖论"
   ],
   "descola": [
     "20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture",
@@ -12559,7 +12955,8 @@
     "20260623-1407-欲望是基础设施欲望生产比社会生产更根本",
     "20260623-2101-两种法",
     "20260924-0001-adkins-marcel-bike-clinical-experiment",
-    "20260924-0002-adkins-intensive-extensive-social-investment"
+    "20260924-0002-adkins-intensive-extensive-social-investment",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "desire-as-infrastructure": [
     "20260620-1562-德勒兹和加塔利无法完全否定精神分析",
@@ -12621,7 +13018,8 @@
     "20261022-0004-concealment-refusal-to-be-counted",
     "20261022-0005-two-nuclear-peers-no-coordination-needed",
     "20261022-0006-nuclear-signaling-not-transferable-across-theaters",
-    "20261022-0007-homeland-defense-third-theater-force-swing"
+    "20261022-0007-homeland-defense-third-theater-force-swing",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition"
   ],
   "deterritorialization": [
     "20260620-1501-装置创造界域而非只是占据空间",
@@ -12653,7 +13051,8 @@
     "20260624-1035-谱系树的线把生命困在点中",
     "20261007-0004-bacon-diagram-preloaded-cliches",
     "20261007-0005-bacon-code-vs-sensation",
-    "20261007-0007-bacon-haptic-vision"
+    "20261007-0007-bacon-haptic-vision",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "dialectical-materialism": [
     "20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论",
@@ -12863,7 +13262,12 @@
     "20260620-1542-斯多亚学派的事件悖论揭示了意义的非生产性",
     "20260620-1553-事件使语言成为可能但不被语言吞并",
     "20260620-1812-航母战斗群是德勒兹意义上的装置而非单纯的",
-    "20260623-1412-别人不是另一个主体而是一个可能世界"
+    "20260623-1412-别人不是另一个主体而是一个可能世界",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other"
+  ],
+  "expressionism": [
+    "20260623-1615-折叠与制图学",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other"
   ],
   "faciality": [
     "20260621-0447-面孔性是能指专制与主体激情交汇的抽象机器产生了白人的普遍标准面孔",
@@ -12905,11 +13309,6 @@
   "force-employment": [
     "20260721-0005-Biddle-modern-system-force-employment",
     "20260721-0007-Biddle-technology-employment-interaction"
-  ],
-  "foucault": [
-    "20260620-1684-身体作为不可化简的空间既是权力规训的终极",
-    "20260622-0036-Reid论德勒兹的战争机器不是军队而是一种反抗国家捕获的思维和存在的游牧形式",
-    "20260622-1612-德勒兹与福柯在战争权力关系上的分歧"
   ],
   "fractal": [
     "20260626-1246-蜂群战术非线性分形去中心化战斗",
@@ -13006,6 +13405,7 @@
     "20260621-0013-Guattari通过Clastres和S",
     "20260621-0014-Guattari对什么是哲学的手稿贡献证",
     "20260621-0015-SegoviaGuattariBeyon",
+    "20260621-0016-deleuze-geophilosophy-ingest",
     "20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学",
     "20260621-0438-DG用复杂性理论消解了结构与能动性困境而非站队任何一边",
     "20260621-0439-DG将符号重新定义为物质系统感知到的临界阈值绕过了后索绪尔符号学的意义危机",
@@ -13039,20 +13439,22 @@
     "20260621-0503-Devji的伦理圣战论作为目的本身的圣战逾越了工具理性政治它对德勒兹式欲望政治学既是挑战也是边界测试",
     "20260622-0004-COVID19不是单纯生物危机而是德勒兹式事件",
     "20260622-0027-Kullman论地理学中的概念制作概念不是语义单位而是思辨设计的多模态过程",
+    "20260623-1407-欲望是基础设施欲望生产比社会生产更根本",
+    "20260623-1413-精神分裂作为过程而不是疾病状态下临床诊断",
+    "20260623-2200-Bonta",
+    "20260623-2203-地缘哲学核心术语的复杂性理论快照",
+    "20260626-1240-反几何学穿墙战术空间解读即战斗",
+    "20260626-1243-批判理论武器化Naveh行动理论研究所",
     "20260630-0003-bonta-protevi-political-physiology-above-below-subject",
     "20260807-0001-janz-territory-is-not-the-map",
     "20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation",
+    "20260830-0022-Guattari混沌互渗与机器性主体性",
     "20260924-0001-adkins-marcel-bike-clinical-experiment"
   ],
   "habit": [
     "20260622-1606-习惯是时间的第一种综合被动主观收缩",
     "20260623-1406-时间第三种综合的停顿是经验链条中的裂隙也",
     "20260807-0001-janz-territory-is-not-the-map"
-  ],
-  "hamas": [
-    "20260626-1140-lieberman-lateral-comparison-pattern",
-    "20260626-1142-lieberman-hamas-deterrable-organization",
-    "20260626-1146-lieberman-october-7-failure-mechanism"
   ],
   "hedging": [
     "20260620-1761-越南在中美博弈中的多向对冲策略以",
@@ -13068,7 +13470,14 @@
     "20260621-0483-主体作为符号化的剩余齐泽克论主体即实体符号操作的丢失链条和消失的中介",
     "20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论",
     "20260622-0020-Zizek的量子物理学本体论将实在界重新定义为虚空而非物质不确定性是本体论的而非认识论的",
-    "20260622-0038-姜宇辉论尼采与德勒兹之间的三重否定性辩证否定差异否定和回反"
+    "20260622-0038-姜宇辉论尼采与德勒兹之间的三重否定性辩证否定差异否定和回反",
+    "20260623-0022-zizek-less-than-nothing-ingest",
+    "20260623-2300-Žižek核心论题",
+    "20260623-2301-Žižek的黑格尔",
+    "20260623-2302-拉康作为黑格尔的重复",
+    "20260623-2304-柏拉图理念的唯物主义翻转",
+    "20260626-1300-三重否定性尼采德勒兹之外的可能",
+    "20260626-1303-第一种否定性辩证连续论尼采黑格尔"
   ],
   "hegemony": [
     "20260721-0001-Womack-multinodal-critique-Schelling-premises",
@@ -13078,7 +13487,10 @@
     "20260620-1683-时间体验在根本上是空间化的记忆的空间性挑",
     "20260621-0009-Guattari与Deleuze选择了截",
     "20260621-0467-Guattari在结构主义和现象学之间走了一条中间道路即机器-结构主义",
-    "20260622-0033-Prozorov的虚空普遍主义不是从虚无出发而是把虚空的肯定本身作为政治的唯一基础"
+    "20260622-0033-Prozorov的虚空普遍主义不是从虚无出发而是把虚空的肯定本身作为政治的唯一基础",
+    "20260623-1601-德勒兹的普遍奠基瓦解",
+    "20260623-2305-经过拉康之后的政治",
+    "20260626-1306-第二种否定性差异本体论从柏拉图到海德格尔"
   ],
   "hilbert-sixth-problem": [
     "20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation",
@@ -13093,7 +13505,8 @@
     "20260624-0026-hulme-gartzke-tyranny-distance-card1-decline-evidence",
     "20260624-0027-hulme-gartzke-tyranny-distance-card2-distance-mechanisms",
     "20260624-0028-hulme-gartzke-tyranny-distance-card3-empirical-validation",
-    "20260624-0029-hulme-gartzke-tyranny-distance-card4-self-inflicted-paradox"
+    "20260624-0029-hulme-gartzke-tyranny-distance-card4-self-inflicted-paradox",
+    "20260624-0030-hulme-gartzke-tyranny-distance-card5-bridge"
   ],
   "identity": [
     "20260620-1715-永恒回归不是同一之回归而是生成之存在的差",
@@ -13121,7 +13534,8 @@
     "20260623-1601-德勒兹的普遍奠基瓦解",
     "20260623-1602-地缘哲学作为概念创造",
     "20260623-1604-机械种系与机械圈的唯物主义",
-    "20260623-1801-意义的内在创造"
+    "20260623-1801-意义的内在创造",
+    "20261104-0001-immanence-as-practical-index-not-substance"
   ],
   "incorporeal": [
     "20260623-1613-事件此性与场所",
@@ -13219,11 +13633,6 @@
     "20260722-0001-晶体时间耐久性悖论不可保持与不可切换",
     "20260722-0002-能但不执法晶体的实践入口"
   ],
-  "ir-theory": [
-    "20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限",
-    "20260622-0040-李格琴论本体安全理论介入国际政治研究的基本信任存在焦虑与自我认同",
-    "20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR"
-  ],
   "irreducibility": [
     "20260716-0001-Mercer1996-reputation-irreducible",
     "20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation"
@@ -13247,16 +13656,14 @@
     "20260622-1720-身体通过享乐被法律铭写而内在生命在法律之外",
     "20260623-2101-两种法"
   ],
-  "kafka": [
-    "20260620-1724-动物",
-    "20260622-1615-反战略思想传统与战争机器的思想家"
-  ],
   "kant": [
     "20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统",
     "20260622-0021-空间不是康德的先验范畴而是差异本身德勒兹重新引入物质的时间和空间维度Saldanha",
     "20260622-0048-李科林论康德与法国哲学的相遇现代理性从单旋律主调走向德法复调",
     "20260622-1604-康德将时间从空间化运动中解放为纯粹形式",
-    "20260622-1605-理性对经验的裁决压抑了感觉的混杂性和生命多样性"
+    "20260622-1605-理性对经验的裁决压抑了感觉的混杂性和生命多样性",
+    "20260623-1601-德勒兹的普遍奠基瓦解",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself"
   ],
   "kierkegaard": [
     "20260621-0503-Devji的伦理圣战论作为目的本身的圣战逾越了工具理性政治它对德勒兹式欲望政治学既是挑战也是边界测试",
@@ -13270,23 +13677,9 @@
     "20260622-0027-Kullman论地理学中的概念制作概念不是语义单位而是思辨设计的多模态过程",
     "20260622-0028-Kullman的三型批判形象非事件性不驯服性非共通性补全德勒兹概念理论忽视了概念的不确定安排"
   ],
-  "lacan": [
-    "20260621-0008-Guattari以无意识即可能性的领域对",
-    "20260621-0480-剩余作为可跨域迁移的理论模型从剩余价值到剩余快感构成同一枚硬币的两面",
-    "20260621-0481-剩余快感不是快感的剩余而是通过认同和接受象征秩序所获得的痛苦欢乐",
-    "20260621-0482-主人话语公式S1-S2-dollar-a揭示资本家从工人那里掠夺的不只是剩余价值还掠夺了快感和知识",
-    "20260621-0483-主体作为符号化的剩余齐泽克论主体即实体符号操作的丢失链条和消失的中介",
-    "20260621-0488-being不是存在Zevnik区分的内在平面与超验具象化颠覆了政治主体论的同一性预设",
-    "20260621-0489-后俄狄浦斯法后俄狄浦斯法不以父法等级压制欲望而以圣状和快感重新打开法的偶然性",
-    "20260621-0491-拉康与德勒兹的反笛卡尔联盟以斯宾诺莎式conatus作为欲望和快感的本体论桥梁",
-    "20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架",
-    "20260622-0011-析取综合NedohZevnik论拉康与德勒兹既不可调和也不可分离的悖论性关系",
-    "20260622-0012-巴洛克结构主义Tomšič和Chiesa论拉康和德勒兹在拓扑学层面从缺乏转向虚空的汇合",
-    "20260622-0013-Zupancic和Johnston论死亡驱力拉康与德勒兹都拒绝快乐原则的稳态模型但走向了不同的本体论后果",
-    "20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论",
-    "20260622-0029-拉康晚期对反俄狄浦斯的回应实在无意识lalangue和圣状是对结构无意识的非缺陷论突破",
-    "20260623-0022-zizek-less-than-nothing-ingest",
-    "20260804-0004-spoke-wheel-tree-rhizome-three-states"
+  "lack": [
+    "20260620-1513-拉康式对象a的缺失是解放而非悲剧",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "land-sea-composite": [
     "20260622-0037-陆海复合型强国的战略选择不是地理宿命秦立志谭皓宇的地缘位势安全感知分析框架",
@@ -13322,12 +13715,6 @@
   "learning": [
     "20260620-1716-学习不是在观念中模仿而是在异质物中遭遇符",
     "20260622-1619-非线性因果突破地缘宿命论风险承担透支谨慎克制成功"
-  ],
-  "leibniz": [
-    "20260620-1550-莱布尼茨的共可能性先于同一性逻辑",
-    "20260620-1700-善",
-    "20260620-1701-单子的封闭性不是孤立的条件而是世界内含的",
-    "20260621-0009-Guattari与Deleuze选择了截"
   ],
   "less-than-nothing": [
     "20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论",
@@ -13499,7 +13886,9 @@
   "metaphysics": [
     "20260620-1627-形而上学的错误在于把次要现象当作另一个独",
     "20260621-0440-Deleuze的本体论以虚拟替代可能用吸引子结构解释物质系统的创造性",
-    "20260621-0486-政治排斥不仅是政治意志的结果更是本体论承诺的后果"
+    "20260621-0486-政治排斥不仅是政治意志的结果更是本体论承诺的后果",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "metasynthesis": [
     "20260623-0007-钱学森的开放复杂巨系统方法论是中国复杂性科学的根基与BontaProtevi的DG复杂性理论的跨文明对话",
@@ -13674,13 +14063,6 @@
     "20260622-0004-COVID19不是单纯生物危机而是德勒兹式事件",
     "20260622-0006-后疫情共同体的精神分裂分析Sholtz的内在性介入抵抗新自由主义的原子化",
     "20261020-0001-wet-ontology-four-critiques-ocean-as-ground"
-  ],
-  "nietzsche": [
-    "20260620-1715-永恒回归不是同一之回归而是生成之存在的差",
-    "20260621-0437-Deleuze和Guattari的Geophilosophy是用复杂性理论重新锚定哲学与地理学",
-    "20260622-0038-姜宇辉论尼采与德勒兹之间的三重否定性辩证否定差异否定和回反",
-    "20260622-1609-德勒兹的永恒回归肯定差异性而非同一性",
-    "20260622-1614-德勒兹通过尼采肯定性战争从法西斯主义中拯救尼采"
   ],
   "nihilism": [
     "20260620-1688-解构主义的激进怀疑论在消解压迫性结构的同",
@@ -13863,7 +14245,8 @@
   "phenomenology": [
     "20260621-0467-Guattari在结构主义和现象学之间走了一条中间道路即机器-结构主义",
     "20260622-0044-李菁论维特根斯坦的千高原生活形式语言游戏的自行显示即一块高原诸高原之间是家族相似性",
-    "20260622-0049-李科林论无意识的哲学边界从胡塞尔的先验主体保卫到德勒兹对主体先验耦合的分解"
+    "20260622-0049-李科林论无意识的哲学边界从胡塞尔的先验主体保卫到德勒兹对主体先验耦合的分解",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail"
   ],
   "philosophy": [
     "20260620-1506-思想发生在体系边缘而思想者是演员",
@@ -13944,6 +14327,7 @@
     "20261007-0013-fold-singularity-world-perspective"
   ],
   "post-Oedipal": [
+    "20260621-0489-后俄狄浦斯法后俄狄浦斯法不以父法等级压制欲望而以圣状和快感重新打开法的偶然性",
     "20260622-1640-症状法基于博罗米结提供了一种后俄狄浦斯的替代秩序",
     "20260623-2101-两种法"
   ],
@@ -13963,7 +14347,8 @@
   ],
   "power-projection": [
     "20260620-1756-距离暴君在单极体系中同样制约着军事力量的",
-    "20260627-0005-马汉忽视两栖作战陆海互赖"
+    "20260627-0005-马汉忽视两栖作战陆海互赖",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "practice": [
     "20260621-0446-无器官身体不是反对器官而是反对有机体去有机体化释放身体的创造性连接",
@@ -13977,6 +14362,8 @@
   ],
   "protevi": [
     "20260621-0473-Bonta和Protevi在方法论上选择将符号扩展使用为物质临界阈值这一选择架起了DG理论到经验研究的桥梁",
+    "20260623-0015-bonta-protevi-geophilosophy-ingest-2",
+    "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20260630-0001-bonta-protevi-delanda-ontology-actual-intensive-virtual",
     "20260630-0002-bonta-protevi-emergence-epistemic-ontological",
     "20260630-0003-bonta-protevi-political-physiology-above-below-subject",
@@ -14075,7 +14462,8 @@
     "20260622-1612-德勒兹与福柯在战争权力关系上的分歧",
     "20260622-1613-法西斯是自杀式国家战争机器接管国家后的毁灭线",
     "20260622-1614-德勒兹通过尼采肯定性战争从法西斯主义中拯救尼采",
-    "20260622-1615-反战略思想传统与战争机器的思想家"
+    "20260622-1615-反战略思想传统与战争机器的思想家",
+    "20260701-0037-evans-reid-thinking-as-if-already-dead"
   ],
   "relationalism": [
     "20260926-0001-jackson-nexon-relationalism-analytical-primitive",
@@ -14164,6 +14552,7 @@
     "20260623-1609-尺度问题"
   ],
   "schelling": [
+    "20260623-2301-Žižek的黑格尔",
     "20260721-0001-Womack-multinodal-critique-Schelling-premises",
     "20260721-0004-Womack-Putin-coercive-trap"
   ],
@@ -14357,6 +14746,8 @@
     "20260622-0031-Hubbard论空间的本体论被回避在多元主义的对话中空间仍然是弱本体论概念",
     "20260622-1604-康德将时间从空间化运动中解放为纯粹形式",
     "20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi",
+    "20260623-0016-charnock-space-form-urbanity-ingest",
+    "20260623-0020-unwin-waste-space-ingest",
     "20260623-1600-Saldanha",
     "20260623-2000-昂温五重批判",
     "20260624-1005-线缕与痕迹的转换生成表面",
@@ -14386,11 +14777,6 @@
   "speed": [
     "20260623-1608-战争机器与战斗伦理",
     "20260627-0002-游牧之思是战术性的而非战略性的"
-  ],
-  "spinoza": [
-    "20260620-1725-斯宾诺莎伦理学的三大要素",
-    "20260621-0009-Guattari与Deleuze选择了截",
-    "20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的"
   ],
   "state": [
     "20260620-1703-战争机器以创造平滑空间为目的而非以战争为",
@@ -14531,7 +14917,8 @@
   ],
   "surplus": [
     "20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略",
-    "20260623-1411-民主只有立足于自身的不可能性才能真正运作"
+    "20260623-1411-民主只有立足于自身的不可能性才能真正运作",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "surplus-jouissance": [
     "20260621-0480-剩余作为可跨域迁移的理论模型从剩余价值到剩余快感构成同一枚硬币的两面",
@@ -14587,7 +14974,8 @@
   "tan": [
     "20260624-0011-tan-cas-theory-card2-seven-elements",
     "20260624-0109-tan-cas-theory-card1-basics",
-    "20260624-0111-tan-cas-theory-card3-emergence-simulation"
+    "20260624-0111-tan-cas-theory-card3-emergence-simulation",
+    "20260624-0114-tan-cas-theory-card4-bridge"
   ],
   "tan-haoyu": [
     "20260622-0037-陆海复合型强国的战略选择不是地理宿命秦立志谭皓宇的地缘位势安全感知分析框架",
@@ -14611,6 +14999,7 @@
     "20260624-0120-tang-system-security-card1-core-thesis",
     "20260624-0121-tang-system-security-card2-geography",
     "20260624-0122-tang-system-security-card3-interaction",
+    "20260624-0123-tang-social-evolution-card5-implications-bridge",
     "20260624-0124-tang-system-security-card5-system-properties",
     "20260624-0126-tang-yongsheng-grand-strategy-card1-core-thesis",
     "20260624-0127-tang-yongsheng-grand-strategy-card2-strategic-stability",
@@ -14652,6 +15041,10 @@
     "20260621-0503-Devji的伦理圣战论作为目的本身的圣战逾越了工具理性政治它对德勒兹式欲望政治学既是挑战也是边界测试",
     "20260621-0504-恐怖作为虚空的病理化Zevnik的本体论虚空与DG的战争机器在暴力边缘汇合提出了政治创造性的门槛问题"
   ],
+  "the-Real": [
+    "20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架",
+    "20260622-1740-实在界的爱作为打破主体秩序的力量而非情感"
+  ],
   "thesis": [
     "20260624-0021-gibbs-ussr-grand-strategy-card2-bridge",
     "20260624-0115-tang-idea-action-outcome-card4-bridge",
@@ -14690,6 +15083,7 @@
     "20260622-0055-cisney-power-false-time-truth",
     "20260622-0062-luzecky-cinema-time-bergson-film",
     "20260622-0065-nail-kinetic-theory-time-lucretius",
+    "20260622-0071-smith-pure-form-time-three-syntheses",
     "20260622-1604-康德将时间从空间化运动中解放为纯粹形式",
     "20260622-1606-习惯是时间的第一种综合被动主观收缩",
     "20260622-1607-记忆作为时间的第二种综合过去与现在共存情感驱动差异性",
@@ -14926,26 +15320,6 @@
     "20260622-0009-平板画面从幻觉之窗到信息桌面Steinberg的平板理论沟通了地图艺术与信息",
     "20260622-0010-操作图像Farocki和Waheed的监控美学揭示了后人类地图中代码与控制的新型图像体制"
   ],
-  "zevnik": [
-    "20260621-0486-政治排斥不仅是政治意志的结果更是本体论承诺的后果",
-    "20260621-0487-以虚空作为本体论的最终支撑世界秩序是偶然的而非必然的",
-    "20260621-0488-being不是存在Zevnik区分的内在平面与超验具象化颠覆了政治主体论的同一性预设",
-    "20260621-0489-后俄狄浦斯法后俄狄浦斯法不以父法等级压制欲望而以圣状和快感重新打开法的偶然性",
-    "20260621-0490-本体论作为政治实践通过质疑政治二元性的暴力前提将存在论追问本身转化为政治行动",
-    "20260621-0491-拉康与德勒兹的反笛卡尔联盟以斯宾诺莎式conatus作为欲望和快感的本体论桥梁",
-    "20260621-0492-关塔那摩的微观抵抗实践不是例外而是另一种世界秩序的本体论展演",
-    "20260621-0493-Zevnik这本书的理论贡献在于用拉康-德勒兹的本体论框架将后结构主义从解构转向建构但过度依赖抽象思辨是其核心局限",
-    "20260621-0494-Zevnik的虚空本体论与BontaProtevi的复杂性吸引子两个涌现理论在本体论层面的对话与分歧",
-    "20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略",
-    "20260621-0496-圣状与回旋Guattari的ritournelle和Zevnik的sinthome是两种绕过父法创造主体性的自我技术",
-    "20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架",
-    "20260622-0011-析取综合NedohZevnik论拉康与德勒兹既不可调和也不可分离的悖论性关系",
-    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
-    "20260623-0022-zizek-less-than-nothing-ingest",
-    "20260703-0015-Zevnik-RIS2024-future-IR-perspective",
-    "20260703-0016-Molloy-review-Zevnik-2016",
-    "20260704-0001-Zevnik未走之路从虚空安全到剩余安全的理论取舍与互补"
-  ],
   "zhang": [
     "20260622-0080-zhang-security-sense-neglected-dimension",
     "20260624-0154-zhang-maritime-politics-card1-core-thesis",
@@ -14972,7 +15346,8 @@
     "20260622-0014-詹金斯以荣格德勒兹和性别差异构建无意识政治经济学拒绝拉康齐泽克的无意识不可知论",
     "20260622-0019-现实不是多于虚无而是少于虚无Zizek的LessThanNothing以希格斯场类比论证驱力的本体论",
     "20260622-0020-Zizek的量子物理学本体论将实在界重新定义为虚空而非物质不确定性是本体论的而非认识论的",
-    "20260623-0022-zizek-less-than-nothing-ingest"
+    "20260623-0022-zizek-less-than-nothing-ingest",
+    "20260623-1411-民主只有立足于自身的不可能性才能真正运作"
   ],
   "zuo": [
     "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis",
@@ -15028,7 +15403,8 @@
     "20260624-0097-qin-strategic-uncertainty-card7-bridge",
     "20260713-0006-quine-ontological-relativity",
     "20260721-0002-Womack-multinodal-era-characteristics",
-    "20261016-0001-reflexive-coupling-prediction-attribution-gap"
+    "20261016-0001-reflexive-coupling-prediction-attribution-gap",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition"
   ],
   "不确定性与安全困境": [
     "20260624-0091-qin-strategic-uncertainty-card1-core-thesis",
@@ -15043,9 +15419,13 @@
     "20260622-0076-wang-meng-time-space-world-politics-methodology",
     "20260622-0080-zhang-security-sense-neglected-dimension",
     "20260622-0081-zhu-ning-copenhagen-school-security",
+    "20260624-0019-tang-system-security-card4-structure-tech-nontraditional",
     "20260624-0100-shao-shi-land-maritime-card1-foundation",
     "20260624-0112-tang-idea-action-outcome-card1-core-thesis",
     "20260624-0120-tang-system-security-card1-core-thesis",
+    "20260624-0121-tang-system-security-card2-geography",
+    "20260624-0122-tang-system-security-card3-interaction",
+    "20260624-0124-tang-system-security-card5-system-properties",
     "20260624-0150-ye-tang-case-selection-card1-core-thesis",
     "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism"
   ],
@@ -15060,6 +15440,7 @@
   ],
   "东北亚论坛": [
     "20260624-0006-jiang-land-sea-strategy-card1-core-thesis",
+    "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism",
     "20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation"
   ],
   "丢失链条和消失": [
@@ -15071,11 +15452,18 @@
     "20260621-0484-主体作为消失的中介意识形态质询永远无法完全成功总有创伤性剩余抵御征召",
     "20260621-0485-无实体主体性无产阶级作为资本主义秩序的剩余和否定性力量及其乌托邦局限",
     "20260621-0495-剩余与虚空是实在界的否定和肯定两张面孔政治转型需要创伤诊断和虚空激活的双重策略",
-    "20260626-1134-lieberman-core-thesis-deterrence-failure"
+    "20260626-1134-lieberman-core-thesis-deterrence-failure",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "个体化": [
     "20260622-0055-cisney-power-false-time-truth",
     "20261010-0003-deleuze-individuation-unsurpassable-个体化不可超越"
+  ],
+  "中国周边外交学刊": [
+    "20260624-0086-qin-land-maritime-card1-core-thesis",
+    "20260624-0087-qin-land-maritime-card2-six-factors",
+    "20260624-0088-qin-land-maritime-card3-germany-case",
+    "20260624-0089-qin-land-maritime-card4-soviet-china"
   ],
   "中国外交": [
     "20260620-1772-中国的危机管理以避战为首要原则但在核心利",
@@ -15089,7 +15477,10 @@
     "20260622-0050-马迎辉论认知的流形模式以流形作为AI神经科学与意识哲学的统一范式",
     "20260622-0078-yang-objective-world-transcending-subjectivism",
     "20260624-0102-shi-security-philosophical-paradigms-card1-core",
-    "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis"
+    "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis",
+    "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
+    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
+    "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment"
   ],
   "中国航母": [
     "20260620-1770-中国发展航母更多出于大国声望而非战略必需",
@@ -15236,7 +15627,10 @@
     "20260830-0117-DG概念组件性与非命题",
     "20260830-0118-DG乌托邦资本主义与脱离领土",
     "20261029-0001-patton-practical-reason-counter-actualization",
-    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic"
+    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "他异性和独特性": [
     "20260830-0028-Derrida赠予死亡秘密责任与牺牲",
@@ -15271,12 +15665,23 @@
     "20260622-1549-任意空间通过局部而非整体构建",
     "20260622-1555-贝克特的穷尽策略将空间从事件场所还原为纯空间"
   ],
+  "伊斯特万·迪查": [
+    "20260624-0036-liu-ge-extended-immediate-deterrence-card4-outcomes",
+    "20260624-0037-liu-ge-extended-immediate-deterrence-card5-cases-and-taiwan",
+    "20260624-0040-liu-micro-events-card2-tisza-case"
+  ],
+  "传感器饱和时代": [
+    "20260808-0002-virilio-speed-politics-dromology-regen-criterion",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "伦理学": [
     "20260620-1725-斯宾诺莎伦理学的三大要素",
     "20260623-1405-斯宾诺莎三种知识对应光的三种状态从阴影符",
     "20260830-0075-柄谷笛卡尔怀疑与先验性批判",
     "20260830-0111-Hardt力转伦理与永恒回归",
-    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety"
+    "20261011-0001-plateau-cybernetic-explanation-spinozist-gaiety",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine"
   ],
   "位置与过程": [
     "20260926-0001-jackson-nexon-relationalism-analytical-primitive",
@@ -15400,7 +15805,8 @@
   ],
   "公理化": [
     "20260624-0045-liu-qu-manifold-evolution-card3-hilbert",
-    "20260830-0015-王琦陈琛公理化与解码"
+    "20260830-0015-王琦陈琛公理化与解码",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "共可能性与斯多葛": [
     "20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi",
@@ -15419,6 +15825,10 @@
   "共同体": [
     "20260701-0029-zhang-yunling-ideal-reality-regional-order",
     "20260830-0003-柄谷交通空间共同体与社会"
+  ],
+  "共同概念": [
+    "20260830-0026-Hardt德勒兹斯宾诺莎共同概念与唯物主义",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine"
   ],
   "关塔那摩": [
     "20260703-0016-Molloy-review-Zevnik-2016",
@@ -15461,14 +15871,17 @@
     "20260830-0141-Badiou福柯域外拓扑学",
     "20260830-0142-Badiou直观双重运动与概念无人称",
     "20260914-0002-nomadology-genesis-organization",
-    "20260925-0002-Satoor从单义性推导平等但本体到规范的论证未完成"
+    "20260925-0002-Satoor从单义性推导平等但本体到规范的论证未完成",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261104-0001-immanence-as-practical-index-not-substance"
   ],
   "内在性": [
     "20260620-1646-内在性平面是思维的图像而非方法论",
     "20260623-0018-saldanha-space-after-deleuze-ingest",
     "20260716-0011-Smith2010-believing-world",
     "20260716-0013-Thiele2016-immanence-becoming",
-    "20260727-0007-jacques-rosanvallon-dg-nature-plane-immanence"
+    "20260727-0007-jacques-rosanvallon-dg-nature-plane-immanence",
+    "20261104-0001-immanence-as-practical-index-not-substance"
   ],
   "内在性平面": [
     "20260716-0009-Villani2019-Deleuze-nomadism",
@@ -15476,7 +15889,8 @@
     "20260804-0001-viveiros-perspectivism-multinaturalism",
     "20260827-0001-jacques-rosanvallon-cursus-four-ways",
     "20260830-0071-杨凯麟三层建构主义思想即影像",
-    "20261007-0016-dialogues-desire-assemblage-plane"
+    "20261007-0016-dialogues-desire-assemblage-plane",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "再辖域化": [
     "20260713-0007-paranoid-repetition-coding-reshaping",
@@ -15489,7 +15903,9 @@
   ],
   "军事战略": [
     "20260808-0002-virilio-speed-politics-dromology-regen-criterion",
-    "20261022-0007-homeland-defense-third-theater-force-swing"
+    "20261022-0007-homeland-defense-third-theater-force-swing",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "军事预算": [
     "20260620-1774-航母的高昂成本正在迫使多数国家重新评估其",
@@ -15595,7 +16011,8 @@
   "剩余价值": [
     "20260830-0012-沈志中对象a多余绝爽爱情",
     "20260830-0018-齐泽克征兆剩余快感与商品形式母体",
-    "20260830-0029-芬克拉康式主体分离与对象a"
+    "20260830-0029-芬克拉康式主体分离与对象a",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "剩余安全": [
     "20260703-0022-sustainable-alternative-attractor-bridge",
@@ -15613,11 +16030,19 @@
     "20260724-0001-Deng-Hani-Ma-iterated-limit-irreducible-mediation",
     "20260726-0001-qin-over-reterritorialization-collapse-virtual-actualization",
     "20260805-0009-capital-time-collective-time-bridge",
-    "20261027-0004-oda-category-domestic-refugee-costs"
+    "20261027-0004-oda-category-domestic-refugee-costs",
+    "20261103-0003-security-as-product-coverage-generates-surplus",
+    "20261103-0004-circle-on-map-area-versus-volume-and-duration",
+    "20261103-0005-distance-as-inclusion-of-others-problems",
+    "20261103-0006-two-directions-one-accounting-expansion-vs-inclusion",
+    "20261103-0007-sovereignty-intensity-declines-land-sea-discourse",
+    "20261103-0008-generative-room-as-others-leeway",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "剩余快感": [
     "20260830-0018-齐泽克征兆剩余快感与商品形式母体",
-    "20260830-0060-齐泽克征兆过度与纽结点政治学"
+    "20260830-0060-齐泽克征兆过度与纽结点政治学",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
   ],
   "力比多": [
     "20260620-1662-对母亲欲望的还原遮蔽了婴儿性欲的政治维度",
@@ -15741,7 +16166,8 @@
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
     "20261030-0002-vietnam-whose-deterrence-assemblage-position",
-    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading"
+    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "升级管理": [
     "20260620-1800-灰色地带行动模糊和平与战争界限挑战传统威",
@@ -15757,11 +16183,19 @@
     "20260827-0001-jacques-rosanvallon-cursus-four-ways",
     "20260830-0037-Badiou德勒兹单义性与大写的一",
     "20260830-0144-德勒兹永恒回归析取综合与强度",
-    "20261010-0035-genus-species-logos-属差与两种逻各斯"
+    "20261010-0035-genus-species-logos-属差与两种逻各斯",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other"
   ],
   "单独性": [
     "20260830-0005-柄谷单独性普遍性轴与专名",
     "20260830-0078-柄谷专名单独性与可能世界"
+  ],
+  "南亚东南亚研究": [
+    "20260624-0143-yang-complex-system-card1-core-thesis",
+    "20260624-0144-yang-complex-system-card2-four-subsystems",
+    "20260624-0145-yang-complex-system-card3-five-path-dependencies",
+    "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo"
   ],
   "博弈论": [
     "20260715-0006-Baliga2020-imperfect-attribution",
@@ -15847,7 +16281,10 @@
     "20260924-0002-adkins-intensive-extensive-social-investment",
     "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
-    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic"
+    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "反击变得与我们相等": [
     "20261010-0031-third-synthesis-effect-第三综合的爱欲效果",
@@ -15969,6 +16406,10 @@
     "20260830-0125-Harvey不平衡地理发展与空间修复",
     "20260830-0126-Harvey时空客观性须经物质过程",
     "20260830-0127-Harvey异化被分裂取代与元叙事"
+  ],
+  "后现象学": [
+    "20260727-0005-bonta-protevi-geography-philosophy-impasse",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail"
   ],
   "后结构主义": [
     "20260620-1590-主体之死被高估了",
@@ -16106,12 +16547,21 @@
     "20260620-1800-灰色地带行动模糊和平与战争界限挑战传统威",
     "20260620-1814-灰区冲突是地缘政治的生成"
   ],
+  "国家安全战略": [
+    "20260701-0010-wang-xinying-us-china-role-evolution",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition"
+  ],
   "国家安全环境的系统理论": [
     "20260624-0019-tang-system-security-card4-structure-tech-nontraditional",
     "20260624-0120-tang-system-security-card1-core-thesis",
     "20260624-0121-tang-system-security-card2-geography",
     "20260624-0122-tang-system-security-card3-interaction",
     "20260624-0124-tang-system-security-card5-system-properties"
+  ],
+  "国防战略评估": [
+    "20260624-0006-baldauff-heng-japan-dcas-card6-conclusion-bridge",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "国际关系理论": [
     "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做",
@@ -16134,6 +16584,9 @@
   ],
   "国际政治": [
     "20260624-0126-tang-yongsheng-grand-strategy-card1-core-thesis",
+    "20260624-0127-tang-yongsheng-grand-strategy-card2-strategic-stability",
+    "20260624-0129-tang-yongsheng-grand-strategy-card4-military-innovation",
+    "20260624-0130-tang-yongsheng-grand-strategy-card5-new-military-revolution",
     "20260710-0003-IR-mechanosphere-vs-hyperobject",
     "20260715-0017-Hom2018-timing-theory"
   ],
@@ -16149,6 +16602,12 @@
     "20260624-0147-yang-complex-system-card5-false-as-true",
     "20260624-0148-yang-complex-system-card6-productive-forces"
   ],
+  "国际政治复合系统论：一种分析方法": [
+    "20260624-0143-yang-complex-system-card1-core-thesis",
+    "20260624-0144-yang-complex-system-card2-four-subsystems",
+    "20260624-0145-yang-complex-system-card3-five-path-dependencies",
+    "20260624-0146-yang-complex-system-card4-path-adjustment-nuclear-taboo"
+  ],
   "国际政治的社会演化": [
     "20260701-0028-tang-shiping-social-evolution-key-concepts",
     "20260716-0053-Howells2024-parasite-paradox"
@@ -16156,7 +16615,12 @@
   "国际政治科学": [
     "20260623-0001-唐世平论计算社会科学的未来模仿与模拟两条技术路径需要全数据计算思维超越大数据计算",
     "20260624-0091-qin-strategic-uncertainty-card1-core-thesis",
-    "20260624-0139-xu-time-strategic-goal-card1-core-thesis"
+    "20260624-0092-qin-strategic-uncertainty-card2-threat-perception",
+    "20260624-0094-qin-strategic-uncertainty-card4-uncertainty-paradox",
+    "20260624-0095-qin-strategic-uncertainty-card5-british-case",
+    "20260624-0096-qin-strategic-uncertainty-card6-strategic-stability",
+    "20260624-0139-xu-time-strategic-goal-card1-core-thesis",
+    "20260624-0140-xu-time-strategic-goal-card2-three-distortion-factors"
   ],
   "国际社会": [
     "20260926-0025-ralph-international-society-as-os-provider-framework",
@@ -16363,7 +16827,10 @@
   "太平洋学报": [
     "20260622-0040-李格琴论本体安全理论介入国际政治研究的基本信任存在焦虑与自我认同",
     "20260622-0060-hu-bo-chen-grey-zone-strategy",
-    "20260624-0081-qin-dynamic-mechanism-card1-core-thesis"
+    "20260624-0081-qin-dynamic-mechanism-card1-core-thesis",
+    "20260624-0082-qin-dynamic-mechanism-card2-system-level",
+    "20260624-0083-qin-dynamic-mechanism-card3-unit-level",
+    "20260624-0084-qin-dynamic-mechanism-card4-china-path"
   ],
   "失常极点": [
     "20260830-0072-杨凯麟虚拟实际化三义与分裂分析",
@@ -16425,6 +16892,11 @@
     "20260627-0019-生成哲学在适应型战略定义下具有战略意义",
     "20260805-0003-strategic-theory-literature-map"
   ],
+  "学的颠覆与欲望": [
+    "20260621-0504-恐怖作为虚空的病理化Zevnik的本体论虚空与DG的战争机器在暴力边缘汇合提出了政治创造性的门槛问题",
+    "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge"
+  ],
   "学科批判": [
     "20260714-0009-Barnett-Zarakol2023-essentialism-trap",
     "20260714-0010-Rosenberg2016-IR-prison-political-science"
@@ -16462,6 +16934,15 @@
   "安全研究": [
     "20260701-0022-buzan-security-studies-spectrum",
     "20260716-0044-Barkawi2011-war-to-security"
+  ],
+  "安全空间": [
+    "20261027-0004-oda-category-domestic-refugee-costs",
+    "20261103-0003-security-as-product-coverage-generates-surplus",
+    "20261103-0004-circle-on-map-area-versus-volume-and-duration",
+    "20261103-0005-distance-as-inclusion-of-others-problems",
+    "20261103-0006-two-directions-one-accounting-expansion-vs-inclusion",
+    "20261103-0007-sovereignty-intensity-declines-land-sea-discourse",
+    "20261103-0008-generative-room-as-others-leeway"
   ],
   "安全话语": [
     "20260709-0001-remainder-second-order-dynamics",
@@ -16659,7 +17140,10 @@
     "20261010-0036-experiment-closed-environment-实验与封闭环境",
     "20261010-0037-science-fiction-knowledge-frontier-知识前沿",
     "20261015-0001-lacan-retroactivity-deleuze-third-synthesis-bridge",
-    "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism"
+    "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "巴塔耶": [
     "20260711-0001-bataille-depense-surplus-security",
@@ -16690,6 +17174,10 @@
     "20261022-0004-concealment-refusal-to-be-counted",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation"
   ],
+  "平行论": [
+    "20260830-0026-Hardt德勒兹斯宾诺莎共同概念与唯物主义",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine"
+  ],
   "并由此与世界中": [
     "20260620-1605-时间是创造性的而不是空间的第四个维度",
     "20260830-0128-德勒兹时间不是空间第四维与创造"
@@ -16707,7 +17195,9 @@
     "20260622-1532-德勒兹的建构主义超越了否定辩证法",
     "20260701-0025-wendt-constructivist-ontology",
     "20260830-0071-杨凯麟三层建构主义思想即影像",
-    "20260926-0043-solomon-multiple-conflicting-temporalities-vs-futurity"
+    "20260926-0043-solomon-multiple-conflicting-temporalities-vs-futurity",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other"
   ],
   "异时间性": [
     "20260926-0045-hom-timing-instead-of-time-stovepipes-and-reification",
@@ -16746,7 +17236,8 @@
   "形而上学": [
     "20260716-0046-Behnke2008-eternal-peace-graveyard",
     "20260721-0014-Zhao-Tingyang-verb-ontology-vs-noun-metaphysics",
-    "20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture"
+    "20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself"
   ],
   "得以生成和展开": [
     "20260622-0024-可朽计算vs不朽计算意识不是抽象信息处理而是嵌入具体物理基质中的耗散过程",
@@ -16764,6 +17255,18 @@
     "20260620-1626-伟大作家抓住的是生命与死亡之间的新逻辑",
     "20260620-1627-形而上学的错误在于把次要现象当作另一个独",
     "20260620-1647-追随大师的方式是为新的问题创造概念",
+    "20260622-0057-elsby-kafka-becoming-animal-non-metaphorical",
+    "20260622-0061-li-kelin-deleuze-time-ingest",
+    "20260622-0062-luzecky-cinema-time-bergson-film",
+    "20260622-0063-luzecky-smith-deleuze-time-intro",
+    "20260622-0064-mollison-eternal-return-deleuze-nietzsche",
+    "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
+    "20260622-0069-reid-war-machine-ingest",
+    "20260622-0070-sheldahl-thomason-deleuze-foucault-time",
+    "20260622-0071-smith-pure-form-time-three-syntheses",
+    "20260622-0072-somers-hall-kant-merleau-ponty-deleuze-synthesis",
+    "20260622-0073-stivale-deleuze-seminar-time-out-of-joint",
+    "20260622-0075-trnka-deleuze-negri-political-time",
     "20260622-1517-块茎与星丛的共同点是反对同一性逻辑",
     "20260622-1520-块茎的核心机制是逃逸线",
     "20260622-1526-块茎追求绝对异质性星丛坚持非同一性",
@@ -16779,6 +17282,24 @@
     "20260622-1558-德勒兹空间理论关注空间如何可能而非空间是什么",
     "20260622-1600-解域化与解辖域化是对域的不同政治性理解",
     "20260622-1603-解域化与祛魅共享解绑结构但本体论与社会学取向根本不同",
+    "20260623-0017-richter-politics-of-orientation-ingest",
+    "20260623-0018-saldanha-space-after-deleuze-ingest",
+    "20260623-0019-shores-logic-deleuze-ingest",
+    "20260623-0021-zevnik-lacan-deleuze-world-politics-ingest",
+    "20260624-0048-liu-qu-manifold-evolution-card6-bridge",
+    "20260624-0049-luan-dong-deleuze-creation-card1-encounter",
+    "20260624-0050-luan-dong-deleuze-creation-card2-concept-person",
+    "20260624-0051-luan-dong-deleuze-creation-card3-difference-repetition",
+    "20260624-0052-luan-dong-deleuze-creation-card4-rhizome-nomadology",
+    "20260624-0053-luan-dong-deleuze-creation-card5-schizoanalysis",
+    "20260624-0054-luan-dong-deleuze-creation-card6-philosophy-creation",
+    "20260624-0055-luan-dong-deleuze-creation-card7-bridge",
+    "20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge",
+    "20260624-0073-original-batch3-desire-machine-state",
+    "20260624-0077-original-batch5-event-security-law",
+    "20260624-0080-original-remaining-bridge-index",
+    "20260624-0108-song-complexity-science-card5-bridge",
+    "20260624-0165-zhao-time-temporality-card6-bridge",
     "20260703-0015-Zevnik-RIS2024-future-IR-perspective",
     "20260703-0020-Zevnik2016-face-politics",
     "20260709-0003-Dukes2016-mechanosphere-genealogy",
@@ -16926,7 +17447,11 @@
     "20261029-0002-deterritorialization-ontology-as-ethics-reserve-of-freedom",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
     "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
-    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading"
+    "20261030-0004-maritime-alliance-as-assemblage-dg-rereading",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261102-0004-welchman-schopenhauer-intransitive-will-desiring-production"
   ],
   "德勒兹-加塔利": [
     "20260620-1620-少数文学的本质在于对主流语言的解域化处理",
@@ -16953,7 +17478,8 @@
     "20260622-0075-trnka-deleuze-negri-political-time",
     "20260622-0076-wang-meng-time-space-world-politics-methodology",
     "20260622-0077-wu-quantum-turn-political-science",
-    "20260623-0018-saldanha-space-after-deleuze-ingest"
+    "20260623-0018-saldanha-space-after-deleuze-ingest",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "德勒兹与巴迪乌": [
     "20260623-0012-德勒兹空间哲学的三个翻译进路SaldanhaShoresBontaProtevi",
@@ -17071,6 +17597,7 @@
   ],
   "意义的逻辑": [
     "20260620-1545-无意义不是意义的缺席",
+    "20260620-1721-概念表达事件而不表达本质",
     "20260620-1723-存在的单义性不取消差异而通过析取综合肯定",
     "20260622-0017-德勒兹的时间哲学不是基于运动测量而是将时间解放为独立于物质运动的连续统",
     "20260622-0066-nedoh-zevnik-lacan-deleuze-disjunctive-synthesis",
@@ -17091,7 +17618,9 @@
     "20260830-0143-德勒兹反常与去主体化",
     "20260830-0144-德勒兹永恒回归析取综合与强度",
     "20260830-0145-德勒兹伊壁鸠鲁原子偏斜与类比",
-    "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism"
+    "20261019-0001-quasi-cause-surface-diagnosis-vs-tang-causal-mechanism",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other"
   ],
   "意向性": [
     "20260830-0030-Sokolowski现象学三大结构与意向性",
@@ -17134,6 +17663,10 @@
   "成了义务和责任": [
     "20260830-0028-Derrida赠予死亡秘密责任与牺牲",
     "20260830-0081-Derrida向死存在与他者牺牲"
+  ],
+  "成功转型与中国面临": [
+    "20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism",
+    "20260624-0089-qin-land-maritime-card4-soviet-china"
   ],
   "战争本体论": [
     "20260716-0040-Nordin-Oberg2015-targeting-ontology-war",
@@ -17202,6 +17735,11 @@
     "20260620-1791-欧盟在印太的航母部署面临战略自主与依附美",
     "20261030-0003-indonesia-risk-filter-relocated-reversibility"
   ],
+  "战略自主与依附美国": [
+    "20260620-1790-英国航母外交无法独立支撑印太战略承诺",
+    "20260620-1791-欧盟在印太的航母部署面临战略自主与依附美",
+    "20260627-0004-柯尔贝特海洋战略大陆延伸而非对立"
+  ],
   "战略规划与实施": [
     "20260627-0020-生成哲学弥合战略规划实施裂隙非消除而是重新定义",
     "20260701-0005-popescu-grand-strategy-vs-emergent-strategy"
@@ -17214,6 +17752,7 @@
     "20260715-0018-Hom2018-temporal-turn",
     "20260716-0027-Svitych2025-algorithms-quantum-IR",
     "20260716-0037-Kamola2020-decolonising-university",
+    "20260926-0019-erskine-norm-decay-bridge-lacanian-ai-critique",
     "20260926-0039-mcintosh-scholarly-humility-and-latent-structuralism",
     "20260928-0001-hom-timelessness-conceptual-blur",
     "20260928-0002-hom-linearity-binary-heterolinearity",
@@ -17232,7 +17771,9 @@
   "批评与临床": [
     "20260620-1722-作家不是病人而是诊断世界的医生",
     "20260620-1725-斯宾诺莎伦理学的三大要素",
-    "20260623-1404-生成动物不是隐喻而是字面性强度修改"
+    "20260623-1404-生成动物不是隐喻而是字面性强度修改",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine"
   ],
   "抑郁位置": [
     "20260714-0002-Gellwitzki2024-Kleinian-ontological-security",
@@ -17278,6 +17819,10 @@
     "20260830-0029-芬克拉康式主体分离与对象a",
     "20260830-0052-芬克阉割经济学剩余价值与享乐流通"
   ],
+  "指标治理": [
+    "20260709-0002-evaluation-surplus-paradox",
+    "20261104-0005-surplus-production-vs-residue-abstraction-gap"
+  ],
   "探究": [
     "20260830-0004-柄谷货币无限性一般等价形态",
     "20260830-0006-柄谷精神分析对话与移情",
@@ -17316,7 +17861,8 @@
     "20260830-0065-Patton生成民主与解域政治",
     "20261029-0001-patton-practical-reason-counter-actualization",
     "20261029-0003-paradoxical-normativity-prudence-endless-evaluation",
-    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic"
+    "20261029-0004-public-right-gap-jurisprudence-becoming-democratic",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "政治学": [
     "20260622-0077-wu-quantum-turn-political-science",
@@ -17348,7 +17894,10 @@
   "斯宾诺莎": [
     "20260830-0026-Hardt德勒兹斯宾诺莎共同概念与唯物主义",
     "20260830-0074-柄谷斯宾诺莎间隙与反总体性",
-    "20260830-0075-柄谷笛卡尔怀疑与先验性批判"
+    "20260830-0075-柄谷笛卡尔怀疑与先验性批判",
+    "20261104-0001-immanence-as-practical-index-not-substance",
+    "20261104-0002-expressionism-and-constructivism-presuppose-each-other",
+    "20261104-0003-three-kinds-of-knowledge-as-immanence-machine"
   ],
   "新大地": [
     "20260727-0001-bonta-protevi-geophilosophy-new-earth-complexity",
@@ -17618,7 +18167,10 @@
     "20260926-0020-gellwitzki-post-giddensian-retains-giddens-concept",
     "20260926-0021-gellwitzki-positions-security-insecurity-regression-is-insecurity",
     "20260926-0041-solomon-temporal-decentering-future-anterior-lack",
-    "20260926-0042-solomon-origin-fantasy-nation-thing-enjoyment"
+    "20260926-0042-solomon-origin-fantasy-nation-thing-enjoyment",
+    "20261103-0003-security-as-product-coverage-generates-surplus",
+    "20261103-0007-sovereignty-intensity-declines-land-sea-discourse",
+    "20261103-0008-generative-room-as-others-leeway"
   ],
   "机器圈": [
     "20260710-0003-IR-mechanosphere-vs-hyperobject",
@@ -17855,6 +18407,7 @@
   ],
   "法律与安全条件": [
     "20260624-0077-original-batch5-event-security-law",
+    "20260624-0080-original-remaining-bridge-index",
     "20260626-1227-同一情报机构三次安全化三次结果"
   ],
   "泛安全化": [
@@ -17891,6 +18444,7 @@
     "20260620-1782-海洋与陆地的本体论差异要求国际关系理论做",
     "20260620-1811-海洋是平滑空间的地理实现航母试图将其纹理",
     "20260620-1816-国际关系理论具有系统性的陆地本体论偏见因",
+    "20260620-1817-海上装置在陆地空间的失效不是战术失误而是",
     "20260623-0004-withdrawing-semi-smooth-space-oceanic-striation-outsourcing",
     "20260623-0008-姜鹏论海陆复合型大国的战略选择提出了区域陆权全球海权和海陆并举的三分法框架",
     "20260624-0068-original-batch1-sea-power-ontology",
@@ -17960,7 +18514,9 @@
     "20260622-0056-dibb-brabin-deterrence-denial-warning",
     "20260701-0013-indo-pacific-geopolitical-construction",
     "20260703-0005-hart2026-Australia-Oceania-straits",
-    "20260715-0013-Vaha2025-AUKUS-ontological-insecurity"
+    "20260715-0013-Vaha2025-AUKUS-ontological-insecurity",
+    "20261103-0001-denial-as-adversary-uncertainty-not-attrition",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
   ],
   "灰色地带": [
     "20260620-1780-灰色地带冲突让航母的外交价值与军事风险同",
@@ -17984,6 +18540,11 @@
   "物种起源": [
     "20260624-1035-谱系树的线把生命困在点中",
     "20261010-0004-darwin-individual-difference-个体差异的问题"
+  ],
+  "物自体": [
+    "20260830-0008-Meillassoux相关主义批判",
+    "20261102-0001-welchman-post-kantian-counter-tradition-deleuze-thing-in-itself",
+    "20261102-0002-welchman-delanda-protevi-science-reading-empirically-real"
   ],
   "物质与记忆": [
     "20260805-0005-fold-duration-bergson-leibniz",
@@ -18042,7 +18603,8 @@
     "20260830-0030-Sokolowski现象学三大结构与意向性",
     "20260830-0033-Bachelard空间诗学家宅与压缩时间",
     "20260830-0100-德勒兹意识光与影像运动二元克服",
-    "20261010-0034-here-now-differential-reality-此地此时的微分实在性"
+    "20261010-0034-here-now-differential-reality-此地此时的微分实在性",
+    "20261102-0003-welchman-counter-phenomenology-phenomenology-readings-fail"
   ],
   "理性主义": [
     "20260620-1803-美国形而上学理性主义限制其理解中国战略文",
@@ -18071,6 +18633,12 @@
     "20260926-0049-hom-war-as-timing-contest-identity-as-timing-project"
   ],
   "理解战略行为": [
+    "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
+    "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
+    "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment"
+  ],
+  "理解战略行为：一个初步的分析框架": [
+    "20260624-0166-zuo-tang-strategic-behavior-card1-core-thesis",
     "20260624-0167-zuo-tang-strategic-behavior-card2-methodology-critique",
     "20260624-0168-zuo-tang-strategic-behavior-card3-international-domestic-factors",
     "20260624-0169-zuo-tang-strategic-behavior-card4-small-experiment"
@@ -18240,6 +18808,10 @@
     "20260620-1682-地图的理性化抽象是现代国家权力和资本主义",
     "20260623-1408-时空压缩是资本主义改变客观时空品质的内在"
   ],
+  "确立平面与概念": [
+    "20260623-1401-内在性平面是思维的图景而非概念",
+    "20261104-0001-immanence-as-practical-index-not-substance"
+  ],
   "社会学": [
     "20260624-0160-zhao-time-temporality-card1-core-thesis",
     "20260624-0164-zhao-time-temporality-card5-compound-time-wisdom"
@@ -18270,6 +18842,11 @@
   "福柯": [
     "20260623-1615-折叠与制图学",
     "20260830-0141-Badiou福柯域外拓扑学",
+    "20260830-0148-德勒兹福柯尼采交汇与思想战争机器"
+  ],
+  "福柯与尼采": [
+    "20260830-0053-德勒兹战争机器逃逸线与平滑空间",
+    "20260830-0132-Braidotti战争让谁存活与凝视链",
     "20260830-0148-德勒兹福柯尼采交汇与思想战争机器"
   ],
   "福柯的界线": [
@@ -18444,6 +19021,10 @@
     "20260926-0027-ralph-kleinian-thin-solidarism-collective-security",
     "20260926-0029-ralph-ukraine-application-defend-without-essentialising"
   ],
+  "联合国海洋法公约": [
+    "20260624-0154-zhang-maritime-politics-card1-core-thesis",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence"
+  ],
   "能动性": [
     "20260710-0003-IR-mechanosphere-vs-hyperobject",
     "20260926-0015-erskine-ir-agency-under-theorised-moral-threshold"
@@ -18578,6 +19159,11 @@
     "20261007-0012-fold-possible-world-sieve",
     "20261007-0013-fold-singularity-world-perspective"
   ],
+  "覆盖面积与剩余量": [
+    "20260623-0010-剩余安全的多重本体论基础少于无非全与剩余",
+    "20261103-0002-distance-recoded-as-dwell-time-forward-defence",
+    "20261103-0003-security-as-product-coverage-generates-surplus"
+  ],
   "观念、行动和结果": [
     "20260624-0013-tang-idea-action-outcome-card3-methodology-implications",
     "20260624-0113-tang-idea-action-outcome-card2-epistemology-critique"
@@ -18598,7 +19184,8 @@
     "20260624-0072-original-batch3-assemblage-territory",
     "20260713-0007-paranoid-repetition-coding-reshaping",
     "20260716-0003-Mutabdzija2022-Balkan-geophilosophy",
-    "20260716-0026-Shani2025-deterritorialising-memory"
+    "20260716-0026-Shani2025-deterritorialising-memory",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "解放框与战略框": [
     "20260926-0031-amoureux-strained-merger-liberations-strategics-racialized-speed",
@@ -18713,6 +19300,10 @@
     "20260727-0006-jacques-rosanvallon-dg-metaphysics-beyond-nature-culture",
     "20260804-0002-viveiros-clastres-politics-multiplicity",
     "20260827-0001-jacques-rosanvallon-cursus-four-ways"
+  ],
+  "跨学科": [
+    "20260706-0001-continental-philosophy-complex-science-AI-bridge-prospects",
+    "20261104-0004-milieu-of-immanence-politics-as-internal-element"
   ],
   "身于言语和真理": [
     "20260623-1410-幼年是语言的先验界限经验使语言成为真理的",

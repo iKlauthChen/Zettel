@@ -4972,5 +4972,35 @@
       "drafts/2026-09-27-预测的时间地基-从纸上谈兵到未来封闭-研究综述.md",
       "drafts/2026-09-29-从预测世界到生产未来-反身耦合与生成本体论.md"
     ]
+  },
+  {
+    "cluster_id": "manual-distance-two-accountings",
+    "view": "draft",
+    "members": [
+      "20261103-0002-distance-recoded-as-dwell-time-forward-defence",
+      "20261103-0003-security-as-product-coverage-generates-surplus",
+      "20261103-0004-circle-on-map-area-versus-volume-and-duration",
+      "20261103-0005-distance-as-inclusion-of-others-problems",
+      "20261103-0006-two-directions-one-accounting-expansion-vs-inclusion",
+      "20261103-0007-sovereignty-intensity-declines-land-sea-discourse",
+      "20261103-0008-generative-room-as-others-leeway"
+    ],
+    "core_tags": [
+      "剩余安全",
+      "安全空间",
+      "拒止",
+      "海洋",
+      "威慑"
+    ],
+    "kind": "manual",
+    "status": "draft",
+    "suggested_title": "距离的两种计价：安全覆盖为何越扩越不安全",
+    "gaps": [
+      "主权烈度已获层级代理（领土>海洋>话语），仍缺跨层比较的刻度",
+      "生成空间已定义为「他人的余地」并推出反向曲线；原拟的词密度测量因不可证伪已撤（2026-11-04），不再作为证据引用",
+      "话语层的撤回机制（去安全化）只点了一句；引用需回 Buzan & Wæver 原书"
+    ],
+    "produced_article": "drafts/2026-11-03-距离的两种计价-安全覆盖为何越扩越不安全.md",
+    "detected_at": "2026-11-03T22:12:35.008289+08:00"
   }
 ]
