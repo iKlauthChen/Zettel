@@ -4,7 +4,10 @@ status: permanent
 created: 2026-07-14T15:20:00+0800
 source: {type: article, ref: "Rosenberg, Justin, et al. 'Debating Uneven and Combined Development / Debating International Relations: A Forum.' Millennium: Journal of International Studies 50.2 (2022): 292–322."}
 tags: [不均衡与组合发展, 国际关系理论, 全球历史社会学, 现实主义, 去殖民, 葛兰西, 生态, 方法论]
-links: []
+links:
+  - {id: 20260714-0010, reason: "后续文本：同一 UCD 论证的推进——把“社会多重性”立为 IR 的独立对象，并在判断段把交互因果性直接接到安全的生产轨道"}
+  - {id: 20260623-0010, reason: "判断要接的理论落点：剩余安全的多重本体论基础；本卡所说的“非精神分析的分析词汇”与它构成互补"}
+  - {id: 20260622-0039, reason: "交互因果性在安全领域的既有版本：秦立志的螺旋模式已指出安全困境不能被化约为单向因果"}
 voice_passed: true
 aliases: ["Rosenberg UCD forum 2022", "不均衡与组合发展辩论"]
 ---
@@ -25,4 +28,6 @@ UCD 论坛的理论位置微妙：它既不是像沃尔兹结构现实主义那�
 
 ## 相关卡片
 
-（卡簇直出：未关联已有卡片——UCD 论坛是安全理论之外的理论辩论。需要时添加。）
+- [[20260714-0010-Rosenberg2016-IR-prison-political-science|Rosenberg 2016：IR 在政治学的监狱中]] — 后续文本：同一 UCD 论证的推进，把「社会多重性」立为 IR 的独立对象，并在判断段把交互因果性直接接到安全的生产轨道
+- [[20260623-0010-剩余安全的多重本体论基础少于无非全与剩余|剩余安全的多重本体论基础]] — 判断要接的理论落点：本卡所说的「非精神分析的分析词汇」与它构成互补
+- [[20260622-0039-秦立志论大国博弈的螺旋模式安全困境的时空维度和有限理性|安全困境的螺旋模式]] — 交互因果性在安全领域的既有版本：秦立志已指出安全困境不能被化约为单向因果

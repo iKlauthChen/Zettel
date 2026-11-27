@@ -4385,6 +4385,7 @@
       "20260623-0009-左希迎和唐世平论理解战略行为框架战略评估决策动员执行四阶段刘慧将复杂系统引入IR",
       "20260627-0003-净评估三类元素已知可能未知",
       "20260713-0003-Mitzen2006-ontological-security-routines",
+      "20260714-0008-Rosenberg2022-UCD-forum",
       "20260721-0003-Womack-command-credibility-vs-leadership",
       "20260807-0002-regeneration-cycle-mission-duration-criterion",
       "20260808-0002-virilio-speed-politics-dromology-regen-criterion"
@@ -6131,6 +6132,7 @@
       "20260621-0505-虚空-实在界-内在性平面三层本体论辨析框架",
       "20260623-0003-航母作为本体论安全装置国家的海洋大国身份叙事通过航母的物质化展演來修补",
       "20260623-0010-剩余安全的多重本体论基础少于无非全与剩余",
+      "20260714-0010-Rosenberg2016-IR-prison-political-science",
       "20261103-0002-distance-recoded-as-dwell-time-forward-defence",
       "20261103-0004-circle-on-map-area-versus-volume-and-duration",
       "20261103-0006-two-directions-one-accounting-expansion-vs-inclusion",
@@ -8214,6 +8216,7 @@
       "20260623-2304-柏拉图理念的唯物主义翻转",
       "20260623-2305-经过拉康之后的政治",
       "20260704-0001-Zevnik未走之路从虚空安全到剩余安全的理论取舍与互补",
+      "20260714-0008-Rosenberg2022-UCD-forum",
       "20260812-0001-habibi-space-production-right-to-the-city",
       "20260926-0014-cash-misrecognition-decentered-subject",
       "20260926-0019-erskine-norm-decay-bridge-lacanian-ai-critique",
@@ -14269,19 +14272,25 @@
       "20260716-0038-Vieira2018-Brazil-ontological-security"
     ]
   },
-  "20260714-0008-Rosenberg2022-UCD-forum": {
-    "out": [],
-    "in": [
-      "20260714-0010-Rosenberg2016-IR-prison-political-science"
-    ]
-  },
   "20260714-0010-Rosenberg2016-IR-prison-political-science": {
     "out": [
       "20260714-0008-Rosenberg2022-UCD-forum",
-      "20260716-0042-Michel2013-one-world-not-enough"
+      "20260716-0042-Michel2013-one-world-not-enough",
+      "20261103-0003-security-as-product-coverage-generates-surplus"
     ],
     "in": [
+      "20260714-0008-Rosenberg2022-UCD-forum",
       "20260805-0002-experimental-metaphysics-ventriloquism-criterion"
+    ]
+  },
+  "20260714-0008-Rosenberg2022-UCD-forum": {
+    "out": [
+      "20260714-0010-Rosenberg2016-IR-prison-political-science",
+      "20260623-0010-剩余安全的多重本体论基础少于无非全与剩余",
+      "20260622-0039-秦立志论大国博弈的螺旋模式安全困境的时空维度和有限理性"
+    ],
+    "in": [
+      "20260714-0010-Rosenberg2016-IR-prison-political-science"
     ]
   },
   "20260716-0042-Michel2013-one-world-not-enough": {
