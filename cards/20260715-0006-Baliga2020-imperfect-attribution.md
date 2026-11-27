@@ -4,7 +4,11 @@ status: permanent
 created: 2026-07-15T12:40:00+0800
 source: {type: article, ref: "Baliga, Sandeep, Ethan Bueno de Mesquita, and Alexander Wolitzky. 'Deterrence with Imperfect Attribution.' American Political Science Review 114.4 (2020): 1155–1169."}
 tags: [威慑, 归因, 网络战, 战略互补, 承诺, 博弈论]
-links: []
+links:
+  - {id: 20260715-0005, reason: "共享的\"信息过剩→不安全\"逻辑：AI眩光↔归因迷雾"}
+  - {id: 20260715-0010, reason: "实验证据：增加信息未能降低威胁感知"}
+  - {id: 20260715-0009, reason: "同批对照：同为理性主义形式模型，一个解释归因不完全下的战略互补，一个解释军控为何罕见"}
+  - {id: 20261022-0001, reason: "应用侧：刀战的判据落在归因，本卡的噪声归因信号是它的形式化版本"}
 voice_passed: true
 aliases: ["Baliga 2020 imperfect attribution", "不完美归因下的威慑"]
 ---
@@ -27,3 +31,5 @@ Baliga 等人（2020）以网络战为经验动机构建了一个形式模型：
 
 - [[20260715-0005-Johnson2022-inadvertent-escalation-AI|Johnson的AI升级]] — 共享的"信息过剩→不安全"逻辑：AI眩光↔归因迷雾
 - [[20260715-0010-Bell-Quek2026-intractable-dilemma|Bell-Quek的不可药救困境]] — 实验证据：增加信息未能降低威胁感知
+- [[20260715-0009-Coe-Vaynman2020-rare-arms-control|Coe-Vaynman 2020 rare arms control]] — 同批对照：同为理性主义形式模型，一个解释归因不完全下的战略互补，一个解释军控为何罕见
+- [[20261022-0001-knife-fight-attribution-deterrence-medium|刀战的判据在归因]] — 应用侧：刀战的判据落在归因，本卡的噪声归因信号是它的形式化版本

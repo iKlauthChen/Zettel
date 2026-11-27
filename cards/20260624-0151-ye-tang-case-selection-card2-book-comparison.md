@@ -1,9 +1,16 @@
 ---
+source: {type: article, ref: "叶成城、唐世平《基于因果机制的案例选择方法》，《世界经济与政治》2019年第10期，第40—44页。", page: "40–44"}
 tags: [ye, 案例, 机制, 选择, 卡波奇, 负面, 拉特, 齐勃, 联邦制]
+aliases: ["两本著作的案例选择比较"]
 id: 20260624-0151-ye-tang-case-selection-card2-book-comparison
 status: permanent
 created: 2026-06-24T16:12:30+0800
 description: 叶成城唐世平2019两本著作案例比较——齐勃拉特因素导向vs卡波奇机制导向
+links:
+  - {id: 20260624-0150, reason: "系列内互链"}
+  - {id: 20260624-0153, reason: "同批桥接卡：把案例选择方法论定位在唐世平的谱系中"}
+  - {id: 20260624-0152, reason: "同批优势卡：本文比较的四种路径在机制层面的差别"}
+voice_passed: false
 ---
 # 两本著作的案例选择比较
 
@@ -75,3 +82,5 @@ description: 叶成城唐世平2019两本著作案例比较——齐勃拉特因
 ## 相关卡片
 
 - [[20260624-0150-ye-tang-case-selection-card1-core-thesis|卡1：核心论题]] — 系列内互链
+- [[20260624-0153-ye-tang-case-selection-card4-bridge|ye-tang-case-selection-card4-bridge]] — 同批桥接卡：把案例选择方法论定位在唐世平的谱系中
+- [[20260624-0152-ye-tang-case-selection-card3-advantages|基于因果机制的案例选择的四大理论优势]] — 同批优势卡：本文比较的四种路径在机制层面的差别

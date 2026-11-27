@@ -4,7 +4,10 @@ status: permanent
 created: 2026-07-16T10:20:00+0800
 source: {type: article, ref: "Smith, Daniel W. 'The Concept of Sense in Gilles Deleuze's Logic of Sense.' Deleuze and Guattari Studies 16.1 (2022): 30–53."}
 tags: [德勒兹, 意义, 无意义, 语言, 表层, 深度, 卡罗尔, 阿尔托]
-links: []
+links:
+  - {id: 20260716-0008, reason: "意义的三种综合与悖论的生成威力：共同构建了事件/意义的形而上学"}
+  - {id: 20260716-0010, reason: "非物体性在最原初感知层的介入：Artaud的嘶吼 = Uno的haptic时间"}
+  - {id: 20260703-0019, reason: "Artaud式非-意义在安全域中的表现：不可被话语收编的剩余"}
 voice_passed: true
 aliases: ["Smith 2022 Deleuze sense", "意义的逻辑——三种语言秩序"]
 ---
@@ -28,3 +31,4 @@ Smith 对两种"无意义"的区分是我在剩余安全理论中可以使用的
 - [[20260716-0008-Sholtz2020-paradox-quasi-cause|Sholtz的悖论准因果]] — 意义的三种综合与悖论的生成威力：共同构建了事件/意义的形而上学
 - [[20260716-0010-Uno2018-war-of-perception|Uno的感知战争]] — 非物体性在最原初感知层的介入：Artaud的嘶吼 = Uno的haptic时间
 - [[20260703-0019-Zevnik2018-symptom-fantasy-Guantanamo|Zevnik的症候分析]] — Artaud式非-意义在安全域中的表现：不可被话语收编的剩余
+

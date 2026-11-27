@@ -4,7 +4,11 @@ status: permanent
 created: 2026-07-16T16:00:00+0800
 source: {type: article, ref: "Cisney, Vernon W. 'The Writer is a Sorcerer: Literature and the Becomings of A Thousand Plateaus.' Deleuze and Guattari Studies 14.3 (2020): 421–444."}
 tags: [德勒兹, 加塔利, 生成, 文学, 巫师, 写作]
-links: []
+links:
+  - {id: 20260716-0002, reason: "巫师式写作是第三种语言秩序（深度Artaud层）的操作方式"}
+  - {id: 20260716-0004, reason: "文本作为生成机器 = 装配在思想空间中的创造"}
+  - {id: 20260716-0009, reason: "巫师式写作就是对当下的抵抗——游牧在文本中的操作"}
+  - {id: 20260620-1621, reason: "同一命题的文学侧：生成-动物是穿越形式抵达强度的逃逸线，本卡的「写作者是巫师」说的是写作为何也是一次真实的生成"}
 voice_passed: true
 aliases: ["Cisney 2020 writer sorcerer", "写作者是巫师——真实的生成"]
 ---
@@ -24,3 +28,4 @@ Cisney（2020）追踪了《千高原》第十高原中最著名却常被误解�
 - [[20260716-0002-Smith2022-Deleuze-sense|Smith的意义与非-意义]] — 巫师式写作是第三种语言秩序（深度Artaud层）的操作方式
 - [[20260716-0004-Abrahams2025-assemblage-geography|Abrahams的装配地理学]] — 文本作为生成机器 = 装配在思想空间中的创造
 - [[20260716-0009-Villani2019-Deleuze-nomadism|Villani的游牧哲学]] — 巫师式写作就是对当下的抵抗——游牧在文本中的操作
+- [[20260620-1621-生成|生成-动物不是隐喻而是穿越形式抵达纯粹强度的逃逸线]] — 同一命题的文学侧：生成-动物是穿越形式抵达强度的逃逸线，本卡的「写作者是巫师」说的是写作为何也是一次真实的生成

@@ -1,12 +1,23 @@
 ---
-tags: [deleuze, DG, 复杂性, ATP, DeLanda, Guattari, 精神分析, 卡片, 解读, 区分]
+source: {type: multiple, ref: "Ingest：Bonta & Protevi (2004), Deleuze and Geophilosophy: A Guide and Glossary 全文切卡，产出 17 张 permanent note（清单见卡内）"}
+tags: [deleuze, DG, 复杂性, ATP, delanda, guattari, 精神分析, 卡片, 解读, 区分]
+aliases: ["Bonta & Protevi (2004) Deleuze and Geophil"]
 id: 20260621-0016-deleuze-geophilosophy-ingest
 status: permanent
 created: 2026-06-21T12:43:59+0800
 description: Bonta & Protevi (2004) Deleuze and Geophilosophy 已切17张原子卡
+links:
+  - {id: 20260621-0453, reason: "同一 ingest 产出的书评卡：对同一本书的系统评估（术语系统性最佳、两个代价）"}
+  - {id: 20260814-0002, reason: "同一 ingest 产出的对位卡：DG 与复杂性理论的完整映射（吸引子＝虚拟、分岔＝逃逸线）"}
+voice_passed: false
 ---
 2026-06-21 从 Bonta & Protevi (2004) 《Deleuze and Geophilosophy: A Guide and Glossary》PDF 中提取全文并切卡，产出 17 张 permanent note，覆盖地理哲学整体框架、复杂性理论/混沌理论区分、虚拟/现实本体论、事件与逃逸线、抽象机器三层含义、涌现与互反因果性、分层 vs 一致性、流动的连接与缀接、无器官身体（AO→ATP概念演进）、面孔性、迭奏曲三极操作、DeLanda 尺度分析、register/level 区分、Olancho 案例，以及全书评估与局限。
 
 **Why:** 此书是 DG 复杂性理论解读的操作手册，词汇表部分（Part II, pp. 47-167）是 ATP 术语最佳英文导读之一，核心论点是 DG 以复杂性理论消解了结构/能动性困境。
 
 **How to apply:** 卡片间已建立概念网络。注意本书过度依赖 DeLanda 的物理主义解读，淡化了 Guattari 的精神分析根基和激进政治面向；与 Segovia (2024) Guattari beyond Deleuze 卡片群形成"科学 DG"与"精神分析 DG"的张力。
+
+## 相关卡片
+
+- [[20260621-0453-BontaProtevi这本书的独特贡献是把DG地理哲学从隐喻变为可操作的分析框架但其过度依赖DeLanda解读是一个局限|Bonta 和 Protevi 的书是迄今最系统的 DG 地理哲学操作手册]] — 同一 ingest 产出的书评卡：对同一本书的系统评估（术语系统性最佳、两个代价）
+- [[20260814-0002-dg-complexity-correspondence-attractor-virtual-bifurcation|DG与复杂性理论的对位：吸引子=虚拟、分岔=逃逸线]] — 同一 ingest 产出的对位卡：DG 与复杂性理论的完整映射（吸引子＝虚拟、分岔＝逃逸线）

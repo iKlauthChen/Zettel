@@ -4,7 +4,10 @@ status: permanent
 created: 2026-07-15T13:40:00+0800
 source: {type: article, ref: "Coe, Andrew J., and Jane Vaynman. 'Why Arms Control Is So Rare.' American Political Science Review 114.2 (2020): 342–355."}
 tags: [军备控制, 承诺问题, 监督成本, 权力转移, 博弈论]
-links: []
+links:
+  - {id: 20260715-0010, reason: "相似的\"不可缓解\"结论，来自实验而非形式模型"}
+  - {id: 20260715-0008, reason: "仪式取代理性计算：同一问题的另一端"}
+  - {id: 20260715-0006, reason: "同批对照：承诺问题两文共用，本文把它列为军控的三大障碍之一"}
 voice_passed: true
 aliases: ["Coe-Vaynman 2020 rare arms control", "军备控制为何罕见"]
 ---
@@ -27,3 +30,4 @@ Coe & Vaynman 提供了一个来自理性主义内部的、对军控"不可能�
 
 - [[20260715-0010-Bell-Quek2026-intractable-dilemma|Bell-Quek的不可药救困境]] — 相似的"不可缓解"结论，来自实验而非形式模型
 - [[20260715-0008-Malksoo2021-ritual-deterrence|Mälksoo的仪式威慑]] — 仪式取代理性计算：同一问题的另一端
+- [[20260715-0006-Baliga2020-imperfect-attribution|Baliga 2020 imperfect attribution]] — 同批对照：承诺问题两文共用，本文把它列为军控的三大障碍之一

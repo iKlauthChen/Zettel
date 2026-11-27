@@ -1,9 +1,15 @@
 ---
-tags: [brooks, 战略, 海军, 苏联, 战争, 航母, 战区, SSBN, 威慑]
+tags: [Brooks, 战略, 海军, 苏联, 战争, 航母, 战区, SSBN, 威慑]
+aliases: ["海军力量与国家安全：美国海洋战略"]
 id: 20260624-0012-brooks-maritime-strategy-card1-core
 status: permanent
 created: 2026-06-24T16:33:14+0800
 description: Brooks1986海军力量与国家安全——美国海洋战略的冷战逻辑
+links:
+  - {id: 20260624-0067, reason: "对照：海军扩张的驱动力落在内部政治，与本卡的战略理性论证相反"}
+  - {id: 20260624-0065, reason: "同簇：大国海军战略比较，本卡提供美国官方立场的一手版本"}
+voice_passed: false
+source: {type: article, ref: "Linton F. Brooks, 'Naval Power and National Security: The Case for the Maritime Strategy,' *International Security* 11:2 (Fall 1986), pp. 58–88.", page: "pp. 58–88"}
 ---
 # 海军力量与国家安全：美国海洋战略
 
@@ -62,3 +68,8 @@ Brooks（1986）中阐述的海洋战略的核心逻辑——**前沿部署、�
 **Why:** Brooks的文章提供了美国海军在冷战高峰期如何思考"海权 vs 陆权"问题的第一手官方观点。它不是地缘政治理论，而是**将地缘政治理论（马汉/麦金德/斯皮克曼）转化为可操作的国防战略**的实践文本。"战争终止杠杆"通过威胁战略核资产来获得谈判筹码的思路，在当时的战略研究中是一个创新——事后看也为理解核威慑的"第三轨"提供了文本。
 
 **How to apply:** 在分析当代大国海上竞争（如中美）时，Brooks的核心逻辑——**海军战略不是独立的，而是国家大战略的海上组成部分**——仍然适用。但苏联案例中的许多假设（苏联海军的防御性堡垒化、苏联对单战区的偏好、北约一体化）在中国案例中并不自动成立。
+
+## 相关卡片
+
+- [[20260624-0067-original-batch1-naval-politics|海军政治学]] — 对照：海军扩张的驱动力落在内部政治，与本卡的战略理性论证相反
+- [[20260624-0065-original-batch1-great-power-naval-strategy|大国海军战略比较]] — 同簇：大国海军战略比较，本卡提供美国官方立场的一手版本

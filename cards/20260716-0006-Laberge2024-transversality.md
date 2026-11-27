@@ -4,7 +4,10 @@ status: permanent
 created: 2026-07-16T11:40:00+0800
 source: {type: article, ref: "Laberge, Yves. 'Transversality, or How Not to Reproduce the Organisations You Fight.' Deleuze and Guattari Studies 18.3 (2024): 398–420."}
 tags: [加塔利, 横贯性, 主体群, 列宁式切割, 战争机器, 表述]
-links: []
+links:
+  - {id: 20260716-0019, reason: "横贯性是战争机器\"去国家化\"的组织内核"}
+  - {id: 20260716-0009, reason: "横贯性是游牧战争机器的组织原则"}
+  - {id: 20260716-0007, reason: "横贯性提供了逃逸线不被自我毁灭的安全网"}
 voice_passed: true
 aliases: ["Laberge 2024 transversality", "如何不复制你所对抗的组织"]
 ---
@@ -26,3 +29,4 @@ Laberge（2024）对加塔利最核心的概念——**横贯性**（transversal
 - [[20260716-0019-Deuchars2010-war-machine-resistance|Deuchars的战争机器]] — 横贯性是战争机器"去国家化"的组织内核
 - [[20260716-0009-Villani2019-Deleuze-nomadism|Villani的游牧哲学]] — 横贯性是游牧战争机器的组织原则
 - [[20260716-0007-Thornton2020-line-of-flight|Thornton的逃逸线]] — 横贯性提供了逃逸线不被自我毁灭的安全网
+

@@ -1,17 +1,16 @@
 ---
-name: state-superposition-concept-trace
 id: 20260624-0110-state-superposition-concept-trace
+status: permanent
 created: 2026-06-24T18:00:00+0800
-tags: [state-superposition, bridge, concept-trace, quantum, Deleuze]
-metadata: 
-  node_type: memory
-  originSessionId: f66e027d-459e-4d76-be71-85d4f432ebd3
----
+source: {type: multiple, ref: "综合卡：跨卡片盒的概念谱系追踪；起点为张景全《区域化与安全化悖论及其视域下的周边安全》（《南洋问题研究》2018 年第 1 期，第 20—31 页）"}
+tags: [state-superposition, bridge, concept-trace, quantum, deleuze]
 links:
-  - {id: 20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation, reason: "区域化与安全化悖论——态叠加作为安全化第四机制的直接来源"}
-  - {id: 20260623-2303-量子物理与两虚空论, reason: "量子物理与两虚空论——'态叠加'概念的物理学资源"}
-  - {id: 20260624-0075-original-batch4-surplus-security, reason: "剩余安全——态叠加的不可判定性与安全的剩余结构共享形式"}
-
+  - {id: 20260624-0159, reason: "区域化与安全化悖论——态叠加作为安全化第四机制的直接来源"}
+  - {id: 20260623-2303, reason: "量子物理与两虚空论——'态叠加'概念的物理学资源"}
+  - {id: 20260624-0075, reason: "剩余安全——态叠加的不可判定性与安全的剩余结构共享形式"}
+voice_passed: false
+aliases: ["态叠加概念跨卡片盒谱系追踪"]
+---
 # "态叠加"概念跨卡片盒谱系追踪
 
 **追踪起点**：张景全《区域化与安全化悖论及其视域下的周边安全》（2018）
@@ -183,3 +182,9 @@ links:
 - [[20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation|区域化与安全化悖论]] — 态叠加概念的出处对话
 - [[20260623-2303-量子物理与两虚空论|量子物理与两虚空论]] — 态叠加概念的物理学资源
 - [[20260624-0075-original-batch4-surplus-security|剩余安全]] — 态叠加的不可判定性与剩余结构共享形式
+
+## 相关卡片
+
+- [[20260624-0159-zhang-wu-regionalization-paradox-2017-card1-foundation|区域化与安全化悖论——首创论文]] — 区域化与安全化悖论——态叠加作为安全化第四机制的直接来源
+- [[20260623-2303-量子物理与两虚空论|量子物理与两虚空论：Žižek 的唯物主义本体论的物理学基础]] — 量子物理与两虚空论——'态叠加'概念的物理学资源
+- [[20260624-0075-original-batch4-surplus-security|剩余作为跨域理论模型]] — 剩余安全——态叠加的不可判定性与安全的剩余结构共享形式

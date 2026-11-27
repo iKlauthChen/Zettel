@@ -4,7 +4,11 @@ status: permanent
 created: 2026-07-15T14:00:00+0800
 source: {type: article, ref: "Bell, Mark S., and Kai Quek. 'How Intractable is Security Dilemma Thinking?' International Organization 80.1 (2026): 1–36."}
 tags: [安全困境, 实验, 威胁感知, 中美, 攻防区分, 相互依赖, 核武器]
-links: []
+links:
+  - {id: 20260715-0009, reason: "相似的\"不可缓解\"结论，来自形式模型"}
+  - {id: 20260715-0003, reason: "信号实验与调查实验：两个方法论的经验对齐"}
+  - {id: 20260715-0002, reason: "同理心被建议为另一条缓解路线——但这些实验表明其范围有结构性限制"}
+  - {id: 20260715-0011, reason: "同批：把安全困境延伸到数字领域的那一篇"}
 voice_passed: true
 aliases: ["Bell-Quek 2026 intractable security dilemma", "安全困境的不可救药——实验证据"]
 ---
@@ -28,3 +32,4 @@ Bell & Quek 完成了安全困境研究的一个方法论的里程碑：将"安�
 - [[20260715-0009-Coe-Vaynman2020-rare-arms-control|Coe-Vaynman的军控罕见]] — 相似的"不可缓解"结论，来自形式模型
 - [[20260715-0003-Yoder-Haynes2021-signaling-experiment|Yoder-Haynes的信号实验]] — 信号实验与调查实验：两个方法论的经验对齐
 - [[20260715-0002-Baker2019-empathy-security-dilemma|Baker的同理心]] — 同理心被建议为另一条缓解路线——但这些实验表明其范围有结构性限制
+- [[20260715-0011-Wang2025-digital-security-dilemma|Wang 2025 digital security dilemma]] — 同批：把安全困境延伸到数字领域的那一篇

@@ -1,9 +1,16 @@
 ---
+source: {type: article, ref: "叶成城、唐世平《基于因果机制的案例选择方法》，《世界经济与政治》2019年第10期，第44—47页。", page: "44–47"}
 tags: [ye, 案例, 效度, 机制, 因果, 时空, 选择, 优势, 负面, p.46]
+aliases: ["基于因果机制的案例选择的四大理论优势"]
 id: 20260624-0152-ye-tang-case-selection-card3-advantages
 status: permanent
 created: 2026-06-24T16:12:40+0800
 description: 叶成城唐世平2019基于因果机制案例选择的四大理论优势
+links:
+  - {id: 20260624-0150, reason: "系列内互链"}
+  - {id: 20260624-0153, reason: "同批桥接卡：把四大优势放回方法论谱系"}
+  - {id: 20260624-0151, reason: "同批比较卡：优势是在与因素式案例选择的对比中成立的"}
+voice_passed: false
 ---
 # 基于因果机制的案例选择的四大理论优势
 
@@ -70,3 +77,5 @@ description: 叶成城唐世平2019基于因果机制案例选择的四大理论
 ## 相关卡片
 
 - [[20260624-0150-ye-tang-case-selection-card1-core-thesis|卡1：核心论题]] — 系列内互链
+- [[20260624-0153-ye-tang-case-selection-card4-bridge|ye-tang-case-selection-card4-bridge]] — 同批桥接卡：把四大优势放回方法论谱系
+- [[20260624-0151-ye-tang-case-selection-card2-book-comparison|两本著作的案例选择比较]] — 同批比较卡：优势是在与因素式案例选择的对比中成立的

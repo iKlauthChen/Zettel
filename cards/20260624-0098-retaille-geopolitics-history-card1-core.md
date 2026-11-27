@@ -1,9 +1,15 @@
 ---
+source: {type: article, ref: "Retaillé, Denis. \"Geopolitics in History.\" Geopolitics 5:2 (2000): 35–51. Originally published in French in Espaces Temps 68-69-70 (1998).", page: "35–51"}
 tags: [retaille, 地缘, 模型, 普世, 国家, 话语, 历史, 再现, 对立, Models]
+aliases: ["历史中的地缘政治"]
 id: 20260624-0098-retaille-geopolitics-history-card1-core
 status: permanent
 created: 2026-06-24T16:31:38+0800
 description: Retaillé2000历史中的地缘政治——三种模型家族(帝国/国家/普世)与自我实现过程
+links:
+  - {id: 20260624-0099, reason: "同批桥接卡：把 Retaillé 定位在法国地缘政治学传统中"}
+  - {id: 20260624-0057, reason: "同一谱系上的另一节点：Kjellén 地缘政治学的当代回响"}
+voice_passed: false
 ---
 # 历史中的地缘政治
 
@@ -86,3 +92,8 @@ description: Retaillé2000历史中的地缘政治——三种模型家族(帝�
 **Why:** 本文提供了一个与英美德传统不同的**法国视角**的地缘政治思想史。三种模型家族的划分（帝国/国家/普世）不同于马丁·怀特的IR三传统——它更侧重于**空间再现**而非伦理/安全。而"自我实现"机制（模型不仅描述世界，还构建世界）与建构主义IR的核心关切形成呼应。
 
 **How to apply:** 在分析任何地缘政治话语时，先判断其属于哪个模型家族——帝国主义话语（权力/霸权）、国家主义话语（身份/领土）、普世主义话语（价值观/文明）；然后用"自我实现"机制追问：这一话语如何通过塑造行为者的预期和行动，使它所描述的"现实"成为现实？
+
+## 相关卡片
+
+- [[20260624-0099-retaille-geopolitics-history-card2-bridge|retaille-geopolitics-history-card2-bridg]] — 同批桥接卡：把 Retaillé 定位在法国地缘政治学传统中
+- [[20260624-0057-marklund-kjellen-geopolitics-soft-power-card2-bridge|marklund-kjellen-geopolitics-soft-power-]] — 同一谱系上的另一节点：Kjellén 地缘政治学的当代回响

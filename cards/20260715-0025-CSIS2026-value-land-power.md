@@ -4,7 +4,12 @@ status: permanent
 created: 2026-07-15T19:00:00+0800
 source: {type: article, ref: "McGinn, Jerry, J.P. Gresh, and Alek Jovovic. 'The Value of U.S. Land Power.' CSIS Project on the Future of Land Power, Working Paper No. 1, July 2026."}
 tags: [美国陆军, 陆权, 海权, 印太, 远征, 多领域, 岸对海]
-links: []
+links:
+  - {id: 20260715-0021, reason: "印太竞争节奏变化的制度后果：陆军的身份危机 → 多领域转型"}
+  - {id: 20260715-0013, reason: "核潜艇 = 澳洲陆军转型为岸基海军的另一面"}
+  - {id: 20260716-0019, reason: "陆军-海军的网络化 = 去国家化的战争机器配置"}
+  - {id: 20260624-0031, reason: "正面对照：姜鹏称海权为「决定性战略砝码」，本卡论证决定性的兵种是陆权——只有地面部队能夺取并持有领土"}
+  - {id: 20260624-0086, reason: "同一问题的另一层：陆海复合型国家的战略转型"}
 voice_passed: true
 aliases: ["CSIS 2026 value of land power", "美国海洋强国中的陆军地位"]
 ---
@@ -28,3 +33,5 @@ CSIS（2026）的这篇工作论文为"陆权的价值"提供了一个系统论�
 - [[20260715-0021-Cao-Dejun2023-strategic-rhythm|曹德军的战略节奏]] — 印太竞争节奏变化的制度后果：陆军的身份危机 → 多领域转型
 - [[20260715-0013-Vaha2025-AUKUS-ontological-insecurity|太平洋岛国的AUKUS]] — 核潜艇 = 澳洲陆军转型为岸基海军的另一面
 - [[20260716-0019-Deuchars2010-war-machine-resistance|Deuchars的战争机器]] — 陆军-海军的网络化 = 去国家化的战争机器配置
+- [[20260624-0031-jiang-land-sea-strategy-card2-alliance-mechanism|海权作为决定性战略砝码]] — 正面对照：姜鹏称海权为「决定性战略砝码」，本卡论证决定性的兵种是陆权——只有地面部队能夺取并持有领土
+- [[20260624-0086-qin-land-maritime-card1-core-thesis|陆海复合型国家战略转型]] — 同一问题的另一层：陆海复合型国家的战略转型

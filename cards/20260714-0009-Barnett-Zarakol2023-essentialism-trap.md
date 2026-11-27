@@ -4,7 +4,9 @@ status: permanent
 created: 2026-07-14T15:40:00+0800
 source: {type: article, ref: "Barnett, Michael, and Ayşe Zarakol. 'Global international relations and the essentialism trap.' International Theory 15.3 (2023): 428–444."}
 tags: [全球国际关系, 本质主义陷阱, 关系主义, 全球史, 学科批判]
-links: []
+links:
+  - {id: 20260926-0004, reason: "该卡已回指本文：中英关系主义对话把争点从位置／过程转向关系形态，正是对本质主义陷阱的回应"}
+  - {id: 20260714-0010, reason: "同一学科批判簇：Rosenberg 把 IR 的虚弱归到制度位置，本文把全球 IR 的陷阱归到本质主义"}
 voice_passed: true
 aliases: ["Barnett-Zarakol 2023 essentialism trap", "全球IR的本质主义陷阱"]
 ---
@@ -26,3 +28,5 @@ Barnett & Zarakol（2023）对全球IR项目提出了一个友好但尖锐的批
 ## 相关卡片
 
 (暂无——理论批评工具，未直接接触安全卡组。后续需要时桥接。)
+- [[20260926-0004-jackson-nexon-modalities-of-relations-china-dialogue|中英关系主义对话的错位：争点从位置/过程转向关系形态]] — 该卡已回指本文：中英关系主义对话把争点从位置／过程转向关系形态，正是对本质主义陷阱的回应
+- [[20260714-0010-Rosenberg2016-IR-prison-political-science|Rosenberg 2016 IR prison of political sc]] — 同一学科批判簇：Rosenberg 把 IR 的虚弱归到制度位置，本文把全球 IR 的陷阱归到本质主义

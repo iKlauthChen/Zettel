@@ -4,7 +4,11 @@ status: permanent
 created: 2026-07-15T15:20:00+0800
 source: {type: article, ref: "Adamsky, Dmitry (Dima). 'Quo Vadis, Russian Deterrence? Strategic Culture and Coercion Innovations.' International Security 49.4 (2025): 49–99."}
 tags: [俄罗斯, 威慑, 战略文化, 胁迫, 乌克兰, 核战略]
-links: []
+links:
+  - {id: 20260715-0010, reason: "共享的\"理论被经验检验\"的逻辑：调查实验↔实战检验"}
+  - {id: 20260715-0008, reason: "威慑不是计算而是仪式——Adamsky提供了这一命题的经验案例"}
+  - {id: 20260620-1796, reason: "同一变量的另一侧：武器的威胁程度取决于嵌入的战略文化，本卡以战略文化解释俄罗斯的威慑创新"}
+  - {id: 20260620-1803, reason: "对照：战略文化作为认识障碍（美国读不懂中国），本卡用同一变量解释俄罗斯的自我理解"}
 voice_passed: true
 aliases: ["Adamsky 2025 Russian deterrence", "俄罗斯战略威慑的去向"]
 ---
@@ -27,3 +31,5 @@ Adamsky 提供了一个战略威慑理论在实践中接受"实时战争检验"�
 
 - [[20260715-0010-Bell-Quek2026-intractable-dilemma|Bell-Quek的实验]] — 共享的"理论被经验检验"的逻辑：调查实验↔实战检验
 - [[20260715-0008-Malksoo2021-ritual-deterrence|Mälksoo的仪式威慑]] — 威慑不是计算而是仪式——Adamsky提供了这一命题的经验案例
+- [[20260620-1796-武器的威胁程度取决于嵌入的战略文化而非技|武器的威胁程度取决于嵌入的战略文化而非技术性能]] — 同一变量的另一侧：武器的威胁程度取决于嵌入的战略文化，本卡以战略文化解释俄罗斯的威慑创新
+- [[20260620-1803-美国形而上学理性主义限制其理解中国战略文|美国形而上学理性主义限制其理解中国战略文化的能力]] — 对照：战略文化作为认识障碍（美国读不懂中国），本卡用同一变量解释俄罗斯的自我理解

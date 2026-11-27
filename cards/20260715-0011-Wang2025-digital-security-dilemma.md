@@ -4,7 +4,10 @@ status: permanent
 created: 2026-07-15T14:20:00+0800
 source: {type: article, ref: "Wang, William Zhengdong. 'Data Flows Meet Great Power Politics: The Emerging Digital Security Dilemma Between China and the US.' Journal of Cybersecurity 11.1 (2025): 1–19."}
 tags: [安全困境, 数字安全, 中美, 数据流动, 技术竞争, Web3]
-links: []
+links:
+  - {id: 20260715-0005, reason: "共享的数字时代的困境：AI眩光↔数字螺旋"}
+  - {id: 20260715-0006, reason: "共享的网络/数字层面的不安全新形态"}
+  - {id: 20260715-0010, reason: "同批：Bell-Quek 用中美调查实验检验安全困境的缓解条件，本卡是其数字领域的延伸"}
 voice_passed: true
 aliases: ["Wang 2025 digital security dilemma", "中美数字安全困境"]
 ---
@@ -27,3 +30,4 @@ Wang 将安全困境理论延伸到数字领域，揭示了传统安全困境的
 
 - [[20260715-0005-Johnson2022-inadvertent-escalation-AI|Johnson的AI升级]] — 共享的数字时代的困境：AI眩光↔数字螺旋
 - [[20260715-0006-Baliga2020-imperfect-attribution|Baliga的归因困境]] — 共享的网络/数字层面的不安全新形态
+- [[20260715-0010-Bell-Quek2026-intractable-dilemma|Bell-Quek 2026 intractable security dile]] — 同批：Bell-Quek 用中美调查实验检验安全困境的缓解条件，本卡是其数字领域的延伸
